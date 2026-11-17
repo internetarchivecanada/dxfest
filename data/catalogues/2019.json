@@ -1,0 +1,2037 @@
+{
+  "year": 2019,
+  "edition_name": "Double Exposure: Investigative Film Festival & Symposium",
+  "dates": "October 10-13, 2019",
+  "theme": null,
+  "venues": [
+    {
+      "name": "The National Archives",
+      "address": "701 Constitution Ave. N.W."
+    },
+    {
+      "name": "Naval Heritage Center",
+      "address": "701 Pennsylvania Ave. N.W."
+    },
+    {
+      "name": "National Geographic Museum",
+      "address": "1145 17th St. N.W."
+    },
+    {
+      "name": "The Eaton Hotel (Barnett-Aden Room, Beverly Snow Room, Salon, Eaton Cinema)",
+      "address": "1201 K St. N.W. (2nd. Floor)"
+    },
+    {
+      "name": "The Eaton Hotel's Crystal Room",
+      "address": "1201 K St. N.W. (1st. Floor)"
+    },
+    {
+      "name": "Dirty Habit",
+      "address": "700 F St. N.W."
+    }
+  ],
+  "films": [
+    {
+      "title": "Desert One",
+      "directors": [
+        "Barbara Kopple"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 108,
+      "premiere": "US Premiere",
+      "slot": "Opening Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2019-10-10",
+        "time": "7:00 PM",
+        "venue": "The National Archives"
+      },
+      "synopsis": "DESERT ONE uniquely blends emotion and bravado to tell the incredible tale of America’s secret mission to free the hostages of the 1979 Iranian revolution. Kopple discovers a wealth of unearthed archival sources and receives unprecedented access, engaging in intimate conversations with many of the soldiers closest to the story, some for the first time, as well as President Jimmy Carter, Vice President Walter Mondale and TV newsman Ted Koppel. Evocative new animation brings audiences closer than anyone has ever gotten to being on the inside for this history-making operation.\n\nAt a moment when tensions once again rise between the governments of Iran and the U.S., old wounds remain painfully current for many on each side who detail their recollections in DESERT ONE -- but talk of hope also emerges, that the lessons of the past might finally guide us to a better future.",
+      "after_screening": "Post-screening discussion to follow with director Barbara Kopple and film subjects: David Aaron - Carter Administration; Kevin Hermening - Hostage, U.S. Embassy Marine Guard; Captain Wade Ishimoto - U.S. Army, Delta Force; John Limbert - Hostage, U.S. Foreign Services; Michael Metrinko - Hostage, U.S. Foreign Services; Gerald Rafshoon - Carter Administration; Major James Q. Roberts - U.S. Army; Colonel Ed Seiffert - U.S. Marine Corps; Cyntia Seiffert",
+      "people": [
+        {
+          "name": "Barbara Kopple",
+          "role": "director"
+        },
+        {
+          "name": "David Aaron",
+          "role": "subject",
+          "affiliation": "Carter Administration"
+        },
+        {
+          "name": "Kevin Hermening",
+          "role": "subject",
+          "affiliation": "Hostage, U.S. Embassy Marine Guard"
+        },
+        {
+          "name": "Wade Ishimoto",
+          "role": "subject",
+          "affiliation": "Captain, U.S. Army, Delta Force"
+        },
+        {
+          "name": "John Limbert",
+          "role": "subject",
+          "affiliation": "Hostage, U.S. Foreign Services"
+        },
+        {
+          "name": "Michael Metrinko",
+          "role": "subject",
+          "affiliation": "Hostage, U.S. Foreign Services"
+        },
+        {
+          "name": "Gerald Rafshoon",
+          "role": "subject",
+          "affiliation": "Carter Administration"
+        },
+        {
+          "name": "James Q. Roberts",
+          "role": "subject",
+          "affiliation": "Major, U.S. Army"
+        },
+        {
+          "name": "Ed Seiffert",
+          "role": "subject",
+          "affiliation": "Colonel, U.S. Marine Corps"
+        },
+        {
+          "name": "Cyntia Seiffert",
+          "role": "subject"
+        }
+      ],
+      "page": 14
+    },
+    {
+      "title": "The Preppy Murder: Death in Central Park",
+      "directors": [
+        "Ricki Stern",
+        "Annie Sundberg"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 86,
+      "premiere": "World Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2019-10-11",
+        "time": "6:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "A five-part investigative documentary that revisits the infamous murder of Jennifer Levin at the hands of her prep school friend Robert Chambers in Central Park in the summer of 1986. The case became a tabloid sensation and sparked a national conversation on female sexuality, power and privilege. Award winning filmmakers Ricki Stern and Annie Sundberg take a fresh look at the case, meticulously blending a trove of archival material with contemporary interviews, in a retrospective glance marked by haunting new perspective on the case that shook a city, if not a nation.",
+      "after_screening": "The first two installments of the series will be prefaced with an introduction by the filmmakers",
+      "people": [
+        {
+          "name": "Ricki Stern",
+          "role": "director"
+        },
+        {
+          "name": "Annie Sundberg",
+          "role": "director"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "Citizen K",
+      "directors": [
+        "Alex Gibney"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 128,
+      "premiere": "DC Premiere",
+      "slot": "Centerpiece",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2019-10-11",
+        "time": "8:30 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Academy Award winning filmmaker Alex Gibney’s revelatory CITIZEN K is an intimate yet sweeping look at post-Soviet Russia from the perspective of the enigmatic Mikhail Khodorkovsky, a former oligarch turned political dissident. Benefitting from the chaos that ensued after the dissolution of the U.S.S.R., Khodorkovsky managed to amass a fortune in financing and oil production and became the richest man in Russia. Until he accused the new Putin regime of corruption. Khodorkovsky was arrested, his assets seized. Following a series of show trials, he was sentenced to more than ten years in prison. Today, as an exile living in London, he continues to denounce Putin’s two-decade stranglehold on power. Expertly researched and photographed, Gibney uses Khodorkovsky’s story as a way to explore the complex interplay between oligarchy and government and its destructive effect on democracy, in Russia and beyond.",
+      "after_screening": "Post-screening discussion to follow with director",
+      "people": [
+        {
+          "name": "Alex Gibney",
+          "role": "director"
+        }
+      ],
+      "page": 17
+    },
+    {
+      "title": "Bellingcat: Truth in a Post-Truth World",
+      "directors": [
+        "Hans Pool"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 88,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2019-10-12",
+        "time": "12:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "The film follows the revolutionary rise of the controversial “citizen investigative journalist” collective known as Bellingcat, a group of online researchers dedicated to exposing the truth of impenetrable news stories from around the world. Bellingcat’s impact is examined through the lens of its current investigations, as well as the high-profile conflicts the group has previously reported. With governments growing less reliable by the day and traditional newspapers declining in relevance and reach – how does Bellingcat, dismissed by some critics as an assortment of “armchair researchers”, attain such a prominent status in the new world order of news? The filmmaker takes us on a quest to understand the group’s innovations, challenging our concept of journalism.",
+      "after_screening": "Post-screening conversation to follow with film subjects Christiaan Triebert and Claire Wardle",
+      "people": [
+        {
+          "name": "Hans Pool",
+          "role": "director"
+        },
+        {
+          "name": "Christiaan Triebert",
+          "role": "discussant"
+        },
+        {
+          "name": "Claire Wardle",
+          "role": "discussant"
+        }
+      ],
+      "page": 18
+    },
+    {
+      "title": "Bully. Coward. Victim. The Story of Roy Cohn",
+      "directors": [
+        "Ivy Meeropol"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 98,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2019-10-12",
+        "time": "2:15 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Legendary and controversial attorney Roy Cohn was a power broker in the rough and tumble world of New York City business and politics. Senator Joseph R. McCarthy’s top counsel during investigations into Communist activities in the 1950s, Cohn is also known for being Donald Trump’s former personal lawyer, fixer and mentor.\n\nFocusing on key periods of his life, and drawing on extensive, newly unearthed archival material, director Ivy Meeropol examines the man who has both repelled and fascinated her for much of her life. Cohn, who prosecuted her grandparents, Julius and Ethel Rosenberg, in what became known as the “atomic spies” case; obtained their convictions in court and then insisted on their executions.",
+      "after_screening": "Post-screening discussion to follow with director",
+      "people": [
+        {
+          "name": "Ivy Meeropol",
+          "role": "director"
+        }
+      ],
+      "page": 19
+    },
+    {
+      "title": "In Dry Water",
+      "directors": [
+        "Kevin Clancy"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 14,
+      "premiere": "DC Premiere",
+      "slot": "Short Cuts - Program 1",
+      "is_short": true,
+      "shorts_program": "Short Cuts - Program 1",
+      "screening": {
+        "date": "2019-10-12",
+        "time": "5:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Adama and Adja have a problem on their hands. Their country, Senegal, is running out of fish. As foreign trawlers and climate change cripple their stocks, the friends face a choice: Stay or follow the same trail as the fish.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Kevin Clancy",
+          "role": "director"
+        }
+      ],
+      "page": 20
+    },
+    {
+      "title": "Waiting for Tearah",
+      "directors": [
+        "Juliana Schatz Preston"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 23,
+      "premiere": "World Premiere",
+      "slot": "Short Cuts - Program 1",
+      "is_short": true,
+      "shorts_program": "Short Cuts - Program 1",
+      "screening": {
+        "date": "2019-10-12",
+        "time": "5:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "An intimate portrait of a mother struggling to find mental health care for her child. Shot over two years, this verité film tells the story of Shayna, a single parent of three girls on the brink of losing her home due to medical costs, while her eldest daughter, Tearah, waits for months in a psychiatric hospital. Day after day, Shayna navigates a complicated maze of government agencies as she fights for much-needed treatment for Tearah. Above all, Waiting for Tearah is about a mother’s love, and her unwillingness to give up on her daughter.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Juliana Schatz Preston",
+          "role": "director"
+        }
+      ],
+      "page": 20
+    },
+    {
+      "title": "Poppy Crash",
+      "directors": [
+        "Andalusia Knoll Soloff"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 11,
+      "premiere": "World Premiere",
+      "slot": "Short Cuts - Program 1",
+      "is_short": true,
+      "shorts_program": "Short Cuts - Program 1",
+      "screening": {
+        "date": "2019-10-12",
+        "time": "5:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "As addiction to the opioid fentanyl surges in the U.S., causing an unprecedented number of overdoses, violence spikes in the mountains of Guerrero, Mexico. Fentanyl is cheaper and more potent, which has slashed natural opium prices, leaving the indigenous poppy farmers in Guerrero with few options for survival. Poppy Crash chronicles the stories of three indigenous farmers who worked in the opium harvest since they were children and suddenly had their livelihood ripped out from under them. Gustavo attempted to migrate to the U.S., and following his deportation, he joined the rank and file of a local crime group and now works as a hitman. Gutierrez substituted poppy with corn, but with a 90% cut in profits, he can’t make ends meet. Yulis, a young mother, traveled thousands of miles from home, leaving her two young children behind to work as a migrant farmworker, but suffered from wage theft. Their dependence on the international drug economy and the volatile market has left these communities with an uncertain future where increased poverty and violence is evident.",
+      "after_screening": "Post-screening discussion to follow with filmmakers",
+      "people": [
+        {
+          "name": "Andalusia Knoll Soloff",
+          "role": "director"
+        }
+      ],
+      "page": 21
+    },
+    {
+      "title": "The Cave",
+      "directors": [
+        "Feras Fayyad"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 90,
+      "premiere": "US Premiere",
+      "slot": "Closing Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2019-10-12",
+        "time": "7:30 PM",
+        "venue": "National Geographic Museum"
+      },
+      "synopsis": "Oscar nominee Feras Fayyad (LAST MAN IN ALEPPO) delivers an unflinching story of the Syrian war with his powerful new documentary, The Cave. For besieged civilians, hope and safety lie underground inside the subterranean hospital known as the Cave, where pediatrician and managing physician Dr. Amani Ballour and her colleagues Samaher and Dr. Alaa have claimed their right to work as equals alongside their male counterparts, doing their jobs in a way thatwould be unthinkable in the oppressively patriarchal culture that exists above. Following the women as they contend with daily bombardments, chronic supply shortages and the ever-present threat of chemical attacks, The Cave paints a stirring portrait of courage, resilience and female solidarity.",
+      "after_screening": "A post screening discussion will follow with director, Feras Fayyad",
+      "people": [
+        {
+          "name": "Feras Fayyad",
+          "role": "director"
+        }
+      ],
+      "page": 22
+    },
+    {
+      "title": "Lost and Found",
+      "directors": [
+        "Orlando von Einsiedel"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 22,
+      "premiere": "DC Premiere",
+      "slot": "Short Cuts - Program 2",
+      "is_short": true,
+      "shorts_program": "Short Cuts - Program 2",
+      "screening": {
+        "date": "2019-10-13",
+        "time": "12:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Separating thousands of families from loved ones along the way, a campaign of ethnic cleansing and violence perpetrated by the Myanmar military has driven more than 700,000 Rohingya from their homes. LOST AND FOUND, directed by Orlando von Einsiedel, is the story of Kamal Hussein, a Rohingya refugee who has dedicated his life to reuniting children with their parents.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Orlando von Einsiedel",
+          "role": "director"
+        }
+      ],
+      "page": 24
+    },
+    {
+      "title": "Refuge(e)",
+      "directors": [
+        "Sylvia Johnson"
+      ],
+      "country": null,
+      "film_year": 2018,
+      "runtime_min": 15,
+      "premiere": "DC Premiere",
+      "slot": "Short Cuts - Program 2",
+      "is_short": true,
+      "shorts_program": "Short Cuts - Program 2",
+      "screening": {
+        "date": "2019-10-13",
+        "time": "12:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "REFUGE(E) traces the incredible journey of two refugees, Alpha and Zeferino. They each fled violent threats to their lives in their home countries and presented themselves at the US border asking for political asylum, only to be incarcerated in for-profit prison for months on end without having committed any crime. They represent thousands more like them who can’t tell their stories.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Sylvia Johnson",
+          "role": "director"
+        }
+      ],
+      "page": 24
+    },
+    {
+      "title": "The Nightcrawlers",
+      "directors": [
+        "Alexander A. Mora"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 39,
+      "premiere": "DC Premiere",
+      "slot": "Short Cuts - Program 2",
+      "is_short": true,
+      "shorts_program": "Short Cuts - Program 2",
+      "screening": {
+        "date": "2019-10-13",
+        "time": "12:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "An unflinching, verité-style exposé, THE NIGHTCRAWLERS follows a determined group of photojournalists on their mission to chronicle the deadly battle being waged against the Philippines’ drug epidemic — and the tragic cost of this brutal crusade. Directed with pulse-pounding intensity by first-time director Alexander A. Mora, the documentary trails Raffy Lerma, a former staff photographer for a prominent newspaper, as he joins forces with a team of bold freelance photojournalists, or “nightcrawlers,” who are covering a wave of extrajudicial killings that, by some estimates, has claimed as many as 27,000 lives. With unprecedented access, the film also features shocking interviews with members of a mysterious death squad that prowls the city’s back alleys in search of people they are paid to kill with impunity.",
+      "after_screening": "Post-screening discussion to follow with filmmakers",
+      "people": [
+        {
+          "name": "Alexander A. Mora",
+          "role": "director"
+        }
+      ],
+      "page": 25
+    },
+    {
+      "title": "Dark Suns",
+      "directors": [
+        "Julien Elie"
+      ],
+      "country": null,
+      "film_year": 2018,
+      "runtime_min": 154,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2019-10-13",
+        "time": "2:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "An unforgettable epic, running two-and-a-half hours and offering harrowing yet utterly urgent testimony from the friends and families of those who vanished. DARK SUNS chronicles the hundreds of murders of women, journalists, students, and activists in Mexico since the 1990s, and the insidious culture of cartel violence and state corruption behind them. Spanning the notorious femicides in Ciudad Juárez at the northern border to the murders of journalists in Veracruz in the south, director Julien Elie draws on the testimony of determined investigators, family members, journalists, priests, lawyers, and activists, tracing a path of organized and unpunished criminality that involves drug and human trafficking, extortion, kidnapping, and collusion with the governments on both sides of the border.",
+      "after_screening": "Post-screening discussion to follow with journalist Ricardo Sandoval Palos",
+      "people": [
+        {
+          "name": "Julien Elie",
+          "role": "director"
+        },
+        {
+          "name": "Ricardo Sandoval Palos",
+          "role": "discussant",
+          "affiliation": "journalist"
+        }
+      ],
+      "page": 26
+    },
+    {
+      "title": "Bedlam",
+      "directors": [
+        "Kenneth Paul Rosenberg"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 86,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2019-10-13",
+        "time": "5:30 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Through intimate stories of patients, families, and medical providers, BEDLAM immerses us in the national crisis surrounding care of the severely mentally ill. Filmed over five years, BEDLAM brings us inside one of America’s busiest psychiatric emergency rooms, into jails where psychiatric patients are warehoused, and to the homes – and homeless encampments – of mentally ill members of our communities, where silence and shame often compound personal suffering. The story is told in part by director Kenneth Paul Rosenberg, MD, whose own life journey has been profoundly impacted by a severely mentally ill family member.",
+      "after_screening": "Post-screening discussion to follow with director",
+      "people": [
+        {
+          "name": "Kenneth Paul Rosenberg",
+          "role": "director"
+        }
+      ],
+      "page": 27
+    },
+    {
+      "title": "Bikram: Yogi, Guru, Predator",
+      "directors": [
+        "Eva Orner"
+      ],
+      "country": null,
+      "film_year": 2019,
+      "runtime_min": 86,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2019-10-13",
+        "time": "8:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "BIKRAM: YOGI, GURU, PREDATOR examines the dramatic rise and fall of the controversial founder of hot yoga, Bikram Choudhury. Arriving in Beverly Hills from Calcutta, India in the early 1970s, Choudhury quickly cultivated a celebrity following and built a global fitness empire that furnished him with extreme wealth. But by the 2010s, as numerous sexual abuse allegations emerged and stories of his aggressive, cult-like training environment surfaced, the lawsuits started to mount and Choudhury’s unorthodox teaching style became front-page news. Directed by Academy Award winner Eva Orner (Taxi to the Dark Side, Chasing Asylum) and produced by Sarah Anthony (The Price of Free, The Defiant Ones), BIKRAM: YOGI, GURU, PREDATOR shines a light on the stories of the women who took him down and explores the contradiction of how this healing discipline could simultaneously help and hurt so many.",
+      "after_screening": "Post-screening discussion to follow with Julia Lowrie Henderson, creator of ESPN Bikram podcast",
+      "people": [
+        {
+          "name": "Eva Orner",
+          "role": "director"
+        },
+        {
+          "name": "Sarah Anthony",
+          "role": "producer"
+        },
+        {
+          "name": "Julia Lowrie Henderson",
+          "role": "discussant",
+          "affiliation": "Creator of ESPN Bikram podcast"
+        }
+      ],
+      "page": 28
+    }
+  ],
+  "sessions": [
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2019-10-10",
+      "time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "venue": "The Eaton Hotel",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 10
+    },
+    {
+      "title": "Opening Conversation: Race in Focus",
+      "kind": "conversation",
+      "date": "2019-10-10",
+      "time": "9:30 AM",
+      "end_time": "10:45 AM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "The fifth edition of DX kicks off with a timely conversation, featuring Wesley Lowery, a Pulitzer-Prize winning national reporter for the Washington Post covering law enforcement, justice, race and politics, and, multi-award winning documentary filmmakers Marco Williams and Michèle Stephenson. Together, they will examine the representation of race and the black experience through film and journalism. As new scholarship arising from the 400th anniversary of 1619 — when the first pirate ship delivered more than 20 African captives to the Virginia shore — suggests, the legacy of bondage and racial subjugation shapes nearly every aspect of modern life, from labor relations to law, from education to the economy, from art to ethics, and much more. Investigative storytellers in print and film are challenging the white gaze and its underlying presumptions, bringing new questions and lines of investigation to the stories of our times.",
+      "people": [
+        {
+          "name": "Wesley Lowery",
+          "role": "speaker"
+        },
+        {
+          "name": "Michèle Stephenson",
+          "role": "speaker"
+        },
+        {
+          "name": "Marco Williams",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 31
+    },
+    {
+      "title": "Investigative Podcasts: The Sound and the Fury",
+      "kind": "panel",
+      "date": "2019-10-10",
+      "time": "11:00 AM",
+      "end_time": "12:15 PM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "It’s been five years since the investigative podcast that started it all, Serial, emerged on the scene, and since then the format has exploded with some of the most captivating investigative storytelling to be found in any medium. Hear from creators and producers of some of the very best in audio investigations today, from West Cork, named after the quaint Irish region that became the unlikely backdrop to the 1996 murder of Sophie Toscan du Plantier, a French film producer, to the multi-season In the Dark which examines in electrifying and infuriating detail a child-abduction in season one and a wrongful imprisonment in season two, and reveals the inner machinations of the investigative process as much as a judicial system gone awry. And finally, Dr. Death, which examines charismatic neurosurgeon Christopher Duntsch who was convicted of gross malpractice after thirty-one of his patients were left seriously injured after he operated on them, and two patients died during his operation.",
+      "people": [
+        {
+          "name": "Laura Beil",
+          "role": "panelist"
+        },
+        {
+          "name": "Jennifer Forde",
+          "role": "panelist"
+        },
+        {
+          "name": "Samara Freemark",
+          "role": "panelist"
+        },
+        {
+          "name": "Sarah Larson",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 31
+    },
+    {
+      "title": "Lunch",
+      "kind": "other",
+      "date": "2019-10-10",
+      "time": "12:15 PM",
+      "end_time": "1:15 PM",
+      "venue": "The Eaton Hotel",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 10
+    },
+    {
+      "title": "When No One Else Is Watching",
+      "kind": "panel",
+      "date": "2019-10-10",
+      "time": "1:15 PM",
+      "end_time": "2:30 PM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "Before the public sets eyes on many of the most compelling investigative works, journalists, filmmakers, and even human rights advocates encounter myriad ethical questions along the way. Speakers on this panel are immortalizing people in crisis, sometimes at their most vulnerable: in the immediate aftermath of mass violence (as in Emily Taguchi’s AFTER PARKLAND), or in the throes of acute bodily trauma (such as Luke Lorentzen’s MIDNIGHT FAMILY) or, in the case of the advocacy group Witness, filming victims of human rights abuses in order to further public engagement, policy change, and justice. We’ll unpack the moral issues involved, as filmmakers and advocates grapple with subjects at their most fragile and exposed. What does a filmmaker reveal? What is left off-screen? What is the moral compass that guides their encounters with vulnerable subjects, and how does this shape their storytelling decisions “when no one else is watching,” to cite author and philosopher Aldo Leopold.",
+      "people": [
+        {
+          "name": "Luke Lorentzen",
+          "role": "panelist"
+        },
+        {
+          "name": "Palika Makam",
+          "role": "panelist"
+        },
+        {
+          "name": "Emily Taguchi",
+          "role": "panelist"
+        },
+        {
+          "name": "Yatziri Tovar",
+          "role": "panelist"
+        },
+        {
+          "name": "Carrie Lozano",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 32
+    },
+    {
+      "title": "The Visual Newsroom",
+      "kind": "panel",
+      "date": "2019-10-10",
+      "time": "2:45 PM",
+      "end_time": "4:00 PM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "Newsrooms are increasingly turning toward film as an essential medium for opening new dimensions in storytelling, unpacking investigations, and reaching different audiences. We’ll hear from newsrooms at the forefront of this shift.",
+      "people": [
+        {
+          "name": "Katie Campbell",
+          "role": "panelist"
+        },
+        {
+          "name": "Lindsay Crouse",
+          "role": "panelist"
+        },
+        {
+          "name": "Lauren Feeney",
+          "role": "panelist"
+        },
+        {
+          "name": "Cassandra Giraldo",
+          "role": "panelist"
+        },
+        {
+          "name": "Amanda Pike",
+          "role": "panelist"
+        },
+        {
+          "name": "Zach Toombs",
+          "role": "panelist"
+        },
+        {
+          "name": "Patricia Aufderheide",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 32
+    },
+    {
+      "title": "The Undertow",
+      "kind": "panel",
+      "date": "2019-10-10",
+      "time": "4:00 PM",
+      "end_time": "5:30 PM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "Filmmakers and journalists working in the investigative mode often face great risks — personally, legally, monetarily, even bodily — to expose hidden corruption or bring clarity to a profoundly complex issue. Largely, the threats remain invisible to audiences and readers. The full influence of threat and danger, however, often go beyond the concrete steps practitioners take to work safely and reduce risk. Danger can also shape the investigative process, impinge on the storytelling that results, and continue to stalk sources and subjects, long after the credits have rolled. Nanfu Wang’s (HOOLIGAN SPARROW) newest film, ONE CHILD NATION, explores the profound effects of government policy on generations of Chinese parents and children. Ramona Diaz, who may be best known for her compelling character-driven documentaries, most notably of Philippine first lady Imelda Marcos, is now at work on a new film examining disinformation. Andalusia Knoll Soloff, a multimedia journalist based in Mexico City, traces the opioid epidemic in the U.S. to the poppy fields in Mexico, and trains her lens on the fragile ecosystem between migrant farmers, local drug lords, and the great consumer up north.",
+      "people": [
+        {
+          "name": "Ramona Diaz",
+          "role": "panelist"
+        },
+        {
+          "name": "Courtney Radsch",
+          "role": "panelist"
+        },
+        {
+          "name": "Andalusia Knoll Soloff",
+          "role": "panelist"
+        },
+        {
+          "name": "Nanfu Wang",
+          "role": "panelist"
+        },
+        {
+          "name": "Brenda Coughlin",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Poppy Crash"
+      ],
+      "page": 33
+    },
+    {
+      "title": "Opening Night Party",
+      "kind": "reception",
+      "date": "2019-10-10",
+      "time": "9:45 PM",
+      "end_time": null,
+      "venue": "Dirty Habit",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 7
+    },
+    {
+      "title": "DX Access / Pitch",
+      "kind": "pitch",
+      "date": "2019-10-10",
+      "time": "9:30 AM",
+      "end_time": "5:00 PM",
+      "venue": "Barnett-Aden, Eaton Hotel",
+      "description": "Thursday, October 10 & Friday October 11.\n\nDX ACCESS connects registered attendees to representatives of the most respected and innovative organizations and individuals in film and journalism, and provides unparalleled face time with funders, producers, festival programmers, distributors, media outlets, reporters, writers and directors. In pre-arranged one-on-one meetings, industry leaders unpack how they work, learn more about projects, either planned or in progress, with a view to exploring the potential for collaboration or support.\n\nThrough DX PITCH, journalists and filmmakers pitch their ideas for investigative projects to the programmers and editors of award-winning and innovative platforms. In face-to-face pitch sessions, accepted applicants have the opportunity to make a verbal pitch, receive feedback, and learn about real opportunities for distribution on prestigious national platforms.\n\nThrough DX ACCESS and DX PITCH, registered participants in Double Exposure have found funding for projects, distribution deals, new homes for thier work and jobs.",
+      "people": [],
+      "related_films": [],
+      "page": 44
+    },
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2019-10-11",
+      "time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "venue": "The Eaton Hotel",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 11
+    },
+    {
+      "title": "#MeToo 2.0",
+      "kind": "panel",
+      "date": "2019-10-11",
+      "time": "9:30 AM",
+      "end_time": "10:45 AM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "The calling out of sexual predators, that began with women in the film industry unmasking Harvey Weinstein, has deepened and grown. Hear from journalists at the Miami Herald, whose dogged reporting forced prosecutors to reopen the Jeffrey Epstein case, and from the filmmakers behind “Surviving Jeffrey Epstein,” a new multi-part documentary from Lifetime (which borrows its nomenclature from Lifetime’s breakthrough multi-part documentary Surviving R. Kelly). This panel will examine the heroic efforts and scrupulous methods undertaken by investigative journalists and filmmakers to render visible, through print and film, predators “hiding in plain sight.”",
+      "people": [
+        {
+          "name": "Casey Frank",
+          "role": "panelist"
+        },
+        {
+          "name": "Emily Michot",
+          "role": "panelist"
+        },
+        {
+          "name": "Ricki Stern",
+          "role": "panelist"
+        },
+        {
+          "name": "Annie Sundberg",
+          "role": "panelist"
+        },
+        {
+          "name": "Janice Page",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "The Preppy Murder: Death in Central Park"
+      ],
+      "page": 33
+    },
+    {
+      "title": "Docs in Progress Pitch",
+      "kind": "pitch",
+      "date": "2019-10-11",
+      "time": "9:45 AM",
+      "end_time": "12:15 PM",
+      "venue": "Salon, Eaton Hotel",
+      "description": "Six projects originally presented by documentary organizations Docs In Progress and The D-Word at Peer Pitch programs in four regions of the country have been selected to return to Washington DC for an industry pitch at the Double Exposure Investigative Film Festival fifth addition. The pitching filmmakers present their projects to a panel that includes representatives from across the documentary industry.\n\nPITCH PROJECTS:\n\nBuying Time (Sara Barger – Washington DC)\n\nAs a Virginia family faces their 10-year old daughter’s brain cancer, they are doing everything they can do to keep her alive and alleviate her pain, including breaking federal laws by buying cannabis products and having them shipped across state lines.\n\nDark Summit (Amy Marquis – Boulder, CO)\n\nMefloquine is an anti-malarial drug with side effects — ranging from anxiety and hallucinations to suicide and homicidal rage — that have affected millions of injured soldiers, diplomats, and civilians. This is a global crisis, but for the filmmaker, it’s also personal: Her life partner was among the first American civilians to take the drug in 1992, and it’s affected every moment of his life since.\n\nThe Long Rescue (Jennifer Huang – Oakland, CA)\n\nHope, Sara, and Carrie come of age in a clandestine shelter for survivors of child sex trafficking in Cebu, Philippines. We follow them over five years as they rebuild their lives and re-enter the world, only to confront the same poverty, predators, and pimps of their childhood.\n\nNorteños (Rodrigo Dorfman and Peter Eversoll – Durham, NC)\n\nAfter decades of living as immigrants in the United States, several “Norteños” return to their hometown in rural Michoacan, Mexico, bringing a piece of the good old USA back with them. This is an unfiltered and nuanced portrait of the people redefining the boundaries of a new Global South through their experiences in el Norte.\n\nQueer (Cai Thomas – Chicago, IL and Serena Ajbani – Washington DC)\n\nThis interactive documentary series is a community-led documentary walking tour outlining the personal and collective queer histories as they relate to place. The stories include an urban planner and choreographer in Los Angeles who first understood his queerness through experiences on public transportation; a Black trans actor who found self-acceptance in her life shaped by community spaces in New Orleans; and a two-spirited person in the Kanien’kéha:ka Territory where Tio:tia’ke/Montreal is located, complicating the notion of queer belonging on stolen land.\n\nUndue Burdens (Andrea Raby – Chicago, IL)\n\nIn many midwestern states, TRAP laws force women seeking abortions to travel hundreds of miles to the nearest clinic and face waiting periods, meaning many women struggle to afford the time and expense involved in accessing the procedure. That’s where practical abortion funds like Midwest Access Coalition come in. They are following in the footsteps of organizations like Jane that provided access to abortions prior to Roe v. Wade.",
+      "people": [
+        {
+          "name": "Sara Barger",
+          "role": "presenter"
+        },
+        {
+          "name": "Amy Marquis",
+          "role": "presenter"
+        },
+        {
+          "name": "Jennifer Huang",
+          "role": "presenter"
+        },
+        {
+          "name": "Rodrigo Dorfman",
+          "role": "presenter"
+        },
+        {
+          "name": "Peter Eversoll",
+          "role": "presenter"
+        },
+        {
+          "name": "Cai Thomas",
+          "role": "presenter"
+        },
+        {
+          "name": "Serena Ajbani",
+          "role": "presenter"
+        },
+        {
+          "name": "Andrea Raby",
+          "role": "presenter"
+        }
+      ],
+      "related_films": [],
+      "page": 45
+    },
+    {
+      "title": "Age of Consent",
+      "kind": "panel",
+      "date": "2019-10-11",
+      "time": "11:00 AM",
+      "end_time": "12:15 PM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "Inherent in the role of journalist or filmmaker is the desire to tell a story, often toward a greater good. Whether with notebook or camera lens, the storyteller is framing the investigation, sometimes spending long years immersed in a place or situation, sometimes parachuting in. Increasingly, however, subjects are questioning the authority of outsiders to tell their stories. They are demanding a say over how they are represented and objecting when they are not consulted. Foundations are taking notice, and developing policies to promote community involvement in the creative or reporting process. This shift marks a departure from, and challenge to, the traditional journalistic stance of the neutral investigator.",
+      "people": [
+        {
+          "name": "Jacqueline Olive",
+          "role": "panelist"
+        },
+        {
+          "name": "Juliana Schatz",
+          "role": "panelist"
+        },
+        {
+          "name": "Courtney Symone Staton",
+          "role": "panelist"
+        },
+        {
+          "name": "Shayna Wilson",
+          "role": "panelist"
+        },
+        {
+          "name": "Natalie Bullock Brown",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Waiting for Tearah"
+      ],
+      "page": 34
+    },
+    {
+      "title": "Lunch",
+      "kind": "other",
+      "date": "2019-10-11",
+      "time": "12:15 PM",
+      "end_time": "1:15 PM",
+      "venue": "The Eaton Hotel",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 11
+    },
+    {
+      "title": "The New Transparency",
+      "kind": "panel",
+      "date": "2019-10-11",
+      "time": "1:15 PM",
+      "end_time": "2:30 PM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "For most of the last hundred years, trust resided in a name: of a reporter, of a news outlet, of a filmmaker or a studio. As New York University professor Jay Rosen has noted, that’s changing fast. In an age of widespread public mistrust of media and organized disinformation, the ability of readers and audiences to understand, and verify, the news gathering process has become key to credibility, replacing reputation the barometer of trust. That means disclosing the assumptions and biases of journalists and filmmakers, unpacking the steps of an investigation and choices along the way and, even, welcoming non-journalists into the reporting process. Activists are showing readers and viewers how to cross-check information, how to mine social media and open source data, and how to trace the provenance of questionable images and information. Their goal: to produce more reliable and trustworthy stories, and more savvy consumers of media.",
+      "people": [
+        {
+          "name": "Karim Amer",
+          "role": "panelist"
+        },
+        {
+          "name": "Jay Rosen",
+          "role": "panelist"
+        },
+        {
+          "name": "Claire Wardle",
+          "role": "panelist"
+        },
+        {
+          "name": "Harlo Holmes",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 34
+    },
+    {
+      "title": "Ask Me Anything: Meet the Funders",
+      "kind": "panel",
+      "date": "2019-10-11",
+      "time": "2:45 PM",
+      "end_time": "4:00 PM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "Everything you always wanted to know from funders but were afraid to ask. We’ll be collecting anonymous questions from festival attendees and posing them to the assembled funders, who have promised to answer whatever’s on your mind, no holds barred. Bring it on . . .",
+      "people": [
+        {
+          "name": "Nathalie Applewhite",
+          "role": "panelist"
+        },
+        {
+          "name": "Wendy Ettinger",
+          "role": "panelist"
+        },
+        {
+          "name": "Carrie Lozano",
+          "role": "panelist"
+        },
+        {
+          "name": "Molly Murphy",
+          "role": "panelist"
+        },
+        {
+          "name": "Lea Trusty",
+          "role": "panelist"
+        },
+        {
+          "name": "Chloe Walters-Wallace",
+          "role": "panelist"
+        },
+        {
+          "name": "Lauren Pabst",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 35
+    },
+    {
+      "title": "The Big Chill",
+      "kind": "panel",
+      "date": "2019-10-11",
+      "time": "4:15 PM",
+      "end_time": "5:30 PM",
+      "venue": "Beverly Snow Room, Eaton Hotel",
+      "description": "The stakes are rising for whistleblowers across the globe. In the United States, whistleblowers are facing prosecution under the Espionage Act like never before, a charge that carries a potential life sentence for speaking up to expose wrongdoing. Elsewhere, whistleblowers face financial and professional ruin, smear campaigns and–in some countries–targeted assassination. What does this mean for the watchdogs in print and film?",
+      "people": [
+        {
+          "name": "Erika Cheung",
+          "role": "panelist"
+        },
+        {
+          "name": "Delphine Halgand",
+          "role": "panelist"
+        },
+        {
+          "name": "Sally Hayden",
+          "role": "panelist"
+        },
+        {
+          "name": "Mary Inman",
+          "role": "panelist"
+        },
+        {
+          "name": "Jeffrey Sterling",
+          "role": "panelist"
+        },
+        {
+          "name": "Tom Mueller",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 35
+    },
+    {
+      "title": "Friday Happy Hour",
+      "kind": "reception",
+      "date": "2019-10-11",
+      "time": "5:30 PM",
+      "end_time": "7:30 PM",
+      "venue": "The Eaton Hotel's Salon",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 7
+    },
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2019-10-12",
+      "time": "9:30 AM",
+      "end_time": "10:00 AM",
+      "venue": "The Eaton Hotel",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 12
+    },
+    {
+      "title": "FOIA Workshop for Journalists and Filmmakers",
+      "kind": "workshop",
+      "date": "2019-10-12",
+      "time": "10:00 AM",
+      "end_time": "11:30 AM",
+      "venue": "Crystal Room, Eaton Hotel",
+      "description": "Federal, state, and local governments possess a wealth of information that can be of great use to journalists, including documentary filmmakers, but obtaining that material under state and federal public records laws isn’t always easy. This workshop led by media attorneys from the Reporters Committee for Freedom of the Press will help you learn how to successfully navigate FOI laws, from crafting strong public records requests to overcoming denials. Presented in collaboration with The Reporters Committee for Freedom of the Press, International Documentary Association, and the Hollywood Foreign Press Association.",
+      "people": [
+        {
+          "name": "Katie Townsend",
+          "role": "instructor"
+        },
+        {
+          "name": "Gunita Singh",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 36
+    },
+    {
+      "title": "Open Source Investigations and Verification",
+      "kind": "workshop",
+      "date": "2019-10-12",
+      "time": "10:00 AM",
+      "end_time": "11:30 AM",
+      "venue": "Crystal Room, Eaton Hotel",
+      "description": "Publically available tools now make it possible for citizens and independent journalists to investigate and verify content. In this hands-on workshop, you will learn how to channel your inner Sherlock Holmes and use open source tools to verify content.",
+      "people": [
+        {
+          "name": "Hilke Schellman",
+          "role": "instructor"
+        },
+        {
+          "name": "Christiaan Triebert",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 36
+    },
+    {
+      "title": "Pro Bono Legal Clinic",
+      "kind": "workshop",
+      "date": "2019-10-12",
+      "time": "10:00 AM",
+      "end_time": "11:30 AM",
+      "venue": "Crystal Room, Eaton Hotel",
+      "description": "The Pro Bono Legal Clinic offers investigative storytellers lacking legal representation the opportunity to connect with experts who can knowledgeably discuss legal challenges they are confronting. Leading attorneys in the areas First Amendment law, privacy and libel, Freedom of Information, whistleblower protection, copyright and intellectual property will be on hand. Attorneys will brief participants on case law and trends relevant to the problems that journalists and filmmakers have articulated upon registering for the clinic, and field questions from them. Attorneys have also agreed to consider representing select participants in need of counsel on an ongoing basis pro bono. All Access pass holders receive a link via email to pre-register for the Legal Clinic. They should describe the legal challenges they are facing to ensure participating attorneys are aware of their issues.",
+      "people": [
+        {
+          "name": "Alexia Bedat",
+          "role": "instructor"
+        },
+        {
+          "name": "Edward Baker",
+          "role": "instructor"
+        },
+        {
+          "name": "Lisa Zycherman",
+          "role": "instructor"
+        },
+        {
+          "name": "Theodore Frank",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 37
+    },
+    {
+      "title": "Crossing Borders",
+      "kind": "pitch",
+      "date": "2019-10-12",
+      "time": "10:00 AM",
+      "end_time": "12:30 PM",
+      "venue": "Eaton Cinema",
+      "description": "A new initiative of Double Exposure 2019, Crossing Borders brings representatives from film programming organizations and journalistic organizations together to give feedback on select projects in front of a live audience. Newsrooms moving print projects into film, and filmmakers venturing into investigative territory, show excerpts of their work and receive feedback from across the aisle. The goal for each side is to raise impact through input from colleagues drawing on unaccustomed expertise. In practice, this means traditionally text-based news operations will hear directly from film programmers about how to strengthen the visual story they are telling. Filmmakers who may lack a background in journalism can learn more about using journalism to undergird character-driven stories and connect them to the broader issues at stake.\n\nProjects being presented:\n\nMARTHA, A film by Anne Alvergue and Debra McClutchy\n\nShe was once as famous as Jackie O. And then she tried to take down a President. Martha is a portrait of the unlikeliest of whistleblowers: Martha Mitchell, a Republican cabinet wife who was gas-lighted by the Nixon Administration to keep her quiet. It offers a female gaze on Watergate through the voice of the woman herself.\n\nA BROKEN TRUST, A film by Maren Machles and Carrie Cochran\n\nThere’s a place in America where the criminal justice system can legally discriminate. For Indigenous sexual assault survivors on tribal lands, their legal status as an “Indian” sends their case through an entirely different criminal justice system. And in some tribal communities, there’s a common belief here that it’s not if you will be assaulted, but when. This story is a rare glimpse into a severely stressed and complex system and the lives of the people who work within it, trying to make their communities better.\n\nDEEPSIDE A film by Jason Fitzroy Jeffers and Jess Swanson\n\nAn independent investigation into the drowning of a Broward county teenager raises questions about the conduct and reporting of the police and medical examiner’s office.",
+      "people": [
+        {
+          "name": "Anne Alvergue",
+          "role": "presenter"
+        },
+        {
+          "name": "Debra McClutchy",
+          "role": "presenter"
+        },
+        {
+          "name": "Maren Machles",
+          "role": "presenter"
+        },
+        {
+          "name": "Carrie Cochran",
+          "role": "presenter"
+        },
+        {
+          "name": "Jason Fitzroy Jeffers",
+          "role": "presenter"
+        },
+        {
+          "name": "Jess Swanson",
+          "role": "presenter"
+        },
+        {
+          "name": "Amanda Pike",
+          "role": "panelist",
+          "affiliation": "Director of TV and Documentaries - Reveal / The Center for Investigative Reporting"
+        },
+        {
+          "name": "Neela Banerjee",
+          "role": "panelist",
+          "affiliation": "Reporter - Inside Climate News"
+        },
+        {
+          "name": "Nicole Tsien",
+          "role": "panelist",
+          "affiliation": "Co-Producer | Programming & Production - POV | American Documentary"
+        }
+      ],
+      "related_films": [],
+      "page": 41
+    },
+    {
+      "title": "Whistleblower Protection Strategies",
+      "kind": "workshop",
+      "date": "2019-10-12",
+      "time": "11:45 AM",
+      "end_time": "1:15 PM",
+      "venue": "Crystal Room, Eaton Hotel",
+      "description": "The stakes for whistleblowers have grown exponentially in recent years, with the might of government and private companies time and again mobilized to identify and punish those who speak out of school to expose wrongdoing. In the most serious cases, prosecutors are increasingly invoking the Espionage Act, which carries a potential life sentence. This workshop with unpack methods for minimizing risk for whistleblowers, and for the journalists and filmmakers who rely on their disclosures. It is important to understand the risks for the journalists and filmmakers to pro-actively and as safely as possible work with whistleblowers.",
+      "people": [
+        {
+          "name": "Delphine Halgand",
+          "role": "instructor"
+        },
+        {
+          "name": "Jeffrey Sterling",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 37
+    },
+    {
+      "title": "Fact Checking",
+      "kind": "workshop",
+      "date": "2019-10-12",
+      "time": "11:45 AM",
+      "end_time": "1:15 PM",
+      "venue": "Crystal Room, Eaton Hotel",
+      "description": "In an era in which fake news and filter bubbles seem to create alternative realities and threaten the basis of democracy, it’s more important than ever that investigative journalism is factually correct, so viewers can trust the reporting.\n\nIn this workshop presented by the Pulitzer Center on Crisis Reporting, we will show what can happen if journalists and news organizations neglect to fact-check before publishing or for the sake of dramatic storytelling omit important facts. This is a hands-on workshop; we will train participants to strategically and efficiently fact-check their own biases and their own reporting, even if the filmmaker has no institutional support. We will show how to independently verify facts, background people and use new tools that can help verify when and where an image was shot. Filmmakers will not only develop a road map to fact-check their own work, they will also learn about investigative skills and tools that will benefit any reporting, and even facilitate distribution.",
+      "people": [
+        {
+          "name": "Hilke Schellman",
+          "role": "instructor"
+        },
+        {
+          "name": "Laila Al-Arian",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 38
+    },
+    {
+      "title": "Solutions Journalism for Investigative Film",
+      "kind": "workshop",
+      "date": "2019-10-12",
+      "time": "11:45 AM",
+      "end_time": "1:15 PM",
+      "venue": "Crystal Room, Eaton Hotel",
+      "description": "Participants in this interactive workshop will learn how to use solutions journalism to add audience appeal and real-world impact to an investigative film. They’ll learn: The What: What is solutions journalism — and what is it not? The Why: How can solutions journalism make a documentary film stronger? The How: How do I find a solutions angle? How do I report on a solution without advocacy, cheerleading, do-gooding or PR? How do I integrate it into a problem-focused story?",
+      "people": [
+        {
+          "name": "Tina Rosenberg",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 38
+    },
+    {
+      "title": "The Art of Exposure with Halcyon House Fellows",
+      "kind": "other",
+      "date": "2019-10-12",
+      "time": "1:00 PM",
+      "end_time": "3:00 PM",
+      "venue": "Eaton Cinema",
+      "description": "Each year, Double Exposure celebrates the vibrant intersection of investigative journalism and film. The cinematic lens, though, is but one medium in which investigative journalism influences and shapes the cultural landscape. This year’s symposium incorporates podcasts that have broken new investigative ground on their own. With this session, we’re proud to partner with Halcyon House Arts Lab. This session will present Halcyon fellows-in-residence whose work is fueled by deep reporting on timely issues. Through performance, photography, poetry, and other forms of art they tackle the quest to expose and investigate from new directions. The artists will present segments from their work in a series of presentations, and be on hand to take questions.",
+      "people": [
+        {
+          "name": "Sobia Ahmad",
+          "role": "presenter"
+        },
+        {
+          "name": "Alex Braden",
+          "role": "presenter"
+        },
+        {
+          "name": "Halim Flowers",
+          "role": "presenter"
+        },
+        {
+          "name": "Ashley M Freeby",
+          "role": "presenter"
+        },
+        {
+          "name": "Molly Joyce",
+          "role": "presenter"
+        },
+        {
+          "name": "Lionel Frazier White III",
+          "role": "presenter"
+        },
+        {
+          "name": "Janae Williams",
+          "role": "presenter"
+        },
+        {
+          "name": "Stephanie J Woods",
+          "role": "presenter"
+        }
+      ],
+      "related_films": [],
+      "page": 42
+    },
+    {
+      "title": "Grant Writing Workshop",
+      "kind": "workshop",
+      "date": "2019-10-12",
+      "time": "2:00 PM",
+      "end_time": "4:00 PM",
+      "venue": "Crystal Room, Eaton Hotel",
+      "description": "In the Grant Writing Master Class, IDA’s Program Officer Dana Merwin outlines the multi-faceted grant-writing process for documentary projects. From the Fiscal Sponsorship program, which has supported documentary production and post-production for nearly 30 years, to the specialized funding of the Pare Lorentz Documentary Fund and the Enterprise Documentary Fund, she uses IDA’s funding opportunities as a starting point to discuss the fundamentals of writing a strong application. She also chats with IDA Pare Lorentz grantee Heidi Reinberg, whose film, 93Queen, offers an in-depth case study of how to weave your film’s loglines, synopsis, treatments and more into a compelling package for potential funders. As a special feature of this class, Dana workshops the loglines of projects brought forth by attendees.",
+      "people": [
+        {
+          "name": "Dana Merwin",
+          "role": "instructor"
+        },
+        {
+          "name": "Heidi Reinberg",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 39
+    },
+    {
+      "title": "Finding Character",
+      "kind": "workshop",
+      "date": "2019-10-12",
+      "time": "2:00 PM",
+      "end_time": "4:00 PM",
+      "venue": "Crystal Room, Eaton Hotel",
+      "description": "From the unstoppable growth of podcasting to the latest binge-worthy formats in storytelling to new ways of engaging your audience, all of them require a creative approach to your investigation. Join Susanne Reber for a wide-ranging conversation to explore how you can prepare yourself to think in characters, scenes, and sequences and allow your story to make it into video or audio and sometimes both. We will talk about the mindset, casting your characters early on, and finding creative ways to solve familiar challenges in investigative reporting: complexity, data sets, and numbers. How can you frame your story to engage your audience, hold its attention and build their involvement, by using available technology to start a two-way conversation?",
+      "people": [
+        {
+          "name": "Susanne Reber",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 39
+    },
+    {
+      "title": "Defy Apathy! A Workshop to Build Public Trust in Journalism",
+      "kind": "workshop",
+      "date": "2019-10-12",
+      "time": "2:00 PM",
+      "end_time": "4:00 PM",
+      "venue": "Crystal Room, Eaton Hotel",
+      "description": "A hands-on session in which attendees of the symposium use creative tools to find solutions to truth decay and restoring public trust in the news.\n\nThe workshop is facilitated by Eric Matthies, filmmaker, and narrative design producer. Eric has a longstanding involvement in citizen advocacy for the press and experience convening disparate stakeholders in active sessions to build stable solutions for complex problems.\n\nThe session kicks off with a brief introduction/presentation of researched facts defining the problem and its core drivers. Then, each of our invited media representatives will engage in moderated discussion on the topic from their perspective, after which we’ll divide into groups and use narrative design tools and some punk ‘Do It Yourself’ energy to prototype art-based solutions.\n\nThe most important expert in the room is you – this is an opportunity where we working professionals and the public come together around our respective areas of expertise and concern to help build solutions. Rebuilding trust in journalism is not for journalism, it is for all of us – we are explicitly and intrinsically entangled with a need for trustworthy information.\n\nFor the majority of time in the session, we will split into working groups moderated by each of our experts and guided by the workshop facilitator. Taking advantage of the spectrum of creative tools available to us at Double Exposure will ensure a stimulating experience with a tangible outcome. What we make and how we define, design and execute it will be largely up to the convened group of participants. At the end of the session, everyone will have contributed to making contextual, illuminating and actionable content that each participant can share via their own platforms.",
+      "people": [
+        {
+          "name": "Eric Matthies",
+          "role": "host"
+        },
+        {
+          "name": "Robin Bell",
+          "role": "panelist"
+        },
+        {
+          "name": "Kenyatta Cheese",
+          "role": "panelist"
+        },
+        {
+          "name": "Felix Salmon",
+          "role": "panelist"
+        },
+        {
+          "name": "Jenn Topper",
+          "role": "panelist"
+        },
+        {
+          "name": "Michelle Vaughan",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 40
+    },
+    {
+      "title": "Closing Night Party",
+      "kind": "reception",
+      "date": "2019-10-12",
+      "time": "10:30 PM",
+      "end_time": null,
+      "venue": "National Geographic Museum",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 7
+    }
+  ],
+  "people": [
+    {
+      "name": "Sobia Ahmad",
+      "bio": "Sobia Ahmad was born and raised in Pakistan, and moved to the United States at the age of fourteen. Highlighting the inseparability of the self and larger power structures, her interdisciplinary work dissects how spiritual, social, and historical, shape intimate personal narratives and broader community experiences. A strong believer in the power of art for social justice, Ahmad explores how our deeply intimate struggles of belonging can inform larger conversations about national identity, notion of home, cultural memory, and gender.",
+      "affiliation": "Halcyon Arts Lab",
+      "page": 42
+    },
+    {
+      "name": "Alex Braden",
+      "bio": "Alex Braden was born in Detroit and studied classical piano from age four and jazz guitar from age eleven. He taught freelance through college where he eventually abandoned a music scholarship to pursue a BFA in Sound Art. Later, between recording and touring with three bands, Braden further developed his fine art practice: experimenting with interactive and immersive. He shares a space in Northeast Washington, DC with his painter–wife Amy and budding noise–artist–toddler, Quincy.",
+      "affiliation": "Halcyon Arts Lab",
+      "page": 42
+    },
+    {
+      "name": "Halim Flowers",
+      "bio": "Halim Flowers was arrested at the age of 16 and sentenced as an adult to two life sentences in DC. In the year of 2005, he started his own publishing company SATO Communications, through which he published 11 books. In 2018, he co-founded the social entrepreneurial media production company Unchained Media Collective with filmmaker Kristin Adair to disrupt mass incarceration with the stories of those that are directly impacted by the criminal justice system. On March 21, 2019, Halim was released from prison after serving 22 years imprisoned. He uses his writings, motivational speeches, and fitness routines to inspire people towards revolutionary love.",
+      "affiliation": "Unchained Media Collective",
+      "page": 42
+    },
+    {
+      "name": "Ashley M Freeby",
+      "bio": "Ashley M Freeby is a multidisciplinary artist who was born in rural Pennsylvania and currently lives in Chicago, IL. Freeby uses her voice to project truth telling works through a multitude of mediums. Focusing on the history of land, she questions who worked it, who owned it and the accessibility of it. Freeby uses natural materials, poetic language and minimalist aesthetics to explore sites of trauma and challenge our perceptions of memory of lives lost. She earned a MFA from the School of the Art Institute of Chicago (2018) and a BA from Bucknell University (2015).",
+      "affiliation": "Halcyon Arts Lab",
+      "page": 43
+    },
+    {
+      "name": "Molly Joyce",
+      "bio": "Molly Joyce is a celebrated composer and performer whose work is primarily concerned with disability as a creative source. Through compositions, performances, video, and research, she generates material which reimagines disability and loss of physicality. Molly often sings and plays with her vintage toy organ, an instrument she loves due to how it fits her physically-impaired left hand. Molly has studied at The Juilliard School, Royal Conservatory in The Hague, and Yale School of Music.",
+      "affiliation": "Halcyon Arts Lab",
+      "page": 43
+    },
+    {
+      "name": "Lionel Frazier White III",
+      "bio": "Lionel Frazier White III is a D.C native who is a passionate arts educator and interdisciplinary conceptual artist. He is a graduate of The George Washington University Corcoran school of art and design with his BFA in fine art. White is a Washington DC-based artist who works in painting, drawing, wood sculpture, installation, and mixed media collage. White’s work explores themes of forced and coerced labor affects family pathology, erasure, displacement, reassertion, and gentrification.",
+      "affiliation": "Halcyon Arts Lab",
+      "page": 43
+    },
+    {
+      "name": "Janae Williams",
+      "bio": "Janae Williams is a dreamer, doer and diviner deeply committed to the transformative and contagious power of being whole. In the ancient legacy of the multitude of black femmehood, Janae she is a: photographer, digital visual artist and DJ. She is the creative co-director and lead organizer of the DC-based, Black Femme Brunch, a community which cultivates radical, irreverent and unapologetic celebration of black trans and queer femmes of all (or no) genders.",
+      "affiliation": "Black Femme Brunch",
+      "page": 43
+    },
+    {
+      "name": "Stephanie J Woods",
+      "bio": "Stephanie J Woods is a Charlotte, NC based artist creating textile, photography, and community engaged projects. Through the use of symbolic mediums referencing black American culture and the southern experience, her multimedia works examine the cognitive effects of cultural assimilation, and how performance is ingrained in identity. Woods earned an MFA in Studio Art from the University of North Carolina at Greensboro and has served as faculty at Virginia Commonwealth University, and in 2017 her work was notably recognized by the South Arts Fellowship, and NC. Arts Council Fellowship.",
+      "affiliation": "Halcyon Arts Lab",
+      "page": 43
+    },
+    {
+      "name": "Laila Al-Arian",
+      "bio": "Laila Al-Arian is a Washington-based journalist and senior producer for Fault Lines, an award-winning current affairs program on Al Jazeera English. She has produced documentaries on subjects ranging from the Trump administration's Muslim ban to abortion restrictions in the U.S., the heroin epidemic's impact on children, and factory conditions in Bangladesh. Laila worked for Al Jazeera English for four years, covering everything from Guantanamo Bay’s youngest detainee to the resettlement of Iraqi refugees in the U.S. Her work has appeared in The Nation, Salon, The Independent, and other publications.",
+      "affiliation": "Al Jazeera English (Fault Lines)",
+      "page": 46
+    },
+    {
+      "name": "Anne Alvergue",
+      "bio": "Anne Alvergue is an award-winning documentary filmmaker and editor. Her short films have screened internationally at film festivals and galleries, including the Pacific Film Archive, Galapagos Gallery, San Francisco Art Institute, Arsenal Berlin, Black Maria, Mill Valley, and Centro De La Imagen. Her editing credits include Love, Gilda; Bully. Coward. Victim: The Story of Roy Cohn; That Way Madness Lies, Museum Town, Being Elmo, Life After Hoop Dreams, Tibet in Song, My Kid Could Paint That, and Married in America. Anne received a Bachelor’s Degree from UC Berkeley and a Master’s Degree in Documentary Film from Stanford University.",
+      "affiliation": null,
+      "page": 46
+    },
+    {
+      "name": "Karim Amer",
+      "bio": "Karim Amer is an Egyptian-American filmmaker based in New York City best known for producing the documentary, The Square (AL MIDAN) (2013). The film was nominated for an Academy Award and received Emmy Awards for Directing, Cinematography, and Editing in 2014. Karim also produced the award-winning documentary, Rafea: Solar Mama (2013), and teamed up with Angelina Jolie to executive produce the Academy Award nominated animated feature, The Breadwinner (2017). His most recent film, The Great Hack, premiered at the 2019 Sundance Film Festival and launched globally on Netflix on July 24th of this year. He is currently in production on a documentary series for HBO about NXIVM.",
+      "affiliation": null,
+      "page": 46
+    },
+    {
+      "name": "Nathalie Applewhite",
+      "bio": "Nathalie Applewhite is the managing director of the Pulitzer Center on Crisis Reporting, a nonprofit journalism organization dedicated to promoting in-depth engagement with global affairs. She has played a key role in the development of the Center's model and approach towards journalism initiatives, multimedia development and educational outreach. She was the managing producer on a number of the Center’s interactive projects, including the Emmy award-winning LiveHopeLove.",
+      "affiliation": "Pulitzer Center on Crisis Reporting",
+      "page": 46
+    },
+    {
+      "name": "Patricia Aufderheide",
+      "bio": "Patricia Aufderheide is University Professor of Communication Studies in the School of Communication at American University in Washington, D.C. She founded the School's Center for Media & Social Impact, where she continues as Senior Research Fellow. Her books include Reclaiming Fair Use: How to Put Balance Back in Copyright (University of Chicago), with Peter Jaszi; Documentary: A Very Short Introduction (Oxford), The Daily Planet (University of Minnesota Press), and Communications Policy in the Public Interest (Guilford Press). She has been a Fulbright Research Fellow twice, in Brazil (1994-5) and Australia (2017).",
+      "affiliation": "American University",
+      "page": 47
+    },
+    {
+      "name": "Edward Baker",
+      "bio": "Edward Baker is Counsel in Constantine Cannon’s DC office. He represents whistleblowers under the False Claims Act. He previously served as an AUSA in CA, and cares deeply about the role of whistleblowers in fostering transparency in government.",
+      "affiliation": "Constantine Cannon",
+      "page": 47
+    },
+    {
+      "name": "Neela Banerjee",
+      "bio": "Neela Banerjee is a Washington-based reporter for Inside Climate News. She led the investigation into Exxon's early climate research, which was a finalist for the 2016 Pulitzer Prize for Public Service reporting and the recipient of nearly a dozen other journalism awards. Before joining ICN, she spent four years as the energy and environmental reporter for the Los Angeles Times' Washington bureau. Banerjee covered global energy, the Iraq War and other issues with The New York Times. She also served as a Moscow correspondent with The Wall Street Journal. Banerjee grew up in southeast Louisiana and graduated from Yale University.",
+      "affiliation": "Inside Climate News",
+      "page": 47
+    },
+    {
+      "name": "Alexia Bedat",
+      "bio": "Alexia Bedat focuses her practice on content review, media law, privacy, internet law, advertising, fair use, and virtual and augmented reality technologies. Prior to joining Klaris Law, Ms. Bedat worked as a law clerk at BuzzFeed, where she supported the news team. She has also worked with law firms specializing in media law in both London and Paris. She is an AR&VR enthusiast and frequently addresses legal challenges in this area, most recently at SXSW in Austin, TX (2018), the Augmented World Expo in Santa Clara, CA (2018) and AR in Action at MIT (2019).",
+      "affiliation": "Klaris Law",
+      "page": 47
+    },
+    {
+      "name": "Laura Beil",
+      "bio": "Laura Beil is an independent journalist specializing in medicine, health policy and science. She was the recipient of the Victor Cohn Prize for Medical Science Reporting in 2018. In addition to being a contributing correspondent at Science News, her work has appeared in numerous publications, including The New York Times, Cosmopolitan, Reader's Digest, Men's Health, and other magazines. She began freelancing in 2007 after working as a medical writer for the Dallas Morning News from 1992 to 2006. In 2018, she reported and hosted the podcast Dr. Death, which has been downloaded more than 50 million times.",
+      "affiliation": null,
+      "page": 48
+    },
+    {
+      "name": "Robin Bell",
+      "bio": "Robin Bell, founder of Bell Visuals, is an award-winning editor, video journalist, and multimedia artist based in Washington, DC. In 2005, he co-produced Operation Ceasefire, a seminal anti-war concert on the National Mall. His feature-length documentary, Positive Force: More Than a Witness: 30 Years of Punk Politics In Action, premiered in 2014. Bell is the director and producer of the Directed Actions Live Film Series and creates permanent public art installations in addition to his ongoing work with ephemeral media forms.",
+      "affiliation": "Bell Visuals",
+      "page": 48
+    },
+    {
+      "name": "Suzette Brewer",
+      "bio": "Suzette Brewer is a writer specializing in federal Indian law, having written extensively on the Indian Child Welfare Act, environmental issues on reservations, the opioid crisis in Indian Country and violence against Native women and children for The Dallas Morning News, The Denver Post, and many others. Her published books include Real Indians: Portraits of Contemporary Native Americans and America's Tribal Colleges; Sovereign: An Oral History of Indian Gaming in America. She is the 2015 recipient of the Richard LaCourse-Gannett Foundation Al Neuharth Investigative Journalism Award for her work on the Indian Child Welfare Act. She is also a 2018 John Jay/Tow Juvenile Justice Reporting Fellow.",
+      "affiliation": null,
+      "page": 48
+    },
+    {
+      "name": "Natalie Bullock Brown",
+      "bio": "Natalie Bullock Brown is the lead strategist of StoryShift, a program of Working Films committed to shifting the way stories are told to ensure accountable and authentic representation of the people and the places featured. She is currently working on her first feature-length documentary film as a director, which will explore beauty standards and their impact on black women and girls. Natalie served as host of Black Issues Forum, a public affairs program on UNC-TV. Natalie maintained a freelance career, providing production, research, and rights clearance consultation for award-winning filmmakers and prestigious media companies and more. Before going freelance, Natalie served as a producer and reporter for UNC-TV.",
+      "affiliation": "Working Films (StoryShift)",
+      "page": 48
+    },
+    {
+      "name": "Katie Campbell",
+      "bio": "Katie Campbell is an Emmy and Edward R. Murrow award-winning filmmaker and journalist at ProPublica. She produces in-depth science stories and recently won a 2019 National Academies of Sciences Keck Communications Award for a project on how levees make flooding worse. Prior to joining ProPublica, she managed video for a CPB-funded public-media environmental reporting partnership, where her investigation into the illegal exportation of electronic waste helped uncover the largest e-recycling fraud in U.S. history. She holds a master’s degree in narrative journalism from the University of Oregon.",
+      "affiliation": "ProPublica",
+      "page": 49
+    },
+    {
+      "name": "Kenyatta Cheese",
+      "bio": "Kenyatta Cheese is a professional internet enthusiast. As co-founder of the audience development agency Everybody at Once, he gets creators to reframe the producer-consumer relationship as systems of participation. As co-creator of the internet meme database Know Your Meme, he has helped the web better understand itself as a vital space of emergent culture. In previous iterations he has worked with the Eyebeam Center for Art and Technology, Manhattan Neighborhood Network, and the online video network Rocketboom.",
+      "affiliation": "Everybody at Once",
+      "page": 49
+    },
+    {
+      "name": "Erika Cheung",
+      "bio": "Erika Cheung was one of the key whistleblowers in the Theranos scandal that stopped the company from processing thousands of patients samples with faulty technology, which has been covered in the book Bad Blood by John Carreyrou, 60 minutes, ABC news, and recently the HBO documentary The Inventor: Out for Blood in the Silicon Valley. Prior to that, she committed herself to grow the entrepreneurial ecosystem in Hong Kong, China, and South East Asia, and spearheaded the foundation of the Betatron, a technology accelerator based in Hong Kong. She founded Spiral Bio, an application-based community facilitating investment and partnerships for healthcare and biotechnology companies across the APAC markets.",
+      "affiliation": null,
+      "page": 49
+    },
+    {
+      "name": "Carrie Cochran",
+      "bio": "Carrie Cochran is a filmmaker and journalist for the Scripps Washington Bureau's investigative team. She worked on the film A Broken Trust, that examines the high prevalence of sexual assault on tribal lands and the federal government’s involvement in the criminal justice on two reservations in the Great Plains. In 2018, Cochran was also the lead producer, lead editor and a cinematographer for the 30-minute documentary Seven Days of Heroin, that was awarded the Pulitzer Prize and National Murrow Award. The National Press Photographers Association named Cochran among the top photojournalism multimedia producers internationally for her video work.",
+      "affiliation": "Scripps Washington Bureau",
+      "page": 49
+    },
+    {
+      "name": "Michael Connor",
+      "bio": "Michael Connor is Program Associate for the Park Foundation, working chiefly with the Media program. He came to Park in 2015 after a long career in journalism. After graduating from Cornell University in 1975, he began newspaper work as a reporter for The Post-Standard in Syracuse, NY, and eventually became managing editor and executive editor of the paper. In 1988-89, he spent a year at Harvard as a Nieman Fellow before returning to the newsroom in Syracuse. During his tenure, The Post-Standard was one of three finalists for a Pulitzer Prize in explanatory reporting for a months-long investigation of shoddy health care in New York State’s prison system, a series that led to reforms in Albany. He left the newspaper in 2013 to spend a year in southern France and upon returning to the US, assisted with the launch of a nonprofit digital news operation in Ithaca.",
+      "affiliation": "Park Foundation",
+      "page": 50
+    },
+    {
+      "name": "Brenda Coughlin",
+      "bio": "Brenda Coughlin is the Director of Producing and Impact Strategy for Sundance Institute. She is part of the Sundance Creative Producing Program and a staff advisor to various granting funds. Brenda’s projects as an independent producer include Academy Award-nominated Dirty Wars (2013), and Laura Poitras’ last two features: CITIZENFOUR (2014), and Risk (2016). She produced Poitras’ 2016 solo exhibition, and Astro Noise, at the Whitney Museum of American Art. With the late historian Howard Zinn, she co-founded the performing arts non-profit Voices of a People’s History, and also produced The People Speak live event documentary series, along with executive producer Matt Damon.",
+      "affiliation": "Sundance Institute",
+      "page": 50
+    },
+    {
+      "name": "Lindsay Crouse",
+      "bio": "Lindsay Crouse is the coordinating producer for The New York Times Op-Docs series. Since joining Op-Docs in 2011, she has worked on nearly 300 short films, VR, and interactive documentaries that won two Emmy Awards, two Peabodys, and two Oscar nominations for best short documentary.",
+      "affiliation": "The New York Times (Op-Docs)",
+      "page": 50
+    },
+    {
+      "name": "Angelica Das",
+      "bio": "Angelica Das is the Senior Program Associate for Engaged Journalism in the Public Square Program at the Democracy Fund, a bipartisan foundation working to ensure that our political system is able to withstand new challenges and deliver on its promise to the American people. She was previously a senior associate with Dot Connector Studio, who collaborates with funders, journalists, and experts to research, develop and produce social impact media projects. Angelica specialized in developing and fostering communities of practice for documentary film, public media, investigative journalism, engaged journalism, and others.",
+      "affiliation": "Democracy Fund",
+      "page": 50
+    },
+    {
+      "name": "Ramona S. Diaz",
+      "bio": "Ramona S. Diaz is an award-winning Asian American filmmaker whose films have ranged in other top-tier film festivals such as Sundance, the Berlinale, Tribeca, and the list goes on. All of Ramona's feature-length films include Imelda (2004), The Learning (2011), Don’t Stop Believin’: Everyman’s Journey (2012) and her latest film, Motherland (2017), which have all been broadcast on PBS. Motherland won an award at the 2017 Sundance Film Festival and it was nominated for an Independent Spirit Award for best Documentary, a Peabody Award, and a Gawad Urian Award from the Filipino Film Critics.",
+      "affiliation": null,
+      "page": 51
+    },
+    {
+      "name": "Wendy Ettinger",
+      "bio": "Wendy Ettinger has been producing narrative films and documentaries for over 20 years. In 2005, she co-founded Chicken & Egg Pictures to fund and mentor women documentary directors whose artful and innovative storytelling catalyzes social change, awarding $7 million in grants and thousands of hours of creative mentorship to approximately 300 filmmakers. In 2013, Wendy co-founded Gamechanger Films, the first equity fund established to finance and invest in woman narrative directors. Gamechanger Films 2 will launch in early 2020.",
+      "affiliation": "Chicken & Egg Pictures",
+      "page": 51
+    },
+    {
+      "name": "Margaux Ewen",
+      "bio": "Margaux Ewen is the executive director of the James W. Foley Legacy Foundation, a non-profit organization founded after the brutal 2014 murder of James Foley, an American freelance journalist, while he was held captive by ISIS in Syria. The foundation’s mission is to advocate for the freedom of all Americans held hostage or unjustly detained abroad and promote the safety of journalists worldwide. The Foundation works with the families of Americans held abroad to push the US government to prioritize their return, and works with educational institutions to develop and implement journalism safety curricula for students of journalism across the country.",
+      "affiliation": "James W. Foley Legacy Foundation",
+      "page": 51
+    },
+    {
+      "name": "Feras Fayyad",
+      "bio": "Feras Fayyad is an award-winning filmmaker who has received particular recognition for his work on contemporary Syrian issues and the political transformation of the Arab world. His most recent film, “Last Men in Aleppo,” earned him a 2018 Academy Award nomination for Best Documentary Feature. The film followed a small group of volunteer rescue workers with the White Helmets civil defense organization. “Last Men in Aleppo” premiered at the 2017 Sundance Film Festival, where it won the Grand Jury Prize in the World Cinema Documentary competition. The film went on to screen at festivals around the globe and received numerous international awards.",
+      "affiliation": null,
+      "page": 51
+    },
+    {
+      "name": "Lauren Feeney",
+      "bio": "Lauren Feeney leads the video team at The Intercept, an online outlet focusing on investigative and adversarial journalism. In addition to The Intercept, her work has been featured on air and online at The New York Times, PBS and Al Jazeera English among other outlets, and in film festivals and events around the world. She divides her time between New York and Boston.",
+      "affiliation": "The Intercept",
+      "page": 52
+    },
+    {
+      "name": "Jennifer Forde",
+      "bio": "Jennifer Forde worked for many years as a television documentary producer, both inside the BBC and at several leading UK production companies. Her impressive litany of credits includes directing and producing on a Royal Television Society Award winning BBC Four documentary series about the national grid, a Grierson-short-listed documentary series about Catholic identity in Britain, and working with Louis Theroux on his series LA Stories. West Cork was her first journey into an audio-exclusive format. Working with Sam Bungey, they then followed up with a podcast series about the UK punk band The Clash, narrated by Chuck D, and serialised earlier this year on Spotify.",
+      "affiliation": null,
+      "page": 52
+    },
+    {
+      "name": "Casey Frank",
+      "bio": "Casey Frank is the senior editor for investigations and enterprise at the Miami Herald. He previously co-founded the weekly Lincoln Park News on the North Side of Chicago. In addition to editing Perversion of Justice, on the travails of Jeffrey Epstein, he was the Herald's editor or co-editor on the Panama Papers, which shared a Pulitzer winner with the International Center for Investigative Journalists and McClatchy, as well as Fight Club (on Florida juvenile justice) and Dirty Gold, Clean Cash (on the plunder of the South American rain forest by gold miners) both Pulitzer finalists over the past two years.",
+      "affiliation": "Miami Herald",
+      "page": 52
+    },
+    {
+      "name": "Theodore Frank",
+      "bio": "Theodore Frank is a Retired Partner at Arnold & Porter Kaye Scholer. He graduated at the University of Texas School of Law in 1966, where he was an editor of the Law Review. He subsequently clerked for Judge Walter P. Gewin of the United States Court of Appeals for the Fifth Circuit and then was Faculty Assistant for the Ames Competition at Law School, where he earned an LL.M. Frank has been practicing communications law for over 45 years.",
+      "affiliation": "Arnold & Porter Kaye Scholer",
+      "page": 52
+    },
+    {
+      "name": "Samara Freemark",
+      "bio": "Samara Freemark is the Co-Creator and Senior Producer of APM Reports’ investigative podcast In the Dark. Prior to that role, she covered education and veterans' issues for American Public Media, worked as a reporter and producer with Radio Diaries, and worked in the newsroom of WUOM Ann Arbor. She’s a two-time recipient of the George Foster Peabody Award, as well as the George Polk Award and other awards. She holds a B.A. from Swarthmore College and an M.A. in Urban Planning from the University of Michigan.",
+      "affiliation": "APM Reports",
+      "page": 53
+    },
+    {
+      "name": "Cassandra Giraldo",
+      "bio": "Cassandra Giraldo is a photojournalist and produced shot long-form, immersive feature stories including “World of Hurt,” at Vice News Tonight. The series highlights communities impacted by the opioid epidemic, and a 24-minute special report “Committed: Kids & the Mental Health Crisis.” Her photography has been exhibited internationally and recognized by various leaders in photojournalism including Getty Images, Instagram, and the National Press Photographers Association. She holds a masters degree from Columbia Journalism School’s Stabile Center for Investigative Reporting.",
+      "affiliation": "Vice News Tonight",
+      "page": 53
+    },
+    {
+      "name": "Delphine Halgand-Mishra",
+      "bio": "Delphine Halgand-Mishra is the Executive Director of The Signals Network, a French-American non-profit organization that supports whistleblowers. She served for six years as Reporters Without Borders’ North America Director, advocating for journalists, bloggers, and media rights worldwide. Delphine regularly appears on American and foreign media, and gives lectures and conferences at universities on issues of press freedom violations. Since graduating from Sciences Po Paris with an M.A. in Journalism, Delphine has worked as an economics correspondent for various French media (such as Le Monde, Les Echos, L’Express), focusing mainly on international politics and macroeconomic issues.",
+      "affiliation": "The Signals Network",
+      "page": 54
+    },
+    {
+      "name": "Sally Hayden",
+      "bio": "Sally Hayden is an Irish journalist focused on migration, human rights and humanitarian crises in efforts to exploit corruption by staff within the United Nations Refugee Agency. She has reported across many international outlets including BBC, Al Jazeera, CNN International and the Irish Times. Her latest series, ‘Asylum For Sale’ was funded by Journalists for Transparency, and focused on Kenya and Uganda. She received first prize in the European Migration Media Awards, best ‘foreign coverage’ at the Newsbrands Irish Journalism Awards, and was a finalist for the Amnesty International Gaby Rado Award for Best New Journalist, the Kurt Schork Awards for International Journalism, and other prestigious awards.",
+      "affiliation": null,
+      "page": 54
+    },
+    {
+      "name": "Hannah Hearn",
+      "bio": "Hannah Hearn is the Impact Coordinator for Working Films. She holds a B.A in Film Studies and a Minor in Entrepreneurship from the University of North Carolina Wilmington. Most recently, she was the Managing Director of Visions Film Festival & Conference and the Sound Mixer for the feature-length documentary “Dead in the Water” - a film that exposes the harmful practices of factory farms in eastern NC. In her current role, she is dedicated to coordinating impactful documentary film campaigns both locally and nationally in order to mobilize communities to create a healthy, fair, and equitable world.",
+      "affiliation": "Working Films",
+      "page": 54
+    },
+    {
+      "name": "Julia Lowrie Henderson",
+      "bio": "Julia Lowrie Henderson is a graduate of the Salt Institute for Documentary Studies. Her radio work has been featured on Studio 360, Maine Public Broadcasting Network, New Hampshire Public Radio, Public Radio Remix, Sirius XM, ESPN, and more. She is a founding producer of ESPN's 30 for 30 Podcasts, and has produced both of their breakout serialized seasons: Bikram and The Sterling Affairs. Her work for ESPN has been nominated for an IDA Award for Best Audio Documentary. Prior to that, she was an associate producer at WNYC’s Studio 360, where she was awarded a 2016 New York Press Club Award. She holds a BFA in theatre from Boston University. She is a radio producer, documentarian, storyteller, actor, and playwright.",
+      "affiliation": "ESPN (30 for 30 Podcasts)",
+      "page": 54
+    },
+    {
+      "name": "Angela M. Hill",
+      "bio": "Angela M. Hill is a national investigative producer for the Scripps Washington Bureau and Newsy, where she reports, produces and writes national television, digital and audio stories. Prior to joining Scripps, Angela was a producer with ABC News’ Investigative Unit based in New York. There she reported and produced stories for World News Tonight, Good Morning America, Nightline, 20/20 and ABCNews.com. Angela’s investigative work has led to congressional hearings, changes in laws and institutional reforms. She has won two Emmy Awards, two Peabody Awards, a George Polk Award, an Edward R. Murrow Award and others.",
+      "affiliation": "Scripps Washington Bureau and Newsy",
+      "page": 55
+    },
+    {
+      "name": "Harlo Holmes",
+      "bio": "Harlo Holmes is the Director of Newsroom Digital Security at Freedom of the Press Foundation. She strives to help individual journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist.",
+      "affiliation": "Freedom of the Press Foundation",
+      "page": 55
+    },
+    {
+      "name": "Melissa J. Houghton",
+      "bio": "Melissa J. Houghton joined Women in Film & Video (WIFV) as Executive Director in August 2005. Since that time, membership has grown to more than 1,000 media professionals; program provision now averages 70 professional development offerings per year along with the Image Makers program for high school students and the Kids World Film Festival for 5th graders. Houghton has served on the boards of the DC Architectural Foundation, DC Film Alliance, and Wide Angle Youth Media. She is currently a member of the WETA Community Council, the FAVS Advisory Board at George Mason University and the Advisory Board for The Actors’ Center.",
+      "affiliation": "Women in Film & Video (WIFV)",
+      "page": 55
+    },
+    {
+      "name": "Mary Inman",
+      "bio": "Mary Inman is a partner in Constantine Cannon’s London Office. She specializes in representing whistleblowers from the U.K., Europe and worldwide under the various American whistleblower reward programs, including the federal and various state False Claims Acts and the SEC, CFTC, IRS and DOT whistleblower programs. Inman's successful representation of three whistleblowers exposing fraud in the Medicare Advantage program was featured in a recent New Yorker magazine article. She is a recognized expert and frequent author and speaker on areas related to the application of the American whistleblower laws internationally and the use of whistleblower laws worldwide.",
+      "affiliation": "Constantine Cannon",
+      "page": 55
+    },
+    {
+      "name": "Jason Fitzroy Jeffers",
+      "bio": "Jason Fitzroy Jeffers is a Barbadian filmmaker and writer whose work has appeared in the Miami Herald and at film festivals such as Sundance and TIFF. Jason is also the co-founder and co-executive director of the Miami-based Caribbean filmmaking and arts collective Third Horizon. Its annual Third Horizon Film Festival celebrates and empowers the new creatives emerging from the region.",
+      "affiliation": "Third Horizon",
+      "page": 56
+    },
+    {
+      "name": "Will Jenkins",
+      "bio": "Will Jenkins has nearly a decade of communications and policy experience at the White House, the U.S. Department of Health and Human Services, and both houses of Congress. He has served as a spokesperson to national and foreign news outlets on a wide range of issues. As a legislative aide in Congress, he guided from introduction to enactment the first legislation to protect American military members from the health effects of toxic burn pits in Iraq and Afghanistan, which has been called “this generation’s Agent Orange.” Over the years, he has worked with dozens of filmmakers to help them understand and engage the policymaking process. He also wrote a guide to politics for filmmakers for Documentary magazine.",
+      "affiliation": null,
+      "page": 56
+    },
+    {
+      "name": "Sylvia Johnson",
+      "bio": "Sylvia Johnson is a filmmaker and impact strategist. She currently splits her time as Creative Director between Free Roaming Studios, a small production company dedicated to visual storytelling to inspire action, and the Santa Fe Dreamers Project, a non-profit immigration legal services organization. Sylvia uses visual storytelling to increase understanding of our shared humanity and connection to the natural world. Her work has screened at film festivals, US Congress, the Department of Interior, and dozens of universities and civic institutions. She is currently a National Geographic Explorer for her upcoming film project, Mermaids Against Plastic.",
+      "affiliation": "Free Roaming Studios / Santa Fe Dreamers Project",
+      "page": 56
+    },
+    {
+      "name": "Barbara Kopple",
+      "bio": "Barbara Kopple two-time Academy Award-winning documentarian, is one of the most respected and accomplished filmmakers working today. Barbara’s two Oscars for Harlan County, USA and American Dream make her the only woman filmmaker honored by the Academy with duplicate wins. Her unique ability to capture authentic human moments places her films beyond category, documenting subjects as diverse as Woody Allen on tour with his jazz band in Wild Man Blues, Mike Tyson’s story in Fallen Champ, and the Dixie Chicks in Shut Up and Sing. Barbara’s most recent documentary projects include, Hot Type: 150 Years of the Nation about America’s oldest continuously published weekly magazine, and Miss Sharon Jones!",
+      "affiliation": null,
+      "page": 56
+    },
+    {
+      "name": "Sarah Larson",
+      "bio": "Sarah Larson is a staff writer at The New Yorker. She covers a wide range of cultural subjects, including pop music, television, theatre, and books, and writes Podcast Dept., a weekly column about podcasts, for newyorker.com.",
+      "affiliation": "The New Yorker",
+      "page": 57
+    },
+    {
+      "name": "Luke Lorentzen",
+      "bio": "Luke Lorentzen is a filmmaker and producer whose work explores elements of everyday life questioning and experimenting with the ways in which non-fiction stories are told. His first film, Santa Cruz del Islote (2014) won awards at over ten international film festivals including the San Francisco International, Full Frame Documentary and Chicago International. His undergraduate thesis, New York Cuts (2015), premiered at the International Documentary Festival Amsterdam and Camden International Film Festival. Midnight Family (2019), which tells the story of a family-run ambulance business in Mexico City, won a Special Jury Award for Cinematography at the Sundance Film Festival.",
+      "affiliation": null,
+      "page": 57
+    },
+    {
+      "name": "Wesley Lowery",
+      "bio": "Wesley Lowery is a Pulitzer Prize-winning national correspondent covering law enforcement, race and justice for The Washington Post and an on-air contributor for CNN. He has been the paper’s lead reporter covering police shootings and the Black Lives Matter protest movement. His work has also appeared in the Boston Globe, the Los Angeles Times, the Wall Street Journal and Sports Illustrated. His first book, the New York Times bestseller They Can’t Kill Us All, was awarded the 2017 Christopher Isherwood prize for autobiographical prose by the Los Angeles Times Book Prizes.",
+      "affiliation": "The Washington Post",
+      "page": 57
+    },
+    {
+      "name": "Carrie Lozano",
+      "bio": "Carrie Lozano is director of IDA's Enterprise Documentary Fund, and is a lecturer at UC Berkeley's Graduate School of Journalism Documentary Program. She was previously executive producer for documentaries at Al Jazeera America and senior producer of the network’s investigative series Fault Lines, where her team garnered numerous awards, including an Emmy, a Peabody, and several Headliner Awards. Prior to AJAM, she was director of operations for New Day Films..",
+      "affiliation": "International Documentary Association (Enterprise Documentary Fund)",
+      "page": 57
+    },
+    {
+      "name": "Maren Machles",
+      "bio": "Maren Machles is an investigative journalist whose natural curiosity leads her investigate systemic issues. She has a passion for telling important stories that hold people accountable in a way that makes people think differently. Maren is currently a national investigative associate producer for Newsy and the E.W. Scripps Company, where she creates long-from investigative work with her team members. Prior to her role on the investigative team, she received her Bachelor of Science in journalism at the E.W. Scripps School of Journalism at Ohio University in 2016. During her studies, she had internships with the Scripps Howard Foundation Wire, Narrative.ly and the Long Beach Post.",
+      "affiliation": "Newsy / E.W. Scripps Company",
+      "page": 58
+    },
+    {
+      "name": "Palika Makam",
+      "bio": "Palika Makam has produced video advocacy campaigns and trained activists in using video as a tool for justice all over the world. Additionally, she is the US Senior Program Coordinator at WITNESS and uses her advocacy to lead a project (Eyes on ICE) that supports directly impacted immigrant communities and allies to document abuses by ICE and Border Patrol. Palika is also the cofounder of The Babel Project – a nonprofit that teaches youth activists to use storytelling and documentary film to advocate for their communities and specific policy change.",
+      "affiliation": "WITNESS",
+      "page": 58
+    },
+    {
+      "name": "Olivia Martin",
+      "bio": "Olivia Martin is a Digital Security Trainer at Freedom of the Press Foundation, where she trains members of the media on digital security awareness. A graduate of NYU's Gallatin School of Individualized Study, her professional work focuses on researching and delivering digital security trainings to journalists, activists, and human rights defenders. She has spent years in newsrooms as a designer and editor with new media and student publications, and uses this experience to aid in assessing the evolving needs of journalists in today's media landscape.",
+      "affiliation": "Freedom of the Press Foundation",
+      "page": 58
+    },
+    {
+      "name": "Eric Matthies",
+      "bio": "Eric Matthies is a cross-platform creative who believes that artistic expression is a vital means of addressing critical issues and that storytelling is a powerful tool for improving the world in which we live. He has worked as a director and producer across a number of genres - from large scale installations to major motion pictures, broadcast specials, web series, multi-platform content packages, site-based VR, world-building R&D, live events and traditional documentaries. Through a combination of rigorous investigative research, Eric’s current focus is on work that contributes to the betterment of our culture, our society, and our planet.",
+      "affiliation": null,
+      "page": 58
+    },
+    {
+      "name": "Debra McClutchy",
+      "bio": "Debra McClutchy is an independent filmmaker based in Brooklyn, NY. she was co-producer of The Booksellers, a documentary about the New York rare book world. She’s also a senior creative producer at Oscilloscope Laboratories, a film distribution company in New York City. Debra joined Oscilloscope in 2009 and produces home video extra features and digital content such as The House that Yauch Built, an online, multimedia experience about the company. Previously, she was a producer for The Criterion Collection, and an associate producer in documentary television in San Francisco, where she won an Emmy Award for A Matter of Seconds, a program about the 1989 earthquake.",
+      "affiliation": "Oscilloscope Laboratories",
+      "page": 59
+    },
+    {
+      "name": "Ivy Meeropol",
+      "bio": "Ivy Meeropol directed and produced the HBO documentary BULLY. COWARD. VICTIM. THE STORY OF ROY COHN, which will premiere at the 2019 New York Film Festival. Also two short films for the Emmy Award-winning documentary series YEARS OF LIVING DANGEROUSLY, and INDIAN POINT. She was the senior story producer for the 2017 CNN Films feature-length documentary THE END: THE FINAL DAYS INSIDE THE OBAMA WHITE HOUSE. Other litany of work include DEATH ROW STORIES, THE HILL, and HEIR TO AN EXECUTION, which explored the legacy of her grandparents, Ethel and Julius Rosenberg.",
+      "affiliation": null,
+      "page": 59
+    },
+    {
+      "name": "Dana Merwin",
+      "bio": "Dana Merwin is the Program Officer at the International Documentary Association. Prior to joining IDA, Dana was the production manager for Al Jazeera America's documentary unit and the Peabody Award winning series Fault Lines. She was the Director of Operations for Jupiter Entertainment in Los Angeles, where she oversaw delivery of docu-reality series to various cable channels. She has served as a production manager on numerous film and television productions.",
+      "affiliation": "International Documentary Association",
+      "page": 59
+    },
+    {
+      "name": "Emily Michot",
+      "bio": "Emily Michot has been a staff photographer and videographer at the Miami Herald. Michot has worked as the visual journalist with the Miami Herald’s I-Team on some of their most acclaimed projects, including License to Launder and Fight Club, that won Pulitzer-prize. This past year, Michot spent a year working on interviewing young women who were sexually abused by multimillionaire Jeffrey Epstein. The series, Perversion of Justice, examined how Alexander Acosta, a future Trump Cabinet member, gave Epstein a secret plea deal that allowed him to escape a life sentence in federal prison. Epstein was arrested eight months after the series ran, and was later found dead in his jail cell from what has been ruled a suicide.",
+      "affiliation": "Miami Herald",
+      "page": 59
+    },
+    {
+      "name": "Alexander A. Mora",
+      "bio": "Alexander A. Mora is a first-time filmmaker with a background in architecture, policy and the law. Keenly interested in international rights-based advocacy, he was an active member on the board of Yale Law School’s Human Rights and Development Journal before directing “The Nightcrawlers.” His persistent desire to find greater synergy between his passion for creative storytelling and his dedication to rights-based advocacy led to his first foray into narrative documentary filmmaking.",
+      "affiliation": null,
+      "page": 60
+    },
+    {
+      "name": "Tom Mueller",
+      "bio": "Tom Mueller is a New York Times-bestselling author and reporter. He has reported from 22 countries on a wide range of topics, with recent emphasis on fraud and institutional corruption. His latest book is Crisis of Conscience: Whistleblowing in an Age of Fraud, traces the rise of whistleblowing as a legal and social phenomenon. It also explores the societal, economic and psychological drivers of whistleblowing, which include institutional corruption, revolving door and other extreme conflict of interest situations, the cult of secrecy and the psychoactive nature of money.",
+      "affiliation": null,
+      "page": 60
+    },
+    {
+      "name": "Molly Murphy",
+      "bio": "Molly Murphy co-directs Working Films, a nonprofit organization that uses documentary film to advance social justice and environmental protection. In her eighteen year tenure, she has planned and directed national media engagement campaigns, facilitated partnerships and coordinated coalitions centered on the use of documentaries to enhance communication. Molly has designed and led dozens of trainings for filmmakers, grassroots organizations, and NGOs focused on using film and online media to effect change. She leads the Docs In Action initiative for Working Films, which provides finishing funds to short films and campaign strategy development at no cost to underrepresented documentary makers.",
+      "affiliation": "Working Films",
+      "page": 60
+    },
+    {
+      "name": "Jacqueline Olive",
+      "bio": "Jacqueline Olive is an independent filmmaker and immersive media producer with more than a decade of experience in journalism and film. Her debut feature documentary, Always in Season, premiered at the 2019 Sundance Film Festival and was awarded the Special Jury Prize for Moral Urgency. Jackie also co-directed and co-produced the award-winning thesis film, Black to Our Roots, which broadcast on PBS WORLD in 2009. Prior to that, Jackie is producing an accompanying VR project that uses 360° video and computer-generated imagery (CGI) animation offering users strategies for moving confidently through the racialized public spaces that black women navigate daily.",
+      "affiliation": null,
+      "page": 60
+    },
+    {
+      "name": "Lauren Pabst",
+      "bio": "Lauren Pabst is a Senior Program Officer in the Journalism and Media program at the John D. and Catherine T. MacArthur Foundation. In this role, she is involved in organizations’ funding of professional nonprofit reporting, nonfiction multimedia storytelling and participatory civic media. Previously she worked with the Rada Film Group, Black Public Media, and Public Policy Productions.",
+      "affiliation": "John D. and Catherine T. MacArthur Foundation",
+      "page": 61
+    },
+    {
+      "name": "Janice Page",
+      "bio": "Janice Page is the Arts Editor at The Washington Post. She was previously Deputy Managing Editor for Arts and Newsroom Innovation at The Boston Globe, where she led efforts to expand the reach of The Globe’s journalism through book, film and television deals, podcasts and live events. Janice has had a long, distinguished career in features editing. She was a reporter and arts and entertainment editor at the Los Angeles Times and the executive producer of the Boston site of MSN/Sidewalk.com. She got her start in features at the Providence Journal-Bulletin.",
+      "affiliation": "The Washington Post",
+      "page": 61
+    },
+    {
+      "name": "Andrea Passafiume",
+      "bio": "Andrea Passafiume is the Program Manager for Docs In Progress, where she is responsible for managing the organization's educational and professional development programs for adults and youth. Concurrently, she is Assistant Programmer of documentaries for the Tribeca Film Festival. She has served on the Screening Committees for DOC NYC and Camden International Film Festival as well as numerous film juries and panels. Passafiume is also a regular contributing writer for Turner Classic Movies and FilmStruck, and co-wrote the tribute book for the AFI Life Achievement Award presented to Steve Martin in 2015.",
+      "affiliation": "Docs In Progress",
+      "page": 61
+    },
+    {
+      "name": "Amanda Pike",
+      "bio": "Amanda Pike leads the TV and documentary department at The Center for Investigative Reporting, developing and overseeing CIR's documentary films and series as well as TV news reports and animated shorts. Under her leadership, The Center for Investigative Reporting garnered its first Academy Award nomination, a duPont and four national Emmys, among other accolades. She was the executive producer of the inaugural year of the Glassbreaker Films initiative, supporting women in documentary filmmaking and investigative journalism. Previously, she spent the last 15 years reporting and producing documentaries for PBS, CBS, ABC, National Geographic, and The Learning Channel, among others.",
+      "affiliation": "The Center for Investigative Reporting",
+      "page": 61
+    },
+    {
+      "name": "Courtney C. Radsch",
+      "bio": "Courtney C. Radsch, Ph.D, is advocacy director at the Committee to Protect Journalists. She serves as chief spokesperson on global press freedom issues for the organization and oversees CPJ's engagement on other multilateral institutions as well as CPJ's campaigns on behalf of journalists killed and imprisoned for their work. As a veteran journalist, researcher, and free expression advocate, she frequently writes and speaks about the intersection of media, technology, and human rights. Radsch worked for UNESCO, edited the flagship publication \"World Trends in Freedom of Expression and Media Development,\" and managed the Global Freedom of Expression Campaign at Freedom House.",
+      "affiliation": "Committee to Protect Journalists",
+      "page": 62
+    },
+    {
+      "name": "Sara Rafsky",
+      "bio": "Sara Rafsky is the Safe+Secure Executive-at-large at Doc Society and a Senior Research Fellow at the Tow Center for Digital Journalism at Columbia at University. She was previously a researcher at the Open Documentary Lab at MIT, where she received her MS in Comparative Media Studies, and a Google News Lab Fellow at Witness. Prior to that she was the Researcher on Central America at Amnesty International in Mexico City and the Americas Research Associate for the Committee to Protect Journalists in New York, where she reported on press freedom and human rights issues in the United States and Latin America.",
+      "affiliation": "Doc Society",
+      "page": 62
+    },
+    {
+      "name": "Susanne Reber",
+      "bio": "Susanne Reber is an award-winning investigative editor, executive producer and author. She is currently leading the podcast team at the E. W. Scripps Washington Bureau. Her work has garnered her three Peabody Awards, an Emmy award, and a DuPont award, among many others, and has been showcased in national and international film festivals. She is the co-founder of Reveal and the former executive editor of the Peabody Award-winning investigative radio program and podcast. Prior to joining Scripps she held leadership roles at The Center for Investigative Reporting.",
+      "affiliation": "E. W. Scripps Washington Bureau",
+      "page": 62
+    },
+    {
+      "name": "Heidi Reinberg",
+      "bio": "Heidi Reinberg is currently producing the UNTITLED CRIMINAL JUSTICE / HS PROJECT alongside that film’s director, Emmy winner Maisie Crow. Additionally, she served as Consulting Producer on director Tania Cypriano’s Born to Be, which will premiere at this fall’s New York Film Festival. Reinberg produced the ITVS co-production 93Queen, which won the inaugural Hot Docs Forum first look Pitch Prize before premiering at the Hot Docs Documentary Festival. Most recently, Reinberg worked with Oscar winners Ross Kauffman and Cynthia Wade, and award-winning directors Mai Iskander and Jeremiah Zagar.",
+      "affiliation": null,
+      "page": 62
+    },
+    {
+      "name": "Jay Rosen",
+      "bio": "Jay Rosen has been teaching journalism at New York University since 1986. He is the author of PressThink, a blog about journalism and its ordeals. In 1999, Yale University Press published his book, What Are Journalists For?, which is about the rise of the civic journalism movement during the pre-internet era. In 2017 he became director of the Membership Puzzle Project, funded by the Knight Foundation, Democracy Fund, and Luminate. It studies membership models for sustainability in the news. Rosen is also an active press critic with a focus on problems in the coverage of politics.",
+      "affiliation": "New York University",
+      "page": 63
+    },
+    {
+      "name": "Kenneth Rosenberg",
+      "bio": "Dr. Kenneth Rosenberg has been making award-winning documentaries for over thirty years. Aired on PBS, he co-produced and co-directed (with Ruth Neuwald Falcon) An Alzheimer’s Story and directed and produced Through Madness. For HBO, he produced and directed Coming Out In America (Oscar short list), Back from Madness, Drinking Apart, and Executive-Produced the Peabody Award-winning Cancer: Evolution To Revolution. A practicing psychiatrist and author of medical textbooks, his films have been recognized by the American Medical Association, the American Psychiatric Association, the National Institute on Drug Abuse, the New England Journal of Medicine, the National Alliance for the Mentally Ill, and the Robert Wood Johnson Foundation.",
+      "affiliation": null,
+      "page": 63
+    },
+    {
+      "name": "Tina Rosenberg",
+      "bio": "Tina Rosenberg is co-writer of the New York Times Fixes column and co-founder of the Solutions Journalism Network. She is a longtime New York Times writer, for the editorial page and Sunday magazine as well as Fixes. She has written hundreds of magazine articles for publications such as The New Yorker, The Atlantic and Rolling Stone as well as the Times Sunday magazine. She has also written three books: Children of Cain: Violence and the Violent in Latin America; The Haunted Land: Facing Europe's Ghosts After Communism; and Join the Club: How Peer Pressure Can Transform the World. She won the Pulitzer Prize and the National Book Award for Haunted Land.",
+      "affiliation": "Solutions Journalism Network",
+      "page": 63
+    },
+    {
+      "name": "Felix Salmon",
+      "bio": "Felix Salmon, the chief financial correspondent at Axios, is an award-winning writer, editor, and podcaster. The host of the weekly Slate Money podcast, he was previously the finance blogger at Roubini Global Economics, Condé Nast Portfolio, and Reuters.",
+      "affiliation": "Axios",
+      "page": 63
+    },
+    {
+      "name": "Juliana Schatz",
+      "bio": "Juliana Schatz is a documentary film producer and director. In 2018 she was nominated for a Livingston Award for Young Journalists. Juliana started her career at the award-winning investigative series Frontline, where she contributed to 11 public affairs documentaries -- including two Emmy Award winners and one Peabody Award winner. Her work with PBS FRONTLINE, The GroundTruth Project, Al Jazeera and Sender Films has taken her from the peaks of Giza to the sky-high Rocky Mountains.",
+      "affiliation": null,
+      "page": 64
+    },
+    {
+      "name": "Hilke Schellmann",
+      "bio": "Hilke Schellmann is an assistant professor of journalism at New York University and an Emmy-award winning investigative reporter. She is currently a showrunner and reporter for The Wall Street Journal's high-profile video series Moving Upstream. As an independent filmmaker, Schellmann shot, produced and directed the investigative documentary Outlawed in Pakistan, which aired on FRONTLINE. The documentary was recognized with an Emmy, an Overseas Press Club and a Cinema for Peace Award.",
+      "affiliation": "New York University",
+      "page": 64
+    },
+    {
+      "name": "Gunita Singh",
+      "bio": "Gunita Singh is the Jack Nelson/Dow Jones Foundation Legal Fellow at the Reporters Committee for Freedom of the Press, where she assists with litigation and amicus work with a focus on FOIA and public records. Prior to joining the Reporters Committee, she was a staff attorney at Property of the People, a DC-based nonprofit that uses FOIA to foster transparency and accountability. She graduated from Georgetown University Law Center in 2017.",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 64
+    },
+    {
+      "name": "Andalusia Knoll Soloff",
+      "bio": "Andalusia Knoll Soloff is an award-winning multimedia journalist based in Mexico City, and a freelance video producer for Al Jazeera, Democracy Now!, VICE News, BBC, ZDF, TeleSUR, and NBC Latino. Her reporting focuses on human resilience and dignity in the face of disappearances, state violence, land struggles and gender-based murders in Latin America. She is the founder and coordinator of the new journalist organization, Frontline Freelance México, collaborates with the Mexican Periodistas de a Pie network and has been active in the press freedom movement in Mexico. She is the author of the graphic novel Alive You Took Them, about the 43 disappeared Ayotzinapa students.",
+      "affiliation": null,
+      "page": 64
+    },
+    {
+      "name": "Courtney Symone Staton",
+      "bio": "Courtney Symone Staton, lead producer of “Silence Sam” from Greenville NC, is an activist who uses poetry, film and photography to celebrate the everyday heroism in protest and black identity. She serves as a lead producer and impact producer of “Silence Sam,” a participatory documentary about the student-led movement to remove Confederate monument “Silent Sam” from the campus of the University of North Carolina - Chapel Hill and the resulting silencing of student activism. A 2018 Next Doc Fellow, she uses her art to drive viewers past the point of empathy to the point of healing and action.",
+      "affiliation": null,
+      "page": 65
+    },
+    {
+      "name": "Michèle Stephenson",
+      "bio": "Michèle Stephenson, co-founding member of the Rada Film Group, filmmaker, artist and author, pulls from her Panamanian and Haitian roots and international experience as a human rights attorney to tell provocative stories in a variety of media that speak to personal and systemic liberation. Her work has appeared on a variety of broadcast and web platforms, including PBS, Showtime and MTV. Her documentary,”American Promise,”was nominated for three Emmys including Best Documentary and Best News Coverage of a Contemporary Issue. The film also won the Jury Prize at Sundance, and was selected for the New York Film Festivals’ Main Slate Program.",
+      "affiliation": "Rada Film Group",
+      "page": 65
+    },
+    {
+      "name": "Jeffrey Sterling",
+      "bio": "Jeffrey Sterling is former CIA case officer who was wrongfully convicted of violating the Espionage Act. Working for nearly a decade, Jeffrey sued the agency for racial discrimination, and also went through proper channels to tell both Congressional intelligence committees about the discrimination he faced at the CIA and about a botched and dangerous covert operation. His discrimination suit was not allowed to go forward as the government successfully argued it posed a threat to national security.After released from prison in 2018, he advocates in his book, Unwanted Spy - The Persecution of an American Whistleblower, expected on October 15, 2019.",
+      "affiliation": null,
+      "page": 65
+    },
+    {
+      "name": "Ricki Stern",
+      "bio": "Directors and writers Ricki Stern and Annie Sundberg are the leading creative forces behind Break Thru Films and are known for crafting deft and cinematic journeys through unexpected territory. Break Thru Films recently completed a 5-part documentary series for AMC that explores the 1986 murder of Jennifer Levin in New York City and the trial that ensued for Robert Chambers in “Preppy Murder: Death in Central Park.” Other films include: Joan Rivers – A Piece of Work (2010), The Devil Came On Horseback (2008) and The Trials of Darryl Hunt (2007).",
+      "affiliation": "Break Thru Films",
+      "page": 65
+    },
+    {
+      "name": "Annie Sundberg",
+      "bio": "Directors and writers Ricki Stern and Annie Sundberg are the leading creative forces behind Break Thru Films and are known for crafting deft and cinematic journeys through unexpected territory. Break Thru Films recently completed a 5-part documentary series for AMC that explores the 1986 murder of Jennifer Levin in New York City and the trial that ensued for Robert Chambers in “Preppy Murder: Death in Central Park.” Other films include: Joan Rivers – A Piece of Work (2010), The Devil Came On Horseback (2008) and The Trials of Darryl Hunt (2007).",
+      "affiliation": "Break Thru Films",
+      "page": 65
+    },
+    {
+      "name": "Joel Stonington",
+      "bio": "Joel Stonington has worked in journalism for more than a decade, writing about energy, crime, politics and other topics. He has previously reported for The New York Times, The Wall Street Journal, Los Angeles Times, The Guardian, New York Magazine, Bloomberg Businessweek, Der Spiegel, MSNBC and ABC News. Stonington has received fellowships and funding to support reporting from the Kiplinger Program in Public Affairs Journalism, Humboldt Foundation and Carnegie Corporation.",
+      "affiliation": null,
+      "page": 66
+    },
+    {
+      "name": "Jess Swanson",
+      "bio": "Jess Swanson is the senior editor of American Airlines' American Way and Celebrated Living magazines, and a part-time lecturer at the University of Miami. A graduate of Columbia University School of Journalism, she has written for Fort Lauderdale Magazine, Venice, Miami New Times and the Village Voice.",
+      "affiliation": "American Way and Celebrated Living magazines",
+      "page": 66
+    },
+    {
+      "name": "Emily Taguchi",
+      "bio": "Emily Taguchi is a producer for Nightline, and a filmmaker whose work has been recognized with multiple Emmy nominations and a duPont-Columbia Award. Her most recent film, \"After Parkland,\" premiered at the Tribeca Film Festival this year and continues screening at festivals around the country. She produced films Taller Than The Trees (AFI, Tribeca) and Growing Up Trans. Her next project with co-director Jake Lefferman, follows the journeys of asylum seekers from Central America.Born in Tokyo, Japan, Emily graduated from Tufts University and the Graduate School of Journalism at the University of California at Berkeley.",
+      "affiliation": "Nightline",
+      "page": 66
+    },
+    {
+      "name": "Zach Toombs",
+      "bio": "Zach Toombs is a reporter and documentary producer. He heads up the Newsy Documentaries unit, with projects on Prime Video and Hulu. His work has been recognized with an Emmy nomination and 2 National Murrow Awards.",
+      "affiliation": "Newsy",
+      "page": 67
+    },
+    {
+      "name": "Jenn Topper",
+      "bio": "Jenn Topper, the communications director for Reporters Committee, oversees the development of communications and messaging strategies to advance the RCFP mission and leads efforts to engage more people with the organization’s work. Prior to joining the Reporters Committee, Jenn was the communications director at the Sunlight Foundation, an organization that worked to make government more transparent and accountable. In addition to leading Sunlight’s communications team, Jenn oversaw the organization’s strategy around the 2016 election and managed key projects on anti-corruption efforts and criminal justice reform.",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 67
+    },
+    {
+      "name": "Yatziri Tovar",
+      "bio": "Yatziri Tovar was born in Mexico and migrated to the Bronx in New York City with her family when she was a toddler. Yatziri became a Deferred Action for Childhood Arrivals (DACA) recipient in 2013. She has previously worked as a college counselor helping immigrant youth navigate the college application process, interned at the office of a private immigration attorney and worked at the Consulate General of Mexico in New York. At the same time, she continued her advocacy work as a member of Make the Road New York (MRNY), where she has spoke at various press conferences and rallies. Since then she has appeared in both local and national news outlets to share her experiences as an immigrant, student, and activist.",
+      "affiliation": null,
+      "page": 67
+    },
+    {
+      "name": "Katie Townsend",
+      "bio": "Katie Townsend is the Litigation Director at the Reporters Committee for Freedom of the Press an unincorporated nonprofit association of reporters and editors based in Washington, D.C. Townsend oversees the direct litigation work of RCFP attorneys, and represents RCFP, news organizations, and individual journalists. Before, Townsend was an associate in the Los Angeles office of Gibson Dunn & Crutcher LLP, where she specialized in media and entertainment litigation. She was named part of the \"Next Gen - Hollywood's Up-and-Coming Execs 35 and Under\" by the Hollywood Reporter.",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 67
+    },
+    {
+      "name": "Christiaan Triebert",
+      "bio": "Christiaan Triebert is an award-winning investigative journalist on the Visual Investigations team at The New York Times. Triebert worked as a senior investigator and lead trainer at the investigative group Bellingcat, which ranged from a variety of countries including Asia, the Middle East, Europe and Latin America. In 2017, he won a European Press Prize Innovation Award for his reconstruction of the attempted military coup in Turkey using leaked WhatsApp messages and social media content. In 2018, Triebert worked with the World Press Photo Foundation to fact-check and verify each and every winning image and its captions of for the world’s leading photojournalism contest.",
+      "affiliation": "The New York Times",
+      "page": 68
+    },
+    {
+      "name": "Lea Trusty",
+      "bio": "Lea Trusty is a program assistant at the Democracy Fund, a bipartisan foundation working to ensure that our political system is able to withstand new challenges and deliver on its promise to the American people. Trusty supports the Public Square Program in its mission to invest in innovations and institutions that focus on creating audience-centered, trusted, resilient newsrooms that reflect the diversity of their communities. She co-leads Democracy Fund’s Engaged Journalism strategy with Paul Waters.",
+      "affiliation": "Democracy Fund",
+      "page": 68
+    },
+    {
+      "name": "Nicole Tsien",
+      "bio": "Nicole Tsien is the Co-Producer at POV. As a member of the programming and production team, she manages film submissions, oversees pre-screeners, and contributes to the curation and production of the series",
+      "affiliation": "POV",
+      "page": 68
+    },
+    {
+      "name": "Michelle Vaughan",
+      "bio": "Michelle Vaughan grew up surrounded by art. She spent 3 years in a traditional program until moving to a conceptual one at UCLA. That education shaped her approach to art and she got to study under many accomplished artists. After graduating, Michelle took more technical art classes and continues to learn new skills when necessary. She is a project-based artist primarily making drawings and prints but will expand into various mediums and sometimes collaborate with other artists. Topics include politics, history and art history, sociology, science and occasionally food. Michelle lives with her husband, Felix Salmon, in a Brutalist tower in Chinatown, NYC.",
+      "affiliation": null,
+      "page": 68
+    },
+    {
+      "name": "Orlando von Einsiedel",
+      "bio": "Orlando von Einsiedel is the multi-award-winning director of the Oscar-nominated Netflix short documentary, “The White Helmets.” His first feature, the BAFTA- and Academy Award- nominated documentary “Virunga,” won more than 50 international honors, including an Emmy, a Peabody, a Grierson and a DuPont-Columbia Award for outstanding journalism. Einsiedel is drawn to telling inspiring human narratives from around the world, frequently combining intimate personal stories with powerful visual aesthetics and in-depth investigations. He has worked in every continent, often in impenetrable and difficult environments, from pirate boats to war zones.",
+      "affiliation": null,
+      "page": 69
+    },
+    {
+      "name": "Chloe Walters Wallace",
+      "bio": "Chloe Walters Wallace is the manager of the Firelight Media Documentary Lab, a fellowship that provides mentorship, funding, and access to first- and second-time filmmakers from racially and ethnically underrepresented communities, as well as “Groundwork,” a new Firelight initiative, which aims to expand the pipeline of emerging independent filmmakers from the South and the Midwest by providing an introduction to the opportunities across the documentary landscape.",
+      "affiliation": "Firelight Media",
+      "page": 69
+    },
+    {
+      "name": "Nanfu Wang",
+      "bio": "Nanfu Wang is a Chinese filmmaker based in New York City. She directed and produced feature documentaries Hooligan Sparrow, I Am Another You and One Child Nation. Wang is the recipient of two Emmy nominations, an Independent Spirit Award, a Peabody Award, Cinema Eye Honor, George Polk Award, IDA award, and 20 other honors. Originally from a remote village in China, Wang overcame poverty and a lack of access to formal education en route to earning her master’s, in which she teaches cinematography and editing at one of the three universities she studied at, New York University.",
+      "affiliation": null,
+      "page": 69
+    },
+    {
+      "name": "Claire Wardle",
+      "bio": "Claire Wardle currently leads the strategic direction and research for First Draft. In 2017 she co-authored the seminal report, Information Disorder: An interdisciplinary Framework for Research and Policy for the Council of Europe. Previous to that she was a Fellow at the Shorenstein Center for Media, Politics and Public Policy at Harvard’s Kennedy School, the Research Director at the Tow Center for Digital Journalism at Columbia University Graduate School of Journalism and head of social media for the United Nations Refugee Agency.",
+      "affiliation": "First Draft",
+      "page": 69
+    },
+    {
+      "name": "Aisha White",
+      "bio": "Aisha White is the Program Manager for Halcyon Arts Lab where she works to build bridges for artist looking to make an impact within their communities. Her background in community engagement and sustainable development has informed her passion for socially engaged art. As Program Manager she works with socially and civically engaged artist to help grow their practices and impact. She has 6 years of experience in cultural policy, international development, arts administration and social enterprise. She holds a B.A. in Business Administration from the Universities of Pittsburgh and an interdisciplinary degree in Arts, Enterprise and Development from the Center for Cultural and Media Policy Studies at the University of Warwick.",
+      "affiliation": "Halcyon Arts Lab",
+      "page": 70
+    },
+    {
+      "name": "Marco Williams",
+      "bio": "Marco Williams is an award-winning documentary filmmaker and professor of film production at New York University’s Tisch School of the Arts. He has been nominated three times for the Sundance Film Festival grand jury prize. Williams’ most recent completed film is “The Undocumented,” a PBS broadcast/Independent Lens feature-length cinema verite documentary addressing the deaths of illegal border crossers in Arizona’s border region.",
+      "affiliation": "New York University Tisch School of the Arts",
+      "page": 70
+    },
+    {
+      "name": "Shayna Wilson",
+      "bio": "Shayna Wilson currently serves in a dual role as an Independent Living Advocate for the deaf & hard of hearing at The Independence Unlimited Center, and as a Vocational Advocate for the deaf and hard of hearing for the Disabilities Network of Eastern Connecticut. Shayna began learning American sign language while taking parent sign language classes at the school for the deaf when her daughter was just 3 years old in 2004. Shayna is the founder of a community-based organization called NexIzNow, an organization that promotes advocacy through a holistic perspective in the greater Hartford area and abroad. Shayna remains passionate about advocacy for all families with children with disabilities.",
+      "affiliation": "The Independence Unlimited Center",
+      "page": 70
+    },
+    {
+      "name": "Lisa Zycherman",
+      "bio": "Lisa Zycherman represents and counsels clients on a wide range of issues in First Amendment, media and intellectual property law, including libel, copyright, trademark, right of publicity, privacy and newsgathering matters. Zycherman also advises newspaper, magazine, website, television, film and book-publishing clients on pre-publication and pre-broadcast legal issues.",
+      "affiliation": null,
+      "page": 70
+    }
+  ],
+  "awards": [],
+  "organizers": [
+    {
+      "name": "Margaret Ebrahim",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Brett A. Pulley",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Kathy Davidov",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Susanne Reber",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Ron Nixon",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Founder and Co-director"
+    },
+    {
+      "name": "Sky Sitney",
+      "role": "Co-creator and Co-director"
+    },
+    {
+      "name": "Marika Adair",
+      "role": "Festival Manager"
+    },
+    {
+      "name": "Marga Varea",
+      "role": "Outreach & Engagement Director"
+    },
+    {
+      "name": "Lindsay Baxter",
+      "role": "DX Access/Pitch Producer"
+    },
+    {
+      "name": "Mirel González",
+      "role": "Hospitality Coordinator"
+    },
+    {
+      "name": "Arden Fitzpatrick",
+      "role": "Volunteer Coordinator"
+    },
+    {
+      "name": "Johanna Schiller",
+      "role": "Revenue Consultant"
+    },
+    {
+      "name": "Ivory Zorich",
+      "role": "Event Producer"
+    },
+    {
+      "name": "Carolina Kroon",
+      "role": "Event Photographer"
+    },
+    {
+      "name": "Adam Segal",
+      "role": "PR Manager"
+    },
+    {
+      "name": "Rose Horowitz",
+      "role": "Social Media Consultant"
+    },
+    {
+      "name": "Tina Marie Sorrow",
+      "role": "Trailer Creator"
+    },
+    {
+      "name": "Workhorse",
+      "role": "Graphic Design Firm"
+    },
+    {
+      "name": "Byron Campbell",
+      "role": "Festival Assistant"
+    },
+    {
+      "name": "Isabelle De Rita",
+      "role": "Festival Assistant"
+    }
+  ],
+  "notes": "Cover title reads 'Double Exposure: Investigative Film Festival & Symposium', October 10-13, 2019, Washington, DC; the co-directors' letter calls it the fifth edition. No festival theme or tagline is printed. No awards are listed (page 29 is an IDA ad congratulating Enterprise Documentary Fund grantees). Pages 1 (cover), 2 (MacArthur Foundation logo), 23, 29, 72-76 are cover/sponsor/ad pages and were skipped; page 71 lists affinity and media partners (skipped as sponsors). Page 22 text layer contains a hidden leftover from an earlier catalogue ('FRIDAY, OCT 2, 6PM Panel Discussion following screening with special guests Scott Shane, Tom Blanton, Mark Mazzetti, Daniel Zwerdling and Sabrina Buchwalter') that is not visible on the rendered page; ignored. Discrepancies: The Cave is 'US Premiere. 90 min.' on its film page (used) but 'DC Premiere. 102 min.' in the schedule (p9). Film pages 21 (Poppy Crash) and 25 (The Nightcrawlers) carry template headers 'SUNDAY, OCTOBER 22, 5:00 PM'; screening times taken from their shorts programs (Program 1: Sat Oct 12 5:00 PM, p20; Program 2: Sun Oct 13 12:00 PM, p24; the p9 schedule mislabels Oct 13 as Saturday). Shorts program runtimes: Program 1 48 min, Program 2 76 min. Schedule lists 'Nightcrawlers' and 'Juliana Schatz'; film pages say 'The Nightcrawlers' and 'Juliana Schatz Preston' (used). The post-screening discussion notes for the shorts programs are printed on the last film page of each program (Poppy Crash, The Nightcrawlers) and apply to the program. The Undertow: schedule p10 says 4:15-5:30 PM, detail p33 says 4:00-5:30 PM (detail used). #MeToo 2.0 detail p33 prints '9:30 AM - 10:45 PM' (taken as 10:45 AM, per schedule). Docs in Progress Pitch: schedule p11 says 9:30-10:45 AM, detail p45 says 9:45 AM-12:15 PM, Salon (detail used). DX Access / Pitch runs Thursday Oct 10 and Friday Oct 11 (date field gives the first day). FOIA workshop title is '...for Journalists and Documentary Filmmakers' in the schedule (p12) and '...for Journalists and Filmmakers' on p36. Session spelling 'Laila Al-Ariah' (p12, p38) normalised to 'Laila Al-Arian' as in her bio. Name variants kept as printed in sessions: Delphine Halgand (bio: Delphine Halgand-Mishra), Chloe Walters-Wallace (bio: Chloe Walters Wallace), Ramona Diaz (bio: Ramona S. Diaz), Courtney Radsch (bio: Courtney C. Radsch), Kenneth Paul Rosenberg (bio: Dr. Kenneth Rosenberg), Juliana Schatz Preston (film) / Juliana Schatz (panel, bio). Desert One subject 'Cyntia Seiffert' kept as printed; military ranks moved into affiliation. Ricki Stern and Annie Sundberg share one bio, printed twice (p65 and p66). Bios with no session/film role in the catalogue: Suzette Brewer, Michael Connor, Angelica Das, Margaux Ewen, Hannah Hearn, Angela M. Hill, Melissa J. Houghton, Will Jenkins, Olivia Martin, Andrea Passafiume, Sara Rafsky, Joel Stonington, Aisha White (likely DX Access/pitch participants, not stated). Halcyon House fellow bios (p42-43) are included in people. Breakfasts and lunches from the schedule are included as kind 'other'."
+}

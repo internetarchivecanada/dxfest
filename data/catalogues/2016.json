@@ -1,0 +1,1279 @@
+{
+  "year": 2016,
+  "edition_name": "Double Exposure Investigative Film Festival",
+  "dates": "October 6-8, 2016",
+  "theme": null,
+  "venues": [
+    {
+      "name": "National Portrait Gallery",
+      "address": "8th St NW & F St NW, Washington, DC 20001"
+    },
+    {
+      "name": "National Press Club",
+      "address": "13th Floor, 529 14th Street NW, Washington, DC 20045"
+    },
+    {
+      "name": "Hotel Monaco",
+      "address": "700 F Street NW, Washington, DC 20004"
+    }
+  ],
+  "films": [
+    {
+      "title": "The Ivory Game",
+      "directors": [
+        "Kief Davidson",
+        "Richard Ladkani"
+      ],
+      "country": null,
+      "film_year": 2016,
+      "runtime_min": 116,
+      "premiere": "DC Premiere",
+      "slot": "Opening Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2016-10-06",
+        "time": "7:00 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "With over 150,000 elephants killed in the past five years for their tusks, THE IVORY GAME documents the urgent plight of the African elephant as it falls victim to a vast underground trade, where a single kilogram of ivory can sell for $3,000. With astonishing footage and a globe-spanning investigation, the film follows the work of wildlife activists, investigators and a Chinese journalist who risk their own lives to take down poachers in Africa and black marketeers in Asia, in a daring effort to save the last remaining elephants. Along the way, the young journalist reexamines the time-honored role of the investigative reporter as uninvolved observer of wrongdoing.",
+      "after_screening": "Post-screening discussion to follow with: Kief Davidson, co-director, THE IVORY GAME; Richard Ladkani, co-director, THE IVORY GAME; Andrea Crosta, executive director and co-founder, WildLeaks; Hongxiang Huang, independent journalist.",
+      "people": [
+        {
+          "name": "Kief Davidson",
+          "role": "director",
+          "title": "co-director"
+        },
+        {
+          "name": "Richard Ladkani",
+          "role": "director",
+          "title": "co-director"
+        },
+        {
+          "name": "Andrea Crosta",
+          "role": "discussant",
+          "title": "executive director and co-founder, WildLeaks"
+        },
+        {
+          "name": "Hongxiang Huang",
+          "role": "subject",
+          "title": "independent journalist"
+        }
+      ],
+      "page": 13
+    },
+    {
+      "title": "A Leak in Paradise",
+      "directors": [
+        "David LeLoup"
+      ],
+      "country": null,
+      "film_year": 2016,
+      "runtime_min": 76,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2016-10-07",
+        "time": "3:30 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "A LEAK IN PARADISE follows Swiss whistleblower Rudolf Elmer, a former senior banking executive who first leaked highly secretive banking data to WikiLeaks. Elmer faced criminal prosecution at home and became a social outcast, but his disclosures unleashed a torrent of investigative reporting on the vast sums hidden away in secret bank accounts and tax havens across the globe. They also prompted demands from Washington for greater transparency at Swiss banks.",
+      "after_screening": "Post-screening discussion to follow with: David LeLoup, director, A LEAK IN PARADISE; Eric Lipton, journalist, The New York Times; Rudolf Elmer, film subject.",
+      "people": [
+        {
+          "name": "David LeLoup",
+          "role": "director"
+        },
+        {
+          "name": "Eric Lipton",
+          "role": "discussant",
+          "title": "journalist, The New York Times"
+        },
+        {
+          "name": "Rudolf Elmer",
+          "role": "subject",
+          "title": "film subject"
+        }
+      ],
+      "page": 14
+    },
+    {
+      "title": "All Governments Lie: Truth, Deception, and the Spirit of I.F. Stone",
+      "directors": [
+        "Fred Peabody"
+      ],
+      "country": null,
+      "film_year": 2016,
+      "runtime_min": 91,
+      "premiere": "US Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2016-10-07",
+        "time": "6:00 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "I.F. Stone was a legend in investigative reporting. Operating from the assumption that “all governments lie,” Stone combed through the government’s own records to expose falsehoods surrounding some of the biggest stories of his generation from the 1950s through the 1970s. This film follows adversarial journalists who operate in Stone’s spirit–Amy Goodman, Glenn Greenwald, Jeremy Scahill, and Matt Taibbi– and whose critical, investigative reporting provides alternatives to mainstream news outlets.",
+      "after_screening": "Post-screening discussion to follow with: Moderator, Ray Suarez, journalist; Fred Peabody, director; Peter Raymont, producer; Dan Froomkin, Washington editor, The Intercept; Myra MacPherson, author, All Governments Lie; Peter Stone, journalist and grandson to I.F. Stone.",
+      "people": [
+        {
+          "name": "Fred Peabody",
+          "role": "director"
+        },
+        {
+          "name": "Ray Suarez",
+          "role": "moderator",
+          "title": "journalist"
+        },
+        {
+          "name": "Peter Raymont",
+          "role": "producer"
+        },
+        {
+          "name": "Dan Froomkin",
+          "role": "discussant",
+          "title": "Washington editor, The Intercept"
+        },
+        {
+          "name": "Myra MacPherson",
+          "role": "discussant",
+          "title": "author, All Governments Lie"
+        },
+        {
+          "name": "Peter H. Stone",
+          "role": "discussant",
+          "title": "journalist and grandson to I.F. Stone"
+        }
+      ],
+      "page": 15
+    },
+    {
+      "title": "Betting on Zero",
+      "directors": [
+        "Ted Braun"
+      ],
+      "country": null,
+      "film_year": 2016,
+      "runtime_min": 96,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2016-10-07",
+        "time": "8:30 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "Can Wall Street be used as a force for morality? Ted Braun’s (DARFUR NOW) riveting financial docu-thriller BETTING ON ZERO follows a to-the-death battle driven by hedge fund manager Bill Ackman, who is on a crusade to bring down Herbalife, the nutritional supplement company whose business model, he asserts, is an illegal pyramid scheme. While Ackman accuses the company of targeting working class Latino communities with a “business opportunity” that is nothing more than a sham, Herbalife execs in turn accuse Ackman of attempting to bankrupt them solely in order to make a killing off his billion dollar short position against the company.",
+      "after_screening": "Post-screening discussion to follow with: Moderator Ricardo Sandoval-Palos, journalist; Ted Braun, director; Bill Ackman, film subject; Julie Contreres, activist/ subject.",
+      "people": [
+        {
+          "name": "Ted Braun",
+          "role": "director"
+        },
+        {
+          "name": "Ricardo Sandoval-Palos",
+          "role": "moderator",
+          "title": "journalist"
+        },
+        {
+          "name": "William A. Ackman",
+          "role": "subject",
+          "title": "film subject"
+        },
+        {
+          "name": "Julie Contreras",
+          "role": "subject",
+          "title": "activist/ subject"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "Fire at Sea (Fuocoammare)",
+      "directors": [
+        "Gianfranco Rosi"
+      ],
+      "country": null,
+      "film_year": 2016,
+      "runtime_min": 108,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2016-10-08",
+        "time": "12:00 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "The sleepy Italian island of Lampedusa, some 70 miles from Tunisia, has become a most unexpected travel destination: it is the first stop for hundreds of thousands of refugees streaming into Europe to escape conflict, poverty and persecution throughout Africa and the Middle East. FIRE AT SEA, which won the Berlin Film Festival’s prestigious Golden Bear Award, offers a startlingly poignant glimpse into the small island’s culture as its people encounter waves of desperate newcomers packed into rickety fishing boats, many of whom die before reaching Lampedusa’s coast. As the residents of Lampedusa attempt to go about the quotidian aspects of their day, one of the world’s most tragic crises is literally washing up on their shores.",
+      "after_screening": "Post-screening discussion to follow with: Moderator Ron Nixon, journalist, The New York Times; Kathleen Newland, senior fellow, author, Migration Policy Institute.",
+      "people": [
+        {
+          "name": "Gianfranco Rosi",
+          "role": "director"
+        },
+        {
+          "name": "Ron Nixon",
+          "role": "moderator",
+          "title": "journalist, The New York Times"
+        },
+        {
+          "name": "Kathleen Newland",
+          "role": "discussant",
+          "title": "senior fellow, author, Migration Policy Institute"
+        }
+      ],
+      "page": 17
+    },
+    {
+      "title": "Sour Grapes",
+      "directors": [
+        "Jerry Rothwell",
+        "Reuben Atlas"
+      ],
+      "country": null,
+      "film_year": 2016,
+      "runtime_min": 86,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2016-10-08",
+        "time": "3:00 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "Rudy Kurniawan, an affable 20-something of unknown provenance, burst on the world of fine wine in a big way, turning up at auctions and bidding high on rare burgundies. Casual, friendly and irreverent, he was rumored to be from a wealthy family, and praised for his authoritative palate. He was also an ingenious fraud, mixing California reds with off-year vintages in his LA kitchen, to lucrative effect. SOUR GRAPES introduces audiences to a cast of characters who indulge themselves with $20,000 bottles of wine and a whole lot of hype, as filmmakers Jerry Rothwell and Reuben Atlas unravel the mystery of the man who befriended, and promptly swindled, wine collectors out of tens of millions of dollars.",
+      "after_screening": "Panel discussion following screening with: Moderator Manuel Roig-Franzia, national feature reporter, The Washington Post; Maureen Downey, film subject and fine wine expert.",
+      "people": [
+        {
+          "name": "Jerry Rothwell",
+          "role": "director"
+        },
+        {
+          "name": "Reuben Atlas",
+          "role": "director"
+        },
+        {
+          "name": "Manuel Roig-Franzia",
+          "role": "moderator",
+          "title": "national feature reporter, The Washington Post"
+        },
+        {
+          "name": "Maureen Downey",
+          "role": "subject",
+          "title": "film subject and fine wine expert"
+        }
+      ],
+      "page": 18
+    },
+    {
+      "title": "Solitary",
+      "directors": [
+        "Kristi Jacobson"
+      ],
+      "country": null,
+      "film_year": 2016,
+      "runtime_min": 82,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2016-10-08",
+        "time": "5:30 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "Though it is considered a form of torture in much of the world, the use of solitary confinement to punish and control prison inmates has grown exponentially in the United States, with an estimated 100,000 people held in isolation in prisons across the country. Inmates are relegated to cramped cells for months and years at a time, typically following administrative decisions by prison officials that are never reviewed by courts or subject to outside oversight in any way. Filmmaker Kristi Jacobson spent a year delving into the lives of guards and inmates at Red Onion State Prison in southern Virginia, one of more than 40 so-called “supermax” prisons built to hold prisoners in solitary confinement indefinitely, to produce a revelatory film about an unforgiving world hidden from public view.",
+      "after_screening": "Panel discussion following screening with: Moderator Lisa Armstrong, freelance journalist; Kristi Jacobson, director, SOLITARY; Pete Earley, author, The Hot House: Life Inside Leavenworth Prison.",
+      "people": [
+        {
+          "name": "Kristi Jacobson",
+          "role": "director"
+        },
+        {
+          "name": "Lisa Armstrong",
+          "role": "moderator",
+          "title": "freelance journalist"
+        },
+        {
+          "name": "Pete Earley",
+          "role": "discussant",
+          "title": "author, The Hot House: Life Inside Leavenworth Prison"
+        }
+      ],
+      "page": 19
+    },
+    {
+      "title": "Abacus: Small Enough to Jail",
+      "directors": [
+        "Steve James"
+      ],
+      "country": null,
+      "film_year": 2016,
+      "runtime_min": 90,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2016-10-08",
+        "time": "8:00 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "With unprecedented access and intimate detail, celebrated documentary filmmaker, Steve James (HOOP DREAMS, STEVIE, LIFE ITSELF) tells the saga of the Chinese immigrant Sung family, whose family-run bank, Abacus Federal Savings of Chinatown, New York, becomes the only U.S. bank to face criminal charges in the wake of the 2008 financial crisis. The indictment and subsequent trial forces the members of Sung family to defend themselves – and their bank’s legacy in the Chinatown community – over the course of a five-year legal battle, unflinchingly captured in ABACUS: SMALL ENOUGH TO JAIL.",
+      "after_screening": "Panel discussion following screening with: Moderator James Jacoby, producer, Frontline; Steve James, director; Dave Lindorff, journalist; Ti-Hua Chang, journalist; Vera Sung, film subject.",
+      "people": [
+        {
+          "name": "Steve James",
+          "role": "director"
+        },
+        {
+          "name": "James Jacoby",
+          "role": "moderator",
+          "title": "producer, Frontline"
+        },
+        {
+          "name": "Dave Lindorff",
+          "role": "discussant",
+          "title": "journalist"
+        },
+        {
+          "name": "Ti-Hua Chang",
+          "role": "discussant",
+          "title": "journalist"
+        },
+        {
+          "name": "Vera Sung",
+          "role": "subject",
+          "title": "film subject"
+        }
+      ],
+      "page": 20
+    }
+  ],
+  "sessions": [
+    {
+      "title": "Opening Conversation",
+      "kind": "conversation",
+      "date": "2016-10-06",
+      "time": "9:30 AM",
+      "end_time": "10:15 AM",
+      "venue": "National Press Club, Holeman Lounge",
+      "description": "At its core, investigative journalists and filmmakers whose work is inspired by the investigative instinct are motivated to expose a truth otherwise concealed from public view. These truths, more often than not, shed light on a significant injustice such as criminal misconduct in the police force, or off-shore tax havens for the wealthy. Both in print and on screen, investigative works are committed to tackling the question of what is being concealed; what is the lie? But we seldom pause to ask, why do we lie? Filmmaker Yael Melamede of (DIS)HONESTY:THE TRUTH ABOUT LIES, explores this question through the lens of behavioral science, and uncovers some unexpected truths about why we lie.",
+      "people": [
+        {
+          "name": "Yael Melamede",
+          "role": "speaker",
+          "title": "director and creator of (DIS)HONESTY: THE TRUTH ABOUT LIES"
+        }
+      ],
+      "related_films": [
+        "(Dis)Honesty: The Truth About Lies"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Truth: Ecstatic or Earthbound?",
+      "kind": "panel",
+      "date": "2016-10-06",
+      "time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "venue": "National Press Club, Holeman Lounge",
+      "description": "The traditions of filmmaking and journalism are distinct, as are the demands of the form and with that, the truth they seek. For investigative journalists, truth at its best is grounded in evidence and fact, and accuracy is king. Filmmaker Werner Herzog describes a kind of truth that is the enemy of the merely factual; an “ecstatic truth” that is untethered to fact, conveyed by tapping into the viewer’s imagination. He goes further: “Only in this state of sublimity does something deeper become possible.” As filmmakers and traditional journalists increasingly venture into each other’s terrain, the questions around how they define truth and how they reach it are nearing a fever pitch.",
+      "people": [
+        {
+          "name": "Franklin Foer",
+          "role": "moderator",
+          "title": "contributing editor, Slate"
+        },
+        {
+          "name": "Caitlin Dickerson",
+          "role": "panelist",
+          "title": "national correspondent, The New York Times"
+        },
+        {
+          "name": "James Solomon",
+          "role": "panelist",
+          "title": "director, THE WITNESS"
+        },
+        {
+          "name": "Elyse Steinberg",
+          "role": "panelist",
+          "title": "co-director, WEINER"
+        }
+      ],
+      "related_films": [
+        "The Witness",
+        "Weiner"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Fact Checking Workshop",
+      "kind": "workshop",
+      "date": "2016-10-06",
+      "time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "venue": "National Press Club, Zenger Room",
+      "description": "Fact checking may not be a sexy undertaking, but it plays a vital role in journalism. Filmmakers, particularly those working in the documentary mode and making films inspired by the investigative instinct, often lack the institutional infrastructure that supports fact checking as part of their production process. How do filmmakers go about verifying the veracity of their claims, or those of their film subjects? Penny Lane, director of NUTS! and a self-described fact-checking junkie, took an innovative approach by creating an interactive database of over 300 detailed “footnotes” which serves as a companion to NUTS! Each footnote provides detailed context about the truth status of a given claim or image presented in the film and is tagged with a “ truth value”.",
+      "people": [
+        {
+          "name": "Penny Lane",
+          "role": "instructor",
+          "title": "director, NUTS!"
+        }
+      ],
+      "related_films": [
+        "Nuts!"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Investigations with an Agenda: Navigating Loaded Terrain",
+      "kind": "panel",
+      "date": "2016-10-06",
+      "time": "1:15 PM",
+      "end_time": "2:45 PM",
+      "venue": "National Press Club, Holeman Lounge",
+      "description": "Journalists and filmmakers are often not first on the scene of a promising story. Sometimes, investigators paid by private clients--investment groups, political parties, advocacy groups, even a person wronged--have gathered information, and seek a reporter or filmmaker to carry their work forward. But how should such material be treated, if at all? How can an independent filmmaker or journalist evaluate the findings of an investigation produced for a private client? Sometimes, the original investigation has influenced the atmosphere surrounding further inquiry. What sensitivities and traps lie in wait when not just the information has been polarized, but the method of obtaining it? In an environment where the power of a reporter, whether in film or print, derives from an impartial stance, how does one protect both the perception and reality of an independent and fair-minded inquiry?",
+      "people": [
+        {
+          "name": "Richard Behar",
+          "role": "moderator",
+          "title": "contributing editor, Forbes"
+        },
+        {
+          "name": "Ted Braun",
+          "role": "panelist",
+          "title": "director, BETTING ON ZERO"
+        },
+        {
+          "name": "Andrea Crosta",
+          "role": "panelist",
+          "title": "founder, WildLeaks"
+        },
+        {
+          "name": "Hongxiang Huang",
+          "role": "panelist",
+          "title": "investigative journalist"
+        },
+        {
+          "name": "Christine Richard",
+          "role": "panelist",
+          "title": "journalist"
+        },
+        {
+          "name": "Glenn Simpson",
+          "role": "panelist",
+          "title": "partner, Fusion GPS"
+        }
+      ],
+      "related_films": [
+        "Betting on Zero",
+        "The Ivory Game"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Meet the Platforms Workshop",
+      "kind": "workshop",
+      "date": "2016-10-06",
+      "time": "1:15 PM",
+      "end_time": "2:45 PM",
+      "venue": "National Press Club, Zenger Room",
+      "description": "As the audiences shrink for deep dive investigations and longform stories told solely in words, news organizations are increasingly tapping a variety of media to convey complex stories. Hear from individuals who are at the forefront of this new wave of short form visual journalism.",
+      "people": [
+        {
+          "name": "Simon Kilmurry",
+          "role": "moderator",
+          "title": "executive director, International Documentary Association (IDA)"
+        },
+        {
+          "name": "Jeremy Campbell",
+          "role": "speaker",
+          "title": "executive storyteller, TEGNA Media"
+        },
+        {
+          "name": "Kathleen Lingo",
+          "role": "speaker",
+          "title": "producer, New York Times Op-Docs"
+        },
+        {
+          "name": "Michael I Schiller",
+          "role": "speaker",
+          "title": "creative director, Reveal"
+        }
+      ],
+      "related_films": [],
+      "page": 25
+    },
+    {
+      "title": "Meet the Funders Workshop",
+      "kind": "workshop",
+      "date": "2016-10-06",
+      "time": "3:00 PM",
+      "end_time": "4:30 PM",
+      "venue": "National Press Club, Holeman Lounge",
+      "description": "Straight talk from the people who make it all possible. Hear from the leading funders of documentary and investigative filmmaking on their strategies, the kinds of projects they’ve supported in the past, and what they hope to achieve by investing in filmmaking in the future.",
+      "people": [
+        {
+          "name": "Wendy Ettinger",
+          "role": "speaker",
+          "title": "co-founder, Chicken & Egg Pictures"
+        },
+        {
+          "name": "Maxyne Franklin",
+          "role": "speaker",
+          "title": "director, BRITDOC"
+        },
+        {
+          "name": "Richard Logan",
+          "role": "speaker",
+          "title": "president, The Reva & David Logan Foundation"
+        }
+      ],
+      "related_films": [],
+      "page": 25
+    },
+    {
+      "title": "Lightning Talks: Race/Related: A Collaboration between The New York Times and POV | American Documentary",
+      "kind": "other",
+      "date": "2016-10-06",
+      "time": "3:30 PM",
+      "end_time": "4:00 PM",
+      "venue": "National Press Club, Zenger Room",
+      "description": null,
+      "people": [
+        {
+          "name": "Alexandra Garcia",
+          "role": "speaker",
+          "title": "senior video journalist, The New York Times"
+        },
+        {
+          "name": "Adnaan Wasey",
+          "role": "speaker",
+          "title": "executive producer, POV Digital"
+        }
+      ],
+      "related_films": [],
+      "page": 25
+    },
+    {
+      "title": "Lightning Talks: International Documentary Association (IDA) - Documentary/Journalism Initiatives",
+      "kind": "other",
+      "date": "2016-10-06",
+      "time": "4:00 PM",
+      "end_time": "4:30 PM",
+      "venue": "National Press Club, Zenger Room",
+      "description": null,
+      "people": [
+        {
+          "name": "Simon Kilmurry",
+          "role": "speaker",
+          "title": "executive director, International Documentary Association (IDA)"
+        },
+        {
+          "name": "Carrie Lozano",
+          "role": "speaker",
+          "title": "journalist and independent filmmaker"
+        }
+      ],
+      "related_films": [],
+      "page": 25
+    },
+    {
+      "title": "Color Bars: Race, Police Conduct and the Camera’s Eye",
+      "kind": "panel",
+      "date": "2016-10-07",
+      "time": "9:30 AM",
+      "end_time": "11:00 AM",
+      "venue": "National Press Club, Holeman Lounge",
+      "description": "Race is a critical factor in American life. It plays a disproportionate role in the criminal justice system, where African Americans are overwhelmingly represented as victims and suspects, felons and prisoners. Since 1991, when an eyewitness camera caught the encounter between an unknown taxi driver, Rodney King, and members of the Los Angeles police force, cameras have become a ubiquitous presence, capturing scenes that challenge police accounts of encounters with black men and women that end in violence or death. From a long-form documentary on the rapid militarization of the police force in the United States, beginning on the streets of Ferguson, Missouri, to a multi-platform project on counter-surveillance that directly intersects the public debate over police accountability, to the immediacy of citizen journalism, this panel will explore how investigative filmmaking is reshaping the way we consider the relationship between the police and communities of color.",
+      "people": [
+        {
+          "name": "Cheryl W. Thompson",
+          "role": "moderator",
+          "title": "investigative reporter, the Washington Post, associate professor, School of Media and Public Affairs, George Washington University"
+        },
+        {
+          "name": "Craig Atkinson",
+          "role": "panelist",
+          "title": "director, DO NOT RESIST"
+        },
+        {
+          "name": "Lyric R. Cabral",
+          "role": "panelist",
+          "title": "director, (T)ERROR"
+        },
+        {
+          "name": "Gan Golan",
+          "role": "panelist",
+          "title": "artistic director, The Argus Project"
+        },
+        {
+          "name": "Jamie Kalven",
+          "role": "panelist",
+          "title": "founder, The Invisible Institute"
+        },
+        {
+          "name": "Kevin Christopher Seltzer",
+          "role": "panelist",
+          "title": "citizen journalist on Ferguson, Missouri"
+        },
+        {
+          "name": "Julien A. Terrell",
+          "role": "panelist",
+          "title": "producer, The Argus Project"
+        }
+      ],
+      "related_films": [
+        "Do Not Resist",
+        "(T)ERROR"
+      ],
+      "page": 26
+    },
+    {
+      "title": "First Person Singular: Investigations Born through Personal Experience",
+      "kind": "panel",
+      "date": "2016-10-07",
+      "time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "venue": "National Press Club, Zenger Room",
+      "description": "A brother’s murder in Scotland leads to combing through rubble in Libya, in a decades-long search for his killer. An assault on a child triggers an odyssey through the criminal justice system. A career spent behind the camera shooting footage from all around the world prompts the cameraperson to turn the lens on herself. Where deeply felt experience propels a search for answers, there is more than just another story at stake.\n\nThe quest poses an inherent challenge — to be both observer and observed, to live in the event and simultaneously step back. The results can prove startlingly personal and broadly illuminating at once, as singular as a fingerprint.",
+      "people": [
+        {
+          "name": "Carrie Lozano",
+          "role": "moderator",
+          "title": "journalist and independent filmmaker"
+        },
+        {
+          "name": "Ken Dornstein",
+          "role": "panelist",
+          "title": "director, MY BROTHER’S BOMBER and author of The Boy who Fell from the Sky"
+        },
+        {
+          "name": "Kirsten Johnson",
+          "role": "panelist",
+          "title": "director, CAMERAPERSON"
+        },
+        {
+          "name": "Tennessee Jane Watson",
+          "role": "panelist",
+          "title": "investigative reporter, Reveal"
+        }
+      ],
+      "related_films": [
+        "My Brother’s Bomber",
+        "Cameraperson"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Unlocking Prison: A Case Study",
+      "kind": "panel",
+      "date": "2016-10-07",
+      "time": "11:15 AM",
+      "end_time": "12:45 PM",
+      "venue": "National Press Club, Holeman Lounge",
+      "description": "The United States has just under five percent of the world’s population, but accounts for nearly a quarter of the planet’s population behind bars. Since 1978, the share of Americans in jail or prison has increased more than 400 percent. Supermax prisons, built to hold large numbers of inmates in solitary confinement for months or years, dot the landscape. And yet this world stands apart, a mystery to most citizens. We’ll look at ways that different investigative storytellers have unlocked the doors to take audiences inside lockup. How do these distinct approaches not just reach audiences, but impact them.",
+      "people": [
+        {
+          "name": "Phillip Martin",
+          "role": "moderator",
+          "title": "WGBH Boston"
+        },
+        {
+          "name": "Pete Earley",
+          "role": "panelist",
+          "title": "author, The Hot House: Life Inside Leavenworth Prison"
+        },
+        {
+          "name": "Kristi Jacobson",
+          "role": "panelist",
+          "title": "director, SOLITARY"
+        },
+        {
+          "name": "Ed Pilkington",
+          "role": "panelist",
+          "title": "chief reporter, The Guardian - 6x9 virtual reality project"
+        },
+        {
+          "name": "Michael I Schiller",
+          "role": "panelist",
+          "title": "executive producer, Reveal"
+        }
+      ],
+      "related_films": [
+        "Solitary"
+      ],
+      "page": 27
+    },
+    {
+      "title": "Spilling the Secrets of Secrecy Jurisdictions",
+      "kind": "panel",
+      "date": "2016-10-07",
+      "time": "1:45 PM",
+      "end_time": "3:00 PM",
+      "venue": "National Press Club, Holeman Lounge",
+      "description": "What do King Salman of Saudi Arabia, Icelandic Prime Minister Sigmundur David Gunnlaugsson, Ukrainian President Petro Poroshenko and the movie star Jackie Chan have in common?\n\nTheir names all turned up in the Panama Papers, the biggest known leak of documents in history, detailing how a financial services firm in Panama hid billions of dollars from tax authorities for the rich and powerful, using an array of shell companies and proxy owners to confuse the trail and protect the anonymity of wealthy clients. How to translate this deliberately bewildering movement of cash into a compelling story, in print and on screen?",
+      "people": [
+        {
+          "name": "Elisabeth Bumiller",
+          "role": "moderator",
+          "title": "Washington bureau chief, The New York Times"
+        },
+        {
+          "name": "Jake Bernstein",
+          "role": "panelist",
+          "title": "author, Secrecy World"
+        },
+        {
+          "name": "Catherine Dunn",
+          "role": "panelist",
+          "title": "investigative reporter, Fusion"
+        },
+        {
+          "name": "Marina Walker Guevara",
+          "role": "panelist",
+          "title": "senior editor and project manager, International Consortium of Investigative Journalists (ICIJ)"
+        },
+        {
+          "name": "David LeLoup",
+          "role": "panelist",
+          "title": "director, A LEAK IN PARADISE"
+        }
+      ],
+      "related_films": [
+        "A Leak in Paradise"
+      ],
+      "page": 27
+    },
+    {
+      "title": "Lightning Talks: The Argus Project",
+      "kind": "other",
+      "date": "2016-10-07",
+      "time": "2:15 PM",
+      "end_time": "2:45 PM",
+      "venue": "National Press Club, Zenger Room",
+      "description": "A series of quick-fire presentations will introduce audiences to a range of innovative projects, initiatives, and collaborations in the field.",
+      "people": [
+        {
+          "name": "Gan Golan",
+          "role": "speaker",
+          "title": "artistic director"
+        },
+        {
+          "name": "Julien A. Terrell",
+          "role": "speaker",
+          "title": "producer"
+        }
+      ],
+      "related_films": [],
+      "page": 28
+    },
+    {
+      "title": "Lightning Talks: The Truth Box",
+      "kind": "other",
+      "date": "2016-10-07",
+      "time": "2:45 PM",
+      "end_time": "3:15 PM",
+      "venue": "National Press Club, Zenger Room",
+      "description": "A series of quick-fire presentations will introduce audiences to a range of innovative projects, initiatives, and collaborations in the field.",
+      "people": [
+        {
+          "name": "Yael Melamede",
+          "role": "speaker",
+          "title": "producer and creator (DIS)HONESTY: THE TRUTH ABOUT LIES"
+        }
+      ],
+      "related_films": [
+        "(Dis)Honesty: The Truth About Lies"
+      ],
+      "page": 28
+    },
+    {
+      "title": "Closing Plenary: A Conversation with Ezra Edelman",
+      "kind": "conversation",
+      "date": "2016-10-07",
+      "time": "3:30 PM",
+      "end_time": "4:45 PM",
+      "venue": "National Press Club, Holeman Lounge",
+      "description": "One of this year’s most talked about projects is a five-part, 464-minute documentary film that is as epic in its length as it is in its achievements. Ezra Edelman’s, O.J.: MADE IN AMERICA, follows the life of Simpson from his early days growing up in San Francisco through his incarceration in Nevada’s Lovelock Correctional Center, where he remains to this day. Hailed as a masterwork of scholarship, journalism and cinematic art, the film has been meticulously researched and constructed out of hundreds of hours of archival footage, and over 65 new interviews.",
+      "people": [
+        {
+          "name": "Ann Hornaday",
+          "role": "moderator",
+          "title": "chief film critic, The Washington Post"
+        },
+        {
+          "name": "Ezra Edelman",
+          "role": "speaker",
+          "title": "director, O.J.: MADE IN AMERICA"
+        }
+      ],
+      "related_films": [
+        "O.J.: Made in America"
+      ],
+      "page": 28
+    }
+  ],
+  "people": [
+    {
+      "name": "William A. Ackman",
+      "bio": "William A. Ackman is the chief executive officer of Pershing Square Capital Management and also serves as its portfolio manager. He may be best known for his “massive short” on Herbalife — a weight loss and nutritional supplement – which Ackerman believes is a pyramid scheme, and which is the subject of the film, BETTING ON ZERO.",
+      "affiliation": "Pershing Square Capital Management",
+      "page": 29
+    },
+    {
+      "name": "Lisa Armstrong",
+      "bio": "Lisa Armstrong reported from Haiti from 2010 to 2014 through grants from the Pulitzer Center on Crisis Reporting and New York University. She has been featured on NPR and the BBC, discussing rape in the camps in Haiti and HIV/AIDS in the aftermath of the earthquake, and has received several awards, including the National Press Club’s Joan Friedenberg Award for Online Journalism for her work in Haiti.",
+      "affiliation": null,
+      "page": 29
+    },
+    {
+      "name": "Craig Atkinson",
+      "bio": "Craig Atkinson, a producer, editor and cinematographer, recently directed DO NOT RESIST, an exploration of the rapid militarization of the police in the United States. The film won the award for Best Documentary at the Tribeca Film Festival. He produced and was the co-cinematographer on the documentary DETROPIA, which is about Detroit trying to reinvent itself.",
+      "affiliation": null,
+      "page": 29
+    },
+    {
+      "name": "Richard Behar",
+      "bio": "Richard Behar is an American investigative journalist. Since 2012, he has been the Contributing Editor of Investigations for Forbes magazine. From 1982 to 2004, he wrote on the staffs of Forbes, Time and Fortune. Behar’s work has also been featured on BBC, CNN, PBS, FoxNews.com and Fast Company magazine. He coordinates Project Klebnikov, a media alliance to probe the Moscow murder of Forbes editor Paul Klebnikov. Behar is co-founder and co-editor of The Mideast Reporter, described by historian Gil Troy as “the Mideast Politico.” He is also the editor of Mideast Dig.",
+      "affiliation": "Forbes",
+      "page": 29
+    },
+    {
+      "name": "Jake Bernstein",
+      "bio": "Jake Bernstein has covered politics, war, high finance and the offshore industry in the course of a three-decade career. In 2011, while an investigative reporter with the nonprofit ProPublica, Bernstein and a colleague won the Pulitzer Prize for National Reporting for coverage of Wall Street in the lead up to the financial crisis. More recently, he worked with ICIJ.org on the 2016 project that became known as the Panama Papers.",
+      "affiliation": null,
+      "page": 30
+    },
+    {
+      "name": "Ted Braun",
+      "bio": "Ted Braun is the director of BETTING ON ZERO (2016) which premiered in the World Doc Competition at the Tribeca Film Festival where it received a special jury mention for investigative work. Braun’s film DARFUR NOW won the NAACP Image Award for best documentary of 2007 and was named one of 2007’s top five documentaries by the National Board of Review. Braun’s an Associate Professor in Writing for the Screen and Television at USC’s School of Cinematic Arts where he holds the Joseph Campbell Endowed Chair in Cinematic Ethics.",
+      "affiliation": "USC's School of Cinematic Arts",
+      "page": 30
+    },
+    {
+      "name": "Elisabeth Bumiller",
+      "bio": "Elisabeth Bumiller is the Washington bureau chief of The New York Times. Her career at the The Times also includes stints at the City Hall bureau chief in New York city, White House correspondent and Pentagon correspondent. She also covered Sen. John McCain’s 2008 presidential campaign. She is the author of several books.",
+      "affiliation": "The New York Times",
+      "page": 30
+    },
+    {
+      "name": "Lyric R. Cabral",
+      "bio": "Lyric R. Cabral is a filmmaker, producer, and photojournalist whose work explores the intersections of race, religion and surveillance in the post 9/11 world. She is best known for (T)ERROR, the first film to portray an active FBI counterterrorism sting operation, that won the 2015 Sundance Film Festival Special Jury Prize for Breakout First Feature and the 2015 Full Frame Documentary Film Festival Grand Jury Prize. She is currently a Women in Film Fellow at the Sundance Institute, and a documentary filmmaking fellow at the Investigative Fund.",
+      "affiliation": null,
+      "page": 30
+    },
+    {
+      "name": "Jeremy Campbell",
+      "bio": "Jeremy Campbell is a television reporter and a documentary filmmaker. He works as executive storyteller of WXIA’s groundbreaking docu-series unit. With each episode, the team of journalists get closer to uncovering the truth behind a story.",
+      "affiliation": "WXIA",
+      "page": 31
+    },
+    {
+      "name": "Ti-Hua Chang",
+      "bio": "Ti-Hua Chang is a freelance reporter. A Chinese American, he is an award-winning broadcast journalist based in New York from 1989 to the present. He was most recently a freelance correspondent for the Weekend CBS Evening News. He was a general assignment and investigative reporter for WNYW, the FOX affiliate in New York.",
+      "affiliation": null,
+      "page": 31
+    },
+    {
+      "name": "Julie Contreras",
+      "bio": "Julie Contreras is a human rights activist with over 27 years of service at the international level. Currently she is Commissioner for LULAC of IL Immigrant Affairs Commission and the recent past Co-Chair of LULAC’s National Committee on Immigration Affairs where she continues to lead emergency intervention for immigration cases across the USA, Mexico, Central & South America.",
+      "affiliation": "LULAC",
+      "page": 31
+    },
+    {
+      "name": "Andrea Crosta",
+      "bio": "Andrea Crosta has 25 years of experience in conservation projects around the world. He is a founding member of the Wildlife Justice Commission, in the Hague, The Netherlands, and co-founder of the Elephant Action League. In 2010-12 he and Nir Kalron uncovered a link between the ivory trade and the Somali terrorist group al-Shabaab.",
+      "affiliation": "WildLeaks",
+      "page": 31
+    },
+    {
+      "name": "Kief Davidson",
+      "bio": "Kief Davidson’s film THE IVORY GAME opens Double Exposure 2016. In his prior film, A LEGO BRICKUMENTARY, he delves into the extraordinary impact of the LEGO brick, its massive global fan base and innovative uses for it that have sprung up around the world. He also directed OPEN HEART, a 2012 film that followed eight Rwandan children on a perilous journey to Sudan to obtain high risk surgery at the only high-tech, free-of-charge heart surgery hospital in Africa.",
+      "affiliation": null,
+      "page": 32
+    },
+    {
+      "name": "Caitlin Dickerson",
+      "bio": "Caitlin Dickerson is a reporter for the New York Times. Formerly at NPR, she tackled long-term reporting projects that revealed hidden truths about the world, and contributed to breaking news coverage for NPR’s flagship programs. Her work has been honored with some of the highest awards in broadcast journalism, including a George Foster Peabody Award and an Edward R. Murrow Award. In 2015, Dickerson was also a finalist for the Livingston Award.",
+      "affiliation": "The New York Times",
+      "page": 32
+    },
+    {
+      "name": "Ken Dornstein",
+      "bio": "Ken Dornstein is the director of MY BROTHER’S BOMBER, a three-part documentary about his attempt to find the men responsible for the 1988 bombing of Pan Am Flight 103, which aired on PBS Frontline last year. He also produced HAPPY VALLEY, about the Jerry Sandusky scandal at Penn State, which premiered at Sundance in 2014. He worked for more than a decade at PBS Frontine as a senior produced.",
+      "affiliation": null,
+      "page": 32
+    },
+    {
+      "name": "Maureen Downey",
+      "bio": "Maureen Downey, a wine expert with more than 20 years experience, is an authority on counterfeit wine and has compiled the largest database on the subject in the world. Downey has advised the FBI and the U.S Department of Justice in a number of high profile cases, including the one featured in the film SOUR GRAPES. She appears as a subject in the film.",
+      "affiliation": null,
+      "page": 32
+    },
+    {
+      "name": "Catherine Dunn",
+      "bio": "Catherine Dunn is an investigative reporter with Fusion at Univision, where she’s been digging into the Panama Papers trove of leaked documents on the offshore financial world. Previously, she was a senior writer at the International Business Times, where she covered consumer finance and legal issues. She wrote about racial profiling in retail, the shortage of affordable housing in New Orleans, and the unregulated hazards of defective guns.",
+      "affiliation": "Fusion",
+      "page": 33
+    },
+    {
+      "name": "Pete Earley",
+      "bio": "Pete Earley is the author of, most recently, Crazy: A Father’s Search through America’s Mental Health Madness and The Hot House: Life Inside Leavenworth Prison. His book Family of Spies: Inside the John Walker Spy Ring was a New York Times bestseller and was made into a CBS miniseries.",
+      "affiliation": null,
+      "page": 33
+    },
+    {
+      "name": "Ezra Edelman",
+      "bio": "Director of acclaimed multi-part series, O.J.: MADE IN AMERICA, Ezra Edelman was the director of REQUIEM FOR THE BIG EAST and THE OPPOSITION, which aired as part of ESPN’s 30 for 30 documentary series. Edelman co-produced the documentary CUTIE AND THE BOXER, which was nominated for an Academy Award. He also has produced and directed three films for HBO, including MAGIC AND BIRD: A COURTSHIP OF RIVALS, which received a Peabody Award and was nominated for three Emmys. He produced and directed BROOKLYN DODGERS: THE GHOSTS OF FLATBUSH, which won an Emmy, and THE CURIOUS CASE OF CURT FLOOD.",
+      "affiliation": null,
+      "page": 33
+    },
+    {
+      "name": "Rudolf Elmer",
+      "bio": "Rudolf Elmer is a former Swiss banker, who is the whistleblower featured in the 2016 film A LEAK IN PARADISE. Elmer worked in the financial industry for more than 30 years in Switzerland, New York, Cayman Islands, Jersey UK and Mauritius. In 2010, he returned to Switzerland to confront what he saw as a corrupt system and is now facing several court trials.",
+      "affiliation": null,
+      "page": 33
+    },
+    {
+      "name": "Wendy Ettinger",
+      "bio": "An award-winning producer and director, Wendy Ettinger co-founded Chicken & Egg Pictures and Gamechanger Films, an equity fund dedicated to financing feature films directed by women. Wendy was also the Executive Producer for The War Room, the Academy Award-nominated documentary directed by Chris Hegedus and D.A. Pennebaker. She serves on the board of Working Films, The Educational Foundation of America, Imagine Science, and the 52nd Street Project.",
+      "affiliation": "Chicken & Egg Pictures",
+      "page": 34
+    },
+    {
+      "name": "Franklin Foer",
+      "bio": "Franklin Foer is the former editor of The New Republic. Foer has written for Slate and New York magazine. His book How Soccer Explains the World was published in 2004. The book Jewish Jocks, which he co-edited with Marc Tracy, was published in 2012; Foer has described it as an effort to avoid the “simple hagiography” he found in some of the many existing books about Jewish sports figures.",
+      "affiliation": "Slate",
+      "page": 34
+    },
+    {
+      "name": "Maxyne Franklin",
+      "bio": "Maxyne Franklin is one of the founding directors of BRITDOC and shares responsibility for overseeing the film funding programs. Franklin has been the executive producer of a number of award-winning films including VIRUNGA, ALL THESE SLEEPLESS NIGHTS, HOOLIGAN SPARROW, THE POSSIBILITIES ARE ENDLESS, THE SQUARE, PUSSY RIOT, HELL & BACK AGAIN, PING PONG AND AFGHAN STAR. She now heads up the US office of BRITDOC.",
+      "affiliation": "BRITDOC",
+      "page": 34
+    },
+    {
+      "name": "Dan Froomkin",
+      "bio": "Dan Froomkin is Washington editor of The Intercept. An outspoken proponent of accountability journalism, he wrote the popular “White House Watch” column at The Washington Post from 2004 to 2009. His career in journalism started in local news, and since then he has served as the senior Washington correspondent and bureau chief for The Huffington Post, as editor of WashingtonPost.com, and as deputy editor of NiemanWatchdog.org.",
+      "affiliation": "The Intercept",
+      "page": 34
+    },
+    {
+      "name": "Alexandra Garcia",
+      "bio": "Alexandra Garcia is a senior video journalist at The New York Times, where she produces interactive projects and video stories. She is currently overseeing the video work of POV’s “embedded mediamakers” at The Times. Previously, she shot, reported and edited video stories at The Washington Post for almost a decade. In 2012, she was a fellow at the Nieman Foundation for Journalism at Harvard.",
+      "affiliation": "The New York Times",
+      "page": 35
+    },
+    {
+      "name": "Gan Golan",
+      "bio": "Gan Golan’s books include the bestseller Goodnight Bush and the critically-acclaimed graphic novel The Adventures of Unemployed Man. As an artist, he has designed rock music posters for Erykah Badu, Queen Latifah, Willie Nelson, Nick Cave and the Foo Fighters. In 2003, he was arrested while attending a peaceful protest in Miami. After viewing video evidence shot by bystanders, a judge dismissed all charges against him.",
+      "affiliation": "The Argus Project",
+      "page": 35
+    },
+    {
+      "name": "Ann Hornaday",
+      "bio": "Ann Hornaday, chief film critic of the Washington Post, graduated cum laude with a degree in government from Smith College. She previously served as the movie critic at the Austin American-Statesman in Austin, Texas, and at the Baltimore Sun. She left the Sun in 2000 and began working at the Washington Post in 2002. She was a finalist for the Pulitzer Prize in criticism in 2008.",
+      "affiliation": "The Washington Post",
+      "page": 35
+    },
+    {
+      "name": "Hongxiang Huang",
+      "bio": "Hongxiang Huang is the one of the investigators featured in the documentary film THE IVORY GAME. A freelance journalist who often writes about environmental issues, he is the founder of China House, a social enterprise that helps Chinese better integrate into Africa through sustainable investment, wildlife conservation and corporate social responsibility. He has traveled throughout Africa and South America to investigate and report on Chinese investment and social environmental conflicts.",
+      "affiliation": "China House",
+      "page": 35
+    },
+    {
+      "name": "Kristi Jacobson",
+      "bio": "Kristi Jacobson’s film, SOLITARY, offers an unprecedented look at life inside a superman prison. Jacobson’s prior film A PLACE AT THE TABLE, premiered at the 2012 Sundance Film Festival. The film, which examines the shocking paradox of hunger in the wealthiest nation on earth through the very personal stories of three American families who face food insecurity daily, won the IDA’s prestigious Pare Lorentz Award and was nominated for Best Feature Documentary.",
+      "affiliation": null,
+      "page": 36
+    },
+    {
+      "name": "James Jacoby",
+      "bio": "James Jacoby’s most recent film for Frontline, POLICING THE POLICE, brings viewers inside the Newark Police Department — one of many forces in America ordered to reform. Jacoby previously worked for CBS’s 60 Minutes, producing investigative stories with correspondent Steve Kroft. Before that Jacoby was a producer for CNBC where he produced HOUSE OF CARDS, about the global financial crisis. Jacoby has received two Gerald Loeb awards, the top prize in business reporting.",
+      "affiliation": "Frontline",
+      "page": 36
+    },
+    {
+      "name": "Steve James",
+      "bio": "Steve James produced and directed HOOP DREAMS, winner of a Peabody and Robert F. Kennedy Award. His many films include STEVIE, winner of the Sundance Cinematography Award; the Independent Documentary Association Award-winning miniseries THE NEW AMERICANS; Tribeca Grand Prize winner THE WAR TAPES; and NO CROSSOVER: THE TRIAL OF ALLEN IVERSON for ESPN’s Peabody winning “30 for 30” series. His most recent documentary is LIFE ITSELF.",
+      "affiliation": null,
+      "page": 36
+    },
+    {
+      "name": "Kirsten Johnson",
+      "bio": "Kirsten Johnson’s most recent film CAMERAPERSON premiered at Sundance 2016, was the closing night film at New Directors/New Films and won Grand Jury Prizes at San Francisco and Sheffield. Her most recent camerawork appears in the Cannes 2016 premiere of RISK, Oscar-winning CITIZEN FOUR, BORN TO FLY: ELIZABETH STREB VS GRAVITY, THE WOUND AND THE GIFT AND VERY SEMI-SERIOUS.",
+      "affiliation": null,
+      "page": 36
+    },
+    {
+      "name": "Jamie Kalven",
+      "bio": "Jamie Kalven is the author of Working With Available Light: A Family’s World After Violence and the editor of A Worthy Tradition: Free Speech in America by his father Harry Kalven Jr. He has reported extensively on police abuse in Chicago and was the plaintiff in Kalven v. Chicago, in which the Illinois appellate court ruled that police misconduct files are public information. He has received the 2015 George Polk Award for Local Reporting and the 2016 Ridenhour Courage Prize.",
+      "affiliation": "The Invisible Institute",
+      "page": 37
+    },
+    {
+      "name": "Simon Kilmurry",
+      "bio": "Simon Kilmurry is the executive director of the International Documentary Association. In 2016, Kilmurry joined the board of jurors of the George Foster Peabody Awards. He serves as an international advisor to the Greenhouse Fund and is on the board of screeners of the Alfred I. duPont-Columbia University Awards. As long-serving executive producer of POV | American Documentary, he received 15 Emmy Awards, more than 60 Emmy nominations, six George Foster Peabody Awards, four DuPont Columbia Awards, and is a two-time recipient of the Best Continuing Series Award from the IDA.",
+      "affiliation": "International Documentary Association",
+      "page": 37
+    },
+    {
+      "name": "Richard Ladkani",
+      "bio": "Richard Ladkani is an award-winning director and cinematographer who has completed over 50 documentaries for cinema and TV. In 2009, he photographed the award-winning documentary JANE’S JOURNEY, about the chimpanzee researcher Jane Goodall, which was shortlisted for the Academy Awards in 2012. Additional works include VATICAN: THE HIDDEN WORLD AND GAS MONOPOLY, an investigative thriller about the international gas industry, which he directed and photographed.",
+      "affiliation": null,
+      "page": 37
+    },
+    {
+      "name": "Penny Lane",
+      "bio": "Penny Lane’s most recent feature documentary film NUTS! premiered at Sundance 2016, where it won a Special Jury Prize for Editing. Her debut feature documentary OUR NIXON premiered at Rotterdam, had its North American premiere at SXSW, won the Ken Burns Award for “Best of the Festival” at Ann Arbor, and was selected as the Closing Night Film at New Directors/New Films.",
+      "affiliation": null,
+      "page": 37
+    },
+    {
+      "name": "David LeLoup",
+      "bio": "David LeLoup is a freelance journalist and director who has worked for various TV and print media in Belgium, France, Switzerland and India. His first feature-length documentary film is A LEAK IN PARADISE about Swiss whistleblower and former banker Rudolf Elmer. In 2011 and 2016 David received the Dexia Prize for Journalism for investigative stories on pharmaceutical companies. He is also a co-founder of the new Belgian investigative quarterly Médor, launched in December 2015.",
+      "affiliation": null,
+      "page": 38
+    },
+    {
+      "name": "Dave Lindorff",
+      "bio": "Dave Lindorff, an award-winning journalist investigative reporter, is the author of four critically acclaimed books, including Marketplace Medicine, Killing Time and The Case for Impeachment. He is also the founder of the news website, ThisCantBeHappening.net, winner of five Project Censored awards in the past five years. He spent five years in the mid 1990s as a correspondent for Businessweek, based in the Hong Kong bureau.",
+      "affiliation": "ThisCantBeHappening.net",
+      "page": 38
+    },
+    {
+      "name": "Kathleen Lingo",
+      "bio": "Kathleen Lingo is commissioning editor of Opinion Video and executive producer of The New York Times’ Op-Doc series. Since joining Op-Docs in 2013, Lingo has worked on more than 150 short, VR and interactive documentaries that have won two Emmy Awards, a Peabody and an Oscar nomination for best short documentary. She is a graduate of the University of Chicago.",
+      "affiliation": "The New York Times",
+      "page": 38
+    },
+    {
+      "name": "Eric Lipton",
+      "bio": "Eric Lipton is a Washington correspondent for The New York Times, where he writes about government relations, corporate agendas and Congress. In 2015, he won a Pulitzer Prize for investigative journalism for a series examining the explosion in lobbying of state attorneys general by corporate interests. He is the co-author, with James Glanz, of City in the Sky: The Rise and Fall of the World Trade Center, a history of the towers, their conception, construction, life and destruction.",
+      "affiliation": "The New York Times",
+      "page": 38
+    },
+    {
+      "name": "Richard Logan",
+      "bio": "Richard Logan is the president of The Reva and David Logan Foundation. Based in Chicago, the foundation is a substantial program contributor to the Logan Center for the Arts at the University of Chicago, and invests heavily in investigative journalism in the U.S. and Europe.",
+      "affiliation": "The Reva and David Logan Foundation",
+      "page": 39
+    },
+    {
+      "name": "Carrie Lozano",
+      "bio": "Carrie Lozano, an editorial consultant for independent documentary filmmakers, facilitates the Bay Area Video Coalition’s National MediaMaker Fellowship. She was executive producer for documentaries at Al Jazeera America and senior producer of the network’s investigative series Fault Lines, winner of an Emmy, a Peabody, and several Headliner Awards. Her recent film, THE BALLAD OF FRED HERSCH, premiered at Full Frame in 2016.",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "Myra MacPherson",
+      "bio": "Myra MacPherson is the author of five books, including the award winning All Governments Lie: The Life and Times of Rebel Journalist I.F. Stone. The documentary ALL GOVERNMENTS LIE: TRUTH, DECEPTION AND THE SPIRIT OF I.F. STONE, based in part on her book, features todays’ followers of the 20th century famed investigative reporter. Her research uncovered 5,000 FBI documents hounding I. F. Stone. MacPherson also was a long time reporter for the Washington Post.",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "Phillip Martin",
+      "bio": "Phillip Martin of WGBH has reported on human trafficking in southern New England, the Boston Marathon bombings, Whitey Bulger, carbon offset schemes, police shootings and race, the Occupy movement and the fishing industry in New England, among other topics. On WGBH-TV, he is a regular panelist for Basic Black. He is a Senior Fellow with the Schuster Institute for Investigative Journalism.",
+      "affiliation": "WGBH",
+      "page": 39
+    },
+    {
+      "name": "Yael Melamede",
+      "bio": "Yael Melamede is the co-founder of SALTY Features, an independent production company based in New York City. Melamede’s most recent film and directorial debut is (DIS)HONESTY - THE TRUTH ABOUT LIES, based on the work of behavioral scientist Dan Ariely. Melamede’s producing credits include INOCENTE, winner of the 2013 Academy Award for Best Documentary Short.",
+      "affiliation": "SALTY Features",
+      "page": 40
+    },
+    {
+      "name": "Kathleen Newland",
+      "bio": "Kathleen Newland is co-founder and Board of Trustees member of the Migration Policy Institute (MPI), a think tank located in the United States and focused on the study of migration policy worldwide, with a particular focus on the United States and Europe. She is also the director of the Migration, Migrants, and Development Program there and also leads the refugee protection work at MPI.",
+      "affiliation": "Migration Policy Institute",
+      "page": 40
+    },
+    {
+      "name": "Ron Nixon",
+      "bio": "Ron Nixon is chairman of the board of 100Reporters and Double Exposure. He is a Washington correspondent for the New York Times who covers counterterrorism, cyber security, border and transportation security and domestic surveillance programs. He is author of Selling Apartheid: Apartheid South Africa’s Global Propaganda War (October, 2016). He is co-founder of TruthBeTold news, a fact-checking website and digital network, run and edited from Howard University’s Department of Media, Journalism, and Film in the School of Communication.",
+      "affiliation": "The New York Times",
+      "page": 40
+    },
+    {
+      "name": "Fred Peabody",
+      "bio": "Fred Peabody is an Emmy-winning journalist and filmmaker whose credits include seven years as a producer-director on the acclaimed CBC investigative program “The Fifth Estate”. In 2003 he was Supervising Producer on“Perfect Illusions”, a PBS documentary about eating disorders in young women. His film on the childhood exploitation of the Dionne quintuplets was nominated for an Emmy in 1998, and he won an Emmy in 1989 for a film about wild horses rescued from starvation and abuse.",
+      "affiliation": null,
+      "page": 40
+    },
+    {
+      "name": "Ed Pilkington",
+      "bio": "Ed Pilkington is the chief reporter of the Guardian in the U.S., covering a wide range of subjects that include criminal justice, race, the South and immigration. Previously he was a senior editor in the Guardian’s London offices, where he served as national news editor, international news editor and Saturday features editor. He is author of Beyond the Mother Country: West Indians and the Notting Hill Race Riots.",
+      "affiliation": "The Guardian",
+      "page": 41
+    },
+    {
+      "name": "Peter Raymont",
+      "bio": "Peter Raymont has produced and directed more than 100 documentary films and series during his 43-year-career. His documentary feature, SHAKE HANDS WITH THE DEVIL: THE JOURNEY OF ROMÉO DALLAIRE won the 2005 Sundance Festival Audience Award for World Cinema Documentaries, and the 2007 Emmy Award for Best Documentary. Raymont’s 2007 documentary feature A PROMISE TO THE DEAD: THE EXILE JOURNEY OF ARIEL DORFMAN, was short-listed for an Academy award.",
+      "affiliation": null,
+      "page": 41
+    },
+    {
+      "name": "Christine Richard",
+      "bio": "Christine Richard is the president of Orion Research LLC, which does research for investors and has investigated Herbalife Ltd. for more than three years. Prior to founding Orion Research, she worked as a reporter covering financial markets from New York, Washington, Hong Kong and Singapore for news organizations including Bloomberg News, Dow Jones and Institutional Investor. She is the author of Confidence Game: How Hedge Fund Manager Bill Ackman Called Wall Street’s Bluff, a book about the collapse of the bond insurance business ahead of the financial crisis.",
+      "affiliation": "Orion Research LLC",
+      "page": 41
+    },
+    {
+      "name": "Manuel Roig-Franzia",
+      "bio": "Manuel Roig-Franzia, a writer for The Washington Post’s Style section, is the author of The Rise of Marco Rubio. He writes long-form pieces on a broad range of subjects, exploring politics, power and the culture of Washington, as well as profiling major political figures and authors. In more than 11 years at The Post, Roig-Franzia has also served as the paper’s bureau chief in Miami and in Mexico City.",
+      "affiliation": "The Washington Post",
+      "page": 41
+    },
+    {
+      "name": "Ricardo Sandoval-Palos",
+      "bio": "Ricardo Sandoval-Palos is supervising editor of NPR’s Morning Edition. He also is president of the board of directors at the nonprofit Fund for Investigative Journalism. Before joining NPR, he edited international investigators for the Center for Public Integrity, and previously was a Latin America correspondent for Dallas Morning News and Knight Ridder.",
+      "affiliation": "NPR",
+      "page": 42
+    },
+    {
+      "name": "Michael I Schiller",
+      "bio": "Michael I Schiller is the creative director of The Center for Investigative Reporting and an Emmy Award winning producer and director. His work has garnered some of journalism’s most prestigious prizes including a national Edward R. Murrow Award and a National Society of Professional Journalists Sigma Delta Chi Award. Schiller’s animated short film THE BOX, about solitary confinement of youth, won a San Francisco Film Festival Golden Gate Award and a New Orleans Film Festival’s Special Jury Prize.",
+      "affiliation": "The Center for Investigative Reporting",
+      "page": 42
+    },
+    {
+      "name": "Kevin Christopher Seltzer",
+      "bio": "Kevin Christopher Seltzer is the owner of KevinChristopherProductions. He has worked as a citizen journalist and freelance photographer, and gained national attention three years ago when he made public a film he shot in Ferguson, Mo., of the immediate aftermath following the fatal shooting of Michael Brown. More recently Seltzer worked documentary filmmaker Lyric Cabral to tell his story of living in Ferguson.",
+      "affiliation": "KevinChristopherProductions",
+      "page": 42
+    },
+    {
+      "name": "Glenn Simpson",
+      "bio": "Glenn Simpson, a former investigative reporter at The Wall Street Journal, is the founder and chief executive officer of Fusion GPS, a commercial research firm in Washington DC. He is a senior fellow at the International Assessment & Strategy Center, a think tank in Alexandria, Va. He is the co-author (with Larry J. Sabato) of Dirty Little Secrets: The Persistence of Corruption in American Politics.",
+      "affiliation": "Fusion GPS",
+      "page": 42
+    },
+    {
+      "name": "James Solomon",
+      "bio": "James Solomon directed the feature documentary, THE WITNESS, which debunks one of America’s most chilling crime stories - the murder of Kitty Genovese. Solomon wrote the screenplay for THE CONSPIRATOR, a legal thriller about the Lincoln assassination directed by Robert Redford, which received the Humanitas Prize for Feature Films. He was also a lead writer and executive producer of ESPN’s eight-hour mini-series, THE BRONX IS BURNING, starring John Turturro and Oliver Platt.",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Peter H. Stone",
+      "bio": "Peter H. Stone, who covered lobbying and the influence of money in politics at National Journal for 18 years, writes for Mother Jones, the Huffington Post, the Daily Beast, The Guardian and Politico.",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Ray Suarez",
+      "bio": "Ray Suarez is an American broadcast journalist and host of Inside Story on Al Jazeera America. Suarez joined the PBS NewsHour in 1999 and was a senior correspondent for the evening news program on the PBS television network until 2013. He is also host of the international news and analysis public radio program America Abroad from Public Radio International.",
+      "affiliation": "Al Jazeera America",
+      "page": 43
+    },
+    {
+      "name": "Julien A. Terrell",
+      "bio": "Julien A. Terrell, who grew up in West Harlem, is a community organizer who uses cultural traditions from hip hop and liberation movements, including art, music and dance. After working on projects in Cuba and Brazil, he joined Brotherhood/Sister Sol, a youth development organization located a block from where he was raised. Terrell is now in Philadelphia where he works to infuse a culture lens into local organizations",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Cheryl W. Thompson",
+      "bio": "Cheryl W. Thompson has been at The Washington Post since 1997 and has written extensively about immigration, government and crime, including a series on tracing guns used to kill police officers, which won an Emmy award in 2011. Thompson also served as a White House correspondent during the Obama administration. She was part of the reporting team that won the 2002 Pulitzer Prize for national reporting.",
+      "affiliation": "The Washington Post",
+      "page": 44
+    },
+    {
+      "name": "Marina Walker Guevara",
+      "bio": "Marina Walker Guevara is the deputy director of the International Consortium of Investigative Journalism. A native of Argentina, she has won and shared more than 25 national and international awards for her investigations, including honors from Long Island University’s George Polk Awards, Investigative Reporters and Editors, Overseas Press Club, the Society of Professional Journalists and the European Commission. Recently, she co-managed the Panama Papers investigation, one of the biggest leaks in journalistic history, which involved more than 370 reporters in 76 countries.",
+      "affiliation": "International Consortium of Investigative Journalists",
+      "page": 44
+    },
+    {
+      "name": "Adnaan Wasey",
+      "bio": "Adnaan Wasey is entrepreneur-in-residence at the Tow-Knight Center for Entrepreneurial Journalism. As the head of POV Digital, the new media production division of the PBS documentary series POV, Wasey oversees original digital productions, programming and licensing, and is founder of POV Digital Lab, a weekend media lab. Wasey is also a former news editor and film festival director. He is a member of the Producers Guild of America.",
+      "affiliation": "POV Digital",
+      "page": 44
+    },
+    {
+      "name": "Tennessee Jane Watson",
+      "bio": "Tennessee Jane Watson is a journalist, artist and educator. She produces audio documentaries, oral histories, sound installations and youth media projects.",
+      "affiliation": null,
+      "page": 44
+    }
+  ],
+  "awards": [],
+  "organizers": [
+    {
+      "name": "Ron Nixon",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Ricardo Sandoval-Palos",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Team: Co-creator and co-director"
+    },
+    {
+      "name": "Sky Sitney",
+      "role": "Team: Co-creator and co-director"
+    },
+    {
+      "name": "Mariana Brito",
+      "role": "Team: Festival manager and graphic designer"
+    },
+    {
+      "name": "Christina Lee",
+      "role": "Team: Marketing and outreach coordinator"
+    },
+    {
+      "name": "Julio Meyer",
+      "role": "Team: Volunteer coordinator"
+    },
+    {
+      "name": "Nathalie Pollack",
+      "role": "Team: Press and social media coordinator"
+    },
+    {
+      "name": "Conway Reinders",
+      "role": "Team: Volunteer manager"
+    },
+    {
+      "name": "Lauren Selman",
+      "role": "Team: Press and outreach manager"
+    },
+    {
+      "name": "Jeanne Sobel",
+      "role": "Team: Registration and marketing manager"
+    },
+    {
+      "name": "Marga Varea",
+      "role": "Team: Outreach and audience engagement strategist"
+    },
+    {
+      "name": "Leah Beilhart",
+      "role": "Workhorse Creative: Photographer"
+    },
+    {
+      "name": "Tj Cichecki",
+      "role": "Workhorse Creative: Graphic designer"
+    },
+    {
+      "name": "Abe Garcia",
+      "role": "Workhorse Creative: Web designer"
+    }
+  ],
+  "notes": "Second edition (cover: \"<#2>\", \"Three Day Festival + Symposium\", National Portrait Gallery + National Press Club). Catalogue is 52 pages; pages 2, 21, 46-49, 51-52 are sponsor ads only (checked visually) and were skipped, as were the friends list (p45) and an \"In Memoriam: Roger Gerrard Breeze, October 10, 1946-June 14, 2016\" page (p50). Speaker-bio names (pp29-44) are not in the extracted text layer; they were read from the rendered PDF pages. Bio heading spellings kept except \"Pete Earely\" (p33), corrected to Pete Earley as printed twice in the symposium listings. Names in film/session people[] are normalised to the bio spelling: \"Bill Ackman\" -> William A. Ackman, \"Julie Contreres\" -> Julie Contreras, \"Lyric Cabral\" -> Lyric R. Cabral, \"Michael Schiller\" -> Michael I Schiller, \"Kevin Chris Seltzer\" -> Kevin Christopher Seltzer, \"Julien Terrell\" -> Julien A. Terrell, \"Peter Stone\" -> Peter H. Stone, \"Tennessee Watson\" -> Tennessee Jane Watson. after_screening strings stay verbatim. No countries are printed for 2016 films; film_year 2016 is printed for each. Solitary has no premiere status. The Ivory Game slot \"Opening Night\" comes from the directors' letter (p10) and Kief Davidson's bio. Film screening venue is not printed on the film pages; National Portrait Gallery is taken from the cover and the box-office line (p11), the symposium being at the National Press Club (p10). Film pages 15 and 18-20 carry stray hidden text from the 2015 template (\"THURSDAY, OCT 1, 6 PM\"/\"FRIDAY, OCT 2, 6PM ... Scott Shane, Tom Blanton ...\") that is not visible on the printed page; ignored. The Ivory Game time printed \"7;00 PM\". Session times: schedule pages 4-7 give AM/PM, detail pages 23-28 give room (Holeman Lounge / Zenger Room). Lightning talks are split into separate entries using the detail-page times; the Day 2 lightning-talk block description is shared by both talks. Meet the Platforms speakers on p25 list \"TEGNA Media\" twice (layout artefact). Films named in sessions but not screened at the festival (e.g. (Dis)Honesty, The Witness, Weiner, Nuts!, Do Not Resist, Cameraperson, My Brother's Bomber, O.J.: Made in America) appear in related_films only. Elyse Steinberg and Vera Sung have no bio. No awards printed. The welcome letter states no theme."
+}

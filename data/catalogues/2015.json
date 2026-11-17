@@ -1,0 +1,1439 @@
+{
+  "year": 2015,
+  "edition_name": "Double Exposure Investigative Film Festival & Symposium",
+  "dates": "September 30 - October 2, 2015",
+  "theme": null,
+  "venues": [
+    {
+      "name": "National Portrait Gallery",
+      "address": "8th St NW & G St NW, Washington, DC 20001"
+    },
+    {
+      "name": "Woolly Mammoth Theatre",
+      "address": "641 D St NW, Washington, DC 20004"
+    },
+    {
+      "name": "Newseum, Knight Conference Center",
+      "address": "555 Pennsylvania Avenue NW (Use 6th St entrance), Washington, DC 20001"
+    },
+    {
+      "name": "Hotel Monaco",
+      "address": "700 F Street NW, Washington, DC 20004"
+    }
+  ],
+  "films": [
+    {
+      "title": "Spotlight",
+      "directors": [
+        "Tom McCarthy"
+      ],
+      "country": "USA",
+      "film_year": null,
+      "runtime_min": 127,
+      "premiere": null,
+      "slot": "Opening Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2015-09-30",
+        "time": "6:00 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "Starring Michael Keaton, Mark Ruffalo, Rachel McAdams, Liev Schreiber, Brian d’Arcy James and Stanley Tucci, SPOTLIGHT tells the riveting true story of the Pulitzer Prize-winning Boston Globe investigation that would rock the city and cause a crisis in one of the world’s oldest and most trusted institutions. When the newspaper’s tenacious “Spotlight” team of reporters delve into allegations of abuse in the Catholic Church, their year-long investigation uncovers a decades-long cover-up at the highest levels of Boston’s religious, legal, and government establishment, touching off a wave of revelations around the world. Directed by Academy Award-nominee Tom McCarthy, SPOTLIGHT is a tense investigative thriller, tracing the steps to one of the biggest crime stories in modern times.",
+      "after_screening": "Post screening panel discussion with Martin Baron, Michael Rezendes, Sacha Pfeiffer, Walter Robinson, moderated by David Simon.",
+      "people": [
+        {
+          "name": "Tom McCarthy",
+          "role": "director"
+        },
+        {
+          "name": "David Simon",
+          "role": "moderator"
+        },
+        {
+          "name": "Martin Baron",
+          "role": "discussant"
+        },
+        {
+          "name": "Michael Rezendes",
+          "role": "discussant"
+        },
+        {
+          "name": "Sacha Pfeiffer",
+          "role": "discussant"
+        },
+        {
+          "name": "Walter Robinson",
+          "role": "discussant"
+        }
+      ],
+      "page": 11
+    },
+    {
+      "title": "The True Cost",
+      "directors": [
+        "Andrew Morgan"
+      ],
+      "country": "USA",
+      "film_year": null,
+      "runtime_min": 92,
+      "premiere": null,
+      "slot": "Special Youth Screening",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2015-10-01",
+        "time": "11:00 AM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "This is a story about clothing. It’s about the clothes we wear, the people who make them, and the impact the industry is having on our world. The price of clothing has been decreasing for decades, while the human and environmental costs have grown dramatically. THE TRUE COST is a groundbreaking documentary film that pulls back the curtain on the untold story and asks us to consider, who really pays the price for our clothing?\n\nFilmed in countries all over the world, from the brightest runways to the darkest slums, and featuring interviews with the world’s leading influencers including Stella McCartney, Livia Firth and Vandana Shiva, THE TRUE COST is an unprecedented project that invites us on an eye opening journey around the world and into the lives of the many people and places behind our clothes.",
+      "after_screening": "Post screening panel discussion with Scott Hahn, Rachel Louise Snyder and Margaret Talbot.",
+      "people": [
+        {
+          "name": "Andrew Morgan",
+          "role": "director"
+        },
+        {
+          "name": "Scott Hahn",
+          "role": "discussant"
+        },
+        {
+          "name": "Rachel Louise Snyder",
+          "role": "discussant"
+        },
+        {
+          "name": "Margaret Talbot",
+          "role": "discussant"
+        }
+      ],
+      "page": 12
+    },
+    {
+      "title": "Cartel Land",
+      "directors": [
+        "Matthew Heineman"
+      ],
+      "country": "USA/Mexico",
+      "film_year": null,
+      "runtime_min": 100,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2015-10-01",
+        "time": "6:00 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "With unprecedented access, CARTEL LAND is a riveting, on-the-ground look at the journeys of two modern-day vigilante groups and their shared enemy – the murderous Mexican drug cartels. In the Mexican state of Michoacán, Dr. Jose Mireles, a small-town physician known as “El Doctor,” leads the Autodéfensas, a citizen uprising against the violent Knights Templar drug cartel that has wreaked havoc on the region for years. Meanwhile, in Arizona’s Altar Valley – a narrow, 52-mile-long desert corridor known as Cocaine Alley – Tim “Nailer” Foley, an American veteran, heads a small paramilitary group called Arizona Border Recon, whose goal is to stop Mexico’s drug wars from seeping across our border.\n\nFilmmaker Matthew Heineman embeds himself in the heart of darkness as Nailer, El Doctor, and the cartel each vie to bring their own brand of justice to a society where institutions have failed. From executive producer Kathryn Bigelow (THE HURT LOCKER, ZERO DARK THIRTY), CARTEL LAND is a chilling, visceral meditation on the breakdown of order and the blurry line between good and evil. At the 2015 Sundance Film Festival, Heineman received both the Directing Award and Special Jury Award for Cinematography in the U.S. Documentary competition.",
+      "after_screening": "Post screening panel discussion with Matt Heineman and Ray Suarez.",
+      "people": [
+        {
+          "name": "Matthew Heineman",
+          "role": "director"
+        },
+        {
+          "name": "Kathryn Bigelow",
+          "role": "executive producer"
+        },
+        {
+          "name": "Ray Suarez",
+          "role": "discussant"
+        }
+      ],
+      "page": 13
+    },
+    {
+      "title": "Deep Web",
+      "directors": [
+        "Alex Winter"
+      ],
+      "country": "USA",
+      "film_year": null,
+      "runtime_min": 86,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2015-10-01",
+        "time": "8:45 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "This movie gives the inside story of one of the the most important and riveting digital crime sagas of the century -- the arrest of Ross William Ulbricht, the convicted 30-year-old entrepreneur accused to be ‘Dread Pirate Roberts,’ creator and operator of online black market Silk Road. The film explores how the brightest minds and thought leaders behind the Deep Web are now caught in the crosshairs of the battle for control of a future inextricably linked to technology, with our digital rights hanging in the balance.\n\nIn addition to being the only film with exclusive access to the Ulbricht family, DEEP WEB features the core architects of the Deep Web; anarchistic cryptographers who developed the Deep Web’s tools for the military in the early 1990s; the dissident journalists and whistleblowers who immediately sought refuge in this seemingly secure environment; and the figures behind the rise of Silk Road, which combined the security of the Deep Web with the anonymity of cryptocurrency.",
+      "after_screening": "Post screening panel discussion with Joshua Dratel.",
+      "people": [
+        {
+          "name": "Alex Winter",
+          "role": "director"
+        },
+        {
+          "name": "Joshua Dratel",
+          "role": "discussant"
+        }
+      ],
+      "page": 14
+    },
+    {
+      "title": "The Storm Makers",
+      "directors": [
+        "Guillaume Suon"
+      ],
+      "country": "Cambodia",
+      "film_year": null,
+      "runtime_min": 66,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2015-10-02",
+        "time": "3:30 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "Aya was a slave. At the age of 16, the young Cambodian peasant was sold to work as a maid in Malaysia, where she was exploited and beaten during two years without receiving any salary. Now that she has returned to her village just as poor as when she left, what is left of her humanity?\n\nThe Storm Makers traces modern-day slavery in Cambodia, by uncovering the fate of this young woman and following, in parallel, the daily lives of two human traffickers, a local recruiter and the head of a trafficking network. Cambodians call them « mey kechol »: the storm makers.\n\nFrom the impoverished remote villages to the bustling urban centre of Phnom Penh, the film reveals a unique perspective on the exploitation of Cambodia’s rural population and questions what is the price of a life in a country experiencing uninhibited economic development.",
+      "after_screening": "Post screening panel discussion with Sara Colm, Terry Fitzpatrick and Douglas Gillison.",
+      "people": [
+        {
+          "name": "Guillaume Suon",
+          "role": "director"
+        },
+        {
+          "name": "Sara Colm",
+          "role": "discussant"
+        },
+        {
+          "name": "Terry Fitzpatrick",
+          "role": "discussant"
+        },
+        {
+          "name": "Douglas Gillison",
+          "role": "discussant"
+        }
+      ],
+      "page": 15
+    },
+    {
+      "title": "Drone",
+      "directors": [
+        "Tonje Hessen Schei"
+      ],
+      "country": "Norway",
+      "film_year": null,
+      "runtime_min": 80,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2015-10-02",
+        "time": "6:00 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "Inside the secret CIA drone war. Intimate stories from the war on terror. People living under drones in Pakistan and drone pilots struggling with killing through joysticks in the U.S.\n\nThe film covers diverse and integral ground, from the recruitment of young pilots at gaming conventions and the re-definition of “going to war,” to the moral stance of engineers behind the technology, to world leaders giving the secret “green light” to engage in the biggest targeted killing program in history, to the people willing to stand up for civil liberties and accountability.\n\nThis is just the beginning. In the midst of fast advancement of technology and lagging international legislation, the film shows how drones change wars--and possibly our future.",
+      "after_screening": "Post screening panel discussion with Tom Blanton, Sabrina Buchwalter, Mark Mazzetti, Scott Shane and Daniel Zwerdling.",
+      "people": [
+        {
+          "name": "Tonje Hessen Schei",
+          "role": "director"
+        },
+        {
+          "name": "Tom Blanton",
+          "role": "discussant"
+        },
+        {
+          "name": "Sabrina Buchwalter",
+          "role": "discussant"
+        },
+        {
+          "name": "Mark Mazzetti",
+          "role": "discussant"
+        },
+        {
+          "name": "Scott Shane",
+          "role": "discussant"
+        },
+        {
+          "name": "Daniel Zwerdling",
+          "role": "discussant"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "(T)ERROR",
+      "directors": [
+        "Lyric Cabral",
+        "David Felix Sutcliffe"
+      ],
+      "country": "USA",
+      "film_year": null,
+      "runtime_min": 93,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2015-10-02",
+        "time": "8:30 PM",
+        "venue": "National Portrait Gallery"
+      },
+      "synopsis": "Saeed “Shariff” Torres, a counterterrorism informant for more than two decades, takes on what he swears is his last job for the FBI and invites filmmakers to follow his covert efforts to befriend a suspected jihadist - without informing his superiors. As surprising revelations emerge, not only about Torres’ past, but also about the increasingly murky ethical grounds of his present mission, (T)ERROR explores just how far we are going to prevent terror and the liberties we are sacrificing to get there.",
+      "after_screening": "Post screening panel discussion with Eric Lichtblau and David Felix Sutcliffe.",
+      "people": [
+        {
+          "name": "Lyric Cabral",
+          "role": "director"
+        },
+        {
+          "name": "David Felix Sutcliffe",
+          "role": "director"
+        },
+        {
+          "name": "Eric Lichtblau",
+          "role": "discussant"
+        }
+      ],
+      "page": 17
+    },
+    {
+      "title": "1971",
+      "directors": [
+        "Johanna Hamilton"
+      ],
+      "country": null,
+      "film_year": null,
+      "runtime_min": null,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2015-10-02",
+        "time": "3:00 PM",
+        "venue": "Newseum, Knight Conference Center, Room A"
+      },
+      "synopsis": "On March 8, 1971 a group of citizens broke into the FBI’s office in Media, PA, took hundreds of secret files, and shared them with the public. Johanna Hamilton’s compelling film 1971 is their story.",
+      "after_screening": "The film screening will be followed by a rare opportunity to hear from the members of the Citizens’ Commission who carried out the break-in, and will discuss the ongoing issues of government overreach and first amendment rights that still occupy the public debate more than 40 years later.",
+      "people": [
+        {
+          "name": "Johanna Hamilton",
+          "role": "director"
+        },
+        {
+          "name": "Charles Lewis",
+          "role": "moderator"
+        },
+        {
+          "name": "David Kairys",
+          "role": "discussant"
+        },
+        {
+          "name": "Betty Medsger",
+          "role": "discussant"
+        },
+        {
+          "name": "Edward Snowden",
+          "role": "discussant"
+        },
+        {
+          "name": "Bonnie Raines",
+          "role": "discussant"
+        },
+        {
+          "name": "John Raines",
+          "role": "discussant"
+        }
+      ],
+      "page": 27
+    }
+  ],
+  "sessions": [
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2015-10-01",
+      "time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "venue": "Woolly Mammoth Theatre, Lobby",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 4
+    },
+    {
+      "title": "Opening Remarks",
+      "kind": "other",
+      "date": "2015-10-01",
+      "time": "9:30 AM",
+      "end_time": "10:15 AM",
+      "venue": "Woolly Mammoth Theatre, Main Theatre",
+      "description": null,
+      "people": [
+        {
+          "name": "Kathy Im",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 4
+    },
+    {
+      "title": "A Case of Identity",
+      "kind": "panel",
+      "date": "2015-10-01",
+      "time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "venue": "Woolly Mammoth Theatre, Main Theatre",
+      "description": "Investigative journalist… Filmmaker… Visual storyteller… What do each of these identities mean for the way stories are told, for the role of the storyteller, for ethics and legal protections? As the boundaries between these crafts blur and collide, are the distinct identities vanishing as well, or are they more important than ever?",
+      "people": [
+        {
+          "name": "Carrie Lozano",
+          "role": "moderator"
+        },
+        {
+          "name": "Brenda Coughlin",
+          "role": "panelist"
+        },
+        {
+          "name": "Brian Knappenberger",
+          "role": "panelist"
+        },
+        {
+          "name": "Dan Krauss",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 22
+    },
+    {
+      "title": "Access and Advocacy",
+      "kind": "panel",
+      "date": "2015-10-01",
+      "time": "10:45 AM",
+      "end_time": "12:00 PM",
+      "venue": "Woolly Mammoth Theatre, Rehearsal Room",
+      "description": "Many investigative news reports and documentaries rely on government sources for facts and commentary. In the past, these exchanges were facilitated by certain standards for objective reporting. But such clear lines are harder to draw in today’s mix of traditional journalism, documentaries, advocacy media and other approaches. A bipartisan panel of current and former Congressional, Federal Agency and White House spokespeople will discuss the challenges and opportunities these changes present for government sources and those who cover them.",
+      "people": [
+        {
+          "name": "Will Jenkins",
+          "role": "moderator"
+        },
+        {
+          "name": "Alisia Essig",
+          "role": "panelist"
+        },
+        {
+          "name": "Brenda Jones",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 22
+    },
+    {
+      "title": "Lunch Buffet",
+      "kind": "other",
+      "date": "2015-10-01",
+      "time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "venue": "Woolly Mammoth Theatre",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 4
+    },
+    {
+      "title": "Truth to Power: Trapdoors",
+      "kind": "panel",
+      "date": "2015-10-01",
+      "time": "1:00 PM",
+      "end_time": "2:30 PM",
+      "venue": "Woolly Mammoth Theatre, Main Theatre",
+      "description": "Journalists and filmmakers are increasingly taking on powerful corporate interests and institutions. What happens when the targets of investigations go after the investigator? What are the areas of vulnerability, and how can reporters and visual storytellers protect themselves?",
+      "people": [
+        {
+          "name": "Walter Robinson",
+          "role": "moderator"
+        },
+        {
+          "name": "Kirby Dick",
+          "role": "panelist"
+        },
+        {
+          "name": "James Risen",
+          "role": "panelist"
+        },
+        {
+          "name": "Drew Sullivan",
+          "role": "panelist"
+        },
+        {
+          "name": "Katie Townsend",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 22
+    },
+    {
+      "title": "Encryption Workshop",
+      "kind": "workshop",
+      "date": "2015-10-01",
+      "time": "1:15 PM",
+      "end_time": "2:45 PM",
+      "venue": "Woolly Mammoth Theatre, Rehearsal Room",
+      "description": "Do you find encryption more hassle than hero? This workshop will give you a basic toolkit for protecting the confidentiality of communications. Your sources will thank you.",
+      "people": [
+        {
+          "name": "Cindy Cohn",
+          "role": "instructor"
+        },
+        {
+          "name": "Harlo Holmes",
+          "role": "instructor"
+        },
+        {
+          "name": "Greg Norcie",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 22
+    },
+    {
+      "title": "Safety on the Frontlines",
+      "kind": "panel",
+      "date": "2015-10-01",
+      "time": "2:30 PM",
+      "end_time": "4:00 PM",
+      "venue": "Woolly Mammoth Theatre, Main Theatre",
+      "description": "Pursuit of a story can put reporters and filmmakers at physical risk in the field. Navigating the balance between storytelling and personal safety can make the difference between getting the killer shot and living to tell the tale. This panel will explore essential training and preparation for entering an area of conflict, and the measures that reporters and filmmakers can take to protect themselves.",
+      "people": [
+        {
+          "name": "Ricardo Sandoval Palos",
+          "role": "moderator"
+        },
+        {
+          "name": "Christina Coleman",
+          "role": "panelist"
+        },
+        {
+          "name": "Matthew Heineman",
+          "role": "panelist"
+        },
+        {
+          "name": "Kirsten Johnson",
+          "role": "panelist"
+        },
+        {
+          "name": "Ross Kauffman",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "Cartel Land"
+      ],
+      "page": 23
+    },
+    {
+      "title": "Meet the Broadcasters",
+      "kind": "panel",
+      "date": "2015-10-01",
+      "time": "2:45 PM",
+      "end_time": "4:00 PM",
+      "venue": "Woolly Mammoth Theatre, Rehearsal Room",
+      "description": "Lightning talks from broadcasters on the kinds of work they’ve produced in the past, what they’re looking for going forward, and the best way to approach them with new stories and ideas.",
+      "people": [
+        {
+          "name": "Ron Nixon",
+          "role": "moderator"
+        },
+        {
+          "name": "Raney Aronson-Rath",
+          "role": "speaker"
+        },
+        {
+          "name": "Catherine Beck",
+          "role": "speaker"
+        },
+        {
+          "name": "Cynthia Kane",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 23
+    },
+    {
+      "title": "From Print to Screen",
+      "kind": "panel",
+      "date": "2015-10-01",
+      "time": "4:15 PM",
+      "end_time": "5:45 PM",
+      "venue": "Woolly Mammoth Theatre, Main Theatre",
+      "description": "Investigative stories that originated with the written word and were then reinterpreted for the screen. How much does the film rely on the original writing and how does the addition of the audio/visual component impact the story? Hear first-hand how such collaborations have worked and what was gained or lost in the transition for both the filmmakers and the journalists.",
+      "people": [
+        {
+          "name": "Robert Cribb",
+          "role": "moderator"
+        },
+        {
+          "name": "Debra Anderson",
+          "role": "panelist"
+        },
+        {
+          "name": "Andrew Feinstein",
+          "role": "panelist"
+        },
+        {
+          "name": "Chris Kelly",
+          "role": "panelist"
+        },
+        {
+          "name": "Thor Neureiter",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 23
+    },
+    {
+      "title": "Reception",
+      "kind": "reception",
+      "date": "2015-10-01",
+      "time": "6:00 PM",
+      "end_time": "7:00 PM",
+      "venue": "Poste Brasserie at Hotel Monaco",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 4
+    },
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2015-10-02",
+      "time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "venue": "Newseum, Knight Conference Center, Atrium",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 5
+    },
+    {
+      "title": "C#ns*rsh!p by Proxy",
+      "kind": "panel",
+      "date": "2015-10-02",
+      "time": "9:30 AM",
+      "end_time": "11:00 AM",
+      "venue": "Newseum, Knight Conference Center, Room A",
+      "description": "It’s not only government action that can block public access to investigative reporting. Pre-publication smear campaigns, insurance issues, and the mere threat of litigation – whether realized or not – have sometimes sufficed to keep important stories away from the public eye. Hear about first-hand experiences and learn how to anticipate--and sometimes avert--potential minefields.",
+      "people": [
+        {
+          "name": "Betsy Reed",
+          "role": "moderator"
+        },
+        {
+          "name": "Lowell Bergman",
+          "role": "panelist"
+        },
+        {
+          "name": "Laura Handman",
+          "role": "panelist"
+        },
+        {
+          "name": "David Felix Sutcliffe",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "(T)ERROR"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Dangerous Docs: a Report",
+      "kind": "other",
+      "date": "2015-10-02",
+      "time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "venue": "Newseum, Knight Conference Center, Room B",
+      "description": "Non-fiction filmmakers often face aggressive attack from powerful individuals, governmental bodies, businesses and associations. The Center for Media & Social Impact at American University published a report funded by the John D. and Catherine T. MacArthur Foundation to quantify the risks, and research if these can they be mitigated to encourage more and better expression on the important issues of the day. Hear directly from the researchers as they discuss their findings and share their recommendations for enabling filmmakers to continue to tell truth to power.",
+      "people": [
+        {
+          "name": "Patricia Aufderheide",
+          "role": "presenter"
+        },
+        {
+          "name": "Bruce D. Brown",
+          "role": "presenter"
+        }
+      ],
+      "related_films": [],
+      "page": 26
+    },
+    {
+      "title": "Storytelling on the Cutting Edge",
+      "kind": "panel",
+      "date": "2015-10-02",
+      "time": "11:00 AM",
+      "end_time": "12:30 PM",
+      "venue": "Newseum, Knight Conference Center, Room A",
+      "description": "Investigative journalism and visual storytelling are increasingly pushing the boundaries, borrowing from art, gaming, and even poetry to discover new forms of capturing once-inaccessible perspectives and experiences. How do non-traditional forms of storytelling reach and impact increasingly media-savvy audiences? Whether taking advantage of new technologies or putting a modern twist on classic communication forms, there are more ways than ever to tell a story – graphic novels, animation, virtual reality, poetry, and others yet to be discovered.",
+      "people": [
+        {
+          "name": "Wendy Levy",
+          "role": "moderator"
+        },
+        {
+          "name": "Brian Boyer",
+          "role": "panelist"
+        },
+        {
+          "name": "Francesca Panetta",
+          "role": "panelist"
+        },
+        {
+          "name": "Nonny de la Peña",
+          "role": "panelist"
+        },
+        {
+          "name": "Michael I. Schiller",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 26
+    },
+    {
+      "title": "Meet the Funders",
+      "kind": "panel",
+      "date": "2015-10-02",
+      "time": "11:00 AM",
+      "end_time": "12:30 PM",
+      "venue": "Newseum, Knight Conference Center, Room B",
+      "description": "Straight talk from the people who make it all possible. Lightning talks from leading funders of documentary filmmaking on their strategies, the kinds of projects they’ve supported in the past, and what they hope to achieve by investing in filmmaking in the future.",
+      "people": [
+        {
+          "name": "Caty Borum Chattoo",
+          "role": "moderator"
+        },
+        {
+          "name": "John Cardellino",
+          "role": "speaker"
+        },
+        {
+          "name": "Kathy Im",
+          "role": "speaker"
+        },
+        {
+          "name": "Richard Logan",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 27
+    },
+    {
+      "title": "Lunch Buffet",
+      "kind": "other",
+      "date": "2015-10-02",
+      "time": "12:30 PM",
+      "end_time": "1:30 PM",
+      "venue": "Newseum, Knight Conference Center",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 5
+    },
+    {
+      "title": "Meet the Online Platforms",
+      "kind": "panel",
+      "date": "2015-10-02",
+      "time": "1:30 PM",
+      "end_time": "3:00 PM",
+      "venue": "Newseum, Knight Conference Center, Room A",
+      "description": "As the audiences shrink for deep dive investigations and longform stories told solely in words, news organizations are increasingly tapping a variety of media to convey complex stories. Hear from individuals who are at the forefront of this new wave of short form visual journalism.",
+      "people": [
+        {
+          "name": "Kasia Cieplak-Mayr von Baldegg",
+          "role": "speaker"
+        },
+        {
+          "name": "Emma Dessau",
+          "role": "speaker"
+        },
+        {
+          "name": "Valerie Lapinski",
+          "role": "speaker"
+        },
+        {
+          "name": "Kathleen Lingo",
+          "role": "speaker"
+        },
+        {
+          "name": "Sky Dylan-Robbins",
+          "role": "speaker"
+        },
+        {
+          "name": "Michael Shagoury",
+          "role": "speaker"
+        },
+        {
+          "name": "Greg Veis",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 27
+    },
+    {
+      "title": "Alex Gibney, in Conversation with Franklin Foer",
+      "kind": "conversation",
+      "date": "2015-10-02",
+      "time": "1:30 PM",
+      "end_time": "3:00 PM",
+      "venue": "Newseum, Knight Conference Center, Room B",
+      "description": "Award-winning filmmaker Alex Gibney has long bridged investigative journalism and filmmaking. He has tackled some of the most topical stories of our day, including political and corporate corruption, deception by sports figures, and sexual abuse in the Catholic church. His film Going Clear: Scientology and the Prison of Belief (2015) recently won three Emmys. Franklin Foer, an author and fellow at the New America Foundation, is a former editor of The New Republic.",
+      "people": [
+        {
+          "name": "Franklin Foer",
+          "role": "moderator"
+        },
+        {
+          "name": "Alex Gibney",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "Going Clear: Scientology and the Prison of Belief"
+      ],
+      "page": 27
+    },
+    {
+      "title": "Crossing Boundaries, then and now: A Case Study of 1971 featuring activists of “the burglary” and Edward Snowden",
+      "kind": "screening-event",
+      "date": "2015-10-02",
+      "time": "3:00 PM",
+      "end_time": "4:30 PM",
+      "venue": "Newseum, Knight Conference Center, Room A",
+      "description": "On March 8, 1971 a group of citizens broke into the FBI’s office in Media, PA, took hundreds of secret files, and shared them with the public. Johanna Hamilton’s compelling film 1971 is their story. The film screening will be followed by a rare opportunity to hear from the members of the Citizens’ Commission who carried out the break-in, and will discuss the ongoing issues of government overreach and first amendment rights that still occupy the public debate more than 40 years later.",
+      "people": [
+        {
+          "name": "Charles Lewis",
+          "role": "moderator"
+        },
+        {
+          "name": "Johanna Hamilton",
+          "role": "panelist"
+        },
+        {
+          "name": "David Kairys",
+          "role": "panelist"
+        },
+        {
+          "name": "Betty Medsger",
+          "role": "panelist"
+        },
+        {
+          "name": "Edward Snowden",
+          "role": "panelist"
+        },
+        {
+          "name": "Bonnie Raines",
+          "role": "panelist"
+        },
+        {
+          "name": "John Raines",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "1971"
+      ],
+      "page": 27
+    },
+    {
+      "title": "Closing Remarks",
+      "kind": "other",
+      "date": "2015-10-02",
+      "time": "4:30 PM",
+      "end_time": "4:45 PM",
+      "venue": "Newseum, Knight Conference Center, Room A",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 5
+    },
+    {
+      "title": "Closing Reception honoring Elspeth Revere",
+      "kind": "reception",
+      "date": "2015-10-02",
+      "time": "4:30 PM",
+      "end_time": "6:00 PM",
+      "venue": "Newseum, Knight Conference Center, 7th Floor Terrace",
+      "description": "Closing Reception honoring Elspeth Revere, with remarks from Charles Lewis and friends",
+      "people": [
+        {
+          "name": "Elspeth Revere",
+          "role": "honoree"
+        },
+        {
+          "name": "Charles Lewis",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 5
+    }
+  ],
+  "people": [
+    {
+      "name": "Debra Anderson",
+      "bio": "Debra Anderson, a digital media, strategy and marketing consultant, is a founding partner of the PeaceTechLab, in collaboration with INCORE at the University of Ulster. In 2013, she created, and taught, the first Big Data Consumer Research course at The New School for Public Engagement.",
+      "affiliation": "PeaceTechLab",
+      "page": 28
+    },
+    {
+      "name": "Raney Aronson-Rath",
+      "bio": "Raney Aronson-Rath, executive producer of Frontline, PBS’ flagship investigative journalism series, has been internationally recognized for her work to re-imagine the documentary form across multiple media platforms. Aronson-Rath has developed and managed more than a dozen journalistic partnerships with news outlets including ProPublica, PBS Marketplace, PBS NewsHour, The New York Times, and CBC Television.",
+      "affiliation": "Frontline (PBS)",
+      "page": 28
+    },
+    {
+      "name": "Patricia Aufderheide",
+      "bio": "Patricia Aufderheide who teaches at the School of Communication at American University, is the founder-director of the Center for Media & Social Impact. Aufderheide currently sits on the board of directors of the Independent Television Service, which produces innovative television programming for underserved audiences under the umbrella of the Corporation for Public Broadcasting.",
+      "affiliation": "Center for Media & Social Impact, American University",
+      "page": 28
+    },
+    {
+      "name": "Kasia Cieplak-Mayr von Baldegg",
+      "bio": "Kasia Cieplak-Mayr von Baldegg is the executive producer for video at The Atlantic. She joined the magazine in 2011 to launch its video channel and, in 2013, created its in-house video production department. Previously, she worked as a producer at Al Gore’s Current TV and as a content strategist and documentary producer in San Francisco.",
+      "affiliation": "The Atlantic",
+      "page": 28
+    },
+    {
+      "name": "Catherine Beck",
+      "bio": "Catherine Beck is an award-winning member of the investigative reporting team at WXIA in Atlanta. Previously, she did similar work at WTVR in Richmond, VA. She has also taught broadcast writing at Virginia Commonwealth University.",
+      "affiliation": "WXIA",
+      "page": 29
+    },
+    {
+      "name": "Lowell Bergman",
+      "bio": "Lowell Bergman is the Reva and David Logan Distinguished Chair in Investigative Reporting at the Graduate School of Journalism at UC Berkeley and director of the Investigative Reporting Program, where he has taught a seminar dedicated to investigative reporting for more than 20 years. He is also a producer/correspondent for the PBS documentary series Frontline.",
+      "affiliation": "Graduate School of Journalism, UC Berkeley",
+      "page": 29
+    },
+    {
+      "name": "Brian Boyer",
+      "bio": "Brian Boyer is the visuals editor at NPR. Before NPR, he interned with ProPublica and then founded the news applications team at Chicago Tribune. He was one of the first two programmers to receive a Knight News Challenge-funded scholarship to study journalism at Medill. He loves his job.",
+      "affiliation": "NPR",
+      "page": 29
+    },
+    {
+      "name": "Bruce D. Brown",
+      "bio": "Bruce D. Brown, the executive director of the Reporters Committee for Freedom of the Press, co-directs the First Amendment Clinic at the University of Virginia Law School and is an adjunct professor at Georgetown University in its master’s program in journalism.",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 29
+    },
+    {
+      "name": "John Cardellino",
+      "bio": "John Cardellino is a senior consultant for the Sundance Documentary Film Program. Prior to his role as a consultant, Cardellino worked directly with filmmakers funded by the program, managing its creative labs and artist support programs while providing strategic and creative support to DFP grantees.",
+      "affiliation": "Sundance Documentary Film Program",
+      "page": 30
+    },
+    {
+      "name": "Caty Borum Chattoo",
+      "bio": "Caty Borum Chattoo is a social-change communication specialist and media produce, who currently is an executive in residence at the School of Communication at American University. She has produced numerous film and television documentaries and multiple PSA campaigns.",
+      "affiliation": "School of Communication, American University",
+      "page": 30
+    },
+    {
+      "name": "Cindy Cohn",
+      "bio": "Cindy Cohn, an attorney specializing in Internet law, became executive director of the Electronic Frontier Foundation in 2015 after serving 15 years as its legal director. Some of Cohn’s significant cases include Hepting v. AT&T, a class action against AT&T for collaborating with the National Security Agency to wiretap and data-mine Americans’ communications.",
+      "affiliation": "Electronic Frontier Foundation",
+      "page": 30
+    },
+    {
+      "name": "Christina Coleman",
+      "bio": "Christina Coleman, anchor-reporter at KSDK TV in St. Louis, covered events in Ferguson, MO, for months after the shooting death of Michael Brown. She has also worked in Texas and Alaska.",
+      "affiliation": "KSDK TV",
+      "page": 30
+    },
+    {
+      "name": "Brenda Coughlin",
+      "bio": "Brenda Coughlin was a producer of the documentary feature Citizenfour, a 2015 Academy Award winner. Coughlin is currently producing Asylum, a short-form episodic series about WikiLeaks, also directed by Laura Poitras, and “Astro Noise,” Poitras’ forthcoming solo exhibition at the Whitney Museum of American Art.",
+      "affiliation": null,
+      "page": 31
+    },
+    {
+      "name": "Robert Cribb",
+      "bio": "Robert Cribb is an award-winning investigative reporter at the Toronto Star. He has received national reporting awards and citations for investigations into child exploitation, human trafficking, dangerous doctors and public-health threats.",
+      "affiliation": "Toronto Star",
+      "page": 31
+    },
+    {
+      "name": "Emma Dessau",
+      "bio": "Emma Dessau is the senior producer of POV Digital, the Webby Award-winning department that drives storytelling innovation for the PBS documentary series POV. She also helps run the POV Hackathon Lab. Dessau co-produced two nonfiction projects, Folk to Folk, and The Story Store. She previously worked at Emerson College’s Engagement Game Lab in Boston.",
+      "affiliation": "POV Digital",
+      "page": 31
+    },
+    {
+      "name": "Kirby Dick",
+      "bio": "Kirby Dick’s most recent film, The Hunting Ground, an exposé about sexual assault on college campuses, premiered at the 2015 Sundance Film Festival and will have its television premiere on CNN this fall. His previous film, The Invisible War, an investigation into rape within the US military, won two Emmy Awards, a Peabody Award, and was nominated for an Academy Award.",
+      "affiliation": null,
+      "page": 31
+    },
+    {
+      "name": "Sky Dylan-Robbins",
+      "bio": "Sky Dylan-Robbins is an award-winning video journalist at The New Yorker magazine. Previously, she was part of a small editorial team at Tumblr, the blogging platform. Dylan-Robbins graduated cum laude from Northwestern University with degrees in film, Italian and sociology, and has lived and worked in Bologna and Rome. She’s from — and still lives in — New York City.",
+      "affiliation": "The New Yorker",
+      "page": 32
+    },
+    {
+      "name": "Alisia Essig",
+      "bio": "Alisia Essig was a legislative aide and communications director for Utah Congressman Jason Chaffetz from 2008 to 2011. Since then Essig has worked for Mia Love’s 2012 and 2014 congressional campaigns in Utah’s fourth district. Essig managed all local and national media requests as Love’s press secretary during both election",
+      "affiliation": null,
+      "page": 32
+    },
+    {
+      "name": "Andrew Feinstein",
+      "bio": "Andrew Feinstein, a former ANC Member of Parliament in South Africa, is the author of After the Party: Corruption, the ANC and South Africa’s Uncertain Future, and The Shadow World: Inside the Global Arms Trade. He is the writer on the feature documentary of Shadow World, which will premiere in early 2016. Feinstein lives in London.",
+      "affiliation": null,
+      "page": 32
+    },
+    {
+      "name": "Franklin Foer",
+      "bio": "Franklin Foer is a fellow at the New America Foundation. For seven years, he was the editor of the New Republic. He is the author of the international bestseller How Soccer Explains the World. Currently, he’s writing a book about Silicon Valley",
+      "affiliation": "New America Foundation",
+      "page": 32
+    },
+    {
+      "name": "Alex Gibney",
+      "bio": "Alex Gibney received a Best Feature-Length Documentary Oscar in 2008 for Taxi to the Dark Side, a Best Director nomination from the Directors Guild of America, and a Writer’s Guild award for Best Screenplay. Gibney received an Academy Award nomination in 2006 for Enron: The Smartest Guys in the Room.",
+      "affiliation": null,
+      "page": 33
+    },
+    {
+      "name": "Johanna Hamilton",
+      "bio": "Johanna Hamilton co-produced Pray the Devil Back to Hell, about women demanding peace for Liberia, which won the Grand Jury Prize for Best Documentary at the 2008 Tribeca Film Festival. In Fall 2011, it led the PBS mini-series Women, War & Peace, which won the Overseas Press Club Edward R. Murrow Award for best documentary. The film 1971 is her documentary feature debut.",
+      "affiliation": null,
+      "page": 33
+    },
+    {
+      "name": "Laura Handman",
+      "bio": "Laura Handman, a partner at the law firm of Davis Wright Tremaine, has extensive experience in libel, newsgathering, privacy, right of publicity, reporter’s privilege and First Amendment matters. She obtained the first decision in U.S. courts refusing to enforce foreign libel judgments as inconsistent with the First Amendment.",
+      "affiliation": "Davis Wright Tremaine",
+      "page": 33
+    },
+    {
+      "name": "Matthew Heineman",
+      "bio": "Matthew Heineman’s latest film CARTEL LAND premiered in the U.S. Documentary Competition at the 2015 Sundance Film Festival, where Heineman won the Best Director Award and Special Jury Prize for Cinematography. The film will be released in theatres in the Fall of 2015 and have it’s broadcast premiere on A&E in 2016.",
+      "affiliation": null,
+      "page": 33
+    },
+    {
+      "name": "Harlo Holmes",
+      "bio": "Harlo Holmes is a digital security trainer. She helps journalists in various media organizations become confident and effective in securing their communications within their newsrooms, with their sources, and with the public at large. She is a media scholar, software programmer, and activist; and contributes regularly to the open source mobile security collective, The Guardian Project.",
+      "affiliation": null,
+      "page": 34
+    },
+    {
+      "name": "Kathy Im",
+      "bio": "Kathy Im oversees investments in the John D. and Catherine T. MacArthur Foundation’s journalism program. On sabbatical from the foundation, she explored the intersection of interactive documentaries and digital journalism at MIT. Prior to joining the foundation, Im worked at the U.S. Department of Housing and Urban Development and the Bank of America Foundation.",
+      "affiliation": "John D. and Catherine T. MacArthur Foundation",
+      "page": 34
+    },
+    {
+      "name": "Will Jenkins",
+      "bio": "Will Jenkins has, for nearly a decade, worked in communications and policy at the White House, the U.S. Department of Health and Human Services, and both houses of Congress. Over the years, he has worked with dozens of filmmakers to help them understand and engage the policymaking process. He also wrote a guide to politics for filmmakers for Documentary magazine.",
+      "affiliation": null,
+      "page": 34
+    },
+    {
+      "name": "Kirsten Johnson",
+      "bio": "Kirsten Johnson is a cinematographer and director whose camerawork appeared in Citizenfour, which won the Academy Award for Best Documentary Feature at the 2015 Oscars. Johnson teaches “Visual Thinking” at the Graduate Journalism Department at NYU and cinematography in the Masters in Film program at the School of Visual Arts.",
+      "affiliation": null,
+      "page": 34
+    },
+    {
+      "name": "Brenda Jones",
+      "bio": "Brenda Jones, communications director for Rep. John Lewis for 11 years, has worked with Hollywood film producers, documentary film and radio producers, and many TV, radio, and print journalists to tell the congressman’s story. She began her career in public broadcasting and radio and had stints in commercial TV at CBS and ABC networks.",
+      "affiliation": "Office of Rep. John Lewis",
+      "page": 35
+    },
+    {
+      "name": "David Kairys",
+      "bio": "David Kairys, a law professor at Temple University, specializes in constitutional law and civil rights law. He has won numerous awards for his work, including the Alliance for Justice honor list for 2008 and the Association of American Law Schools 2007 Deborah Rhode Award for extraordinary contribution to public interest by a law professor.",
+      "affiliation": "Temple University",
+      "page": 35
+    },
+    {
+      "name": "Cynthia Kane",
+      "bio": "Cynthia Kane works as senior commissioning producer in Al Jazeera America’s Doc Unit. Previously, she was at ITVS (Independent Television Service) managing the international initiative for funding, and also supported the domestic funding initiatives. She worked at Sundance Channel and co-created DOCday during her 10-year tenure there.",
+      "affiliation": "Al Jazeera America",
+      "page": 35
+    },
+    {
+      "name": "Ross Kauffman",
+      "bio": "Ross Kauffman was the director, producer, cinematographer and co-editor of Born into Brothels, which won a 2005 Oscar for Best Documentary. Kaufman’s current projects include Right on Red, a film about a gay couple trying to adopt a newborn baby from a drug-addicted woman and her abusive lesbian partner, and the documentary Wait For Me, chronicling a mother’s search for her son missing for 23 years.",
+      "affiliation": null,
+      "page": 35
+    },
+    {
+      "name": "Chris Kelly",
+      "bio": "Chris Kelly has spent the last six years living in Cambodia filming the feature documentary, The Cause of Progress, which is in post-production now. His most recent film, Supermarket Slave Trail, which was produced for The Guardian, caused many supermarkets around the world to stop selling prawns farmed in Thailand. Kelly is the founder of production company Little Ease Films Ltd.",
+      "affiliation": "Little Ease Films Ltd.",
+      "page": 36
+    },
+    {
+      "name": "Brian Knappenberger",
+      "bio": "Brian Knappenberger, a documentary producer and director, created We Are Legion: The Story of the Hacktivists, about the online hacktivist non-group Anonymous; Life After War, about political tensions in post-war Afghanistan; and A Murder in Kyiv, about the death of a Ukrainian journalist reportedly at the hands of government officials.",
+      "affiliation": null,
+      "page": 36
+    },
+    {
+      "name": "Dan Krauss",
+      "bio": "Dan Krauss was nominated for an Academy Award and two Emmy Awards for his first film, The Death of Kevin Carter. His most recent film, The Kill Team, won The Grand Jury Prize for Best Documentary at the Tribeca Film Festival, the Truer than Fiction Independent Spirit Award and the National Board of Review Top 5. Krauss lectures at UC Berkeley’s Graduate School of Journalism on documentary film and television production.",
+      "affiliation": null,
+      "page": 36
+    },
+    {
+      "name": "Valerie Lapinski",
+      "bio": "Valerie Lapinski is the head of video at Guardian US. She has previously worked in multimedia production at TIME, WNYC public radio and the New York Times.",
+      "affiliation": "Guardian US",
+      "page": 36
+    },
+    {
+      "name": "Wendy Levy",
+      "bio": "Wendy Levy is the Director of New Arts Axis. She is also a Senior Consultant with the Sundance Institute Documentary Film Program and the Co-Founder of Sparkwise, an online data and story platform funded by the MacArthur Foundation, Ford Foundation and Bill and Melinda Gates Foundation.",
+      "affiliation": "New Arts Axis",
+      "page": 37
+    },
+    {
+      "name": "Charles Lewis",
+      "bio": "Charles Lewis, a former ABC News and 60 Minutes producer, founded the Investigative Reporting Workshop and before that the Center for Public Integrity and its International Consortium of Investigative Journalists. Lewis recently helped create the Investigative News Network, comprised of more than 90 nonprofit news publishers. He is a professor at American University School of Communication.",
+      "affiliation": "American University School of Communication",
+      "page": 37
+    },
+    {
+      "name": "Kathleen Lingo",
+      "bio": "Kathleen Lingo is the coordinating producer of The New York Times’ Op-Doc series. Before joining The Times, she worked on news and documentary projects at HBO, IFC, WNYC, and Jigsaw Productions. Last year, she won an Emmy as part of the team for A Short History of the Highrise produced by The New York Times and the National Film Board of Canada.",
+      "affiliation": "The New York Times",
+      "page": 37
+    },
+    {
+      "name": "Richard Logan",
+      "bio": "Richard Logan is the founding executive of a UK-based Mac software company, and is president of The Reva and David Logan Foundation of Chicago. The foundation is a substantial program contributor to the Logan Center for the Arts at the University of Chicago and invests in investigative journalism in the U.S. and Europe.",
+      "affiliation": "The Reva and David Logan Foundation",
+      "page": 37
+    },
+    {
+      "name": "Carrie Lozano",
+      "bio": "Carrie Lozano was until recently executive producer for documentaries at Al Jazeera America. Prior to that she was senior producer of the Emmy and Peabody Award winning series Fault Lines. She was also a contributing reporter on PBS Frontline’s Black Money and Post Mortem. She is currently producing and directing a documentary film about jazz pianist Fred Hersch.",
+      "affiliation": null,
+      "page": 38
+    },
+    {
+      "name": "Betty Medsger",
+      "bio": "In 1971, Betty Medsger, then a Washington Post reporter, broke the story about FBI files stolen by anonymous burglars. Those files proved FBI director J. Edgar Hoover directed the agency to conduct dirty, violent tricks against civil rights and peace activists and African-Americans in general. In 2014, Medsger revealed her sources in her book, The Burglary: The Discovery of J. Edgar Hoover’s Secret FBI. She lives in New York.",
+      "affiliation": null,
+      "page": 38
+    },
+    {
+      "name": "Thor Neureiter",
+      "bio": "Thor Neureiter is an independent documentary producer, cameraman and editor whose work focuses on US foreign policy and domestic politics. In 2012, Neureiter’s films Mitt Romney and the Mormon Factor and Prosecute Wall Street aired on Al Jazeera English. He has worked on programming for PBS and HBO.",
+      "affiliation": null,
+      "page": 38
+    },
+    {
+      "name": "Ron Nixon",
+      "bio": "Ron Nixon is a Washington correspondent for the New York Times who covers federal regulatory agencies. He is the chairman of the board of 100Reporters and is author of the book Selling Apartheid: Apartheid South Africa’s Global Propaganda War (Jacana Media, June 2015).",
+      "affiliation": "The New York Times",
+      "page": 38
+    },
+    {
+      "name": "Greg Norcie",
+      "bio": "Greg Norcie is a staff technologist at the Center for Democracy and Technology. He provides technical expertise to assist CDT staff in formulating and articulating policy positions, and also works on CDT’s Internet Architecture project, where he focuses on embedding privacy and respect for human rights into technical standards and policy decisions.",
+      "affiliation": "Center for Democracy and Technology",
+      "page": 39
+    },
+    {
+      "name": "Ricardo Sandoval Palos",
+      "bio": "Ricardo Sandoval Palos is supervising editor of NPR’s Morning Edition. He also is president of the board of directors at the nonprofit Fund for Investigative Journalism. Before joining NPR, he edited international investigations for the Center for Public Integrity, and previously was a Latin America correspondent for the Dallas Morning News and Knight Ridder.",
+      "affiliation": "NPR",
+      "page": 39
+    },
+    {
+      "name": "Nonny de la Peña",
+      "bio": "Nonny de la Peña has built more than five virtual reality constructs including Hunger in Los Angeles, which premiered at the Sundance Film Festival in January 2012. She has been a correspondent for Newsweek Magazine and her work has appeared in the publications such the New York Times, Los Angeles Times Magazine, and Premiere Magazine.",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "Bonnie Raines",
+      "bio": "Bonnie Raines is one of the “anonymous burglars” who broke into an FBI office in Media, Penn., in 1971 that led to Betty Medsger’s stories unmasking of J. Edgar Hoover. Today she is the mother of four and grandmother of seven who remains politically active.",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "John Raines",
+      "bio": "John Raines has taught in the religion department at Temple University for the past 47 years. Raines, a “Freedom Rider” who was jailed in 1964, joined the anti-Vietnam movement. Eventually, he and his wife Bonnie became a part of The Citizens Commission to Investigate the FBI, which led to Betty Medsger’s revelations of civil rights violations.",
+      "affiliation": "Temple University",
+      "page": 40
+    },
+    {
+      "name": "Betsy Reed",
+      "bio": "Betsy Reed is Editor-in-Chief of The Intercept. Previously, she was Executive Editor of The Nation, where she led the magazine’s award-winning investigative coverage. She has edited several bestselling books, including Jeremy Scahill’s Blackwater and Dirty Wars. Reed co-edited the New York Times bestseller Going Rouge: Sarah Palin –An American Nightmare.",
+      "affiliation": "The Intercept",
+      "page": 40
+    },
+    {
+      "name": "Elspeth Revere",
+      "bio": "Elspeth Revere is Vice President of Media, Culture, and Special Initiatives at the MacArthur Foundation. Her responsibilities at the foundation include “support for media in a technologically changing environment.. strengthening American democracy, arts and culture in Chicago, grants in response to special opportunities, and the Foundation’s program of institutional grants.”",
+      "affiliation": "MacArthur Foundation",
+      "page": 40
+    },
+    {
+      "name": "James Risen",
+      "bio": "James Risen is a The New York Times reporter who previously worked for the Los Angeles Times. He is the author or co-author of two books about the Central Intelligence Agency and a book about the American public debate about abortion. Risen is a two-time Pulitzer Prize winner.",
+      "affiliation": "The New York Times",
+      "page": 40
+    },
+    {
+      "name": "Walter Robinson",
+      "bio": "Walter Robinson, editor at large at the Boston Globe, has been a reporter and editor there for 43 years. He covered city, state and national politics and government, and was the newspaper’s Middle East correspondent during the First Gulf War. He led the investigation that exposed the Catholic Church’s cover-up of decades of sexual abuse by nearly 200 priests.",
+      "affiliation": "The Boston Globe",
+      "page": 41
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "bio": "Diana Jean Schemo is co-founder and executive editor of 100Reporters, a nonprofit investigative news consortium, and founding director of the Double Exposure: The Investigative Film Festival and Symposium. Ms. Schemo is an author and former national and foreign correspondent at The New York Times and The Baltimore Sun.",
+      "affiliation": "100Reporters",
+      "page": 41
+    },
+    {
+      "name": "Michael I. Schiller",
+      "bio": "Michael I. Schiller is the creative director of Reveal for The Center for Investigative Reporting. His most recent short animated film, The Box, won first prize at the San Francisco International Film Festival and was honored at The Webbys, the New Orleans Film Festival and the Northern California Society of Professional Journalists.",
+      "affiliation": "The Center for Investigative Reporting",
+      "page": 41
+    },
+    {
+      "name": "Michael Shagoury",
+      "bio": "Michael Shagoury is digital media professional and entrepreneur who is currently executive producer and acting editorial lead of AJ+. As a broadcast professional, he produced news and documentaries for CNN, Al Jazeera, BBC, ZDF and NBC. Shagoury spearheaded the establishment of the World Media Academy in Dubai, which trains broadcasting, print journalism and public relations professionals.",
+      "affiliation": "AJ+",
+      "page": 41
+    },
+    {
+      "name": "Edward Snowden",
+      "bio": "Edward Snowden is a former National Security Agency subcontractor who made headlines in 2013 when he leaked top secret information about NSA surveillance activities.",
+      "affiliation": null,
+      "page": 42
+    },
+    {
+      "name": "Rachel Louise Snyder",
+      "bio": "Rachel Louise Snyder, an associate professor in the MFA creative writing program and the journalism program at American University, has published both nonfiction and fiction books and written for numerous national magazines and newspapers. She hosted the nationally syndicated global affairs series “Latitudes” on public radio, and her stories have aired on Marketplace and All Things Considered.",
+      "affiliation": "American University",
+      "page": 42
+    },
+    {
+      "name": "Drew Sullivan",
+      "bio": "Drew Sullivan founded the Center for Investigative Reporting in Bosnia-Herzegovina in 2004 and served as its editor and first director. Today he directs the Organized Crime and Corruption Reporting Program, an organization he founded together with journalists from a dozen countries. He has also served on the board.",
+      "affiliation": "Organized Crime and Corruption Reporting Program",
+      "page": 42
+    },
+    {
+      "name": "David Felix Sutcliffe",
+      "bio": "David Felix Sutcliffe’s film, (T)ERROR, co-directed with Lyric R. Cabral, debuted at the 2015 Sundance Film Festival where it won a Special Jury Prize, as well as the Grand Jury Prize at the 2015 Full Frame Film Festival. (T)ERROR will be released in theatres in the fall of 2015, followed by a U.S. and international broadcast in early 2016.",
+      "affiliation": null,
+      "page": 42
+    },
+    {
+      "name": "Margaret Talbot",
+      "bio": "Margaret Talbot joined The New Yorker as a staff writer. Previously, she was a contributing writer at the New York Times Magazine and, from 1995 to 1999, an editor at The New Republic. She is the author of “The Entertainer: Movies, Magic and My Father’s Twentieth Century,” about Lyle Talbot, her father.",
+      "affiliation": "The New Yorker",
+      "page": 43
+    },
+    {
+      "name": "Katie Townsend",
+      "bio": "Katie Townsend is the Reporters Committee for Freedom of the Press’ first litigation director. She oversees freedom of information activities and participates in a full range of media law issues with a focus on handling litigation brought by the Reporters Committee. Townsend, who holds a B.A in English and a B.S. in broadcast journalism, was a reporter and producer for a local AM news radio station as an undergraduate.",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 43
+    },
+    {
+      "name": "Greg Veis",
+      "bio": "Greg Veis is an executive editor of the Huffington Post Highline. Before that, he edited for The New Republic, The New York Times Magazine, and GQ.",
+      "affiliation": "Huffington Post Highline",
+      "page": 43
+    },
+    {
+      "name": "Daniel Zwerdling",
+      "bio": "Daniel Zwerdling, a correspondent in NPR’s Investigations Unit, has won some of the most prestigious awards in broadcasting. His career includes a stint as senior host of NPR’s Weekend All Things Considered, and a tour as NPR’s roving Africa correspondent based in Nairobi. Before joining NPR, Zwerdling was a staff writer at The New Republic.",
+      "affiliation": "NPR",
+      "page": 43
+    }
+  ],
+  "awards": [],
+  "organizers": [
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Ron Nixon",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Lori E. Gold",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Robin Bronk",
+      "role": "Advisory Board"
+    },
+    {
+      "name": "Gabby Hanna",
+      "role": "Advisory Board"
+    },
+    {
+      "name": "Joshua Levin",
+      "role": "Advisory Board"
+    },
+    {
+      "name": "Israel Mirsky",
+      "role": "Advisory Board"
+    },
+    {
+      "name": "Jamie Shor",
+      "role": "Advisory Board"
+    },
+    {
+      "name": "Meyer Shwarzstein",
+      "role": "Advisory Board"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Team: Founding Director"
+    },
+    {
+      "name": "Sky Sitney",
+      "role": "Team: Associate Director"
+    },
+    {
+      "name": "Mariana Brito",
+      "role": "Team: Event Coordinator and Graphic Designer"
+    },
+    {
+      "name": "Mary Ann Brownlow",
+      "role": "Team: Special Programs Manager"
+    },
+    {
+      "name": "Kevin Davis",
+      "role": "Team: Consultant and Underwriting Executive"
+    },
+    {
+      "name": "Lily Hughes",
+      "role": "Team: Opening Night Coordinator"
+    },
+    {
+      "name": "Donna Purchase",
+      "role": "Team: Volunteers Coordinator"
+    },
+    {
+      "name": "Lauren Selman",
+      "role": "Team: Social Media and Outreach Manager"
+    },
+    {
+      "name": "Jeanne Sobel",
+      "role": "Team: Marketing Manager"
+    },
+    {
+      "name": "Flo Stone",
+      "role": "Team: Adviser"
+    },
+    {
+      "name": "Elizabeth Ashwell",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Fran Dauth",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Lewam Dejen",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Hammond Taylor Foster",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Veronika Gajer",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Andrew Jeffrey",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Claritza Jiménez",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Audrey Levine",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Paul Marengo",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Felicia E. Mebane",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Eneshal Miller",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Andrea Passafiume",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Henry Purchase",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Clarice Silber",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Daniel Smith",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Barclay Todd",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Alexandra Vollreifer",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Lisa Walton",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Drew Williams",
+      "role": "Interns and Volunteers"
+    },
+    {
+      "name": "Christina White",
+      "role": "Interns and Volunteers"
+    }
+  ],
+  "notes": "First edition. Catalogue is 48 pages; pages 2, 18-20, 24-25, 44-45, 47-48 are sponsor ads/photos only (checked visually) and were skipped, as was the community-partners list on p46. Film runtimes, countries and directors come from the film pages and the p3 schedule; no production years are printed. Film screening venue is the National Portrait Gallery as printed on each film page. The film page header misprints the title as \"(T)TERROR\"; the schedule and synopsis say \"(T)ERROR\" (TOC: \"(T)error\"). 1971 (dir. Johanna Hamilton) is not in the films section; it screened inside the Oct 2 \"Crossing Boundaries\" session (p27) and is included as a film with only the facts printed there; its 3:00 PM time is the session start. The True Cost is labelled \"Special Youth Screening\" (put in slot). Spotlight is the \"Opening Night Gala\" film. Session times come from the day schedules on pp4-5 and descriptions from pp22-27. Printed typos normalised: \"Dangerous Docs\" 10:00am - 11:00pm -> 11:00 AM; \"Meet the Funders\" 11:00pm -> 11:00 AM. Where a session list and the schedule differ on moderators, the schedule was used: Access and Advocacy (Will Jenkins moderator, p4) and Meet the Funders (Caty Borum-Chattoo moderator, p5). Speaker names are normalised to the bio spelling in people[] arrays: \"Bruce Brown\" -> Bruce D. Brown, \"Caty Borum-Chattoo\" -> Caty Borum Chattoo, \"Michael Schiller\" -> Michael I. Schiller, \"Matt Heineman\" -> Matthew Heineman. Bio heading prints \"DAN KRAUS\" but the bio text and schedules say Krauss; Dan Krauss used. Alisia Essig's bio is cut off mid-sentence in the printed catalogue (\"during both election\"). Francesca Panetta (Storytelling on the Cutting Edge) and film discussants without bios have no people[] entry. The welcome letter (p8) states no theme. No awards are printed; the closing reception honours Elspeth Revere (recorded as a session)."
+}

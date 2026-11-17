@@ -1,0 +1,1960 @@
+{
+  "year": 2022,
+  "edition_name": "Double Exposure Investigative Film Festival & Symposium",
+  "dates": "October 13-16, 2022",
+  "theme": null,
+  "venues": [
+    {
+      "name": "Naval Heritage Center",
+      "address": "701 Pennsylvania Ave NW"
+    },
+    {
+      "name": "National Geographic Grosvenor Auditorium",
+      "address": "1600 M St. NW"
+    },
+    {
+      "name": "District Architecture Center",
+      "address": "421 7th St. NW"
+    },
+    {
+      "name": "Dirty Habit",
+      "address": "700 F St. NW"
+    }
+  ],
+  "films": [
+    {
+      "title": "The Grab",
+      "directors": [
+        "Gabriela Cowperthwaite"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 104,
+      "premiere": null,
+      "slot": "Opening Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-13",
+        "time": "7:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Award-winning director Gabriela Cowperthwaite (BLACKFISH) takes viewers inside a seismic story that has largely gone unnoticed by much of the world. Cowperthwaite follows journalist Nate Halvorsen at the Center for Investigative Reporting on an eight-year investigation that begins when a Chinese company purchases Smithfield Hams in 2014. A mysterious and massive leak of documents subsequently prompts Halvorsen and his colleagues to follow the money trail. It leads to Beijing, where they discover that the Chinese government bankrolled the purchase of Smithfield, giving Beijing ownership of one in four American pigs.\n\nDigging deeper, they discover that China is hardly alone. Quietly and seemingly out of sight, governments, private investors and mercenaries are working to seize food and water resources at the expense of entire populations. Anticipating food and water shortages at home, they are drawing lessons from the Arab Spring and other moments of civil unrest that accompanied rising food prices. Any nation, the saying goes, is only nine meals away from revolution.\n\nRelying on interviews with military and political analysts, THE GRAB posits that in the not-too-distant future, world powers will be those who control access to food and water, which will be seen as vital to stability at home.",
+      "after_screening": "Post-screening discussion to follow with film producer Amanda Pike and protagonists: Nathan Halverson - Journalist, Center for Investigative Reporting; Brigadier Siachitema - Attorney and Land Rights Activist, Southern Africa Litigation Center; Dr. Molly Jahn, Program Manager - Defense Sciences Office. Moderated by Diana Jean Schemo, DX founder and co-director",
+      "people": [
+        {
+          "name": "Gabriela Cowperthwaite",
+          "role": "director"
+        },
+        {
+          "name": "Amanda Pike",
+          "role": "producer"
+        },
+        {
+          "name": "Nathan Halverson",
+          "role": "subject (Journalist, Center for Investigative Reporting)"
+        },
+        {
+          "name": "Brigadier Siachitema",
+          "role": "subject (Attorney and Land Rights Activist, Southern Africa Litigation Center)"
+        },
+        {
+          "name": "Dr. Molly Jahn",
+          "role": "subject (Program Manager, Defense Sciences Office)"
+        },
+        {
+          "name": "Diana Jean Schemo",
+          "role": "moderator"
+        }
+      ],
+      "page": 14
+    },
+    {
+      "title": "Into the Weeds: Dewayne “Lee” Johnson vs. Monsanto Company",
+      "directors": [
+        "Jennifer Baichwal"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 96,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-14",
+        "time": "5:30 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "In 2014, DeWayne “Lee” Johnson, a 42-year-old groundskeeper for a public school district in Northern California, broke out in a mysterious rash. Shortly before, a tank of RoundUp, the most widely-used herbicide in the United States for the last two decades, had spilled on Johnson at work, dousing his clothes and skin. With the rash came blisters and other symptoms that didn’t heal, but got worse with time. Doctors diagnosed a terminal form of non-Hodkins lymphoma.\n\nJohnson tried calling RoundUp’s maker, the US chemical giant Monsanto, for information, but received no response. Had he heard back from them, Johnson later told Time Magazine, he would likely never have sued Monsanto. But sue he did, in a trial fast-tracked because of his failing health. Johnson won a staggering $289 million judgement against the company, later whittled down on appeal. Along the way, Johnson became the public face of thousands of the chemical company’s alleged victims who are seeking redress.",
+      "after_screening": "Screening followed by Q&A with director Jennifer Baichwal and film protagonist Dewayne “Lee” Johnson, moderated by Kasha Patel of the Washington Post.",
+      "people": [
+        {
+          "name": "Jennifer Baichwal",
+          "role": "director"
+        },
+        {
+          "name": "Dewayne “Lee” Johnson",
+          "role": "subject"
+        },
+        {
+          "name": "Kasha Patel",
+          "role": "moderator (The Washington Post)"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "American Pain",
+      "directors": [
+        "Darren Foster"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 106,
+      "premiere": null,
+      "slot": "Centerpiece",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-14",
+        "time": "8:30 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "American Pain chronicles the rise of Chris and Jeff George, twin bodybuilders from Florida, who built the largest oxycodone trafficking network in US history. Through storefront pain clinics that dispensed pills at an alarming rate, with a cast of enablers that included physicians, family members, pharmaceutical companies, and even a DEA agent, the brothers drew busloads of addicts from across Appalachia and points beyond, raking in more than $500 million. Jeff George boasted they were creating a new kind of tourism, and ran “the Disneyland of pain clinics.” Drawing on hundreds of hours of wiretap recordings, undercover videos and exclusive interviews with key players and rivals in Florida’s pill mill boom, the film captures the greed and lack of remorse of home-grown drug kingpins, and the devastation they let loose.",
+      "after_screening": "Screening followed by Q&A with director Darren Foster, moderated by Scott Higham of the Washington Post.",
+      "people": [
+        {
+          "name": "Darren Foster",
+          "role": "director"
+        },
+        {
+          "name": "Scott Higham",
+          "role": "moderator (The Washington Post)"
+        }
+      ],
+      "page": 17
+    },
+    {
+      "title": "Pray for Our Sinners",
+      "directors": [
+        "Sinéad O’Shea"
+      ],
+      "country": "Ireland",
+      "film_year": 2022,
+      "runtime_min": 81,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-15",
+        "time": "11:00 AM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Director Sinéad O’Shea returns to Navan, the town in Ireland where she grew up, to investigate the overwhelming power of the Catholic church, and the emotional and physical brutality of its methods for dealing with “sinners’ who stray from strictly circumscribed religious and social norms.\n\nO’Shea focuses her lens on the fate of countless women who fell victim to the Catholic church’s system for dealing with young women who became pregnant out of wedlock, and the babies they brought into the world. Through chicanery and especially shame, Navan’s revered local priest routinely spirited pregnant women–most of them teenagers–off to “mother and baby homes,” with the complicity of their parents. There, nuns unleashed a torrent of abuse and punishment that persisted even in the delivery room. In many instances, the nuns and priests lied, telling the new mothers their babies had not survived. Some of the babies were then adopted out to families, while others had, indeed, died, their remains to be discovered only years later.\n\nO’Shea also follows those who resist, including a mother who manages to track down and reclaim her baby, and a couple who offer a safe haven for unmarried women who become pregnant. She finds resistance in a child, a nine-year-old boy, who stands up against corporal punishment in school.",
+      "after_screening": "Screening followed by pre-recorded Q&A with director Sinéad O’Shea, moderated by Michael Rezendes of the Associated Press.",
+      "people": [
+        {
+          "name": "Sinéad O’Shea",
+          "role": "director"
+        },
+        {
+          "name": "Michael Rezendes",
+          "role": "moderator (The Associated Press)"
+        }
+      ],
+      "page": 18
+    },
+    {
+      "title": "Myanmar Diaries",
+      "directors": [
+        "The Myanmar Film Collective"
+      ],
+      "country": "Myanmar",
+      "film_year": 2022,
+      "runtime_min": 70,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-15",
+        "time": "1:15 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "On February 1, 2021, Myanmar’s tentative, fragile democracy came to an abrupt and brutal end, with the military stepping from the shadows to reassert its rule. The junta instantly cast out a free press, political opposition and any pretense of accountability to Myanmar’s 54 million citizens. The coup unleashed a reign of terror and brutality, forcing dissent underground and into the shadows.\n\nTo the rest of the world, Myanmar became a closed society, and the world and its news cycles inevitably moved on. But inside, citizens defied the junta in nation-wide protests and acts of civil disobedience, including this film.\n\nMyanmar Diaries emerges from this vortex of resistance and terror. It mixes footage from citizen journalists who document horrific violence against citizens, including the arrests of thousands of Burmese from all walks of life who turned out to protest. They record, too, civic defiance that ranges from residents who bravely bang pots at their windows to protest the arrest of a neighbor, children who plead with the military not to take away their parents, to the beginnings of an armed resistance training in the hillside.",
+      "after_screening": "Screening followed by Q&A with producer Corinne van Egeraat, moderated by May Sabe Phyu of the Gender Equality Network.",
+      "people": [
+        {
+          "name": "The Myanmar Film Collective",
+          "role": "director"
+        },
+        {
+          "name": "Corinne van Egeraat",
+          "role": "producer"
+        },
+        {
+          "name": "May Sabe Phyu",
+          "role": "moderator (Gender Equality Network)"
+        }
+      ],
+      "page": 19
+    },
+    {
+      "title": "The New Greatness Case",
+      "directors": [
+        "Anna Shishova-Bogolyubova"
+      ],
+      "country": "Russia",
+      "film_year": 2022,
+      "runtime_min": 96,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-15",
+        "time": "3:30 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Anya was an ordinary Moscow teenager who found a chat group of her choice online. They talked about animals, the stars and social issues. A man called Ruslan D joined the group, who set up an office space for the online group to meet. Step by step, he began to lead young people who were critical of the Putin’s regime towards political activism. Ruslan D placed a camera in the meeting room, and when he had enough footage, he handed it over to the prosecutor. The police raided the teenagers’ homes and they were arrested on charges of planning to overthrow the government and terrorism. Three years of legal proceedings transformed Anya’s mother from a loyal follower of Putin to a hunger-striking activist.\n\nMoscow-based director Anna Shishova followed Anya and her mother’s life throughout the event and eventually revealed the true identity of Ruslan D.",
+      "after_screening": "Screening to be followed by Q&A with film protagonist Vasily Polonsky of TV Rain, moderated by Franklin Foer of The Atlantic.",
+      "people": [
+        {
+          "name": "Anna Shishova-Bogolyubova",
+          "role": "director"
+        },
+        {
+          "name": "Vasily Polonsky",
+          "role": "subject (TV Rain)"
+        },
+        {
+          "name": "Franklin Foer",
+          "role": "moderator (The Atlantic)"
+        }
+      ],
+      "page": 20
+    },
+    {
+      "title": "Hazing",
+      "directors": [
+        "Byron Hurt"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 103,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-15",
+        "time": "6:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Director Byron Hurt uses his own experience as a longstanding member of a member of a Black greek letter fraternity, as the springboard for this wide-ranging interrogation of initiation rituals on college campuses. He reveals a raft of largely secret rituals that routinely humiliate and degrade pledges in their quest for a sense of belonging, rites that have ended in scores of deaths on college campuses and lifelong scars for many. Survivors describe the cruelty woven through the rituals they endured, and the difficult decisions of some initiates who choose to walk away. Hurt does not spare himself in this moment of reckoning, interviewing a fraternity brother whom he hazed, despite Hurt’s initial aversion, when it was his turn. We hear from grieving family members of pledges whose hazing cost them their lives, left to seek justice and accountability for their children.\n\nHurt shows how hazing is shaped by culture. He finds that in white fraternities, the trial often revolves around dangerous levels of alcohol consumption, while in Black fraternities the punishments are more physical and psychological. Sororities, Black and white, tend more toward “mean girl” humiliations, put downs, and sexual degradation.",
+      "after_screening": "Screening followed by Q&A with director Byron Hurt, moderated by Leslie Fields-Cruz of Black Public Media.",
+      "people": [
+        {
+          "name": "Byron Hurt",
+          "role": "director"
+        },
+        {
+          "name": "Leslie Fields-Cruz",
+          "role": "moderator (Black Public Media)"
+        }
+      ],
+      "page": 21
+    },
+    {
+      "title": "Body Parts",
+      "directors": [
+        "Kristy Guevara-Flanagan"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 90,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-15",
+        "time": "8:30 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Director Kristy Guevara-Flanagan and producer Helen Hood Scheer take on a formidable subject for this post-#MeToo, #TimesUp era: the perspective of women actors on the dominance of the male gaze in Hollywood. That gaze, unquestioned for nearly one hundred years, has conditioned popular attitudes toward women, intimate desire, and sex.\n\nActors talk about their behind-the-scenes experiences disrobing and simulating sex, both in the shooting of the film and once their images are out in theaters across the planet. Actors describe the deep psychological toll these scenes have taken on them at a vulnerable stage in their careers, particularly when they have felt coerced into nudity or unaware of how scenes would be edited.\n\nGuevara-Flanagan and Scheer mix these actor interviews with iconic scenes from popular films across the years, deconstructing what it takes to conjure such scenes. We hear from an intimacy coordinator, who advises actors that there are the three basic sex scenes in film, illuminating how the film industry has managed to narrow our shared vision of what sex looks like, without most of us ever noticing.",
+      "after_screening": "Screening followed by Q&A with director Kristy Guevara-Flanagan and producer Helen Hood Scheer, moderated by Xanthe Scharff of The Fuller Project.",
+      "people": [
+        {
+          "name": "Kristy Guevara-Flanagan",
+          "role": "director"
+        },
+        {
+          "name": "Helen Hood Scheer",
+          "role": "producer"
+        },
+        {
+          "name": "Xanthe Scharff",
+          "role": "moderator (The Fuller Project)"
+        }
+      ],
+      "page": 22
+    },
+    {
+      "title": "Mariupolis 2",
+      "directors": [
+        "Mantas Kvedaravičius"
+      ],
+      "country": "Lithuania, France, Germany",
+      "film_year": 2022,
+      "runtime_min": 112,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-16",
+        "time": "11:00 AM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "In 2022, Mantas Kvedaravicius went back to Ukraine, Mariupol, at the heart of the war, to be with the people he had met and filmed in 2015. Following his death, his producers and collaborators have put all their strength into continuing transmitting his work, his vision and his films. Also a PhD in anthropology, Mantas Kvedaravicius wished to testify as a filmmaker as far as possible from the agitation of the media and the politicians. With huge force and sensitivity, Mariupolis 2 depicts life as it continues amidst the bombing and reveals images that convey both tragedy and hope.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Mantas Kvedaravičius",
+          "role": "director"
+        }
+      ],
+      "page": 23
+    },
+    {
+      "title": "Secret Screening",
+      "directors": [],
+      "country": null,
+      "film_year": 2022,
+      "runtime_min": 94,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-16",
+        "time": "2:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "A special screening, not to be disclosed in advance of its forthcoming US premiere, examines how independent news reporting is increasingly under threat by budgetary cuts and the spread of misinformation.",
+      "after_screening": "Screening to be followed by pre-recorded Q&A with the director, moderated by Jaime Holguin of the Associated Press.",
+      "people": [
+        {
+          "name": "Jaime Holguin",
+          "role": "moderator (The Associated Press)"
+        }
+      ],
+      "page": 24
+    },
+    {
+      "title": "The Killing of a Journalist",
+      "directors": [
+        "Matt Sarnecki"
+      ],
+      "country": "Denmark, Czech Republic, USA",
+      "film_year": 2022,
+      "runtime_min": 100,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-16",
+        "time": "4:30 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "On the night of February 21, 2018, investigative journalist Ján Kuciak and his fiancée Martina Kušnírová, both just 27 years old, were brutally murdered in their home. It was the first targeted killing of a journalist in Slovakia’s history, and shocked citizens protested on a scale not seen since the fall of communism. Kuciak was well known for covering questionable financial connections between politicians and “elite” business tycoons, namely millionaire Marián Kocner. When police failed to meaningfully investigate the prime suspect, journalists mobilized the public. Leaked files, Kuciak’s posthumous reports and civic outcry led to scandalous discoveries of decades-old corruption networks involving Kocner and the police chief, high-ranking bureaucrats and the prime minister himself.",
+      "after_screening": "Screening followed by Q&A with director Matt Sarnecki, moderated by Ron Nixon of the Associated Press",
+      "people": [
+        {
+          "name": "Matt Sarnecki",
+          "role": "director"
+        },
+        {
+          "name": "Ron Nixon",
+          "role": "moderator (The Associated Press)"
+        }
+      ],
+      "page": 25
+    },
+    {
+      "title": "Retrograde",
+      "directors": [
+        "Matthew Heineman"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 95,
+      "premiere": null,
+      "slot": "Closing Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2022-10-16",
+        "time": "7:00 PM",
+        "venue": "National Geographic Grosvenor Auditorium"
+      },
+      "synopsis": "In Pentagon parlance, it is called Retrograde: the withdrawal of US military presence from foreign soil, and it represents a moment of heightened danger, most acutely for those who worked alongside US military forces. Oscar-nominated and Emmy award-winning director Matt Heineman’s new documentary captures the wind down of America’s longest war in Afghanistan. Heineman follows the Green Berets, ordered home with virtually no time to prepare the Afghan Army’s leadership. Heineman is there as they prepare for the country’s next chapter under Taliban rule, destroying supplies and weapons that could end up in the hands of the very forces they fought for twenty years. He captures the chaos of the Kabul Airport, where soldiers struggle to ferry the denizens of handlers, drivers, interpreters and others who assisted the US operation and their families to safety in the west. And he offers an intimate look at the determination and, ultimately, the despair of an Afghan general who sees the path he’d worked to clear for his country’s future swept away, as the Taliban rises again.",
+      "after_screening": "Screening followed by Q&A with director Matthew Heineman, moderated by Elliot Ackerman, author of The Fifth Act: America’s End in Afghanistan.",
+      "people": [
+        {
+          "name": "Matthew Heineman",
+          "role": "director"
+        },
+        {
+          "name": "Elliot Ackerman",
+          "role": "moderator (author, The Fifth Act: America’s End in Afghanistan)"
+        }
+      ],
+      "page": 26
+    },
+    {
+      "title": "8 Days at Ware",
+      "directors": [
+        "Rachel Lauren Mueller",
+        "Meg Shutzer"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 27,
+      "premiere": "World Premiere",
+      "slot": "Shortcuts",
+      "is_short": true,
+      "shorts_program": "Shortcuts",
+      "screening": {
+        "date": "2022-10-14",
+        "time": "3:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Two back-to-back suicides at a juvenile detention center in rural Louisiana raise troubling questions about the state’s justice system and exposes a legacy of abuse and neglect.",
+      "after_screening": "Discussion with filmmakers to follow screenings.",
+      "people": [
+        {
+          "name": "Rachel Lauren Mueller",
+          "role": "director"
+        },
+        {
+          "name": "Meg Shutzer",
+          "role": "director"
+        }
+      ],
+      "page": 27
+    },
+    {
+      "title": "Blue Room",
+      "directors": [
+        "Merete Mueller"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 12,
+      "premiere": null,
+      "slot": "Shortcuts",
+      "is_short": true,
+      "shorts_program": "Shortcuts",
+      "screening": {
+        "date": "2022-10-14",
+        "time": "3:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Incarcerated participants in a mental health experiment watch nature videos on loop, prompting them to reflect on isolation and the wilderness.",
+      "after_screening": "Discussion with filmmakers to follow screenings.",
+      "people": [
+        {
+          "name": "Merete Mueller",
+          "role": "director"
+        }
+      ],
+      "page": 27
+    },
+    {
+      "title": "The Family Statement",
+      "directors": [
+        "Grace Harper",
+        "Kate Stonehill"
+      ],
+      "country": "USA, UK",
+      "film_year": 2022,
+      "runtime_min": 15,
+      "premiere": null,
+      "slot": "Shortcuts",
+      "is_short": true,
+      "shorts_program": "Shortcuts",
+      "screening": {
+        "date": "2022-10-14",
+        "time": "3:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "A brief poignant meditation on corporate accountability, denial, and pain in the context of the opioid crisis, told through the Sackler Family’s WhatsApp messages.",
+      "after_screening": "Discussion with filmmakers to follow screenings.",
+      "people": [
+        {
+          "name": "Grace Harper",
+          "role": "director"
+        },
+        {
+          "name": "Kate Stonehill",
+          "role": "director"
+        }
+      ],
+      "page": 27
+    },
+    {
+      "title": "The Other Little Black Book",
+      "directors": [
+        "Barbara Corbellini Duarte",
+        "Mark Adam Miller"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 15,
+      "premiere": null,
+      "slot": "Shortcuts",
+      "is_short": true,
+      "shorts_program": "Shortcuts",
+      "screening": {
+        "date": "2022-10-14",
+        "time": "3:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "In mid-December 2020, the global news publication, Insider, received an unusual tip: A man living on a farm in Vermont claimed to possess an address book belonging to Jeffrey Epstein in the 1990s—one that predated his already infamous “little black book” by nearly a decade.",
+      "after_screening": "Discussion with filmmakers to follow screenings.",
+      "people": [
+        {
+          "name": "Barbara Corbellini Duarte",
+          "role": "director"
+        },
+        {
+          "name": "Mark Adam Miller",
+          "role": "director"
+        }
+      ],
+      "page": 28
+    },
+    {
+      "title": "Sealed in Blood",
+      "directors": [
+        "Sofian Khan"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 10,
+      "premiere": null,
+      "slot": "Shortcuts",
+      "is_short": true,
+      "shorts_program": "Shortcuts",
+      "screening": {
+        "date": "2022-10-14",
+        "time": "3:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Through the story of journalist Steven Sotloff, taken hostage by ISIS in 2013, Sealed In Blood looks at the origins of the American no negotiation policy that made his tragic murder a foregone conclusion, while many of the Europeans captives went home.",
+      "after_screening": "Discussion with filmmakers to follow screenings.",
+      "people": [
+        {
+          "name": "Sofian Khan",
+          "role": "director"
+        },
+        {
+          "name": "Jeffrey Johnson",
+          "role": "cinematographer"
+        },
+        {
+          "name": "J. Motts",
+          "role": "producer"
+        }
+      ],
+      "page": 28
+    },
+    {
+      "title": "Strands of Resistance",
+      "directors": [
+        "Brent Huffman"
+      ],
+      "country": "USA",
+      "film_year": 2022,
+      "runtime_min": 22,
+      "premiere": null,
+      "slot": "Shortcuts",
+      "is_short": true,
+      "shorts_program": "Shortcuts",
+      "screening": {
+        "date": "2022-10-14",
+        "time": "3:00 PM",
+        "venue": "Naval Heritage Center"
+      },
+      "synopsis": "Incarcerated participants in a mental health experiment watch nature videos on loop, prompting them to reflect on isolation and the wilderness.",
+      "after_screening": "Discussion with filmmakers to follow screenings.",
+      "people": [
+        {
+          "name": "Brent Huffman",
+          "role": "director"
+        }
+      ],
+      "page": 28
+    }
+  ],
+  "sessions": [
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2022-10-13",
+      "time": "9:00 AM",
+      "end_time": "10:00 AM",
+      "venue": "District Architecture Center",
+      "description": "Sponsored by David Wright Tremaine.",
+      "people": [],
+      "related_films": [],
+      "page": 10
+    },
+    {
+      "title": "Opening Conversation: The Making of Navalny",
+      "kind": "conversation",
+      "date": "2022-10-13",
+      "time": "10:00 AM",
+      "end_time": "11:15 AM",
+      "venue": "District Architecture Center",
+      "description": "Arguably one of the most riveting works of investigative cinema in recent years, Navalny takes us inside the research process like no other. We are familiar with the headlines: In August 2020, Russian anti-corruption campaigner and former presidential candidate, Alexei A. Navalny, was poisoned with a military grade nerve agent while on a trip to Siberia and narrowly escaped with his life. Roher and his team had to keep this film project top secret while in production. Extraordinary measures were taken to keep the film and filmmakers safe, from painstaking digital security – not even a single email was sent for over a year – to encrypted hard drives and encrypted messaging services, and even a secret world premiere screening at Sundance which was kept under wraps until the very last minute. This panel will explore both the on-screen and behind the scenes process of achieving an incredible feat of investigative cinema, with the filmmaker and a lead journalist in conversation.",
+      "people": [
+        {
+          "name": "Daniel Roher",
+          "role": "speaker"
+        },
+        {
+          "name": "David Filipov",
+          "role": "speaker"
+        },
+        {
+          "name": "Maria Pevchikh",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 30
+    },
+    {
+      "title": "Reframing Representation",
+      "kind": "panel",
+      "date": "2022-10-13",
+      "time": "11:30 AM",
+      "end_time": "12:45 PM",
+      "venue": "District Architecture Center",
+      "description": "Rintu Thomas and Sushmit Ghosh are Academy Award nominated independent documentary filmmakers whose decade long work has focussed on developing a new visual and narrative language for telling stories of under-represented voices in India – ranging from farming communities and journalists working to create transformative change for their communities, to refugees and LGBTQ artists finding ways of platforming critical issues around citizenship. Their work focusses on movements in the margins that re-center the narrative.\n\nReflecting on their 13-year journey, Thomas and Ghosh will talk about the relationships they curate with participants, managing shifting dynamics both during and after production, and especially as these films make their way into the world. What happens when the political environment in which the story is framed changes dramatically, increasing stakes for both filmmakers and participants? And how does one navigate the role of friend, filmmaker and citizen – all of which come with their unique responsibilities, sometimes at odds with each other. With Patricia Aufderheide, media scholar and a member of the Documentary Accountability Working Group, they will look at the internal process of working with subjects, and the external pressures that swirl around films that challenge power in an increasingly polarized and dangerous world.",
+      "people": [
+        {
+          "name": "Rintu Thomas",
+          "role": "panelist"
+        },
+        {
+          "name": "Patricia Aufderheide",
+          "role": "panelist"
+        },
+        {
+          "name": "Sushmit Ghosh",
+          "role": "panelist"
+        },
+        {
+          "name": "June Cross",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 30
+    },
+    {
+      "title": "Lunch",
+      "kind": "other",
+      "date": "2022-10-13",
+      "time": "12:45 PM",
+      "end_time": "2:00 PM",
+      "venue": "District Architecture Center",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 10
+    },
+    {
+      "title": "Lunchtime Conversation: One Story Two Forms",
+      "kind": "conversation",
+      "date": "2022-10-13",
+      "time": "1:00 PM",
+      "end_time": "1:45 PM",
+      "venue": "District Architecture Center",
+      "description": "Meg Shutzer and Rachel Lauren Mueller, filmmakers behind 8 DAYS AT WARE which is having its world premiere at DX22, reflect on the opportunities, challenges and complexities of creating two simultaneous works of investigative journalism on the same subject— a short film and a long form print piece for a major national publication. When do you risk taking out the camera? How do you represent, or not, the scope of an investigation in a visual medium? When there is moral urgency to publish, but the timelines of print and film don’t align, how do you act ethically?",
+      "people": [
+        {
+          "name": "Meg Shutzer",
+          "role": "speaker"
+        },
+        {
+          "name": "Rachel Lauren Mueller",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [
+        "8 Days at Ware"
+      ],
+      "page": 31
+    },
+    {
+      "title": "Whistleblowers and the Creator Economy",
+      "kind": "panel",
+      "date": "2022-10-13",
+      "time": "2:00 PM",
+      "end_time": "3:15 PM",
+      "venue": "District Architecture Center",
+      "description": "Theranos. WeWork. Uber. Anna Delvey. Harvey Weinstein. Over the past year, the entertainment industry has brought true stories of corporate fraud, scandal, and power abuse to the screen, as part of a growing trend in Hollywood to transform adaptations of non-fiction journalism into film and television. Whistleblowers are also beginning to take to storytelling via social media and podcasts, transcending the gatekeepers of book agents or journalists to share valuable information with the public and achieve virality on their own terms. This panel will explore what it means to incorporate the whistleblower into the process of making a movie – narrative or documentary – or a television show or series about their story.",
+      "people": [
+        {
+          "name": "Ed Pierson",
+          "role": "panelist"
+        },
+        {
+          "name": "Amber Scorah",
+          "role": "panelist"
+        },
+        {
+          "name": "Mary Inman",
+          "role": "panelist"
+        },
+        {
+          "name": "Leen Karadsheh",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 31
+    },
+    {
+      "title": "Documentality for Filmmakers and Journalists",
+      "kind": "workshop",
+      "date": "2022-10-13",
+      "time": "3:45 PM",
+      "end_time": "5:00 PM",
+      "venue": "District Architecture Center",
+      "description": "Documentary filmmakers, as well as journalists, often engage with issues related to trauma, injustice, and abuse, but there has been very little institutional or even community support, let alone recognition of the burden of witnessing. This special session, led by Malikkah Rollins, a trained mental health professional and former documentary producer and psychologist Dr. Meryl Heyliger, will open up a dialogue about the impact of work on the frontlines, and invite our audiences to share your experiences.",
+      "people": [
+        {
+          "name": "Malikkah Rollins",
+          "role": "presenter"
+        },
+        {
+          "name": "Dr. Meryl Heyliger",
+          "role": "presenter"
+        }
+      ],
+      "related_films": [],
+      "page": 31
+    },
+    {
+      "title": "Opening Night Party",
+      "kind": "reception",
+      "date": "2022-10-13",
+      "time": "9:45 PM",
+      "end_time": "11:30 PM",
+      "venue": "Dirty Habit",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 7
+    },
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2022-10-14",
+      "time": "9:00 AM",
+      "end_time": "10:00 AM",
+      "venue": "District Architecture Center",
+      "description": "Sponsored by FilmAid.",
+      "people": [],
+      "related_films": [],
+      "page": 11
+    },
+    {
+      "title": "Facing Goliath",
+      "kind": "panel",
+      "date": "2022-10-14",
+      "time": "10:00 AM",
+      "end_time": "11:15 AM",
+      "venue": "District Architecture Center",
+      "description": "Investigative filmmakers and journalists are committed to holding power to account and following a covert trail of misdeeds wherever it may lead. But what happens when the trail lands them on the doorstep of the most powerful governments, corporations, and institutions in the world? In three remarkable films in this year’s lineup, filmmakers and their subjects dare to stand up to powerful, perhaps even untouchable institutions. The Grab, by Gabriela Cowperthwaite (Blackfish) follows award-winning journalist Nathan Halverson and his team at the Center for Investigative Reporting as they trace an epic leak of documents to its source, revealing steps by China, Saudi Arabia, and a handful of other nations to gain control of food and water resources overseas to meet predicted shortages at home; In Into the Weeds, celebrated filmmaker Jennifer Baichwal (Manufactured Landscapes) unravels the story of Dewayne “Lee” Johnson, an unassuming Bay Area groundskeeper who won a legal battle against the global corporation Monsanto, after a jury ruled he developed cancer from exposure to RoundUp, its best-selling weed killer; For Hazing, filmmaker Byron Hurt (Hip-Hop: Beyond Beats and Rhymes) examines the culture of hazing on college campuses and the systems that protect it from accountability; In The Trojan Horse Affair, a Serial podcast, Brian Reed and Hamza Syed challenged reporting by the British press on a supposed plot to install sharia in a British public school. This panel will examine the risks and precautions taken, or not, when standing up to face Goliath.",
+      "people": [
+        {
+          "name": "Hamza Syed",
+          "role": "panelist"
+        },
+        {
+          "name": "Byron Hurt",
+          "role": "panelist"
+        },
+        {
+          "name": "Jennifer Baichwal",
+          "role": "panelist"
+        },
+        {
+          "name": "Nate Halverson",
+          "role": "panelist"
+        },
+        {
+          "name": "Amanda Pike",
+          "role": "panelist"
+        },
+        {
+          "name": "Kathy Davidson",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "The Grab",
+        "Into the Weeds: Dewayne “Lee” Johnson vs. Monsanto Company",
+        "Hazing"
+      ],
+      "page": 32
+    },
+    {
+      "title": "Reflection Is Key: How Values-Based Filmmaking Can Reduce Harm",
+      "kind": "panel",
+      "date": "2022-10-14",
+      "time": "11:30 AM",
+      "end_time": "12:45 PM",
+      "venue": "District Architecture Center",
+      "description": "Filmmakers come up with ideas for new documentaries every day. But should they be made? This panel will explore how the Documentary Accountability Working Group’s framework for values, ethics, and accountability in non-fiction filmmaking can be utilized to deeply consider the merits and possibilities for harm during the very first phase of production: reflection.",
+      "people": [
+        {
+          "name": "Molly Murphy",
+          "role": "panelist"
+        },
+        {
+          "name": "Natalie Bullock Brown",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 32
+    },
+    {
+      "title": "Lunch",
+      "kind": "other",
+      "date": "2022-10-14",
+      "time": "12:45 PM",
+      "end_time": "2:00 PM",
+      "venue": "District Architecture Center",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 11
+    },
+    {
+      "title": "Lunchtime Conversation: Reading the Supreme Court on Freedom of the Press",
+      "kind": "conversation",
+      "date": "2022-10-14",
+      "time": "1:00 PM",
+      "end_time": "1:45 PM",
+      "venue": "District Architecture Center",
+      "description": "First Amendment at a Changing Supreme Court: Discussing what the new, right-leaning Supreme Court means for First Amendment issues, including potential changes to anti-SLAPP laws and the “actual malice” standard in defamation liability.",
+      "people": [
+        {
+          "name": "Max Mishkin",
+          "role": "speaker"
+        },
+        {
+          "name": "Jennifer Nelson",
+          "role": "speaker"
+        },
+        {
+          "name": "Alison Schary",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 33
+    },
+    {
+      "title": "Vanishing Act: Capturing the Death of Democracy",
+      "kind": "panel",
+      "date": "2022-10-14",
+      "time": "2:00 PM",
+      "end_time": "3:15 PM",
+      "venue": "District Architecture Center",
+      "description": "In Myanmar, anonymous filmmakers mix chilling footage of police arrests and killings filmed by citizen journalists with fictionalized scenes by an anonymous filmmaker collective that give voice to fear and despair, struggle and resistance, following that country’s military takeover in February 2021. Anna Shishova, in The New Greatness Case, zeroes in on a KGB sting that entrapped teenagers into challenging the authority of Vladimir Putin, landing them in prison, to convey how fear can be engineered to rise and choke civic engagement. The Killing of a Journalist begins with a very tight focus on two people in Slovakia, 27-year-old investigative journalists and his fiancée, coldly murdered at home. Their killings prompt nationwide protests and sprawling investigations by news organizations, with surprising results. Each of these films tackles an increasingly urgent question for filmmakers in an age of crisis: How do you capture the death of freedom, when it becomes a way of life?",
+      "people": [
+        {
+          "name": "Vasily Polonsky",
+          "role": "panelist"
+        },
+        {
+          "name": "Ricardo Sandoval",
+          "role": "panelist"
+        },
+        {
+          "name": "Corinne van Egeraat",
+          "role": "panelist"
+        },
+        {
+          "name": "Drew Sullivan",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "Myanmar Diaries",
+        "The New Greatness Case",
+        "The Killing of a Journalist"
+      ],
+      "page": 33
+    },
+    {
+      "title": "DX Student Pitch",
+      "kind": "pitch",
+      "date": "2022-10-14",
+      "time": "2:00 PM",
+      "end_time": "4:00 PM",
+      "venue": "District Architecture Center",
+      "description": "In today’s competitive market, learning how to effectively pitch your documentary is just as important as honing your writing and editing skills. And who better to learn from than the experts? Six college students enrolled in film and journalism programs across the U.S. will present their projects to a panel of industry professionals. Judith Helfand, independent filmmaker and co-founder of Chicken & Egg Pictures, will moderate and provide pitch training.",
+      "people": [
+        {
+          "name": "Te Shima Brennen",
+          "role": "presenter"
+        },
+        {
+          "name": "In Jeong Kim",
+          "role": "presenter"
+        },
+        {
+          "name": "Rajvi Desai",
+          "role": "presenter"
+        },
+        {
+          "name": "Yaakov Gottlieb",
+          "role": "presenter"
+        },
+        {
+          "name": "Olivia Yarvis",
+          "role": "presenter"
+        },
+        {
+          "name": "Erica Berenstein",
+          "role": "panelist"
+        },
+        {
+          "name": "Lauren Feeney",
+          "role": "panelist"
+        },
+        {
+          "name": "Amanda Pike",
+          "role": "panelist"
+        },
+        {
+          "name": "Judith Helfand",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 38
+    },
+    {
+      "title": "Meet the Funders Who Are Meeting the Moment",
+      "kind": "panel",
+      "date": "2022-10-14",
+      "time": "3:45 PM",
+      "end_time": "5:00 PM",
+      "venue": "District Architecture Center",
+      "description": "This year’s edition of a perennial favorite at Double Exposure, the Meet the Funders panel, comes with a particular focus, in response to assaults on freedom across the planet, captured so vividly in this year’s film slate, and the looming threat to democracy closer to home. We’ve asked participating funders to talk about their grantmaking as it supports work to investigate and expose efforts to dismantle democracy and freedom. Meet the Funders panel will be moderated by Diana Jean Schemo, founder and co-director of Double Exposure, and president, co-founder and executive editor of 100Reporters.",
+      "people": [
+        {
+          "name": "Eric Ferrero",
+          "role": "panelist"
+        },
+        {
+          "name": "Keisha Knight",
+          "role": "panelist"
+        },
+        {
+          "name": "Molly Murphy",
+          "role": "panelist"
+        },
+        {
+          "name": "Diana Jean Schemo",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 33
+    },
+    {
+      "title": "Happy Hour",
+      "kind": "reception",
+      "date": "2022-10-14",
+      "time": "5:00 PM",
+      "end_time": "7:00 PM",
+      "venue": "District Architecture Center",
+      "description": "Sponsored by International Documentary Association.",
+      "people": [],
+      "related_films": [],
+      "page": 12
+    },
+    {
+      "title": "Obtaining Audio & Visual Materials Through Public Records Requests",
+      "kind": "workshop",
+      "date": "2022-10-15",
+      "time": "10:00 AM",
+      "end_time": "11:00 AM",
+      "venue": "District Architecture Center",
+      "description": "Police body cam footage, military training videos, surveillance recordings from government buildings — these are just a few examples of the types of audio/visual material that can be obtained via public records requests and incorporated into your documentary films and video journalism. In this workshop, we’ll talk about what sorts of materials you might be able to find and offer helpful tips on how to navigate the notoriously complex process. This workshop will have a special focus on audio and video material, but will also explore how to access other types of documents. The workshop will be led by Lauren Feeney, Director of Video Production for The Intercept; Gunita Singh, a staff attorney for the Reporters Committee for Freedom of the Press; and Ken Klippenstein, an investigative reporter for The Intercept who is well known for his prolific and impactful use of FOIA requests in his reporting.",
+      "people": [
+        {
+          "name": "Gunita Singh",
+          "role": "instructor"
+        },
+        {
+          "name": "Ken Klippenstein",
+          "role": "instructor"
+        },
+        {
+          "name": "Lauren Feeney",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 34
+    },
+    {
+      "title": "The Art, Craft and Heart of a Great Pitch",
+      "kind": "workshop",
+      "date": "2022-10-15",
+      "time": "10:00 AM",
+      "end_time": "12:00 PM",
+      "venue": "District Architecture Center",
+      "description": "A two-hour pitching workshop led by Judith Helfand, award-winning filmmaker. Helfand will lead a series of exercises meant to engage the storyteller in you. This session will prepare you for round table meetings and fast intros at the festival, in part by showcasing examples of pitches that incorporate best practices while honoring the unique voice of the filmmaker and proposed film. Helfand believes in the wonder of wordsmithing and the power of context, in using words with edges and delighting in detail. She will push you to identify the core inquiry and fundamental question at the heart of your story. She will guide you to develop an authentic answer to “Why you?” This workshop will gird you with the basic tools to deepen your storytelling and fuse it with your journalism. Come prepared to talk, share and actively listen.",
+      "people": [
+        {
+          "name": "Judith Helfand",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 34
+    },
+    {
+      "title": "Tending the Unspoken Wounds: The Role of Self-Reflection in Cultivating a Healing-Centered Ethic in Investigative Journalism & Documentary Filmmaking",
+      "kind": "workshop",
+      "date": "2022-10-15",
+      "time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "venue": "District Architecture Center",
+      "description": "Many in the industry find themselves standing (or struggling) at an exquisitely perplexing crossroad: how do we document and share the stories unfolding in a world which is experiencing such upheaval and uncertainty? How do we both bear witness and process the painful AND joyous events in the lives of our storytellers? How does one acknowledge and cope with vicarious trauma in a field which prioritizes (the myth of) objectivity as the gold standard of professionalism? This workshop will explore these questions from the lens of self-awareness, critical consciousness, and healing justice. This workshop will also highlight the work of the Documentary Accountability Working Group (DAWG)’s core values and framework for values, ethics and accountability in non-fiction filmmaking, with a particular focus on reflection as a first and essential phase of this important work.",
+      "people": [
+        {
+          "name": "Dr. Kameelah Mu’Min Rashad",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 35
+    },
+    {
+      "title": "Worldbuilding for Storytellers: A Viewers Like Us Case Study",
+      "kind": "workshop",
+      "date": "2022-10-15",
+      "time": "11:30 AM",
+      "end_time": "1:00 PM",
+      "venue": "District Architecture Center",
+      "description": "As storytellers, documentarians, and investigative journalists, we are also world builders: actively shaping the future and seeding change through the questions we raise, the histories we document, and the fresh perspectives we gather. If you are curious about world building and how you might integrate this immersive, collaborative practice into your own project’s impact campaign, consider this a primer. In this interactive workshop, Tony Patrick will walk you through the basic tenets of a world building session, wherein a group of participants—similar to a writers’ room—connect with each other and collectively envision the future of XYZ organization/industry/city/or institution, unlocking a blueprint for actionable change, consensus, and problem-solving in the process.",
+      "people": [
+        {
+          "name": "Olivia Aylmer",
+          "role": "instructor"
+        },
+        {
+          "name": "Tony Patrick",
+          "role": "instructor"
+        },
+        {
+          "name": "Grace Lee",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 35
+    },
+    {
+      "title": "Legal Bootcamp: Investigative Basics for Filmmakers",
+      "kind": "workshop",
+      "date": "2022-10-15",
+      "time": "11:30 AM",
+      "end_time": "12:45 PM",
+      "venue": "District Architecture Center",
+      "description": "A primer on legal rights and responsibilities for investigative journalists in print and film, and for filmmakers venturing into investigative territory. This session will familiarize you with recording laws and common legal issues documentarians can face while filming (e.g., intrusion, trespass), and provide tips on how to avoid them. Led by attorneys from the Reporters Committee for Freedom of the Press, this workshop will also discuss the shift toward more collaborative approaches with film protagonists, and the legal implications for investigative filmmakers. Workshop leaders will share legal resources that are available and field your questions at the end of the presentation.",
+      "people": [
+        {
+          "name": "Lisa Zycherman",
+          "role": "instructor"
+        },
+        {
+          "name": "Jennifer Nelson",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 36
+    },
+    {
+      "title": "Decentering the Grantor: Proposal as Process",
+      "kind": "workshop",
+      "date": "2022-10-15",
+      "time": "1:45 PM",
+      "end_time": "3:00 PM",
+      "venue": "District Architecture Center",
+      "description": "People and organizations that apply to foundations for grants often think there is only one question on the table: Do you win the grant, or not? The framework casts the organization seeking funds as supplicant, and the foundation as all-powerful giver of sustenance. This session, presented by the International Documentary Association, proposes a new paradigm for shifting that dynamic, in which the actual process of writing a grant can offer progress, impact, and outcomes, whether or not it receives funding.",
+      "people": [
+        {
+          "name": "Keisha Knight",
+          "role": "presenter"
+        }
+      ],
+      "related_films": [],
+      "page": 36
+    },
+    {
+      "title": "Navigating Intellectual Property Issues in Documentary Film",
+      "kind": "workshop",
+      "date": "2022-10-15",
+      "time": "1:45 PM",
+      "end_time": "3:00 PM",
+      "venue": "District Architecture Center",
+      "description": "Legal experts will provide intellectual property training, including advice regarding fair use, clearance of music, and visuals and archival materials, with a focus on issues affecting the investigative documentary film community. Time will be set aside for questions from the audience.",
+      "people": [
+        {
+          "name": "Randy Frisch",
+          "role": "instructor"
+        },
+        {
+          "name": "Tom Hentoff",
+          "role": "instructor"
+        },
+        {
+          "name": "Jennifer Nelson",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 36
+    },
+    {
+      "title": "For Print Journalists: Beyond the Pitch",
+      "kind": "workshop",
+      "date": "2022-10-15",
+      "time": "1:45 PM",
+      "end_time": "3:00 PM",
+      "venue": "District Architecture Center",
+      "description": "So you’ve just seen your groundbreaking investigation in print, and you believe it would make a riveting film. But how do you get there? This session will demystify the process. You’ll learn how to evaluate your story’s cinematic and storytelling potential, and tease out creative points of entry for a visual story. Erica Berenstein, executive producer of news and documentary at Insider.com, will show you how to find and build the characters who can propel your story forward, and gather the string and telling details that can help bind a visual story. From there, Douglas Blush, CEO of MadPix Films (Icarus, The Hunting Ground), will talk about the avenues available to get your pitch in the right hands, ranging from approaching a filmmaker directly, to working through an agent, or pitching a production company. Blush will talk about what he listens for when he says yes to a pitch, and what the filmmaking process looks like when reporters are involved.",
+      "people": [
+        {
+          "name": "Brian Collister",
+          "role": "instructor"
+        },
+        {
+          "name": "Doug Blush",
+          "role": "instructor"
+        },
+        {
+          "name": "Erica Berenstein",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 37
+    },
+    {
+      "title": "DX Access",
+      "kind": "other",
+      "date": null,
+      "time": null,
+      "end_time": null,
+      "venue": "District Architecture Center",
+      "description": "October 13 – 16, 2022. DX Access included with all Film Festival + Symposium passes.\n\nDX ACCESS connects registered attendees to representatives of the most respected and innovative organizations and individuals in film and journalism, and provides unparalleled face time with funders, producers, festival programmers, distributors, media outlets, reporters, writers and directors. In one-on-one sessions, they will unpack how they work, learn more about your goals, and explore the possibilities for supporting your project. This edition, DX Access will take place primarily online for both in-person and online passholders.\n\nDX ACCESS will take place during the Double Exposure Symposium online. DX Access will arrange up to five ten-minute meetings per attendee. Registrants may sign up for meetings with the specific organizations or people of their choice via a simple application process. The organization or person selected must agree that the meeting is mutually beneficial for it to be confirmed.",
+      "people": [],
+      "related_films": [],
+      "page": 37
+    },
+    {
+      "title": "Double Exposure Academy / DX Academy Pitch",
+      "kind": "other",
+      "date": null,
+      "time": null,
+      "end_time": null,
+      "venue": null,
+      "description": "DOUBLE EXPOSURE ACADEMY welcomes a diverse cross-section of the academic population: graduate and undergraduate students studying documentary film, investigative journalism, and more broadly cinema or media studies, who will uniquely benefit from this introduction to the industry. In the past five years, over 415 students and faculty from around the country participated in Double Exposure Academy including 19 schools including Berkeley University School of Journalism, Columbia University School of Journalism, George Mason University Film Studies, Jonathan B. Murray Center for Documentary Journalism at the University of Missouri, Northwestern University, the Craig Newmark School of Journalism at CUNY and Skidmore MDOCS among many others. Our DX Academy Pass provides access to the entire symposium and film screenings as well as to special programming dedicated to the students. This year DX Academy is available both in person and online.\n\nIn 2020 we launched a new initiative DX Academy Pitch, providing students an opportunity to develop, refine and perfect pitches for their investigative film projects. All DX Academy students, even those not nominated or selected, had the opportunity to observe the pitch rehearsal for the selected projects, run by Judith Helfand, co-creator of Chicken & Egg Pictures, filmmaker (A Healthy Baby Girl, Blue Vinyl, Cooked) and professor at the Columbia University School of Journalism.",
+      "people": [
+        {
+          "name": "Judith Helfand",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 38
+    },
+    {
+      "title": "Shortcuts",
+      "kind": "screening-event",
+      "date": "2022-10-14",
+      "time": "3:00 PM",
+      "end_time": null,
+      "venue": "Naval Heritage Center",
+      "description": "Discussion with filmmakers to follow screenings.",
+      "people": [],
+      "related_films": [
+        "8 Days at Ware",
+        "Blue Room",
+        "The Family Statement",
+        "The Other Little Black Book",
+        "Sealed in Blood",
+        "Strands of Resistance"
+      ],
+      "page": 27
+    },
+    {
+      "title": "Closing Night Party",
+      "kind": "reception",
+      "date": "2022-10-16",
+      "time": "7:00 PM",
+      "end_time": null,
+      "venue": "National Geographic Grosvenor Auditorium",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 7
+    }
+  ],
+  "people": [
+    {
+      "name": "Elliot Ackerman",
+      "bio": "Author | Former Marine Corps Special Operations Team Leader",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "Scilla Alecci",
+      "bio": "Reporter and Asia/EU Partnership Coordinator, International Consortium of Investigative Journalists",
+      "affiliation": "International Consortium of Investigative Journalists",
+      "page": 39
+    },
+    {
+      "name": "Patricia Aufderheide",
+      "bio": "Professor, American University",
+      "affiliation": "American University",
+      "page": 39
+    },
+    {
+      "name": "Olivia Aylmer",
+      "bio": "Producer, Viewers Like Us",
+      "affiliation": "Viewers Like Us",
+      "page": 39
+    },
+    {
+      "name": "Jennifer Baichwal",
+      "bio": "Filmmaker, Co-Founder, Mercury Films, Inc.",
+      "affiliation": "Mercury Films, Inc.",
+      "page": 39
+    },
+    {
+      "name": "Erica Berenstein",
+      "bio": "Executive Producer, News & Documentary, Insider, Inc.",
+      "affiliation": "Insider, Inc.",
+      "page": 39
+    },
+    {
+      "name": "Doug Blush",
+      "bio": "Co-Founder, MadPix Films",
+      "affiliation": "MadPix Films",
+      "page": 39
+    },
+    {
+      "name": "Carla Borrás",
+      "bio": "Senior Producer, Special Projects & Innovation, FRONTLINE PBS",
+      "affiliation": "FRONTLINE PBS",
+      "page": 39
+    },
+    {
+      "name": "Te Shima Brennen",
+      "bio": "DX Student Pitch",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "Natalie Bullock Brown",
+      "bio": "Assistant Professor & Filmmaker, North Carolina State University",
+      "affiliation": "North Carolina State University",
+      "page": 40
+    },
+    {
+      "name": "Malachy Browne",
+      "bio": "Senior Story Producer, Visual Investigations, The New York Times",
+      "affiliation": "The New York Times",
+      "page": 40
+    },
+    {
+      "name": "Nina Chaudry",
+      "bio": "Senior Series Producer, FRONTLINE PBS",
+      "affiliation": "FRONTLINE PBS",
+      "page": 40
+    },
+    {
+      "name": "Dale Cohen",
+      "bio": "Director | Special Counsel, UCLA Documentary Film Legal Clinic | FRONTLINE",
+      "affiliation": "UCLA Documentary Film Legal Clinic",
+      "page": 40
+    },
+    {
+      "name": "Susan Cohen",
+      "bio": "Supervising Producer, Short-Form Content, ITVS",
+      "affiliation": "ITVS",
+      "page": 40
+    },
+    {
+      "name": "Brian Collister",
+      "bio": "Chief Investigative Reporter / CEO, Investigative Network",
+      "affiliation": "Investigative Network",
+      "page": 40
+    },
+    {
+      "name": "Charlotte Cook",
+      "bio": "Co-Creator & Executive Producer, Field of Vision",
+      "affiliation": "Field of Vision",
+      "page": 40
+    },
+    {
+      "name": "Gabriela Cowperthwaite",
+      "bio": "Writer / Director / Producer, THE GRAB",
+      "affiliation": null,
+      "page": 40
+    },
+    {
+      "name": "June Cross",
+      "bio": "Professor, Columbia University Graduate School of Journalism",
+      "affiliation": "Columbia University Graduate School of Journalism",
+      "page": 40
+    },
+    {
+      "name": "Kathy Davidov",
+      "bio": "Vice Chair, 100Reporters Board",
+      "affiliation": "100Reporters",
+      "page": 41
+    },
+    {
+      "name": "Rajvi Desai",
+      "bio": "DX Student Pitch",
+      "affiliation": null,
+      "page": 41
+    },
+    {
+      "name": "Sky Dylan-Robbins",
+      "bio": "Founder and Executive Director, The Video Consortium",
+      "affiliation": "The Video Consortium",
+      "page": 41
+    },
+    {
+      "name": "Mishi Ebrahim",
+      "bio": "Senior Director Programming & Development, PBS",
+      "affiliation": "PBS",
+      "page": 41
+    },
+    {
+      "name": "Lauren Feeney",
+      "bio": "Director of Video, The Intercept",
+      "affiliation": "The Intercept",
+      "page": 41
+    },
+    {
+      "name": "Eric Ferrero",
+      "bio": "Executive Director, Fund for Investigative Journalism",
+      "affiliation": "Fund for Investigative Journalism",
+      "page": 41
+    },
+    {
+      "name": "Leslie Fields-Cruz",
+      "bio": "Executive Director, Black Public Media",
+      "affiliation": "Black Public Media",
+      "page": 41
+    },
+    {
+      "name": "David Filipov",
+      "bio": "Former Bureau Chief, Moscow, The Washington Post",
+      "affiliation": "The Washington Post",
+      "page": 41
+    },
+    {
+      "name": "Franklin Foer",
+      "bio": "Journalist: Former Editor",
+      "affiliation": null,
+      "page": 41
+    },
+    {
+      "name": "Darren Foster",
+      "bio": "Director & Producer, American Pain",
+      "affiliation": null,
+      "page": 42
+    },
+    {
+      "name": "Randy Frisch",
+      "bio": "Founder, Lovecat Music",
+      "affiliation": "Lovecat Music",
+      "page": 42
+    },
+    {
+      "name": "Sushmit Ghosh",
+      "bio": "Co-Founder, Black Ticket Films",
+      "affiliation": "Black Ticket Films",
+      "page": 42
+    },
+    {
+      "name": "Weenta Girmay",
+      "bio": "Regional Initiatives Coordinator, Firelight Media",
+      "affiliation": "Firelight Media",
+      "page": 42
+    },
+    {
+      "name": "Yaakov Gottlieb",
+      "bio": "DX Academy Pitch",
+      "affiliation": null,
+      "page": 42
+    },
+    {
+      "name": "Abby Greensfelder",
+      "bio": "Founder & CEO, Everywoman Studios",
+      "affiliation": "Everywoman Studios",
+      "page": 42
+    },
+    {
+      "name": "Kristy Guevara-Flanagan",
+      "bio": "Director, Chuparosa Films",
+      "affiliation": "Chuparosa Films",
+      "page": 42
+    },
+    {
+      "name": "Nate Halverson",
+      "bio": "Subject, Producer and Lead Investigator, THE GRAB",
+      "affiliation": null,
+      "page": 42
+    },
+    {
+      "name": "Keshia Hannam",
+      "bio": "Editor in Chief, Eastern Standard Times",
+      "affiliation": "Eastern Standard Times",
+      "page": 42
+    },
+    {
+      "name": "Alana Hauser",
+      "bio": "Coordinating Producer, The New York Times",
+      "affiliation": "The New York Times",
+      "page": 43
+    },
+    {
+      "name": "Rachel Hawatmeh",
+      "bio": "Manager, Documentaries, NBC News Studios",
+      "affiliation": "NBC News Studios",
+      "page": 43
+    },
+    {
+      "name": "Matthew Heineman",
+      "bio": "Filmmaker, Producer, Cinematographer & Editor, Retrograde",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Judith Helfand",
+      "bio": "Filmmaker | Co-Founder, Healthy Baby Girl, Blue Vinyl & COOKED | Chicken & Egg Pictures",
+      "affiliation": "Chicken & Egg Pictures",
+      "page": 43
+    },
+    {
+      "name": "Tom Hentoff",
+      "bio": "Co-Chair, Trademark, Copyright, and First Amendment and Media Practice Groups, Williams & Connolly",
+      "affiliation": "Williams & Connolly",
+      "page": 43
+    },
+    {
+      "name": "Darcy Heusel",
+      "bio": "VP Impact & Audience Engagement, NEON",
+      "affiliation": "NEON",
+      "page": 43
+    },
+    {
+      "name": "Dr. Meryl Heyliger",
+      "bio": "Licensed Psychologist, Warner Psychology Associates",
+      "affiliation": "Warner Psychology Associates",
+      "page": 43
+    },
+    {
+      "name": "Scott Higham",
+      "bio": "Investigative Reporter, The Washington Post",
+      "affiliation": "The Washington Post",
+      "page": 43
+    },
+    {
+      "name": "Jaime Holguin",
+      "bio": "Director of Original Programming, The Associated Press",
+      "affiliation": "The Associated Press",
+      "page": 43
+    },
+    {
+      "name": "Brent E. Huffman",
+      "bio": "Producer, Strands of Resistance",
+      "affiliation": null,
+      "page": 44
+    },
+    {
+      "name": "Byron Hurt",
+      "bio": "Filmmaker, HAZING",
+      "affiliation": null,
+      "page": 44
+    },
+    {
+      "name": "Mary Inman",
+      "bio": "Head of International Whistleblower Practice, Constantine Cannon LLP",
+      "affiliation": "Constantine Cannon LLP",
+      "page": 44
+    },
+    {
+      "name": "Joy Jihyun Jeong",
+      "bio": "Senior Producer, Eastern Standard Times",
+      "affiliation": "Eastern Standard Times",
+      "page": 44
+    },
+    {
+      "name": "Jeffrey Johnson",
+      "bio": "Cinematographer, SEALED IN BLOOD",
+      "affiliation": null,
+      "page": 44
+    },
+    {
+      "name": "Dewayne “Lee” Johnson",
+      "bio": "Subject, Into the Weeds: Dewayne “Lee” Johnson vs. Monsanto Company",
+      "affiliation": null,
+      "page": 44
+    },
+    {
+      "name": "Leen Karadsheh",
+      "bio": "Independenet Filmmaker",
+      "affiliation": null,
+      "page": 44
+    },
+    {
+      "name": "Sofian Khan",
+      "bio": "Director, SEALED IN BLOOD, Capital K Pictures",
+      "affiliation": "Capital K Pictures",
+      "page": 44
+    },
+    {
+      "name": "Dmitriy Khavin",
+      "bio": "Editor & Senior Video Editor, The New York Times",
+      "affiliation": "The New York Times",
+      "page": 44
+    },
+    {
+      "name": "Gita Saedi Kiely",
+      "bio": "Director, FilmAid",
+      "affiliation": "FilmAid",
+      "page": 45
+    },
+    {
+      "name": "Laura Kim",
+      "bio": "EVP Campaigns and Engagement, Participant",
+      "affiliation": "Participant",
+      "page": 45
+    },
+    {
+      "name": "In Jeong Kim",
+      "bio": "DX Student Pitch",
+      "affiliation": null,
+      "page": 45
+    },
+    {
+      "name": "Ken Klippenstein",
+      "bio": "Investigative Reporter, The Intercept",
+      "affiliation": "The Intercept",
+      "page": 45
+    },
+    {
+      "name": "Keisha Knight",
+      "bio": "Director, Funds and Enterprise Program, International Documentary Association",
+      "affiliation": "International Documentary Association",
+      "page": 45
+    },
+    {
+      "name": "Grace Lee",
+      "bio": "Filmmaker and Host, Viewers Like Us",
+      "affiliation": "Viewers Like Us",
+      "page": 45
+    },
+    {
+      "name": "Richard Logan",
+      "bio": "President, The Reva and David Logan Foundation (RDLF)",
+      "affiliation": "The Reva and David Logan Foundation",
+      "page": 45
+    },
+    {
+      "name": "Crystal Logan",
+      "bio": "Board Director & Program Officer, The Reva and David Logan Foundation (RDLF)",
+      "affiliation": "The Reva and David Logan Foundation",
+      "page": 45
+    },
+    {
+      "name": "Olivia Martin",
+      "bio": "Deputy Director of Digital Security, Freedom of the Press Foundation",
+      "affiliation": "Freedom of the Press Foundation",
+      "page": 45
+    },
+    {
+      "name": "Judith Matloff",
+      "bio": "Professor, Columbia Graduate School of Journalism",
+      "affiliation": "Columbia Graduate School of Journalism",
+      "page": 46
+    },
+    {
+      "name": "Brendan McInerney",
+      "bio": "DX Student Pitch",
+      "affiliation": null,
+      "page": 46
+    },
+    {
+      "name": "Max Mishkin",
+      "bio": "Associate, Ballard Spahr",
+      "affiliation": "Ballard Spahr",
+      "page": 46
+    },
+    {
+      "name": "J. Motts",
+      "bio": "Producer, SEALED IN BLOOD",
+      "affiliation": null,
+      "page": 46
+    },
+    {
+      "name": "Rachel Lauren Mueller",
+      "bio": "Co-Director, 8 DAYS AT WARE",
+      "affiliation": null,
+      "page": 46
+    },
+    {
+      "name": "Dr. Kameelah Mu’Min Rashad",
+      "bio": "Founding President, Muslim Wellness Foundation",
+      "affiliation": "Muslim Wellness Foundation",
+      "page": 46
+    },
+    {
+      "name": "Merete Mueller",
+      "bio": "Director / Producer, BLUE ROOM",
+      "affiliation": null,
+      "page": 46
+    },
+    {
+      "name": "Molly Murphy",
+      "bio": "Director, Partnerships and Innovation, Working Films",
+      "affiliation": "Working Films",
+      "page": 47
+    },
+    {
+      "name": "Monika Navarro",
+      "bio": "Senior Director, Artist Programs, Firelight Media",
+      "affiliation": "Firelight Media",
+      "page": 47
+    },
+    {
+      "name": "Jennifer Nelson",
+      "bio": "Senior Staff Attorney, Reporters Committee for Freedom of the Press",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 47
+    },
+    {
+      "name": "Ron Nixon",
+      "bio": "Vice President, News & Head of Investigations, Enterprise, Partnerships & Grants, Associated Press",
+      "affiliation": "Associated Press",
+      "page": 47
+    },
+    {
+      "name": "Sinéad O’Shea",
+      "bio": "Director, PRAY FOR OUR SINNERS",
+      "affiliation": null,
+      "page": 47
+    },
+    {
+      "name": "Lauren Pabst",
+      "bio": "Senior Program Officer, The John D. and Catherine T. MacArthur Foundation",
+      "affiliation": "The John D. and Catherine T. MacArthur Foundation",
+      "page": 47
+    },
+    {
+      "name": "Andrea Passafiume",
+      "bio": "Associate Programmer, Tribeca Film Festival",
+      "affiliation": "Tribeca Film Festival",
+      "page": 47
+    },
+    {
+      "name": "Kasha Patel",
+      "bio": null,
+      "affiliation": null,
+      "page": 47
+    },
+    {
+      "name": "Tony Patrick",
+      "bio": "Founder, (Re)Writers Room",
+      "affiliation": "(Re)Writers Room",
+      "page": 47
+    },
+    {
+      "name": "Maria Pevchikh",
+      "bio": "Head, Investigative Unit, Anti-Corruption Foundation (FBK)",
+      "affiliation": "Anti-Corruption Foundation (FBK)",
+      "page": 48
+    },
+    {
+      "name": "May Sabe Phyu",
+      "bio": "Director, Gender Equality Network (GEN)",
+      "affiliation": "Gender Equality Network (GEN)",
+      "page": 48
+    },
+    {
+      "name": "Ed Pierson",
+      "bio": "Safety Advocate, Warning Bells with Ed Pierson",
+      "affiliation": "Warning Bells with Ed Pierson",
+      "page": 48
+    },
+    {
+      "name": "Amanda Pike",
+      "bio": "Director of TV and Documentaries, The Center for Investigative Reporting",
+      "affiliation": "The Center for Investigative Reporting",
+      "page": 48
+    },
+    {
+      "name": "Vasily Polonsky",
+      "bio": "Independent Journalist",
+      "affiliation": null,
+      "page": 48
+    },
+    {
+      "name": "Daniel Roher",
+      "bio": "Director, Navalny",
+      "affiliation": null,
+      "page": 48
+    },
+    {
+      "name": "Malikkah Rollins",
+      "bio": "Director of Industry and Education, DOCNYC",
+      "affiliation": "DOCNYC",
+      "page": 48
+    },
+    {
+      "name": "Ricardo Sandoval-Palos",
+      "bio": "Public Editor, PBS",
+      "affiliation": "PBS",
+      "page": 48
+    },
+    {
+      "name": "Maria A. Santos",
+      "bio": "Funds Program Officer, International Documentary Association",
+      "affiliation": "International Documentary Association",
+      "page": 48
+    },
+    {
+      "name": "Matt Sarnecki",
+      "bio": "Journalist, Producer and Director, Organized Crime and Corruption Reporting Project",
+      "affiliation": "Organized Crime and Corruption Reporting Project",
+      "page": 49
+    },
+    {
+      "name": "Xanthe Scharff",
+      "bio": "Co-Founder and CEO, The Fuller Room",
+      "affiliation": "The Fuller Room",
+      "page": 49
+    },
+    {
+      "name": "Alison Schary",
+      "bio": "Counsel, Davis Wright Tremaine LLP",
+      "affiliation": "Davis Wright Tremaine LLP",
+      "page": 49
+    },
+    {
+      "name": "Helen Hood Scheer",
+      "bio": "Producer | Professor, California State University Long Beach, BODY PARTS",
+      "affiliation": "California State University Long Beach",
+      "page": 49
+    },
+    {
+      "name": "Amber Scorah",
+      "bio": "Co-owner and President, Lioness",
+      "affiliation": "Lioness",
+      "page": 49
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "bio": "President, Co-Founder & Executive Editor of 100Reporters, 100Reporters",
+      "affiliation": "100Reporters",
+      "page": 49
+    },
+    {
+      "name": "Meg Shutzer",
+      "bio": "Co-Director, 8 DAYS AT WARE",
+      "affiliation": null,
+      "page": 49
+    },
+    {
+      "name": "Brigadier ‘Brig’ Siachitema",
+      "bio": "Lawyer, Socio-Economic Rights Cluster lead, Southern Africa Litigation Centre (SALC)",
+      "affiliation": "Southern Africa Litigation Centre (SALC)",
+      "page": 49
+    },
+    {
+      "name": "Gunita Singh",
+      "bio": "Staff Attorney, Reporters Committee for the Freedom of the Press",
+      "affiliation": "Reporters Committee for the Freedom of the Press",
+      "page": 49
+    },
+    {
+      "name": "Ariella Steinhorn",
+      "bio": "Founder & CEO, Lioness",
+      "affiliation": "Lioness",
+      "page": 50
+    },
+    {
+      "name": "Drew Sullivan",
+      "bio": "Editor & Co-Founder, Organized Crime and Corruption Reporting Project (OCCRP)",
+      "affiliation": "Organized Crime and Corruption Reporting Project (OCCRP)",
+      "page": 50
+    },
+    {
+      "name": "Boya Sun",
+      "bio": "Producer/Editor/DP, Eastern Standard Times",
+      "affiliation": "Eastern Standard Times",
+      "page": 50
+    },
+    {
+      "name": "Hamza Syed",
+      "bio": "Journalist | Co-Host, Serial Productions",
+      "affiliation": "Serial Productions",
+      "page": 50
+    },
+    {
+      "name": "Rintu Thomas",
+      "bio": "Co-founder, Black Ticket Films",
+      "affiliation": "Black Ticket Films",
+      "page": 50
+    },
+    {
+      "name": "Zach Toombs",
+      "bio": "Executive Producer, Newsy Documentaries",
+      "affiliation": "Newsy Documentaries",
+      "page": 50
+    },
+    {
+      "name": "Almudena Toral",
+      "bio": "Executive Producer, Video, ProPublica",
+      "affiliation": "ProPublica",
+      "page": 50
+    },
+    {
+      "name": "Corinne van Egeraat",
+      "bio": "Documentary Filmmaker & Producer, ZIN Documentary (ZINDOC)",
+      "affiliation": "ZIN Documentary (ZINDOC)",
+      "page": 50
+    },
+    {
+      "name": "Chloë Walters-Wallace",
+      "bio": "Director of Regional Initiatives, Firelight Media",
+      "affiliation": "Firelight Media",
+      "page": 50
+    },
+    {
+      "name": "Aisha White",
+      "bio": "Cultural Organizer, Artist & Researcher, Nailah Studio",
+      "affiliation": "Nailah Studio",
+      "page": 51
+    },
+    {
+      "name": "Olivia Yarvis",
+      "bio": "DX Student Pitch",
+      "affiliation": null,
+      "page": 51
+    },
+    {
+      "name": "Lisa Zycherman",
+      "bio": "Deputy Legal Director and Policy Counsel, Reporters Committee for Freedom of the Press",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 51
+    }
+  ],
+  "awards": [],
+  "organizers": [
+    {
+      "name": "Margaret Ebrahim",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Brett A. Pulley",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Kathy Davidov",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Susanne Reber",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Ron Nixon",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Founder and Co-director"
+    },
+    {
+      "name": "Sky Sitney",
+      "role": "Co-creator and Co-director"
+    },
+    {
+      "name": "Marga Varea",
+      "role": "Outreach and Engagement Director"
+    },
+    {
+      "name": "John Wildman",
+      "role": "Publicity"
+    },
+    {
+      "name": "Carolyn Chen",
+      "role": "Festival Manager"
+    },
+    {
+      "name": "Stella Dawson",
+      "role": "Volunteer Manager"
+    },
+    {
+      "name": "Judith Helfand",
+      "role": "DX Academy Pitch"
+    },
+    {
+      "name": "Amira Williams",
+      "role": "DX Access Manager"
+    },
+    {
+      "name": "Regan Mertz",
+      "role": "Journalism Graduate Fellow"
+    },
+    {
+      "name": "Karan Balaji",
+      "role": "Undergraduate Fellow"
+    }
+  ],
+  "notes": "Source: 2022 catalogue, 58 PDF pages (pages 1-2 and 56-58 have no text; page 5 is the co-directors' letter page, but only its heading 'Welcome to Double Exposure 2022' and the signatures are printed - no letter text, no theme).\nFilm details (runtime, time) taken from the individual film pages; the schedule (pp. 8-9) disagrees in places: American Pain 7:00 PM in schedule vs 8:30 PM on film page; Hazing 96 min in schedule vs 103 min on film page; Mariupolis 2 81 min in schedule vs 112 min on film page; 8 Days at Ware directors listed in schedule as 'Meg Shutzer & Rachel Lauren Mueller'. Film-page years are 2022 for all; schedule gives no years except for two films.\nSecret Screening: director printed as 'To Be Announced'; directors left empty, country null.\n8 Days at Ware premiere 'World Premiere' comes from the session description on p.31 ('having its world premiere at DX22'), not from the film listing.\nStrands of Resistance (p.28): the printed synopsis is a verbatim duplicate of the Blue Room synopsis (catalogue error), kept as printed.\nSealed in Blood synopsis: 'Sealed InBlood' fixed to 'Sealed In Blood'.\nThe Grab synopsis spells the journalist 'Nate Halvorsen'; elsewhere 'Nathan/Nate Halverson'. Kept as printed in each place.\nSessions: schedule pages (pp.10-13) and detail pages (pp.30-38) disagree for 'Documentality for Filmmakers and Journalists' (schedule 3:45-5:00 PM; detail page 2:00-3:15 PM, which would clash with the Whistleblowers panel; schedule time used) and for 'DX Student Pitch' (schedule 3:45-5:00 PM; detail page 2:00-4:00 PM, detail used). Worldbuilding schedule says '11:30 PM - 1:00 PM' (typo; detail page 11:30 AM used). The Tending the Unspoken Wounds page header says FRIDAY, OCTOBER 14 but the session line says Saturday, October 15 (Saturday used).\nDX Student Pitch: schedule p.12 lists the five students plus Erica Berenstein, Lauren Feeney, Judith Helfand and Amanda Pike; the detail text says six students will present but only five are named. Brendan McInerney is labelled 'DX Student Pitch' in the speaker grid but not named in the pitch session.\nFacing Goliath lists 'Kathy Davidson' (probably Kathy Davidov, board vice chair) and Vanishing Act lists 'Ricardo Sandoval' (speaker grid: Ricardo Sandoval-Palos); names kept as printed in each session.\nBreakfast sponsor printed as 'David Wright Tremaine' (speaker grid: 'Davis Wright Tremaine LLP'); kept as printed.\nPeople: the catalogue has no prose bios; pp.39-51 are a 'Festival Speakers + DXAccess' photo grid ('For speaker bios, click on their image') giving name, title and outlet only. bio = those title/outlet lines joined with commas. Coloured dots marking 'DXAccess + Festival Speaker' vs 'DXAccess only' are not captured. Kasha Patel has no title in the grid (bio null). Joy Jihyun Jeong is printed twice (pp.44 and 46) and Rachel Lauren Mueller twice on p.46; each kept once. Leen Karadsheh's title is printed 'Independenet Filmmaker' (sic). Xanthe Scharff is 'The Fuller Room' in the grid but 'The Fuller Project' on the Body Parts page.\nPeople named in screenings but without a grid entry: Brigadier Siachitema (grid has 'Brigadier ‘Brig’ Siachitema'), Dr. Molly Jahn, Michael Rezendes, Kathy Davidson.\nVenues: Opening Night party at Dirty Habit; Happy Hour and symposium at District Architecture Center; Closing Night screening and party at National Geographic Grosvenor Auditorium; all other screenings at Naval Heritage Center.\nAdmissions (p.6): Film Pass $85; In Person Single Film Ticket $15; Online Film Pass $75; Students/Military/Seniors 10% off; In Person Film & Symposium Pass $275; Online Film & Symposium Pass $175; In Person Student Pass $110; Online Student Pass $95.\nSkipped: affinity partners list (p.52), sponsor/ad pages (pp.53-55), About 100Reporters (p.4)."
+}

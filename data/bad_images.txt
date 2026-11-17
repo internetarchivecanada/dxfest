@@ -1,0 +1,4 @@
+# film stills or photos to leave out (key as in data/images.json)
+f:acts-of-reparation
+f:homegrown
+f:all-the-empty-rooms

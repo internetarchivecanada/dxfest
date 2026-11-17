@@ -1,0 +1,1794 @@
+{
+  "year": 2023,
+  "edition_name": "Double Exposure Investigative Film Festival & Symposium",
+  "dates": "November 2-5, 2023",
+  "theme": null,
+  "venues": [
+    {
+      "name": "Martin Luther King, Jr. Memorial Library",
+      "address": "901 G Street, NW"
+    },
+    {
+      "name": "JxJ Cafritz Hall, Edlavitch DCJCC",
+      "address": "1529 16th Street, NW"
+    },
+    {
+      "name": "Monaco Hotel / Dirty Habit (receptions)",
+      "address": "700 F Street, NW"
+    }
+  ],
+  "films": [
+    {
+      "title": "Locked Out",
+      "directors": [
+        "Kate Davis",
+        "Luchina Fisher"
+      ],
+      "country": "United States",
+      "film_year": 2023,
+      "runtime_min": 78,
+      "premiere": "DC Premiere",
+      "slot": "Opening Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-02",
+        "time": "7:00 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "Nothing symbolizes ‘making it in America’ quite like owning a home. Yet today, the racial gap in home ownership is widening, and those most impacted are women of color. Set in Detroit, “Locked out” takes us into the lives of courageous Black women who face evictions, predatory lenders and traditional banking, in a movement to battle housing injustice, so The American Dream may become a reality for all.",
+      "after_screening": "Post-screening talkback with co-director Luchina Fisher, moderated by Tracy Jan of The Washington Post.",
+      "people": [
+        {
+          "name": "Kate Davis",
+          "role": "director"
+        },
+        {
+          "name": "Luchina Fisher",
+          "role": "director"
+        },
+        {
+          "name": "Tracy Jan",
+          "role": "moderator (The Washington Post)"
+        }
+      ],
+      "page": 9
+    },
+    {
+      "title": "Minted",
+      "directors": [
+        "Nicholas Bruckman"
+      ],
+      "country": "United States",
+      "film_year": 2023,
+      "runtime_min": 96,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-03",
+        "time": "6:30 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "In the gripping documentary, director Nicholas Bruckman masterfully delves into the intricate and often perplexing world of the forty-billion-dollar NFT (non-fungible token) digital art sphere, chronicling its meteoric rise and eventual fall. Through a combination of candid interviews, vérité footage, and powerful archival film, Bruckman expertly weaves together the multifaceted story of this groundbreaking phenomenon.",
+      "after_screening": "Post-screening talkback with director Nicholas Bruckman and writer/producer Shawn Hazelett, moderated by Ron Nixon.",
+      "people": [
+        {
+          "name": "Nicholas Bruckman",
+          "role": "director"
+        },
+        {
+          "name": "Shawn Hazelett",
+          "role": "writer/producer"
+        },
+        {
+          "name": "Ron Nixon",
+          "role": "moderator"
+        }
+      ],
+      "page": 9
+    },
+    {
+      "title": "The Price of Truth, Director’s Cut",
+      "directors": [
+        "Patrick Forbes"
+      ],
+      "country": "United Kingdom",
+      "film_year": 2023,
+      "runtime_min": 85,
+      "premiere": "World Premiere",
+      "slot": "Centerpiece",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-03",
+        "time": "8:45 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "The extraordinary story of a man who risks everything to preserve freedom of speech in Russia. In December 2021, Dmitry Muratov is awarded the Nobel Peace Prize. He is the editor-in-chief of Russia’s only independent newspaper, Novaya Gazeta. Six of his journalists have been murdered, after their reports displeased the state. In February 2022 Russia invades Ukraine. In early March, Muratov secretly negotiates free passage for forty journalists with the Latvian government. Then he returns to Moscow to look after his paper and its remaining staff. To this day, he refuses to leave Moscow, whatever the pressure on him and his team. “Putin stands for death.” Muratov says. “I stand for life.”",
+      "after_screening": "Post-screening talkback with director Patrick Forbes, moderated by David Herszenhorn of The Washington Post.",
+      "people": [
+        {
+          "name": "Patrick Forbes",
+          "role": "director"
+        },
+        {
+          "name": "David Herszenhorn",
+          "role": "moderator (The Washington Post)"
+        }
+      ],
+      "page": 10
+    },
+    {
+      "title": "This Is Not Financial Advice",
+      "directors": [
+        "Zach Ingrasci",
+        "Chris Temple"
+      ],
+      "country": "United States",
+      "film_year": 2023,
+      "runtime_min": 88,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-04",
+        "time": "1:30 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "Glauber “Pro” Contessoto—an immigrant working multiple jobs and living in a 220-square-foot apartment—gambles his life savings on a joke cryptocurrency. Two months later, he becomes “The Dogecoin Millionaire” and a hero to his growing YouTube following.\n\nIt’s easy to get rich online. But as Pro will soon discover, it’s even easier to lose it all. Amateur investors like Pro must navigate a landscape that’s rife with scams, bad advice, and a fear of missing out. THIS IS NOT FINANCIAL ADVICE exposes the startling risks and rewards of today’s market through expert commentary and the anxiety-inducing stories of real people trying to make millions.",
+      "after_screening": "Followed by post-screening discussion with co-director Chris Temple.",
+      "people": [
+        {
+          "name": "Zach Ingrasci",
+          "role": "director"
+        },
+        {
+          "name": "Chris Temple",
+          "role": "director"
+        }
+      ],
+      "page": 10
+    },
+    {
+      "title": "Phantom Parrot",
+      "directors": [
+        "Kate Stonehill"
+      ],
+      "country": "United Kingdom",
+      "film_year": 2023,
+      "runtime_min": 82,
+      "premiere": "US Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-04",
+        "time": "4:00 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "If British police ask for the password to your phone or computer, you must hand it over to them in accordance with an anti-terror law that came into force before 9/11. When human rights activist Muhammad Rabbani refuses and is prosecuted, a journalist is able to uncover documents proving the existence of a top-secret surveillance programme, code-named Phantom Parrot, designed to copy the personal data of individuals at airports and border crossings—and people from minority backgrounds are often the first to be pulled aside.\n\nAnd from there, the dominoes start falling in all directions in a dark detective film about technology, surveillance and structural racism in a time where knowledge might still equal power but where data is even better.",
+      "after_screening": "Followed by post-screening discussion with director Kate Stonehill, moderated by Ron Nixon.",
+      "people": [
+        {
+          "name": "Kate Stonehill",
+          "role": "director"
+        },
+        {
+          "name": "Ron Nixon",
+          "role": "moderator"
+        }
+      ],
+      "page": 11
+    },
+    {
+      "title": "Another Body",
+      "directors": [
+        "Sophie Compton",
+        "Reuben Hamlyn"
+      ],
+      "country": "United States",
+      "film_year": 2022,
+      "runtime_min": 92,
+      "premiere": "DC Premiere",
+      "slot": "Spotlight",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-04",
+        "time": "6:30 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "A college student’s life is upended when she discovers ‘deepfake’ pornography of herself circulating online. Utilizing this technology in startling ways, Another Body follows a survivor’s search for answers, and raises unsettling questions about technology, justice and consent.",
+      "after_screening": "Followed by post-screening discussion with co-director Sophie Compton.",
+      "people": [
+        {
+          "name": "Sophie Compton",
+          "role": "director"
+        },
+        {
+          "name": "Reuben Hamlyn",
+          "role": "director"
+        }
+      ],
+      "page": 11
+    },
+    {
+      "title": "Sorry / Not Sorry",
+      "directors": [
+        "Caroline Suh",
+        "Cara Mones"
+      ],
+      "country": "United States",
+      "film_year": 2023,
+      "runtime_min": 90,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-04",
+        "time": "8:45 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "The “Me Too” movement resulted in numerous mea culpas, not all of which were heartfelt. Louis C.K.’s response to accusations is an interesting case in point. When the story of his sexual harassment broke, it initially seemed that the extremely successful comedian, who admitted that the stories were true, might actually be interested in learning and growing as a person. Nine months later, he returned to the stage with jokes that instead revealed a man doubling down on bad behavior. This powerful documentary gives voice to the nuanced experiences of three women who tried to expose C.K.’s bad behavior and the backlash they faced. It charts how an open secret evolved into a national news item and features compelling and humorous interviews and comedy clips. With stark lucidity, the film also highlights that it is almost exclusively women who speak out about sexual misconduct, while their male peers often say little or nothing at all—a “sorry” state of affairs, indeed.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Caroline Suh",
+          "role": "director"
+        },
+        {
+          "name": "Cara Mones",
+          "role": "director"
+        }
+      ],
+      "page": 12
+    },
+    {
+      "title": "All Static & Noise",
+      "directors": [
+        "David Novack"
+      ],
+      "country": "United States",
+      "film_year": 2023,
+      "runtime_min": 102,
+      "premiere": "US Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-05",
+        "time": "11:00 AM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "Jewher, a Uyghur teen from China, lands in the US after she is violently separated from her father at the Beijing airport. Abduweli, a linguist and poet imprisoned and tortured for teaching Uyghur language, leaves for Istanbul upon his release. Together, they join survivors of China’s “re-education camps” and their families, in Turkey, Kazakhstan, Europe, and the United States to expose atrocities with the hope that global awareness brings change.",
+      "after_screening": "Followed by post-screening discussion with director David Novack, moderated by James Millward.",
+      "people": [
+        {
+          "name": "David Novack",
+          "role": "director"
+        },
+        {
+          "name": "James Millward",
+          "role": "moderator"
+        }
+      ],
+      "page": 12
+    },
+    {
+      "title": "1946: The Mistranslation That Shifted Culture",
+      "directors": [
+        "Sharon “Rocky” Roggio"
+      ],
+      "country": "United States",
+      "film_year": 2022,
+      "runtime_min": 92,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-05",
+        "time": "1:30 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "Seeking to uncover the origins of the rabid homophobia of the conservative church, a gay seminary scholar and a straight activist make a shocking discovery: In 1946 an erroneous translation of the term homosexual in the Bible that has been weaponized against the LGBTQIA+ community ever since.",
+      "after_screening": "Followed by post-screening discussion with director Sharon “Rocky” Roggio.",
+      "people": [
+        {
+          "name": "Sharon “Rocky” Roggio",
+          "role": "director"
+        }
+      ],
+      "page": 13
+    },
+    {
+      "title": "Stripped for Parts: American Journalism on the Brink",
+      "directors": [
+        "Rick Goldsmith"
+      ],
+      "country": "United States",
+      "film_year": 2023,
+      "runtime_min": 95,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-05",
+        "time": "3:00 PM",
+        "venue": "JxJ Cafritz Hall, Edlavitch DCJCC"
+      },
+      "synopsis": "STRIPPED FOR PARTS tells the story of a secretive hedge fund, Alden Capital, that is plundering what is left of America’s newspapers, and the journalists who are fighting back. The film interweaves three tales: 1) A nuts-and-bolts portrayal of investigative reporting, as reporter Julie Reynolds peels back layers of Alden’s deception and heartless profiteering; 2) the damage that newspaper ownership by hedge funds—with no experience nor interest in journalism—inflicts on hundreds of communities nationwide; and 3) the David-and-Goliath battle waged by a handful of journalists in Colorado, California, Chicago and elsewhere, to prevent the destruction of their newspapers, to educate the public about what is at stake, and to create new vehicles to preserve and improve local journalism.",
+      "after_screening": "Followed by post-screening discussion with director Rick Goldsmith.",
+      "people": [
+        {
+          "name": "Rick Goldsmith",
+          "role": "director"
+        }
+      ],
+      "page": 13
+    },
+    {
+      "title": "One Bullet",
+      "directors": [
+        "Carol Dysinger"
+      ],
+      "country": "United States",
+      "film_year": 2023,
+      "runtime_min": 90,
+      "premiere": "US Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-05",
+        "time": "4:00 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "This story of intimate female friendship forged amidst America’s longest war is told by a filmmaker who spent fifteen years in and out of Afghanistan.\n\nThe battlefield lies behind the curtains of an Afghan home as Bibi Hajji struggles to survive the loss of her youngest child and the impact of a brother’s death on her remaining sons. A haunting image of that boy surviving a bullet wound prompted director Carol Dysinger to investigate: What happened to him? Who fired the shot? ONE BULLET evolves from procedural to an excavation of the human experience, of loss and redemption. It asks: how might we make peace across vast social, cultural, and religious divisions?",
+      "after_screening": "Followed by post-screening discussion with director Carol Dysinger.",
+      "people": [
+        {
+          "name": "Carol Dysinger",
+          "role": "director"
+        }
+      ],
+      "page": 14
+    },
+    {
+      "title": "The Illusion of Abundance",
+      "directors": [
+        "Matthieu Lietaert",
+        "Erika Gonzalez Ramirez"
+      ],
+      "country": "Belgium",
+      "film_year": 2022,
+      "runtime_min": 60,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-05",
+        "time": "5:30 PM",
+        "venue": "JxJ Cafritz Hall, Edlavitch DCJCC"
+      },
+      "synopsis": "Despite a deeply unbalanced game, Maxima, Bertha, and Carolina share a common goal: they are leading today’s environmental fight against modern corporate conquistadors. Whereas governments and corporations are trapped in a global race to get the cheapest raw materials, these three women tell us a story of tireless courage: how to keep fighting to protect nature when your life is at risk? When police repression, corporate harassment, injuries, or even death threats are part of your daily routine?\n\nTHE ILLUSION OF ABUNDANCE is not only a film about those who pay the high price of ‘development’, it is above all a film about the globalization of their environmental resistance and their conviction to hunt down transnational corporations, wherever they hide.",
+      "after_screening": "Followed by post-screening discussion with co-director Matthieu Lietaert.",
+      "people": [
+        {
+          "name": "Matthieu Lietaert",
+          "role": "director"
+        },
+        {
+          "name": "Erika Gonzalez Ramirez",
+          "role": "director"
+        }
+      ],
+      "page": 14
+    },
+    {
+      "title": "The Lost Souls of Syria",
+      "directors": [
+        "Stéphane Malterre"
+      ],
+      "country": "France",
+      "film_year": 2023,
+      "runtime_min": 99,
+      "premiere": "US Premiere",
+      "slot": "Closing Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2023-11-05",
+        "time": "6:30 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "Twenty-seven thousand photos of corpses and bodies tortured in detention centers of the Syrian regime are leaked in 2014 by a mysterious deserter with the code name “Caesar”. Because of the geopolitical interests of some countries and the indifference of other nations, international justice refuses to prosecute the regime of Bashar al-Assad responsible for crimes reminiscent of Nazi or Khmer barbarism. Filmed throughout Europe over nearly four years between 2016 and 2020, the film recounts the behind-the-scenes twists and turns of investigations and proceedings that will lead to the issuance of arrest warrants for the highest officials of Bashar al-Assad’s administration for crimes against humanity.",
+      "after_screening": "Followed by post-screening discussion with director Stéphane Malterre.",
+      "people": [
+        {
+          "name": "Stéphane Malterre",
+          "role": "director"
+        },
+        {
+          "name": "Garance Le Caisne",
+          "role": "co-author"
+        }
+      ],
+      "page": 15
+    },
+    {
+      "title": "Who Is Living in My Father’s House?",
+      "directors": [
+        "Isaac George Crown Manesis"
+      ],
+      "country": "USA",
+      "film_year": 2023,
+      "runtime_min": 10,
+      "premiere": null,
+      "slot": "Shortcuts Program 1",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 1",
+      "screening": {
+        "date": "2023-11-03",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "My family left Greece throughout the early and mid-20th century, forgetting their homes to become Americans. In the process of forgetting a lost home, a house was stolen. I went to Erikousa to get to the bottom of this nefarious plot, make a film chronicling my journey, and reclaim my family’s house. However, the nefarious plot had no bottom and my camera had dust on it. This film is about stories that don’t fit the confines of either fiction or nonfiction.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Isaac George Crown Manesis",
+          "role": "director"
+        }
+      ],
+      "page": 15
+    },
+    {
+      "title": "Friendly Signs",
+      "directors": [
+        "Rahsaan “New York” Thomas"
+      ],
+      "country": "USA",
+      "film_year": 2023,
+      "runtime_min": 21,
+      "premiere": null,
+      "slot": "Shortcuts Program 1",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 1",
+      "screening": {
+        "date": "2023-11-03",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "The short documentary is about Tommy Wickerd, a man serving 57-year sentence in San Quentin State Prison, who is determined to use his time serving the deaf community.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Rahsaan “New York” Thomas",
+          "role": "director"
+        }
+      ],
+      "page": 15
+    },
+    {
+      "title": "The Mother Trap",
+      "directors": [
+        "Mark Helenowski"
+      ],
+      "country": "USA",
+      "film_year": 2023,
+      "runtime_min": 17,
+      "premiere": "DC Premiere",
+      "slot": "Shortcuts Program 1",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 1",
+      "screening": {
+        "date": "2023-11-03",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "“Failure-to-protect” laws incarcerate women across the country for child abuse perpetrated by their intimate partners. In this unsparing mini-documentary, filmmaker Mark Helenowski teamed up with Mother Jones reporter Samantha Michaels to expose an appalling injustice that disproportionately hurts Black moms, including an Oklahoma mother of four, Kerry King, who is serving 30 years in a state prison—12 years longer than the man who abused her and her daughter.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Mark Helenowski",
+          "role": "director"
+        },
+        {
+          "name": "Samantha Michaels",
+          "role": "journalist (Mother Jones)"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "If Dreams Were Lightning",
+      "directors": [
+        "Ramin Bahrani"
+      ],
+      "country": "USA",
+      "film_year": 2023,
+      "runtime_min": 25,
+      "premiere": null,
+      "slot": "Shortcuts Program 1",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 1",
+      "screening": {
+        "date": "2023-11-03",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "With IF DREAMS WERE LIGHTNING, Ramin Bahrani explores a precarious community ill-equipped to handle catastrophe, and in so doing captures the human cost of inequality, a moral failure in the richest nation in the world.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Ramin Bahrani",
+          "role": "director"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "Beneath the Surface",
+      "directors": [
+        "cai thomas"
+      ],
+      "country": "USA",
+      "film_year": 2023,
+      "runtime_min": 6,
+      "premiere": "DC Premiere",
+      "slot": "Shortcuts Program 1",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 1",
+      "screening": {
+        "date": "2023-11-03",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "trina reynolds-tyler, a data scientist and journalist at the Invisible Institute, investigates gender-based violence found in complaints made against the Chicago Police Department.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "cai thomas",
+          "role": "director"
+        },
+        {
+          "name": "trina reynolds-tyler",
+          "role": "subject"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "23",
+      "directors": [
+        "Milan M.A. Gonzales"
+      ],
+      "country": "Germany",
+      "film_year": 2023,
+      "runtime_min": 10,
+      "premiere": "World Premiere",
+      "slot": "Shortcuts Program 2",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 2",
+      "screening": {
+        "date": "2023-11-04",
+        "time": "11:00 AM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "On the morning of February 24th, 2022, Russia launched its invasion of Ukraine. Thousands of civilians and soldiers have died. War correspondents were a target",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Milan M.A. Gonzales",
+          "role": "director"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "The Smallest Power",
+      "directors": [
+        "Andy Sarjahani"
+      ],
+      "country": "Iran",
+      "film_year": 2023,
+      "runtime_min": 6,
+      "premiere": "DC Premiere",
+      "slot": "Shortcuts Program 2",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 2",
+      "screening": {
+        "date": "2023-11-04",
+        "time": "11:00 AM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "Recorded in secret in Iran at the height of the women-led uprising, this documentary short follows an Iranian medical resident who risks her life to protect a fellow doctor from arrest by the country’s secret police.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Andy Sarjahani",
+          "role": "director"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "Suddenly TV",
+      "directors": [
+        "Roopa Gogineni"
+      ],
+      "country": "Sudan",
+      "film_year": 2023,
+      "runtime_min": 19,
+      "premiere": null,
+      "slot": "Shortcuts Program 2",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 2",
+      "screening": {
+        "date": "2023-11-04",
+        "time": "11:00 AM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "Khartoum: Spring 2019. Mass demonstrations have been underway for a month now, protesting against the military government. Following the welcome end to the brutal rule of Omar al-Bashir, the new regime still hasn’t handed over power to a civilian government.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Roopa Gogineni",
+          "role": "director"
+        }
+      ],
+      "page": 17
+    },
+    {
+      "title": "The Night Doctrine",
+      "directors": [
+        "Mauricio Rodriguez-Pons",
+        "Almudena Toral"
+      ],
+      "country": "USA",
+      "film_year": 2023,
+      "runtime_min": 16,
+      "premiere": null,
+      "slot": "Shortcuts Program 2",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 2",
+      "screening": {
+        "date": "2023-11-04",
+        "time": "11:00 AM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "An Afghan journalist embarks on a journey to find out who murdered her family 30 years ago, only to uncover hundreds of civilians killed in a secretive American-backed program.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Mauricio Rodriguez-Pons",
+          "role": "director"
+        },
+        {
+          "name": "Almudena Toral",
+          "role": "director"
+        }
+      ],
+      "page": 17
+    },
+    {
+      "title": "Incident",
+      "directors": [
+        "Bill Morrison"
+      ],
+      "country": "USA",
+      "film_year": 2023,
+      "runtime_min": 30,
+      "premiere": null,
+      "slot": "Shortcuts Program 2",
+      "is_short": true,
+      "shorts_program": "Shortcuts Program 2",
+      "screening": {
+        "date": "2023-11-04",
+        "time": "11:00 AM",
+        "venue": "Martin Luther King, Jr. Memorial Library"
+      },
+      "synopsis": "Chicago, 2018. A man is killed by police on the street. Through a composite montage of images from surveillance and security footage as well as police body-cams, INCIDENT recreates the event and its consequences, featuring vain justifications, altercations and attempts to avoid blame. Bill Morrison delivers a chilling political investigation in search of the truth.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Bill Morrison",
+          "role": "director"
+        }
+      ],
+      "page": 17
+    }
+  ],
+  "sessions": [
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2023-11-02",
+      "time": "8:30 AM",
+      "end_time": "9:30 AM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Auditorium",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 6
+    },
+    {
+      "title": "Working Intersectionally: News and Documentary (Opening Conversation)",
+      "kind": "conversation",
+      "date": "2023-11-02",
+      "time": "9:30 AM",
+      "end_time": "10:45 AM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": "Bringing together the filmmaker and the reporter to create films of journalistic and artistic integrity can result in impactful work that serves the public interest. This partnership, however, can be fraught with opposing approaches and standards from each discipline. In this session, we seek to promote an understanding of best practices in investigative film by looking at local newsrooms that are working with or have documentary filmmakers in their ranks. Moderated by Lauren Pabst of the MacArthur Foundation, with Kathy Kieliszewski, Kimberly Mitchell, and Evan Mascagni.",
+      "people": [
+        {
+          "name": "Lauren Pabst",
+          "role": "moderator"
+        },
+        {
+          "name": "Kathy Kieliszewski",
+          "role": "panelist"
+        },
+        {
+          "name": "Kimberly Mitchell",
+          "role": "panelist"
+        },
+        {
+          "name": "Evan Mascagni",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 18
+    },
+    {
+      "title": "Investigative Filmmaking Under Fire: The Holly, A Case Study",
+      "kind": "panel",
+      "date": "2023-11-02",
+      "time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": "THE HOLLY documentary goes deep inside a gentrifying community in Denver, where a shooting case involving an activist exposes the political machinations of urban development and the city’s gang activity. From production all the way through distribution, a variety of legal issues threatened to shut the film down. In this session, we take a look at the legalities of filming in a courtroom, what to do when you’re being sued by people in the film, and, ultimately, ensuring the safety of the filmmaker and their team. Director Julian Rubinstein is joined by his attorney, Rob Guttierez. Moderated by Katie Townsend, Deputy Executive Director and Legal Director of the Reporters Committee for Freedom of the Press.",
+      "people": [
+        {
+          "name": "Julian Rubinstein",
+          "role": "panelist"
+        },
+        {
+          "name": "Robert Gutierrez",
+          "role": "panelist"
+        },
+        {
+          "name": "Katie Townsend",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 18
+    },
+    {
+      "title": "Lunch",
+      "kind": "other",
+      "date": "2023-11-02",
+      "time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 6
+    },
+    {
+      "title": "Forging the Future: FRONTLINE/Firelight Fellowship",
+      "kind": "panel",
+      "date": "2023-11-02",
+      "time": "1:00 PM",
+      "end_time": "2:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": "The FRONTLINE/Firelight Investigative Journalism Fellowship was created in 2018 to support independent filmmakers of color interested in journalistic documentary filmmaking. Carla Borrás (FRONTLINE) and Monika Navarro (Firelight Media) will show us three case studies on how these two media powerhouses are coming together to guide the next generation in leading-edge work. They will be joined by fellows Jacqueline Olive and Kevin Shaw. The session will be moderated by Marta Urquilla.",
+      "people": [
+        {
+          "name": "Carla Borrás",
+          "role": "presenter"
+        },
+        {
+          "name": "Monika Navarro",
+          "role": "presenter"
+        },
+        {
+          "name": "Jacqueline Olive",
+          "role": "panelist"
+        },
+        {
+          "name": "Kevin Shaw",
+          "role": "panelist"
+        },
+        {
+          "name": "Marta Urquilla",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 19
+    },
+    {
+      "title": "The Art of Visual News",
+      "kind": "panel",
+      "date": "2023-11-02",
+      "time": "2:15 PM",
+      "end_time": "3:30 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": "In an era shaped by the omnipresence of social media and a burgeoning demand for greater inclusivity in journalism, a fresh wave of younger audiences is gravitating towards unconventional modes of visual news consumption. This panel seeks to delve into the realm of innovative storytelling methods that are blossoming within newsrooms eager to forge deeper connections with a media-savvy demographic. As this ongoing experimentation gives rise to a variety of diverse narrative forms and styles, it prompts introspection within news organizations on essential matters like community engagement. Furthermore, a renewed commitment to transparency in the reporting process, fostering a more profound partnership with the public, is setting the course for this exciting transformation in the world of news. Moderated by Mishi Ebrahim.",
+      "people": [
+        {
+          "name": "Reema Akkad",
+          "role": "panelist"
+        },
+        {
+          "name": "Erica Berenstein",
+          "role": "panelist"
+        },
+        {
+          "name": "Rozina Breen",
+          "role": "panelist"
+        },
+        {
+          "name": "Margaret “Mishi” Ebrahim",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 19
+    },
+    {
+      "title": "Using and Abusing Deepfakes: The Dangers and Potential of AI in Documentary",
+      "kind": "panel",
+      "date": "2023-11-02",
+      "time": "3:45 PM",
+      "end_time": "5:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": "Pseudonyms and blurred faces. Altered voices. Filming in silhouette. Masking victims.\n\nFaced with the challenging question of protecting the anonymity of film subjects who have already been victimized once, a handful of investigative filmmakers are turning to deep fakery. Using artificial intelligence, they are able to alter the appearance and voice of their source, restoring the humanity of vulnerable subjects as they tell their stories. How do filmmakers make that decision, and what are the implications?",
+      "people": [
+        {
+          "name": "Fatima Anwar",
+          "role": "panelist"
+        },
+        {
+          "name": "Sophie Compton",
+          "role": "panelist"
+        },
+        {
+          "name": "Lisa Zycherman",
+          "role": "panelist"
+        },
+        {
+          "name": "Patricia Aufderheide",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [
+        "Another Body"
+      ],
+      "page": 20
+    },
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2023-11-03",
+      "time": "8:30 AM",
+      "end_time": "9:30 AM",
+      "venue": "Martin Luther King, Jr. Memorial Library",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 7
+    },
+    {
+      "title": "Working Intersectionally – Race & Ethnicity",
+      "kind": "workshop",
+      "date": "2023-11-03",
+      "time": "9:30 AM",
+      "end_time": "10:30 AM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": "As documentary filmmakers strive to become accountable to the communities in which they film, filmmaking teams are becoming more diverse. These new alliances can be fraught with misunderstandings and may impede the progress of the project. In this workshop, we’ll develop best practices for working with people from a variety of backgrounds and cultures in ways that recognize and honor differences to produce meaningful content. We’ll hear from the directors of two films with diverse crews. Princess Hairston, Co-director of BREAKING THE NEWS, and Julian Rubenstein, Director of THE HOLLY.",
+      "people": [
+        {
+          "name": "Princess Hairston",
+          "role": "panelist"
+        },
+        {
+          "name": "Julian Rubinstein",
+          "role": "panelist"
+        },
+        {
+          "name": "jeanelle augustin",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 20
+    },
+    {
+      "title": "Uncovering Democracy in Peril: Voting Rights",
+      "kind": "panel",
+      "date": "2023-11-03",
+      "time": "10:45 AM",
+      "end_time": "12:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": "In the runup to the US presidential election, the right to vote has become increasingly challenged, if not imperiled. Journalists and filmmakers stand on the front lines, charged with documenting this battle over democracy’s defining feature. This panel will discuss the how-tos of telling the physical and the invisible stories of a beleaguered democracy, the legal basics for covering elections, and safety measures for photographers, filmmakers, and journalists in the line of fire. Moderated by Kate Woodsome.",
+      "people": [
+        {
+          "name": "Eric Feder",
+          "role": "panelist"
+        },
+        {
+          "name": "Andy Kroll",
+          "role": "panelist"
+        },
+        {
+          "name": "Brad Lichtenstein",
+          "role": "panelist"
+        },
+        {
+          "name": "Yoruba Richen",
+          "role": "panelist"
+        },
+        {
+          "name": "Kate Woodsome",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 21
+    },
+    {
+      "title": "Lunch",
+      "kind": "other",
+      "date": "2023-11-03",
+      "time": "12:00 PM",
+      "end_time": "1:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 7
+    },
+    {
+      "title": "Out of Sight/Top of Mind: Covering War’s Forgotten Casualties",
+      "kind": "panel",
+      "date": "2023-11-03",
+      "time": "1:00 PM",
+      "end_time": "2:15 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": "Within the multifaceted nature of any conflict, there exists both conspicuous and obscured narratives. Beyond the geopolitical protagonists lie the stories of everyday individuals entangled in warfare, grappling with the harrowing transformation of their forever-changed lives. In this panel discussion, we embark on an exploration of the hidden casualties of war and the profound implications of documenting their experiences through the lens of a camera.\n\nDelving into the dynamics of reporting from environments steeped in trauma and skepticism, we’ll ask how one strikes the balance between capturing the essence of a story and respecting the vulnerability of those involved. What strategies enable a filmmaker to maintain professional detachment while documenting intimate aspects of people’s lives? And, perhaps most poignantly, how does one deal with the unintended emotional toll that accompanies the chronicling of these human stories? Join us in this session as we navigate these considerations and more.",
+      "people": [
+        {
+          "name": "Paco de Onís",
+          "role": "panelist"
+        },
+        {
+          "name": "Carol Dysinger",
+          "role": "panelist"
+        },
+        {
+          "name": "Roopa Gogineni",
+          "role": "panelist"
+        },
+        {
+          "name": "Elahe Izadi",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 21
+    },
+    {
+      "title": "Eyes Everywhere: The Widening Net of Government Surveillance",
+      "kind": "panel",
+      "date": "2023-11-03",
+      "time": "2:30 PM",
+      "end_time": "3:45 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Auditorium",
+      "description": "In this panel, we explore the expanding threats to the privacy of our devices and hard drives through mass extraction techniques, especially by law enforcement and border authorities. The practice has far-reaching implications for fundamental rights, including privacy and the presumption of innocence, but it also poses a particular peril for journalists and filmmakers seeking to protect their sources and material, along with ethical questions about the use of information gleaned through these tactics.",
+      "people": [
+        {
+          "name": "Kathleen McClellan",
+          "role": "panelist"
+        },
+        {
+          "name": "David Novack",
+          "role": "panelist"
+        },
+        {
+          "name": "Kate Stonehill",
+          "role": "panelist"
+        },
+        {
+          "name": "Emma Weil",
+          "role": "panelist"
+        },
+        {
+          "name": "Clayton Weimers",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 22
+    },
+    {
+      "title": "The Future (Disappearance?) of Digital Abundance",
+      "kind": "panel",
+      "date": "2023-11-03",
+      "time": "4:00 PM",
+      "end_time": "5:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Auditorium",
+      "description": "NFTs and digital currency were once celebrated as offering a futuristic, if barely understood, path forward, both for countless people trying to get rich and for content creators including filmmakers and journalists. Creators saw a way for their followers to support their work, often through the purchase of NFTs, creating a kind of membership base to fund their work. The collapse of cryptocurrency erased $2 trillion in wealth, 80 percent of it from brown and Black investors. With the collapse went the dreams and an imagined path for leveling the playing field. Is there a future of digital abundance for creatives in a post-crypto world, and what does it look like?",
+      "people": [
+        {
+          "name": "Nicholas Bruckman",
+          "role": "panelist"
+        },
+        {
+          "name": "Alex Clark",
+          "role": "panelist"
+        },
+        {
+          "name": "Shawn Hazelett",
+          "role": "panelist"
+        },
+        {
+          "name": "Chris Temple",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 22
+    },
+    {
+      "title": "Happy Hour",
+      "kind": "reception",
+      "date": "2023-11-03",
+      "time": "5:00 PM",
+      "end_time": "6:30 PM",
+      "venue": null,
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 7
+    },
+    {
+      "title": "Continental Breakfast",
+      "kind": "other",
+      "date": "2023-11-04",
+      "time": "9:00 AM",
+      "end_time": null,
+      "venue": "Martin Luther King, Jr. Memorial Library — Event Space, 5th Floor",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 7
+    },
+    {
+      "title": "Crossing Borders",
+      "kind": "workshop",
+      "date": "2023-11-04",
+      "time": "9:30 AM",
+      "end_time": "10:45 AM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Auditorium",
+      "description": "Crossing Borders brings together experienced professionals in film and journalism to give feedback on select projects in front of a live audience. Newsrooms moving print projects into film and filmmakers venturing into investigative territory show excerpts of their work and receive feedback from across the aisle. The goal for each side is to raise impact through input from colleagues drawing on unaccustomed expertise. This workshop is possible thanks to the generous support of the CrossCurrents Foundation.",
+      "people": [
+        {
+          "name": "June Cross",
+          "role": "panelist"
+        },
+        {
+          "name": "Patricia Finneran",
+          "role": "panelist"
+        },
+        {
+          "name": "Leyi Huang",
+          "role": "panelist"
+        },
+        {
+          "name": "Chris Lett",
+          "role": "panelist"
+        },
+        {
+          "name": "Amanda Pike",
+          "role": "panelist"
+        }
+      ],
+      "related_films": [],
+      "page": 23
+    },
+    {
+      "title": "Producing Towards Equity with IDA & Documentary Producers Alliance",
+      "kind": "workshop",
+      "date": "2023-11-04",
+      "time": "11:00 AM",
+      "end_time": "2:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Conference Room A, 4th Floor",
+      "description": "Producing Toward Equity (PTE) is an interactive workshop offering filmmakers resources to dismantle outdated producing practices and rebuild ones that are more fair and just. Developed by the Documentary Producers Alliance (DPA) in partnership with the International Documentary Association (IDA), PTE is focused on film financing and crediting through the lens of equity and inclusion, for independent documentary producers of all experience levels. The workshop is designed to provide producers with information that may otherwise be unavailable or difficult to find in formal educational programs and on-the-job training.",
+      "people": [
+        {
+          "name": "Carletta S. Hurt",
+          "role": "instructor"
+        },
+        {
+          "name": "Lance Kramer",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 23
+    },
+    {
+      "title": "Decoding Police Records",
+      "kind": "workshop",
+      "date": "2023-11-04",
+      "time": "11:00 AM",
+      "end_time": "12:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Conference Room F, 4th Floor",
+      "description": "A project of the Invisible Institute, Beneath the Surface consists of a team of data analysts, journalists, artists, organizers, and survivors in Chicago who investigate state violence against Black women and who are working to expand conversations about police violence beyond fatal shootings. This project is led by data scientist trina reynolds-tyler who last year collaborated with filmmaker cai thomas on a film. Join trina and cai in a workshop on how to read police records and incorporate the data into storytelling practices.",
+      "people": [
+        {
+          "name": "trina reynolds-tyler",
+          "role": "instructor"
+        },
+        {
+          "name": "cai thomas",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [
+        "Beneath the Surface"
+      ],
+      "page": 24
+    },
+    {
+      "title": "Visual Forensics for Investigative Filmmakers",
+      "kind": "workshop",
+      "date": "2023-11-04",
+      "time": "12:45 PM",
+      "end_time": "1:45 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Conference Room F, 4th Floor",
+      "description": "Citizen-generated videos have become an integral piece of countless important news stories, but they represent only the first tier of open-source materials available to investigative storytellers. With a Wi-Fi connection and the right know-how, a wealth of information, including emergency audio recordings, documents, CCTV footage, satellite imagery, and flight and shipping traffic, can be unlocked. Visual forensics involves not just knowing what’s available and where to find it, but most crucially verifying its authenticity and context and interrogating source material to reveal new and impactful findings. Join Sarah Cahlan and Meg Kelly, founders of The Washington Post’s award-winning Visual Forensics unit, for this hands-on workshop to expand your investigative filmmaking toolkit.",
+      "people": [
+        {
+          "name": "Sarah Cahlan",
+          "role": "instructor"
+        },
+        {
+          "name": "Meg Kelly",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 24
+    },
+    {
+      "title": "Master Class: Based on a True Story",
+      "kind": "masterclass",
+      "date": "2023-11-04",
+      "time": "2:00 PM",
+      "end_time": "3:00 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Conference Room F, 4th Floor",
+      "description": "A master class from the writer’s room of “Alaska Daily,” the TV series about a state’s failure to prosecute the murders of indigenous women, set at a struggling daily newspaper. Join Pulitzer Prize-winning investigative journalist Mike Rezendes and Steinberg Playwright Award-winner Miranda Rose Hall for a workshop on adapting real-life investigative stories into narrative work for stage and screen.",
+      "people": [
+        {
+          "name": "Miranda Rose Hall",
+          "role": "instructor"
+        },
+        {
+          "name": "Michael Rezendes",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 25
+    },
+    {
+      "title": "Revealing Records for Filmmakers",
+      "kind": "workshop",
+      "date": "2023-11-04",
+      "time": "2:15 PM",
+      "end_time": "3:30 PM",
+      "venue": "Martin Luther King, Jr. Memorial Library — Conference Room A, 4th Floor",
+      "description": "Based on Nate Jones’s popular column in The Washington Post, a workshop for filmmakers on accessing government records, including voice, video, and images. This workshop will provide a basic understanding of the variety of audio, video and other materials that are available to filmmakers in the know. It will teach you how to file successful requests for materials under the Freedom of Information Act, along with tips for ensuring your request doesn’t languish.",
+      "people": [
+        {
+          "name": "Nate Jones",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 25
+    },
+    {
+      "title": "DX Access",
+      "kind": "other",
+      "date": null,
+      "time": null,
+      "end_time": null,
+      "venue": "District Architecture Center",
+      "description": "November 2-3, 2023. DX Access included with all Film Festival + Symposium passes.\n\nDX ACCESS connects registered attendees to representatives of the most respected and innovative organizations and individuals in film and journalism, and provides unparalleled face time with funders, producers, festival programmers, distributors, media outlets, reporters, writers and directors. In one-on-one sessions, they will unpack how they work, learn more about your goals, and explore the possibilities for supporting your project.\n\nDX ACCESS will take place during the Double Exposure Symposium online. DX Access will arrange up to five ten-minute meetings per attendee. Registrants may sign up for meetings with the specific organizations or people of their choice via a simple application process. The organization or person selected must agree that the meeting is mutually beneficial for it to be confirmed.",
+      "people": [
+        {
+          "name": "jeanelle augustin",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Erica Berenstein",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Carla Borrás",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Rozina Breen",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Germán Castaneda",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "David Cornwall",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Margaret “Mishi” Ebrahim",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Eric Ferrero",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Abby Greensfelder",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Melissa Houghton",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Kathleen Lingo",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Kathleen McClellan",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Monika Navarro",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Lauren Pabst",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Amanda Pike",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Lindsey Sitz",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Almudena Toral",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Katie Townsend",
+          "role": "DX Access representative"
+        },
+        {
+          "name": "Kate Woodsome",
+          "role": "DX Access representative"
+        }
+      ],
+      "related_films": [],
+      "page": 8
+    },
+    {
+      "title": "Shortcuts Program 1",
+      "kind": "screening-event",
+      "date": "2023-11-03",
+      "time": "12:00 PM",
+      "end_time": null,
+      "venue": "Martin Luther King, Jr. Memorial Library",
+      "description": "In this collection of short films, we explore the profound connection between the personal and the political. This program takes us on a journey, delving into the complexities of family histories and the relentless pursuit of justice for those we cherish. Each film artfully amplifies the universal longing for safety, visibility, and the power to share one’s voice.",
+      "people": [],
+      "related_films": [
+        "Who Is Living in My Father’s House?",
+        "Friendly Signs",
+        "The Mother Trap",
+        "If Dreams Were Lightning",
+        "Beneath the Surface"
+      ],
+      "page": 15
+    },
+    {
+      "title": "Shortcuts Program 2",
+      "kind": "screening-event",
+      "date": "2023-11-04",
+      "time": "11:00 AM",
+      "end_time": null,
+      "venue": "Martin Luther King, Jr. Memorial Library",
+      "description": "These short films collectively explore a broad spectrum of themes, ranging from the aftermath of war, citizen protests, to instances of police violence. Uniting these narratives is a shared focus on the human response to acts of inhumanity, both on American soil and abroad. They offer a poignant glimpse into the resilience and humanity that emerges in the face of adversity.",
+      "people": [],
+      "related_films": [
+        "23",
+        "The Smallest Power",
+        "Suddenly TV",
+        "The Night Doctrine",
+        "Incident"
+      ],
+      "page": 16
+    }
+  ],
+  "people": [
+    {
+      "name": "Lauren Pabst",
+      "bio": "Lauren Pabst (she/her) is a Senior Program Officer at the John D. and Catherine T. MacArthur Foundation, where she works on the Foundation’s grantmaking in support of Nonfiction Multimedia Storytelling and Professional Nonprofit Reporting.",
+      "affiliation": "The John D. and Catherine T. MacArthur Foundation",
+      "page": 18
+    },
+    {
+      "name": "Kathy Kieliszewski",
+      "bio": "Kathy Kieliszewski, the Detroit Free Press’ senior news director for visuals, is a four-time National Emmy Award-winning documentary producer and journalist. She was part of the team that won the 2018 Pulitzer Prize for Explanatory Journalism for a series of multimedia stories that examined President Trump's pledge to construct a wall along the US border with Mexico.",
+      "affiliation": "Detroit Free Press",
+      "page": 18
+    },
+    {
+      "name": "Kimberly Mitchell",
+      "bio": "Kimberly Mitchell is a Detroit-based photojournalist and filmmaker. She has worked at the Detroit Free Press since 2005, where she developed a strong commitment to creating socio-economic change through dynamic storytelling.",
+      "affiliation": "Detroit Free Press",
+      "page": 18
+    },
+    {
+      "name": "Evan Mascagni",
+      "bio": "Evan Mascagni is a documentary filmmaker from Kentucky. In 2022, he directed and produced “Persistent: A Challenge to Kentucky’s PFO Law,” in partnership with ITVS, Independent Lens, and the Courier Journal.",
+      "affiliation": null,
+      "page": 18
+    },
+    {
+      "name": "Robert S. Gutierrez",
+      "bio": "Robert S. Gutierrez is a litigator who defends clients across the entertainment industry in contract, ownership, and royalty disputes; idea submission and right of publicity claims; and in matters involving allegations of copyright infringement, defamation, invasion of privacy, unfair competition, and fraud.",
+      "affiliation": null,
+      "page": 18
+    },
+    {
+      "name": "Katie Townsend",
+      "bio": "Katie Townsend is the Reporters Committee’s deputy executive director and legal director. She oversees the Reporters Committee’s legal services portfolio — including its litigation, vetting/pre-publication review, and amicus practices — and supervises the legal work of the Reporters Committee’s team of staff attorneys and legal fellows.",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 18
+    },
+    {
+      "name": "Carla Borrás",
+      "bio": "As FRONTLINE’s senior producer of special projects and innovation, Carla Borrás oversees the development and production of special projects, helping the series expand the footprint of its journalism through emerging platforms and new forms of storytelling, from virtual and augmented-reality experiences to immersive interactive web-based documentaries to impactful visual social journalism.",
+      "affiliation": "FRONTLINE",
+      "page": 19
+    },
+    {
+      "name": "Monika Navarro",
+      "bio": "Monika Navarro (she/her/hers/ella) is an independent filmmaker and the Senior Director of Artist Programs at Firelight Media. Previously she served as Senior Director of Programs at Tribeca Film Institute and managed content and funding initiatives at ITVS.",
+      "affiliation": "Firelight Media",
+      "page": 19
+    },
+    {
+      "name": "Jacqueline Olive",
+      "bio": "Jacqueline Olive is an independent filmmaker with nearly twenty years of experience in journalism and film. Her award-winning debut documentary film, ALWAYS IN SEASON, has received numerous honors including winner of the 2019 Sundance Festival Special Jury Prize for Moral Urgency and nominations for Best Writing from IDA Documentary Awards (2019) and Cinema Eye Honors (2019). Jackie taught film at the University of California, Santa Cruz, and is currently a 2023 Harvard Kennedy School Shorenstein Center Documentary Fellow.",
+      "affiliation": null,
+      "page": 19
+    },
+    {
+      "name": "Kevin Shaw",
+      "bio": "As a director, producer, cinematographer and editor, Kevin Shaw has created award-winning films for prestige platforms. Shaw’s latest film, LET THE LITTLE LIGHT SHINE, was nominated for an Emmy Award and a Peabody Award, debuted on PBS’ award-winning series POV, and played at several film festivals and theatres around the country to stellar reception, where the Chicago Tribune lauded the film for carrying “the visceral impact of all six Rocky films and a few Creed films put together.” Shaw was a segment director and cinematographer on AMERICA TO ME, and additional cinematographer on CITY SO REAL, from Academy Award-nominated filmmaker Steve James, where they both debuted at the Sundance Film Festival to critical acclaim and aired on Starz and Hulu respectively.",
+      "affiliation": null,
+      "page": 19
+    },
+    {
+      "name": "Marta Urquilla",
+      "bio": "Marta Urquilla is President of Centri Tech Foundation, a mission-driven organization focused on leveraging digital technologies to advance social and economic outcomes. She has over 25 years’ experience managing programs and leading results-oriented policy approaches to improve lives. Before joining Centri Tech, Marta was Chief Program Officer at Education Design Lab, directing the creation of new education models toward the future of work. Previously, she was Deputy Director at the Beeck Center for Social Impact + Innovation at Georgetown University, where she led efforts to build the next generation of leaders and approaches to scale social change. Under President Obama, Marta served as Senior Policy Advisor in the White House Office of Social Innovation and Civic Participation and as Senior Advisor for Social Innovation at the Corporation for National and Community Service, where she built and implemented the first Social Innovation Fund in the US Government, a model adopted across federal agencies.",
+      "affiliation": "Centri Tech Foundation",
+      "page": 19
+    },
+    {
+      "name": "Reem Akkad",
+      "bio": "Reem Akkad is the visual enterprise editor for The Washington Post’s Foreign Desk, charged with imagining and executing immersive multimedia storytelling on the world’s most urgent stories. Working in collaboration with photo, video, print, design and graphics, she has overseen a wide range of visually driven projects, from the toll of covid-19 on India to Scotland’s push for renewable energy. Akkad was previously a senior producer for the original video team at The Post, where she helped lead a team of 10 video journalists who film, produce and edit short- and medium-form pieces, as well as long-form multimedia projects.",
+      "affiliation": "The Washington Post",
+      "page": 19
+    },
+    {
+      "name": "Erica Berenstein",
+      "bio": "Erica Berenstein is an Emmy award-winning executive producer. She currently leads the News and Documentary team at Insider, Inc. Erica has worked as a staff journalist for Agence France-Presse, The New York Times, and The Wall Street Journal. Her team at Insider produces several award-winning documentary-style shows like “True Cost,” “World Wide Waste,” and “Still Standing.”",
+      "affiliation": "Insider, Inc.",
+      "page": 19
+    },
+    {
+      "name": "Rozina Breen",
+      "bio": "Rozina Breen is an award-winning editor who joined The Bureau of Investigative Journalism from the BBC. She ran the UK’s largest network newsroom outside of London where, as head of news at BBC 5 Live, she oversaw coverage of the EU referendum, the election of Donald Trump, the Grenfell Tower fire and the terror attacks in London and Manchester. She commissioned award-winning podcasts including Brexitcast, You, Me and the Big C, The Sista Collective and Hope High, which went onto win an Orwell Prize for Exposing Britain’s Social Evils.",
+      "affiliation": "The Bureau of Investigative Journalism",
+      "page": 19
+    },
+    {
+      "name": "Margaret “Mishi” Ebrahim",
+      "bio": "Margaret “Mishi” Ebrahim (she/her) is a journalist, producer and media executive who creates, identifies, develops and executive produces unscripted series, documentaries and timely news-oriented specials integrating exceptional journalism with creative storytelling. At PBS, she oversees the news and current affairs content portfolio, including FRONTLINE and NewsHour, as well as commissions and acquires nonfiction films and series across platforms. Ebrahim has worked at some of the most successful media organizations like CBS News 60 Minutes, National Geographic, ABC News and the Investigative Reporting Workshop at American University. She’s a member of the board of directors for 100Reporters, the parent organization of the DX Film Festival.",
+      "affiliation": "PBS",
+      "page": 19
+    },
+    {
+      "name": "Fatima Anwar",
+      "bio": "Fatima Anwar is a Pakistani researcher, filmmaker, and lawyer. She currently serves as the Press and Communications Manager at WITNESS, a leading video, technology, and human rights organization. An important part of WITNESS’ current work revolves around the human rights implications of deepfakes and generative AI - with a specific focus on defending the trust basis of audiovisual media.",
+      "affiliation": "WITNESS",
+      "page": 20
+    },
+    {
+      "name": "Patricia Aufderheide",
+      "bio": "Patricia Aufderheide (she/they) is a University Professor in the School of Communication at American University in Washington, DC. She is the author of Documentary Film: A Very Short Introduction (Oxford), a member of the Documentary Accountability Working Group, a board member of Independent Television Service, and past recipient of the International Documentary Association’s Scholarship & Preservation Award.",
+      "affiliation": "American University",
+      "page": 20
+    },
+    {
+      "name": "Sophie Compton",
+      "bio": "Sophie Compton is a British director, writer, and activist who tells women’s stories of injustice. She has produced and directed work at Tate Modern, Science Museum, and V&A, and she is currently directing the feature documentary Holloway which follows ex-prisoners returning to the abandoned Holloway Prison Another Body, screening at this year’s Double Exposure, is Sophie’s feature debut.",
+      "affiliation": null,
+      "page": 20
+    },
+    {
+      "name": "Lisa Zycherman",
+      "bio": "Lisa Zycherman (she/her/hers) is the Reporters Committee’s Deputy Legal Director and Policy Counsel. She supervises Reporters Committee staff attorneys and legal fellows providing direct litigation and amicus support on issues affecting journalists and documentary filmmakers, including obtaining access to public records, access to court proceedings, and legal defense.",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 20
+    },
+    {
+      "name": "Princess A. Hairston",
+      "bio": "Princess A. Hairston is a filmmaker and Emmy-nominated editor based in NYC. Princess recently produced and edited LADIES FIRST: A Story of Women in Hip Hop on Netflix. Princess is co-director and producer on the feature doc titled BREAKING THE NEWS with co-directors Heather Courtney and Chelsea Hernandez. Princess also edited THIS WORLD IS NOT MY OWN, which had its World Premiere at SXSW. Her editing work can be seen on LULARICH, PIER KIDS, FRESH DRESSED and CAPTURE W/ MARK SELIGER. She is a recipient of the Pano x Ablecine 2023 Cinematographer’s Lab, a 2020 nominee for the Lynn Shelton Of A Certain Age grant, a 2018 Winner of the NYTVF + WEtv Producer Pitch and a 2018 recipient of the Karen Schmeer Editing Fellowship. Princess is an inclusion activist within the film industry advocating for BIPOC, LGBTQ+, and disabled individuals to be a part of storytelling in key positions for documentary films. She is a member of the Alliance of Documentary Editors, ACROSS THE CUT, BIPOC Doc Editors, Ujima Entertainment Coalition and Brown Girls Doc Mafia.",
+      "affiliation": null,
+      "page": 20
+    },
+    {
+      "name": "Julian Rubinstein",
+      "bio": "Julian Rubinstein is a journalist, author, and documentary filmmaker. His recent documentary feature, THE HOLLY, won multiple awards on the festival circuit and was distributed by Gravitas Ventures. It was recently selected to play in the International Documentary Association’s FallDocs series for Oscar-eligible feature documentaries. Rubinstein began filming THE HOLLY while reporting his nonfiction book, also called The Holly. The book was a New York Times Editors’ Choice and winner of the 2022 Colorado Book Award and the 2022 High Plains Book Award.",
+      "affiliation": null,
+      "page": 20
+    },
+    {
+      "name": "jeanelle augustin",
+      "bio": "jeanelle augustin serves as Director of Original Voices Documentary Films for NBCU Academy, a new artist development and inclusion initiative for US-based independent documentary filmmakers making intersectional, formally innovative films that highlight stories by and about BIPOC communities, LGBTQ+ folx, femmes, and people with disabilities regardless of career stage or immigration status. Born and based in New York City, she works to create the conditions for artistic freedom. jeanelle was named a 2021 DOC NYC Documentary New Leader and selected for the 2022 Rockwood Documentary Leaders Fellowship supported by the Ford Foundation. jeanelle has film programmed for CIFF, True/False, and Big Sky, led filmmaker labs and seminars for BlackStar Projects, Firelight Media, and UnionDocs, and served on festival juries and funding panels for BAVC, BGDM, Chicago Media Project, Chicken & Egg Pitcures, Creative Capital, Define American, Doc Society, Film Independent, The Gotham, IDA, Indie Memphis, Mezcla Media, NEA, NOFF, NYU, Open City, Palm Springs ShortFest, SFFILM, and Sundance Institute. She is a proud member of Brown Girls Doc Mafia, the Advisory Council at Define American, and served as the Vice President of the Board of The Flaherty.",
+      "affiliation": "NBCU Academy",
+      "page": 20
+    },
+    {
+      "name": "Eric Feder",
+      "bio": "As a litigator, Eric Feder has represented clients in cases involving defamation, copyright infringement and fair use, invasion of privacy and right of publicity, anti-SLAPP, reporter’s privilege, public access to the courts and the Freedom of Information Act, as well as general commercial litigation. Eric has extensive experience litigating and analyzing these issues in the digital and online context, and has developed expertise in the Digital Millennium Copyright Act and Communications Decency Act immunities for posting third-party content; libel on social media platforms; potential liability from embedding content from other websites; and the unique jurisdictional issues that arise when content published online is technically accessible from any computer around the globe.",
+      "affiliation": null,
+      "page": 21
+    },
+    {
+      "name": "Andy Kroll",
+      "bio": "Andy Kroll is a reporter for ProPublica covering voting, elections, and other democracy issues. He was previously the Washington bureau chief for Rolling Stone. His reporting there about a series of cyberattacks on congressional campaigns helped lead to the indictment of a California political operative. Before that, he was a senior reporter at Mother Jones, where his work on self-dealing during the Trump presidency sparked multiple congressional investigations.",
+      "affiliation": "ProPublica",
+      "page": 21
+    },
+    {
+      "name": "Brad Lichtenstein",
+      "bio": "Brad Lichtenstein is an award-winning filmmaker who has been making documentaries since 1998 and founded 371 Productions in 2003. His recent film, WHEN CLAUDE GOT SHOT (produced with Stick Figure) premiered at the 2021 SXSW film festival, was featured in May of 2022 on PBS’ series Independent Lens, and won the 2022 Emmy for Exceptional Merit in Documentary Filmmaking. His latest work is AMERICAN RECKONING (with producer/director Yoruba Richen) for Frontline, a film about a Black resistance movement in Natchez, MS, and the murder of civil rights leader Wharlest Jackson, Sr. It was nominated for the 2023 News & Documentary Emmys for Outstanding Historical Documentary.",
+      "affiliation": "371 Productions",
+      "page": 21
+    },
+    {
+      "name": "Yoruba Richen",
+      "bio": "Yoruba Richen’s most recent documentary, The Rebellious Life of Mrs. Rosa Parks won a Peabody Award. Other recent works include the Emmy-nominated films AMERICAN RECKONING, HOW IT FEELS TO BE FREE, and THE SIT IN: HARRY BELAFONTE HOSTS THE TONIGHT SHOW. She directed an episode of the award-winning series, “High on the Hog” and her film, THE KILLING OF BREONNA TAYLOR won an NAACP Image Award. Yoruba was a Sundance Fellow and is a recipient of the Chicken & Egg Breakthrough Filmmaker’s Award. She is the founding director of the Documentary Program at the Newmark Graduate School of Journalism at CUNY.",
+      "affiliation": "Newmark Graduate School of Journalism at CUNY",
+      "page": 21
+    },
+    {
+      "name": "Kate Woodsome",
+      "bio": "Kate Woodsome is a writer, producer and director at Washington Post Opinions covering mental health and the need for collective care. She was part of The Washington Post team that won the 2022 Pulitzer Prize for Public Service for covering the Jan. 6 insurrection at the U.S. Capitol. Underlying her work is an interest in the motives for, and impacts of, abuse of power, inequity and social division. She chooses her medium, be it written column or short documentary, based on what the story and its subjects demand. Joining The Post in 2017, she built the Opinions’ Video Department from the ground up and has screened short documentaries at film festivals across the country. Kate previously managed a live television discussion show at Al Jazeera English and spent her early career as a print and radio reporter in Cambodia, Cuba and Hong Kong.",
+      "affiliation": "The Washington Post",
+      "page": 21
+    },
+    {
+      "name": "Roopa Gogineni",
+      "bio": "Roopa Gogineni is an Indian-American director and photographer focused on historical memory and modes of resistance. Her films have screened at festivals around the world including IDFA, SXSW, Hot Docs, Full Frame and Sheffield Doc/Fest. Gogineni’s practice is rooted in long-term engagement and co-creation. Her short film I AM BISHA earned the Oscar-qualifying Full Frame Jury Award for Best Short, a One World Media Award, and a Rory Peck Award. She has directed documentaries for The New York Times, BBC, and Al Jazeera and has received fellowships from CatchLight, Logan Nonfiction and FRONTLINE/Firelight.",
+      "affiliation": null,
+      "page": 21
+    },
+    {
+      "name": "Carol Dysinger",
+      "bio": "Carol Dysinger directed the short documentary Learning to Skateboard In a Warzone (If You’re a Girl), which won both the OSCAR® for best short documentary and the BAFTA for best short. It also won best documentary short from IDA and at Tribeca Film Festival 2019. Dysinger is also known for her feature length documentary Camp Victory, Afghanistan, compiled from 300+ hours of footage gathered over the course of five years. It premiered in competition at SXSW 2010, and played at the Museum of Modern Art Doc Fortnight and the Human Rights Watch Film Festival. Funded by Sundance Doc Fund and Corporation for Public Broadcasting, the film later appeared on Public Television.",
+      "affiliation": null,
+      "page": 21
+    },
+    {
+      "name": "Paco de Onís",
+      "bio": "Paco de Onís grew up in several Latin American countries during a time of dictatorships. He is the executive director and executive producer of Skylight, a human rights media organization. Skylight creates documentary films and innovative media tools tied to long-term strategies for positive social change. Through Skylight SolidariLabs, the organization combines the skills of documentary filmmakers, artists, journalists, technologists and activists, with the aim of building enduring networks for 21st century human rights practice. Paco’s film producing credits include 500 YEARS; GRANITO: HOW TO NAIL A DICTATOR; REBEL CITIZEN; DISRUPTION; STATE OF FEAR; and THE RECKONING.",
+      "affiliation": "Skylight",
+      "page": 21
+    },
+    {
+      "name": "Elahe Izadi",
+      "bio": "Elahe Izadi co-hosts the daily flagship podcast “Post Reports” and is also a reporter covering media. She joined The Post in 2014 as a general assignment reporter and the Style section in 2016 as a pop culture writer. She has previously covered Congress, demographics and local news, and worked for National Journal, WAMU 88.5, TBD.com and the Gazette community newspapers.",
+      "affiliation": "The Washington Post",
+      "page": 21
+    },
+    {
+      "name": "David Novack",
+      "bio": "David Novack is a filmmaker with widely released, critically supported, and award-winning documentary films. These include Finding Babel (Special Jury Prize, Moscow Jewish Film Festival), about executed Soviet writer Isaac Babel, and Burning The Future: Coal in America (International Documentary Association’s Pare Lorentz Award for social documentary film) about rights activists in West Virginia and their struggle for climate justice.",
+      "affiliation": null,
+      "page": 22
+    },
+    {
+      "name": "Kate Stonehill",
+      "bio": "Kate Stonehill is an award-winning director whose work explores power, identity, and citizenship in the digital age. Her debut feature documentary, PHANTOM PARROT (CPH:DOX, Sheffield Doc/Fest 2023), unravels a secret U.K. government surveillance program and follows a human rights activist, as he is prosecuted under terror laws for refusing to hand over the passwords to his electronic devices. Kate’s short films have screened at leading international film festivals, including the BFI London Film Festival, DOC NYC, Camden International Film Festival, and Hamptons International Film Festival, and been featured online on outlets such as The Atlantic Selects and Short of the Week.",
+      "affiliation": null,
+      "page": 22
+    },
+    {
+      "name": "Emma Weil",
+      "bio": "Emma Weil is a Senior Policy Analyst at Upturn. Emma’s work has included major research into the scope of law enforcement’s power to search cell phones, and also technical assistance and advocacy concerning access to social safety net programs — such as work with Legal Aid to maintain and reinstate people’s enrollment in Medicaid and Supplemental Security Income. Emma is interested in how technology can both obscure and be the site of political issues. They focus on the connections between policing, the social safety net, credit, labor, and race, class, gender, and disability. Emma previously interned at the Berkman Klein Center for Internet and Society, researching and writing about Internet of Things surveillance.",
+      "affiliation": "Upturn",
+      "page": 22
+    },
+    {
+      "name": "Clayton Weimers",
+      "bio": "Clayton Weimers is the Executive Director of RSF USA, the North American office of Reporters Without Borders (RSF). He oversees an office which monitors press freedom across English-speaking North America and advocates for journalist safety and everyone’s right to information. He originally joined RSF USA as its Deputy Director for Advocacy after a career in political campaigns. He holds an AM from the University of Chicago and a BA from Pitzer College.",
+      "affiliation": "RSF USA (Reporters Without Borders)",
+      "page": 22
+    },
+    {
+      "name": "Kathleen McClellan",
+      "bio": "Kathleen McClellan is Co-Founder and Deputy Director for the Whistleblower and Source Protection Program (WHISPeR) at ExposeFacts. A licensed attorney in the U.S., she provides pro bono legal representation to national security and intelligence community whistleblowers and media sources, with a focus on human rights issues of mass surveillance, excessive secrecy, torture, and drone warfare. She has represented whistleblowers from the National Security Agency, Central Intelligence Agency, Federal Bureau of Investigation, Department of Defense, and Department of Homeland Security, including Thomas Drake, John Kiriakou, and Daniel Hale. McClellan has written academic articles and op-eds focused on whistleblowing, media source protection, free speech, and national security journalism.",
+      "affiliation": "ExposeFacts",
+      "page": 22
+    },
+    {
+      "name": "Nicholas Bruckman",
+      "bio": "Nicholas Bruckman is the founder and CEO of People’s Television, a production studio and creative agency that produces award-winning independent films as well as video storytelling for the world’s leading brands. His feature documentary NOT GOING QUIETLY, executive produced by Mark and Jay Duplass, won the Audience Award and Special Jury Prize in 2021. In the gripping 2023 documentary film, MINTED, Nicholas masterfully delves into the intricate and often perplexing world of the forty-billion-dollar NFT (non-fungible token) digital art sphere, chronicling its meteoric rise and eventual fall.",
+      "affiliation": "People’s Television",
+      "page": 22
+    },
+    {
+      "name": "Shawn Hazelett",
+      "bio": "Shawn Hazelett is a documentary filmmaker, who also directs and produces commercials, political ads, and PSAs, collaborating with such brands as Facebook, TED, WhatsApp, Marvel, Disney, and Microsoft. Passionate about social issue-driven stories, he has filmed in 19 countries and 4 continents, with work featured in Bloomberg, The New Yorker, and Al Jazeera, among others. He is a graduate of NYU’s Tisch School of the Arts.",
+      "affiliation": null,
+      "page": 22
+    },
+    {
+      "name": "Chris Temple",
+      "bio": "Chris Temple is a film director and the founder of Optimist, a production studio in Los Angeles. He is best known for directing the feature documentaries Living On One Dollar, Salam Neighbor, Five Years North, and This Is Not Financial Advice. His films have been released by Netflix, HBO, Hulu, National Geographic, and The Atlantic, and have screened at major film festivals including Tribeca, DOC NYC, Full Frame, AFI Docs, CPH:DOX, Mountainfilm, and many others.",
+      "affiliation": "Optimist",
+      "page": 22
+    },
+    {
+      "name": "Alex Clark",
+      "bio": "Alex Clark is a video journalist and filmmaker covering the intersections of science, race, and media. His recent work includes co-producing the feature PBS NOVA film “Crypto Decoded” (2022). Previously Alex produced and hosted Vox’s Emmy-nominated series “Glad You Asked” and the NOVA Education series “Misinformation Nation,” which helps teens identify and combat misinformation.",
+      "affiliation": null,
+      "page": 22
+    },
+    {
+      "name": "June Cross",
+      "bio": "June Cross, a native New Yorker, likes to tell uncomfortable stories that lie at the intersection of poverty, race and politics in the United States. She is a 2021 Peabody winner for Whose Vote Counts, a FRONTLINE documentary co-produced with Columbia Journalism School, where she is a professor. Cross founded a program in journalistic documentary there. Wilhemina’s War, a 2015 film, explores the dilemmas facing people living with HIV in the rural South, aired on PBS’ Independent Lens and was nominated for an Emmy.",
+      "affiliation": "Columbia Journalism School",
+      "page": 23
+    },
+    {
+      "name": "Patricia Finneran",
+      "bio": "Patricia Finneran is founder of Story Matters which provides media impact distribution strategy and development consulting services to nonprofits and independent media makers. She creates and facilitates media-related conferences, leads storytelling + impact workshops, and coaches individual clients. Finneran previously served as creative producer for the Sundance Institute Documentary Program, festival director for Silverdocs: AFI/Discovery Channel Documentary Festival, and director of Good Pitch Local & Development at Doc Society. She holds a BA from Barnard College, Columbia University, studied production at AFI and is an alumnus of Ford JustFilms Rockwood Leadership and National Arts Strategies Chief Executive Programs.",
+      "affiliation": "Story Matters",
+      "page": 23
+    },
+    {
+      "name": "Amanda Pike",
+      "bio": "Amanda Pike is an Emmy, Peabody and duPont Award-winning journalist and filmmaker, and the Director of TV and Documentaries at The Center for Investigative Reporting. She recently produced VICTIM/SUSPECT, which premiered at the 2023 Sundance Film Festival, and THE GRAB, which premiered at the 2022 Toronto International Film Festival and was the opening night film of the 2022 Double Exposure Film Festival. She executive produced the Oscar-nominated short documentary HEROIN(E) for Netflix. She was executive producer of the inaugural year of the Glassbreaker Films initiative, supporting women-identifying filmmakers and journalists. Before joining CIR, she spent several years reporting and producing documentaries around the world for PBS, CBS, ABC, National Geographic, A&E, Lifetime and The Learning Channel, among others.",
+      "affiliation": "The Center for Investigative Reporting",
+      "page": 23
+    },
+    {
+      "name": "Leyi (Laurie) Huang",
+      "bio": "Leyi (Laurie) Huang is a Chicago-based documentary filmmaker and video journalist. Born and raised in China, she moved to the U.S. in 2022. In 2023, Huang got her Master’s degree in journalism from Northwestern University. She embarked on documentary filmmaking in 2020. Her first project, Purple Ballroom, features the LGBTQ ballroom scene in Guangzhou, China, and follows the journey of its founder, a queer activist. As Huang dove deeper into this project, she found her passion for telling impact-driven stories, and has since started producing more stories on underreported communities.",
+      "affiliation": null,
+      "page": 23
+    },
+    {
+      "name": "Chris Lett",
+      "bio": "Chris Lett is a National Geographic Explorer and Emmy-nominated journalist who’s environmental justice investigations have helped spark federal lawsuits. He is also a photographer concept artist and filmmaker who recently wrapped up a year in Ghana researching and documenting the cultural and environmental impact of illegal industrial fishing on the artisanal small-scale subsistence fishing villages along the coast.",
+      "affiliation": null,
+      "page": 23
+    },
+    {
+      "name": "Carletta S. Hurt",
+      "bio": "Carletta S. Hurt, founder and lead producer at IKAM Productions, is an award-winning producer, passionate educator, and fierce youth advocate. Her film credits include “Lee and Liza’s Family Tree” (PBS/NOVA – Spring 2024). “Blackjack Christmas,” “The Rich and the Ruthless” (Season 4), “Trash vs Treasure” (lifestyle reality tv), JACQUELINE AND JILLY (feature), and DRUMLINE. Her directorial debut was the award-winning short documentary film, CLOTHED MINDS: BLACK GIRLS IN DC SCHOOLS, which highlights the negative impact of dress code policies on Black girls in DC schools. CLOTHED MINDS has won Best Documentary (Female Voices Rock Film Festival) and Best Social Justice Film (MOM Film Fest). Her forthcoming podcast, Blackout: The Miseducation of Black Girls was a part of the 202Creates Residency program sponsored by the DC Office of Cable, Television, Film, Music and Entertainment with a drop date of March 2024.",
+      "affiliation": "IKAM Productions",
+      "page": 23
+    },
+    {
+      "name": "Lance Kramer",
+      "bio": "Lance Kramer is an award-winning documentary filmmaker and co-founder of the DC-based production company Meridian Hill Pictures. He produced the feature-length documentary CITY OF TREES and the Webby Award-winning documentary series “The Messy Truth With Van Jones,” released on Van’s Facebook page and CNN.com to more than 4 million viewers. In 2014, Kramer received the DC Mayor’s Arts Award from the DC Commission on the Arts and Humanities, the highest honor bestowed upon working artists in the city. He has served two terms as Board Member of Docs in Progress, and was a DC Commission on the Arts & Humanities Individual Arts Fellow in 2015. In 2017, he was selected to the 2017 Impact Partners Documentary Producers Fellowship cohort and in 2018 he was a fellow at the Sundance Creative Producers Summit. Kramer holds a bachelor’s degree in history and film from Dartmouth College.",
+      "affiliation": "Meridian Hill Pictures",
+      "page": 23
+    },
+    {
+      "name": "trina reynolds-tyler",
+      "bio": "trina reynolds-tyler is the Data Director at the Invisible Institute, a journalist, and a native of the South Side Chicago. She leads Beneath the Surface, a project employing machine learning to identify gender-based violence at the hands of Chicago police. trina works to document how communities unable to depend on the police are forced to create safety and accountability outside of the carceral state. As a data scientist, she centers the practice of narrative justice in her inquiries.",
+      "affiliation": "Invisible Institute",
+      "page": 24
+    },
+    {
+      "name": "cai thomas",
+      "bio": "cai thomas is a documentary filmmaker and cinematographer based in Chicago telling stories at the intersection of location, self-determination, and identity about Black youth and elders. She grew up in Miami’s Liberty City neighborhood and is deeply interested in stories rooted in place. Her film CHANGE THE NAME which follows young activists organizing in Chicago’s North Lawndale neighborhood premiered at the 2021 Tribeca Film Festival and was broadcast on BET. Her previous film QUEENIE about a Black lesbian elder in Brooklyn’s Bed Stuy neighborhood premiered at NewFest in 2020 winning the NY Short Grand Jury award and is currently streaming on the Criterion Channel. cai recently completed BENEATH THE SURFACE which documents data scientist and journalist trina reynolds-tyler investigation into gender-based violence at the hands of the Chicago Police Department. cai is a proud NeXt Doc Fellow.",
+      "affiliation": null,
+      "page": 24
+    },
+    {
+      "name": "Sarah Cahlan",
+      "bio": "Sarah Cahlan is a Pulitzer Prize wining video reporter and documentary filmmaker who founded The Washington Post’s Visual Forensics team, developing the style and tone of the pioneering work. She adds clarity, creativity and vision to stories that reveal new findings and provide further context to complex events. Her projects span format, coverage areas, and languages and includes stories about the clearing of Lafayette Square, which won an Alfred I. DuPont-Columbia University Award, and the January 6 insurrection, which was part of The Post’s package that won the 2022 Pulitzer Prize for Public service. She joined The Post in 2019 as a video editor producing ambitious video fact checks, stylized animated series about the real life consequences of online misinformation, and the Webby award-winning guide to manipulated video for the Fact Checker.",
+      "affiliation": "The Washington Post",
+      "page": 24
+    },
+    {
+      "name": "Meg Kelly",
+      "bio": "Meg Kelly is a video reporter for The Washington Post’s Visual Forensics team. Previously, she produced video and reported for The Post’s Fact Checker and covered the 2016 election for NPR as a visual producer. As Fulbright Scholar in India, she produced a multi-media exhibition and oral history project that explored the structure of Dharavi’s informal political and economic sectors. She has also reported on local politics, development and urban agriculture in New York City.",
+      "affiliation": "The Washington Post",
+      "page": 24
+    },
+    {
+      "name": "Miranda Rose Hall",
+      "bio": "Miranda Rose Hall (she/her) is a playwright and screenwriter based in Brooklyn, NY. Her plays include A Play for the Living in a Time of Extinction (finalist for the 2021 Susan Smith Blackburn Prize, commissioned by LubDub Theatre Co), Plot Points in Our Sexual Development (finalist for the 2019 Lambda Literary Award in Drama), The Kind Ones, and Menstruation: A Period Piece. She has written for television on ABC’s “Alaska Daily” and Showtime’s American Rust. She is currently in development for a new project with FX and Emmy Rossum’s production company Composition8.",
+      "affiliation": null,
+      "page": 25
+    },
+    {
+      "name": "Mike Rezendes",
+      "bio": "Mike Rezendes is a Pulitzer Prize-winning reporter with the global investigations team at The Associated Press. His recent work includes an examination of financial corruption in the Catholic Church, and the cover-up of child sex abuse in the Mormon church. Mike is also a television writer, a screenwriter, and a biographer. In 2022, he worked on the ABC-TV drama, “Alaska Daily,” starring Hilary Swank as an investigative reporter looking into the plight of missing and murdered indigenous women. He is currently at work on a biography of the late Jimmy Breslin, an acclaimed New York reporter who helped create the “New Journalism.”\n\nPreviously, Mike worked for The Boston Globe Spotlight Team where he shared two Pulitzer Prizes, one for revealing the cover-up of sex abuse in the Catholic Church, and one for covering the bombing of the Boston Marathon. Mike was running the marathon when the bombs exploded and worked into the night covering the tragedy. In 2015, he was played by Mark Ruffalo in the Academy Award-winning movie, SPOTLIGHT.",
+      "affiliation": "The Associated Press",
+      "page": 25
+    },
+    {
+      "name": "Nate Jones",
+      "bio": "Nate Jones is the FOIA director for The Washington Post, where he works with reporters to target documents to request, appeal and sue for. He works with reporters to obtain local, state and federal records and to think strategically about public records in all formats. He gives FOIA training sessions and advises reporters on how to write, refine and track requests, navigate delays and overredactions, and overcome other bureaucratic resistance. He is also author of the “Revealing Records” column which describes The Post’s battles for public records. He has served two terms on the Federal FOIA Advisory Committee and holds a JD from the University of the District of Columbia. He previously was the director of the FOIA Project for the National Security Archive, where he used FOIA to write a book on the 1983 Able Archer nuclear war scare.",
+      "affiliation": "The Washington Post",
+      "page": 25
+    },
+    {
+      "name": "Germán Castaneda",
+      "bio": "Program Associate, Reva and David Logan Foundation",
+      "affiliation": "Reva and David Logan Foundation",
+      "page": 8
+    },
+    {
+      "name": "David Cornwall",
+      "bio": "Managing Director, Scorpion TV",
+      "affiliation": "Scorpion TV",
+      "page": 8
+    },
+    {
+      "name": "Eric Ferrero",
+      "bio": "Executive Director, Fund for Investigative Journalism",
+      "affiliation": "Fund for Investigative Journalism",
+      "page": 8
+    },
+    {
+      "name": "Abby Greensfelder",
+      "bio": "Founder & CEO, Everywoman Studios",
+      "affiliation": "Everywoman Studios",
+      "page": 8
+    },
+    {
+      "name": "Melissa Houghton",
+      "bio": "Executive Director, Women in Film & Video",
+      "affiliation": "Women in Film & Video",
+      "page": 8
+    },
+    {
+      "name": "Kathleen Lingo",
+      "bio": "Editorial Director for Film & Television, The New York Times",
+      "affiliation": "The New York Times",
+      "page": 8
+    },
+    {
+      "name": "Lindsey Sitz",
+      "bio": "Filmmaker, The Washington Post",
+      "affiliation": "The Washington Post",
+      "page": 8
+    },
+    {
+      "name": "Almudena Toral",
+      "bio": "Executive Producer, Video, ProPublica",
+      "affiliation": "ProPublica",
+      "page": 8
+    }
+  ],
+  "awards": [],
+  "organizers": [
+    {
+      "name": "Margaret Ebrahim",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Ron Nixon",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Kathy Davidov",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Brett A. Pulley",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Theodore Frank",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "100Reporters Board of Directors (ex officio)"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Founder and Director"
+    },
+    {
+      "name": "Cyan Shreve",
+      "role": "Volunteer and Event Coordinator"
+    },
+    {
+      "name": "Lana Garland",
+      "role": "Director of Programming"
+    },
+    {
+      "name": "Olivia Jimenez",
+      "role": "Festival Graphics"
+    },
+    {
+      "name": "Brent Lambert-Zaffino",
+      "role": "Festival Manager"
+    },
+    {
+      "name": "Melinda Thompson",
+      "role": "DX Access Manager"
+    },
+    {
+      "name": "John Chambers",
+      "role": "Director of Marketing, Sponsorships, and Outreach"
+    },
+    {
+      "name": "Afraim Katzir",
+      "role": "Interim Director of Marketing, Sponsorships, and Outreach"
+    },
+    {
+      "name": "Jessica Skorich",
+      "role": "Web Design"
+    },
+    {
+      "name": "Coley Gray",
+      "role": "Development Consultant"
+    },
+    {
+      "name": "Kaila Philo",
+      "role": "Social Media Coordinator"
+    },
+    {
+      "name": "Sky Sitney",
+      "role": "Co-director (signatory of the Letter from Co-Directors, p.3)"
+    },
+    {
+      "name": "Michael Crossett",
+      "role": "Cover design"
+    }
+  ],
+  "notes": "Source: 2023 catalogue, 29 PDF pages. Pages 1 and 29 are single covers; pages 2-28 are two-page spreads, so each '=== PAGE n ===' marker holds two printed catalogue pages (e.g. marker 9 = printed pp.16-17; printed page = 2n-2 and 2n-1). 'page' values are the marker numbers. Spreads were untangled by extracting the left and right halves of each PDF page separately (pdftotext crop) and checking page images; line-end hyphens dropped by that extraction were restored (award-winning, media-savvy, American-backed, etc.).\nLetter from co-directors (p.3): only the heading 'Welcome to Double Exposure 2023' and signatures (Diana Jean Schemo, Sky Sitney) are printed; no theme stated. The 'About the cover' note (p.2, by Michael Crossett) describes the cover design as inspired by concern over AI and surveillance; not recorded as a theme.\nFilm details taken from film pages; the schedule (pp.5-6) differs in places: Minted 90 min (film page 96); Another Body 79 min and no year in schedule vs 92 min, 2022 on film page; The Illusion of Abundance 4:00 PM in schedule vs 5:30 PM on film page (film page used); Stripped for Parts 95 min in schedule vs '195 MIN' on film page (95 used, 195 looks like a typo); title spelled 'Sorry, Not Sorry' in schedule/contents vs 'SORRY / NOT SORRY' on film page; 'This Is Not Finanical Advice' (contents) and 'Americn' (schedule) typos ignored; The Price of Truth listed in schedule as 'The Price of Truth, Director's Cut'. One Bullet and The Illusion of Abundance premiere status ('US Premiere', 'DC Premiere') appear only in the schedule. Schedule country 'United States' vs film-page 'USA' for shorts: film page used.\nSorry / Not Sorry: no post-screening note printed. All Static & Noise page also reproduces a film poster (tagline, languages Uyghur/Kazakh/Mandarin/English, DCP, 16:9, 4K, 'Poster Art: Badi', www.allstaticandnoise.com); only the catalogue synopsis was recorded.\nShort '23' (p.16): synopsis is cut off mid-sentence in the catalogue ('War correspondents were a target'); kept as printed.\nShortcuts Program 2: schedule and its first page say Saturday Nov 4 11:00 AM; its continuation page (p.17) says 12:00 PM. 11:00 AM used.\nSessions: 'Investigative Filmmaking Under Fire' detail page prints '11:00 AM - 10:45 AM'; schedule time 11:00 AM - 12:00 PM used. Schedule names 'Robert Gutierrez' (detail text 'Rob Guttierez', bio 'Robert S. Gutierrez'), 'Reema Akkad' (bio 'Reem Akkad'), 'Julian Rubenstein' in one description; names kept as printed in each place. 'Working Intersectionally - News & Documentary' is labelled 'Opening Conversation' on its detail page. The DX Access page says 'November 2-3, 2023, District Architecture Center' although all other events are at the MLK Library; recorded as printed. The Saturday schedule is headed '2023 Workshop Schedule'. Crossing Borders is 'sponsored by' (logo, CrossCurrents Foundation per text).\nPeople: prose bios from symposium pages 18-25 (one entry each). Julian Rubinstein has two bios (p.18 short, p.20 longer); the p.20 version is used. DX Access representatives (p.8) who have no prose bio are included with their printed title/outlet line as bio; representatives who also have prose bios keep the prose bio. People named only in screenings without bios (e.g. Tracy Jan, David Herszenhorn, James Millward, Ron Nixon as moderator) appear only in film people[].\nAdmissions (p.4): Film Pass $85; Single Film Ticket $15; Military, Senior Film Pass $65; Film Festival & Symposium Pass $275; DX Academy $110; Student Pass $110.\nSkipped: About 100Reporters, affinity partners (p.27), sponsor logos/'Official DX Media Partner/Sponsor' marks, blank/ad pages (26, 28)."
+}

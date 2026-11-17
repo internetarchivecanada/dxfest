@@ -1,0 +1,1503 @@
+{
+  "year": 2017,
+  "edition_name": "Double Exposure Investigative Film Festival and Symposium",
+  "dates": "October 19-22, 2017",
+  "theme": null,
+  "venues": [
+    {
+      "name": "The National Portrait Gallery",
+      "address": "8th St NW & G St NW, Washington, DC 20001"
+    },
+    {
+      "name": "National Union Building",
+      "address": "918 F St NW, Washington, DC 20004"
+    },
+    {
+      "name": "The Loft @ 600 F",
+      "address": "600 F St NW, Washington, DC 20004"
+    },
+    {
+      "name": "The Naval Heritage Center",
+      "address": "701 Pennsylvania Ave NW, Washington, DC 20004"
+    }
+  ],
+  "films": [
+    {
+      "title": "One of Us",
+      "directors": [
+        "Heidi Ewing",
+        "Rachel Grady"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 95,
+      "premiere": "DC Premiere",
+      "slot": "Opening Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-19",
+        "time": "7:00 PM",
+        "venue": null
+      },
+      "synopsis": "In their new documentary ONE OF US, acclaimed Academy-nominated filmmakers Heidi Ewing and Rachel Grady (JESUS CAMP, DETROPIA) take a deep and moving look at the lives of three individuals who have chosen to leave the insular world of Hasidic Judaism. The film follows Etty, a mother of seven, who leaves a violent marriage and divorces her husband; Ari, a teenager who is struggling with addiction and the effects of childhood abuse; and Luzer, an actor who, despite having found some success in the secular world, still wrestles with his decision eight years earlier to leave the Hasidic community. Produced over three years, ONE OF US offers unique and intimate access to the lives of all three as they deal not only with questions of their beliefs but also with the consequences of leaving the only community they have ever known. With their trademark sensitivity and keen interest in the nature of faith, Ewing and Grady chronicle these journeys towards personal freedom that comes at a very high cost.",
+      "after_screening": "Post-screening discussion to follow with Rachel Grady and Ruth Marcus, columnist, The Washington Post.",
+      "people": [
+        {
+          "name": "Heidi Ewing",
+          "role": "director"
+        },
+        {
+          "name": "Rachel Grady",
+          "role": "director"
+        },
+        {
+          "name": "Rachel Grady",
+          "role": "discussant"
+        },
+        {
+          "name": "Ruth Marcus",
+          "role": "discussant",
+          "affiliation": "The Washington Post"
+        }
+      ],
+      "page": 13
+    },
+    {
+      "title": "Cocaine Prison",
+      "directors": [
+        "Violeta Ayala"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 78,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-20",
+        "time": "6:00 PM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "COCAINE PRISON unfolds in Bolivia’s notorious San Sebastian gaol, a virtual citadel inside a crumbling old colonial house. The film follows the lives of Hernan, a drug mule arrested on his first run, his younger sister Daisy who struggles to win his freedom, and Hernan’s friend Mario, a cocaine worker and father sealed away at San Sebastian, far from his children. In a country where the coca leaf is woven deep into the culture and poverty assures a steady supply of labor, COCAINE PRISON goes beyond the image of the gun-toting “Narco” to uncover the lives of three small fish who swim in the tide of coca’s promise.",
+      "after_screening": "Discussion with filmmaker to follow screening",
+      "people": [
+        {
+          "name": "Violeta Ayala",
+          "role": "director"
+        }
+      ],
+      "page": 14
+    },
+    {
+      "title": "No Stone Unturned",
+      "directors": [
+        "Alex Gibney"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 111,
+      "premiere": "DC Premiere",
+      "slot": "Centerpiece",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-20",
+        "time": "8:30 PM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "In 1994, six men were gunned down and five wounded in a pub while watching a World Cup soccer match in Loughinisland, Northern Ireland. With a police investigation that was perfunctory at best, the case remained unsolved. In this non-fiction murder mystery, Academy Award-winning documentarian Alex Gibney (TAXI TO THE DARK SIDE, ENRON: THE SMARTEST GUYS IN THE ROOM, GOING CLEAR: SCIENTOLOGY AND THE PRISON OF BELIEF) reopens the original case to investigate why no culprit was ever brought to justice.",
+      "after_screening": "Post-screening discussion to follow with Alex Gibney and Mark Mazzetti, Washington investigations editor, The New York Times.",
+      "people": [
+        {
+          "name": "Alex Gibney",
+          "role": "director"
+        },
+        {
+          "name": "Alex Gibney",
+          "role": "discussant"
+        },
+        {
+          "name": "Mark Mazzetti",
+          "role": "discussant",
+          "affiliation": "The New York Times"
+        }
+      ],
+      "page": 15
+    },
+    {
+      "title": "Devil's Freedom (La Libertad del Diablo)",
+      "directors": [
+        "Everardo González"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 74,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-21",
+        "time": "12:00 PM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "Filmmaker Everardo González interviews victims and perpetrators of violence in Mexico, where more than 100,000 people have been executed in just the last five years, and another 300,000 people made indirect victims. All of his subjects are masked, from the killers to the soldiers to the orphaned toddlers. The masks gives those who suffer and inflict violence the rare freedom to speak frankly and without fear. Flesh-colored and tight-fitting, the masks create the sense of an invisible country of victims, enablers, would-be reformers and killers, caught in a maelstrom from which there is no escape.",
+      "after_screening": "Discussion with filmmaker to follow screening",
+      "people": [
+        {
+          "name": "Everardo González",
+          "role": "director"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "Hall of Mirrors",
+      "directors": [
+        "Ena Talakic",
+        "Ines Talakic"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 87,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-21",
+        "time": "2:30 PM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "Filmmakers Ena and Ines Talakic follow legendary reporter Edward Jay Epstein, still going strong at 81, as he investigates Edward Snowden’s 2013 leak of classified documents on government surveillance. One of the last of his generation of journalists, the energetic, articulate, and boyish Epstein delights in his discoveries, and in skewering accepted truths. Part chronicle of shoe leather investigative reporting, part romp through a life lived at the top of the social chain, HALL OF MIRRORS takes us through Epstein’s most notable investigations, examining the Warren Commission’s work, the roots of the diamond industry, the strange career of Armand Hammer, and the inner workings of big-time journalism itself.",
+      "after_screening": "Discussion with filmmakers to follow screening",
+      "people": [
+        {
+          "name": "Ena Talakic",
+          "role": "director"
+        },
+        {
+          "name": "Ines Talakic",
+          "role": "director"
+        },
+        {
+          "name": "Edward Jay Epstein",
+          "role": "subject"
+        }
+      ],
+      "page": 17
+    },
+    {
+      "title": "The Rape of Recy Taylor",
+      "directors": [
+        "Nancy Buirski"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 91,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-21",
+        "time": "5:30 PM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "Recy Taylor, a 24-year-old black mother, was gang raped by six white boys on her way home from church in Alabama in 1944. Though white on black rape was a familiar threat in Jim Crow South, few African American women spoke up, in fear for their lives. Not Recy Taylor, who bravely identified her rapists--one of whom lived near her house in Abbeville. The NAACP sent its chief investigator, Rosa Parks, who rallied support and triggered an unprecedented outcry for justice, before the local sheriff forced her to leave town. Filmmaker Nancy Buirski exposes an ugly legacy of slavery, ignored by the mainstream press of the time--until Recy Taylor.",
+      "after_screening": "Discussion with filmmaker to follow screening",
+      "people": [
+        {
+          "name": "Nancy Buirski",
+          "role": "director"
+        },
+        {
+          "name": "Recy Taylor",
+          "role": "subject"
+        }
+      ],
+      "page": 18
+    },
+    {
+      "title": "Voyeur",
+      "directors": [
+        "Myles Kane",
+        "Josh Koury"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 95,
+      "premiere": "DC Premiere",
+      "slot": "Closing Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-21",
+        "time": "8:30 PM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "VOYEUR follows Gay Talese — the 84-year-old giant of experiential journalism — as he reports one of the most controversial stories of his career: a portrait of a Colorado motel owner, Gerald Foos. For decades, Foos secretly watched his guests with the aid of specially-designed ceiling vents, peering down from an “observation platform” he built in the motel’s attic. He kept detailed journals of his guests’ most private moments — from the mundane to the shocking — but most of all he sought out, spied on, and documented one thing: couples having sex. Talese’s insatiable curiosity leads him to turn his gaze to a man accustomed to being the watcher, exploring a tangle of ethical questions: How can a reporter trust a source who has made a career of deception? What does a journalist owe to his subjects and his readers? Who is really the voyeur?",
+      "after_screening": "Discussion with filmmakers to follow screening",
+      "people": [
+        {
+          "name": "Myles Kane",
+          "role": "director"
+        },
+        {
+          "name": "Josh Koury",
+          "role": "director"
+        },
+        {
+          "name": "Gay Talese",
+          "role": "subject"
+        },
+        {
+          "name": "Gerald Foos",
+          "role": "subject"
+        }
+      ],
+      "page": 19
+    },
+    {
+      "title": "Did You Wonder Who Fired the Gun?",
+      "directors": [
+        "Travis Wilkerson"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 70,
+      "premiere": "DC Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-22",
+        "time": "11:00 AM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "In 1946, S.E. Branch—a white Southern racist, and the artist’s great-grandfather—murdered Bill Spann, a black man, in rural Alabama. The murder has become hushed and hidden family lore. When Wilkerson sets out to unravel the mystery, he encounters obstacle upon obstacle—destroyed records, everyone refusing to talk. He’s accused of bringing shame upon the family, shaking up old trouble nobody wants. Soon enough, his life is threatened too.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Travis Wilkerson",
+          "role": "director"
+        }
+      ],
+      "page": 20
+    },
+    {
+      "title": "Trust WHO",
+      "directors": [
+        "Lilian Franck"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 85,
+      "premiere": "World Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-22",
+        "time": "1:00 PM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "Filmmaker Lilian Franck investigates the Geneva-based World Health Organization, a body of the United Nations charged with protecting global health. Franck exposes an organization infiltrated by special interests, including the tobacco, pharmaceutical and nuclear industries, with direct effects on global health.",
+      "after_screening": "Discussion with filmmaker to follow screening",
+      "people": [
+        {
+          "name": "Lilian Franck",
+          "role": "director"
+        }
+      ],
+      "page": 21
+    },
+    {
+      "title": "The Other Side of Everything",
+      "directors": [
+        "Mila Turajlic"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 100,
+      "premiere": "US Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-22",
+        "time": "4:00 PM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "Ten years following Serbia’s democratic revolution, a look through the keyhole of a locked door in an apartment in Belgrade combines a family memoir with the portrait of a country in turmoil, to reveal a disillusioned revolutionary and her struggle with the ghosts haunting Serbia’s past and present. Filmmaker Mila Turajlic tracks down hidden video footage that had been confiscated from television stations inside Serbia and gathers records overseas, to reveal political resistance that nationalist leaders had airbrushed from the nation’s history, in a bid to strengthen their grip.",
+      "after_screening": "Discussion with filmmaker to follow screening",
+      "people": [
+        {
+          "name": "Mila Turajlic",
+          "role": "director"
+        }
+      ],
+      "page": 22
+    },
+    {
+      "title": "End of Truth",
+      "directors": [
+        "Eric Matthies",
+        "Tricia Todd"
+      ],
+      "country": null,
+      "film_year": 2017,
+      "runtime_min": 58,
+      "premiere": "World Premiere",
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2017-10-22",
+        "time": "7:00 PM",
+        "venue": "The Naval Heritage Center"
+      },
+      "synopsis": "END OF TRUTH is an emotionally powerful investigation into the political and criminal enterprise of kidnappings as ISIS rose to power in war torn Syria. The documentary retraces the kidnapping of James Foley, a freelance reporter ultimately beheaded by ISIS after nearly two years in captivity, and John Cantlie, a hard-nosed correspondent who ventured back to the same region where he had already been kidnapped once. By intercutting exclusive footage with intimate interviews of negotiators, investigators, fixers and even a used car salesman who are caught up in the confusion, the film examines the terrible consequences of misinformation when lives are at stake.",
+      "after_screening": "Discussion with filmmaker following screening",
+      "people": [
+        {
+          "name": "Eric Matthies",
+          "role": "director"
+        },
+        {
+          "name": "Tricia Todd",
+          "role": "director"
+        }
+      ],
+      "page": 23
+    }
+  ],
+  "sessions": [
+    {
+      "title": "Continental Breakfast",
+      "kind": "other",
+      "date": "2017-10-19",
+      "time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "venue": null,
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 5
+    },
+    {
+      "title": "Opening Conversation - Calculated Chaos: The Real Take on Fake News",
+      "kind": "conversation",
+      "date": "2017-10-19",
+      "time": "9:30 AM",
+      "end_time": "10:15 AM",
+      "venue": "National Union Building",
+      "description": "When President Trump rails against respected news organizations as purveyors of “fake news,” what’s really going on? Is he playing to popular mistrust of the media? Serving the interest of top donors and political backers? Pre-emptively discrediting any outside scrutiny of his administration? While the current resident of 1600 Pennsylvania Avenue is not the first to criticize the press, the attacks from the White House are qualitatively different from attacks by other leaders under fire. They take aim at verifiable truth as a universal value, and at the legitimacy of an independent press that seeks information in the public interest. Setting the stage for Double Exposure 2017 are Charles Lewis, author of “The Buying of the President” series and, more recently, “935 Lies: The Future of Truth” and the “Decline of America’s Moral Integrity”, Jane Mayer, author of “Dark Money: The Hidden History of the Billionaires Behind the Rise of the Far Right” and staff writer at The New Yorker, and Matt Thompson, executive editor of The Atlantic.",
+      "people": [
+        {
+          "name": "Charles Lewis",
+          "role": "speaker",
+          "affiliation": "author of “The Buying of the President” series and “935 Lies: The Future of Truth”"
+        },
+        {
+          "name": "Jane Mayer",
+          "role": "speaker"
+        },
+        {
+          "name": "Matt Thompson",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 26
+    },
+    {
+      "title": "Protecting Sources & Subjects in a (Newly) Hostile Environment",
+      "kind": "panel",
+      "date": "2017-10-19",
+      "time": "10:30 AM",
+      "end_time": "12:00 PM",
+      "venue": "National Union Building",
+      "description": "In the United States, the White House has labeled the press an “enemy of the people,” and incited physical violence against reporters. It has turned the full force of the Justice Department against whistleblowers, and pledged to “open up the libel laws” to fight unflattering coverage. While the Obama Administration may have laid the groundwork by increasing prosecutions of whistleblowers and journalists, as some contend, the Trump Administration has upped the ante: There is talk of new government powers to place reporters under indefinite surveillance and of harnessing the Espionage Act—which carries a potential life sentence—to pursue reporters who publish classified information. In Syria, the threat is physical, fatal in fast-changing ways, and leaves no room for error. Filmmakers, whose projects typically take years between inception and completion, can be especially vulnerable to sudden shifts in threats, to themselves and to their subjects.\n\nHow can journalists and filmmakers work safely amid a sudden and dramatic heightening of the risk of telling a story? How can they better protect their subjects and whistleblowers, who are often on the frontlines of these heightened attacks? Given the challenges, is a new paradigm needed for the relationship between investigative storytellers and sources?",
+      "people": [
+        {
+          "name": "Lyric Cabral",
+          "role": "panelist"
+        },
+        {
+          "name": "Laura Handman",
+          "role": "panelist"
+        },
+        {
+          "name": "Sonia Kennebeck",
+          "role": "panelist"
+        },
+        {
+          "name": "Brian Knappenberger",
+          "role": "panelist"
+        },
+        {
+          "name": "Mike Thomson",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 26
+    },
+    {
+      "title": "Future Imperfect: Storytelling on the Cutting Edge",
+      "kind": "panel",
+      "date": "2017-10-19",
+      "time": "1:00 PM",
+      "end_time": "2:30 PM",
+      "venue": "National Union Building",
+      "description": "Over the last decade, a bold spirit of innovation has emerged among visual artists who are committed to leveraging new technologies to create more collaborative, interactive, and immersive storytelling. Pioneering works in transmedia, virtual reality, gaming and other kinds of storytelling represent a convergence of forms that push the boundaries of story and authorship. How does the further mixing of professional cultures—that of filmmaker and journalist—affect storytelling? How are news organizations and documentary filmmakers redefining journalism’s possibilities using emerging tools and new technologies? What are the potentials offered by emerging technologies to tell new stories and reach new audiences? And what is their intended impact? This panel will hear from leading programmers and practitioners on the cutting edge of these new innovations, to offer a glimpse into the horizon of visual storytelling.",
+      "people": [
+        {
+          "name": "Debra Anderson",
+          "role": "panelist"
+        },
+        {
+          "name": "Opeyemi Olukemi",
+          "role": "panelist"
+        },
+        {
+          "name": "Sarah Wolozin",
+          "role": "panelist"
+        },
+        {
+          "name": "Wendy Levy",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 27
+    },
+    {
+      "title": "Rapid Response in the Age of Trump",
+      "kind": "panel",
+      "date": "2017-10-19",
+      "time": "2:45 PM",
+      "end_time": "4:00 PM",
+      "venue": "National Union Building",
+      "description": "The process of making films has a particular metabolism. Many projects, from inception to completion, take months, years, sometimes a decade to bring to fruition. Yet, in the current political climate, with major scandals breaking on a near daily basis, filmmakers wishing to tackle urgent issues must work more quickly, in a range of formats and for a variety of platforms. How can filmmakers and investigative journalists do the kind of digging required to unpeel stories at warp speed on a daily basis? This panel explores the new challenges and opportunities presented by an increasingly tumultuous political climate, and looks at the ecosystem being put into place to support the rapid deployment of stories, from new practices, to new funders to the expansion of platforms designed to present this work and give it context, meaning and impact.",
+      "people": [
+        {
+          "name": "Heather Courtney",
+          "role": "panelist"
+        },
+        {
+          "name": "Tom Jennings",
+          "role": "panelist"
+        },
+        {
+          "name": "Sheila Leddy",
+          "role": "panelist"
+        },
+        {
+          "name": "Eric Rich",
+          "role": "panelist"
+        },
+        {
+          "name": "Raney Aronson-Rath",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 28
+    },
+    {
+      "title": "Closing Conversation - Gimme Shelter: Icarus and The New York Times",
+      "kind": "conversation",
+      "date": "2017-10-19",
+      "time": "4:15 PM",
+      "end_time": "5:30 PM",
+      "venue": "National Union Building",
+      "description": "A series of New York Times interviews introduced the protagonist of ICARUS—the whistleblower at the center of the film who exposed widespread doping of Russian athletes—even before the film’s celebrated debut at the 2017 Sundance Film Festival.\n\nWhile documentarians typically find inspiration in newspaper accounts, ICARUS turned that convention on its head. Filmmaker Bryan Fogel and producer Dan Cogan sought in advance journalistic coverage to protect their film subject, Grigory Rodchenkov. They turned to The New York Times reporter Rebecca Ruiz, who had been in touch with Rodchenkov before he came to the United States, and offered exclusive access to a prized source under their protection.",
+      "people": [
+        {
+          "name": "Dan Cogan",
+          "role": "speaker"
+        },
+        {
+          "name": "Bryan Fogel",
+          "role": "speaker"
+        },
+        {
+          "name": "Rebecca Ruiz",
+          "role": "speaker"
+        },
+        {
+          "name": "Edwin Rios",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Icarus"
+      ],
+      "page": 28
+    },
+    {
+      "title": "Continental Breakfast",
+      "kind": "other",
+      "date": "2017-10-20",
+      "time": "9:00 AM",
+      "end_time": "9:30 AM",
+      "venue": null,
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 6
+    },
+    {
+      "title": "Opening Conversation: Taking FOIA to Film",
+      "kind": "conversation",
+      "date": "2017-10-20",
+      "time": "9:30 AM",
+      "end_time": "10:15 AM",
+      "venue": "National Union Building",
+      "description": "For journalists, the Freedom of Information Act is a familiar tool for unlocking government documents and data, often in massive quantities. For filmmakers, however, the challenge is rendering the volume and banality of data retrieved through FOIA requests into compelling cinema.",
+      "people": [
+        {
+          "name": "Assia Boundaoui",
+          "role": "speaker"
+        },
+        {
+          "name": "Nina Gilden Seavey",
+          "role": "speaker"
+        },
+        {
+          "name": "Topher Sanders",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 29
+    },
+    {
+      "title": "Embedded: From Cinema Verité to Immersive Journalism",
+      "kind": "panel",
+      "date": "2017-10-20",
+      "time": "10:30 AM",
+      "end_time": "11:45 AM",
+      "venue": "National Union Building",
+      "description": "While the Pulitzer Prize has never gone to an undercover reporter, the practice of shedding the status of an outsider to live the story is as old as Sir Richard Burton, who wandered Arabia, and Nellie Bly, who feigned insanity to expose brutality at the Women’s Lunatic Asylum on Blackwell’s Island in the late 1800s. In documentary filmmaking, immersive storytelling found its most vivid and persuasive form only in the 1960s, with the parallel direct cinema and cinema verité movements, a mode which has since remained a touchstone of the genre.\n\nIn our current information-saturated environment, immersive storytelling has the ability to cut through spin and noise to reach more complex and deeper truths. While undercover reporting and clandestine infiltration, along with overt forms of immersion and embedding, may trade authority and distance for authenticity, they bring vulnerability as well—in the gathering of the story as well as its telling. Blending into the background can raise a raft of unanticipated ethical and legal issues, in the physical and virtual world. This panel will explore the process by which investigative journalists and documentary filmmakers approach this critical form of immersive storytelling.",
+      "people": [
+        {
+          "name": "Anas Aremeyaw Anas",
+          "role": "panelist"
+        },
+        {
+          "name": "Everardo González",
+          "role": "panelist"
+        },
+        {
+          "name": "Ed Klaris",
+          "role": "panelist"
+        },
+        {
+          "name": "Suki Kim",
+          "role": "panelist"
+        },
+        {
+          "name": "Ted Conover",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 29
+    },
+    {
+      "title": "You Are Here: Storytelling from the Ground Up",
+      "kind": "panel",
+      "date": "2017-10-20",
+      "time": "12:45 PM",
+      "end_time": "2:00 PM",
+      "venue": "National Union Building",
+      "description": "Filmmakers and journalists have long recognized the important role that storytelling and “voice” have in expanding perspectives and fostering a collective conversation, a practice that is all the more urgent in the age of siloed newsfeeds and assaults on “media elites.” This panel examines a fast-developing trend that builds narrative agency from the ground up, in an effort to reach the unlikely viewer: the emergence of first-person and community initiated storytelling. Affordable and readily available technology is fast bringing those living an experience into the investigative process, and opening new channels for them to tell their own stories. We’ll hear about unique collaborations between reporters, filmmakers and residents, as well as strategic supporters developing skills and outlets for citizen journalists. We’ll also explore what happens when a filmmaker shares a distinct vulnerability with her subject, and uses personal experience as the starting point of a cinematic investigation.",
+      "people": [
+        {
+          "name": "Deborah Esquenazi",
+          "role": "panelist"
+        },
+        {
+          "name": "Amy Hobby",
+          "role": "panelist"
+        },
+        {
+          "name": "Logan Jaffe",
+          "role": "panelist"
+        },
+        {
+          "name": "Amy Mitchell",
+          "role": "panelist"
+        },
+        {
+          "name": "Ricardo Sandoval-Palos",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 30
+    },
+    {
+      "title": "Fireworks: Meet the Funders",
+      "kind": "panel",
+      "date": "2017-10-20",
+      "time": "2:15 PM",
+      "end_time": "3:15 PM",
+      "venue": "National Union Building",
+      "description": "Hardly any journal or film exists without the people you’ll hear from here. A select group of fiscal supporters of prominent journals and films will give a behind-the-scenes view of the inner-workings of the funding process. They will discuss how they make strategic funding decisions and determine desired outcomes; what they deem a successful project; and how prospective grantees can more successfully position their projects for funding. This is not to be missed.",
+      "people": [
+        {
+          "name": "Wendy Ettinger",
+          "role": "panelist"
+        },
+        {
+          "name": "Rebecca Lichtenfeld",
+          "role": "panelist"
+        },
+        {
+          "name": "Richard Logan",
+          "role": "panelist"
+        },
+        {
+          "name": "Carrie Lozano",
+          "role": "panelist"
+        },
+        {
+          "name": "Simon Kilmurry",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 30
+    },
+    {
+      "title": "Give/Get: Cross-Sector Collaboration in Film and Journalism",
+      "kind": "panel",
+      "date": "2017-10-20",
+      "time": "3:00 PM",
+      "end_time": "4:30 PM",
+      "venue": "National Union Building",
+      "description": "Journalism and filmmaking spring from two different cultures, each with their own approaches and assumptions, ethics and forms. Skills and resources that may be inherent in one profession are often not available, or even visible, to the other.\n\nIncreasingly, however, we are seeing cross-sector pollination, in which the work of journalists and filmmakers are integrating and overlapping. Filmmakers are embedding in newsrooms to work alongside reporters, helping those newsrooms develop visual forms of storytelling and engage with new audiences in ways print reporting alone could not. At the same time, filmmakers are selectively incorporating tenets of investigative reporting into their work, and adapting the supportive infrastructure of a newsroom, such as legal counsel, fact checking, and security measures, into their production process. The most successful practitioners, editors, and curators, on hand for this session, are aiming to achieve storytelling more transcendent than the sum of its parts.",
+      "people": [
+        {
+          "name": "Caty Borum-Chattoo",
+          "role": "panelist"
+        },
+        {
+          "name": "Clare Chambers",
+          "role": "panelist"
+        },
+        {
+          "name": "Katerina Cizek",
+          "role": "panelist"
+        },
+        {
+          "name": "Saleem Khan",
+          "role": "panelist"
+        },
+        {
+          "name": "James West",
+          "role": "panelist"
+        },
+        {
+          "name": "Barbie Zelizer",
+          "role": "panelist"
+        },
+        {
+          "name": "Patricia Aufderheide",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 31
+    },
+    {
+      "title": "Fireworks: Meet the Online Platforms",
+      "kind": "panel",
+      "date": "2017-10-20",
+      "time": "3:15 PM",
+      "end_time": "4:15 PM",
+      "venue": "National Union Building",
+      "description": "The traditional ways to view a film are becoming increasingly obsolete. On-line platforms, many emanating from established news publishers, have taken center stage for the exhibition and consumption of cutting-edge works of investigative film and visual journalism. Hear from leaders in the online digital exhibition space, on the kinds of work they’ve produced in the past, what they’re looking for going forward, and the best way to approach them with new stories and ideas.",
+      "people": [
+        {
+          "name": "Kasia Cieplak-Mayr von Baldegg",
+          "role": "panelist"
+        },
+        {
+          "name": "Lindsay Crouse",
+          "role": "panelist"
+        },
+        {
+          "name": "Bryce J. Renninger",
+          "role": "panelist"
+        },
+        {
+          "name": "Simon Kilmurry",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 31
+    },
+    {
+      "title": "Anatomy of a Serial: Closing Conversation with Ryan White and Jean Wehner, The Keepers",
+      "kind": "conversation",
+      "date": "2017-10-20",
+      "time": "4:30 PM",
+      "end_time": "5:30 PM",
+      "venue": "National Union Building",
+      "description": "Set in Baltimore in the 1960s, THE KEEPERS investigates the unsolved murder of Sister Catherine Cesnick, a beloved nun at Archbishop Keogh High School, who tried to stop the serial sexual abuse of students by the school’s chaplain. Nominated for an Emmy Award and told in serial form over seven episodes, Ryan White’s remarkable film follows an investigative reporter and two alums of the school, now retired, who take it upon themselves to unravel the mystery of their former teacher’s brutal killing, a murder that has reverberated through the decades.\n\nWhite, himself a Catholic, set out expecting the church to eagerly assist in solving the mystery of what happened to Sister Catherine, and was surprised at the resistance he encountered these many years later. THE KEEPERS has succeeded, however, in forcing a reopening of the case—a testimony to its riveting power and humanity.\n\nTHE KEEPERS raises important questions about police involvement in a network of abuse in a town where the archdiocese ruled unchallenged; the church leadership’s indifference to the suffering of victims; the failure of prosecutors to protect the public, and the subsequent cover-up that allowed a killer to literally get away with murder. From a cinematic perspective, THE KEEPERS expands the distinctive experience of episodic storytelling—which is fast emerging as standard in the visual and aural investigative mode. Its journey illustrates a film’s ability to intervene in and directly impact the world beyond celluloid, and explores the responsibility of a filmmaker to his subject, who entrusts her most vulnerable secret to his film.",
+      "people": [
+        {
+          "name": "Ryan White",
+          "role": "speaker"
+        },
+        {
+          "name": "Jean Wehner",
+          "role": "speaker"
+        },
+        {
+          "name": "Gilbert Cruz",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "The Keepers"
+      ],
+      "page": 32
+    },
+    {
+      "title": "Reception: Hosted by the International Documentary Association and the MacArthur Foundation",
+      "kind": "reception",
+      "date": "2017-10-20",
+      "time": "5:30 PM",
+      "end_time": "7:30 PM",
+      "venue": "National Union Building - “Owlstone”",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 32
+    },
+    {
+      "title": "Pro Bono Legal Clinic for Visual Storytellers",
+      "kind": "other",
+      "date": "2017-10-21",
+      "time": "9:30 AM",
+      "end_time": "12:30 PM",
+      "venue": "The Loft at 600 F",
+      "description": "The Pro Bono Legal Clinic offers investigative storytellers lacking legal representation the opportunity to connect with experts who can knowledgeably discuss legal challenges they are confronting. Leading attorneys in the areas First Amendment law, privacy and libel, Freedom of Information, whistleblower protection, copyright and intellectual property will be on hand. Attorneys will brief participants on case law and trends relevant to the problems that journalists and filmmakers have articulated upon registering for the clinic, and field questions from them. Attorneys have also agreed to consider representing select participants in need of counsel on an ongoing basis pro bono. The clinic is open only to attendees of the Double Exposure Symposium who have pre-registered. Seating is limited and on a first-come first-served basis.",
+      "people": [
+        {
+          "name": "Theodore Frank",
+          "role": "presenter"
+        },
+        {
+          "name": "Laura Handman",
+          "role": "presenter"
+        },
+        {
+          "name": "Ed Klaris",
+          "role": "presenter"
+        },
+        {
+          "name": "Jesselyn Radack",
+          "role": "presenter"
+        },
+        {
+          "name": "Katie Townsend",
+          "role": "presenter"
+        }
+      ],
+      "related_films": [],
+      "page": 33
+    },
+    {
+      "title": "Safe+Secure Filmmaker Workshop, in Association with Doc Society",
+      "kind": "workshop",
+      "date": "2017-10-21",
+      "time": "9:30 AM",
+      "end_time": "12:30 PM",
+      "venue": "The Loft at 600 F",
+      "description": "From Ferguson and Charlottesville to Nairobi and Bogotá, covering volatile situations presents immense challenges for independent documentary filmmakers. They must make quick decisions on any number of situations: where to place a camera on the frontline of unpredictable protests, whether driving down a dangerous road is the right thing to do, or whether to trust a fresh source. This Safe+Secure workshop will inform filmmakers how to assess and mitigate the plethora of risks one faces whilst making a film. The training is relevant to a variety of situations such as war, natural disasters, protests, organized crime, repressive states, or digital security challenges affecting investigations done even from one’s bedroom! While most hostile environment-training deals with ducking crossfire and kidnappers, this session will teach filmmakers how to avoid unnecessary peril with careful preparations before, during and after assignments. Participants will emerge with a better understanding of how to shun hostile parties and film more safely.",
+      "people": [
+        {
+          "name": "Judith Matloff",
+          "role": "instructor"
+        },
+        {
+          "name": "Jess Search",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 33
+    },
+    {
+      "title": "Introduction to Immersive Journalism – Part I",
+      "kind": "workshop",
+      "date": "2017-10-21",
+      "time": "10:00 AM",
+      "end_time": "12:30 PM",
+      "venue": "The Loft at 600 F",
+      "description": "This condensed workshop will help participants understand the rapidly evolving field of immersive media, how to immediately start to explore and experiment, and issues in the emerging form, with a primary focus on journalism. Based on work and research in Saleem Khan’s JOVRNALISM practice with news and other organizations, and drawing on emergent consensus with other global leaders, participants will gain a grounding in what immersive media are, why they matter, fundamental principles and practices, key ethics and other issues confronting us today and into the future.",
+      "people": [
+        {
+          "name": "Saleem Khan",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 34
+    },
+    {
+      "title": "Fact Checking Workshop, Presented by the Pulitzer Center on Crisis Reporting",
+      "kind": "workshop",
+      "date": "2017-10-21",
+      "time": "1:30 PM",
+      "end_time": "3:00 PM",
+      "venue": "The Loft at 600 F",
+      "description": "In an era where fake news and filter bubbles seem to create alternative realities and threaten the basis of democracy, it’s more important than ever that investigative journalism is factually correct, so viewers can trust the reporting.\n\nIn this workshop, we will show what can happen if journalists and news organizations neglect to fact-check before publishing or for the sake of dramatic storytelling omit important facts. This is a hands-on workshop; we will train participants to strategically and efficiently fact-check their own biases and their own reporting, even if the filmmaker has no institutional support. We will show how to independently verify facts, background people and how to use new tools that can help journalists verify when and where an image was shot. Filmmakers will not only develop a road map to fact-check their own work, they will also learn about investigative skills and tools that will benefit any reporting, and even facilitate distribution.\n\nLindsay Crouse from the The New York Times’ Op-Docs team will share how her news organization verifies visual content and two independent investigative filmmakers, Pulitzer Center grantees Eleanor Bell Fox formerly with the Center for Public Integrity and Hilke Schellmann, Emmy-Award winning investigative journalist and assistant professor at NYU, will share real-life examples of how they fact-checked their own work and were fact-checked by news organizations.",
+      "people": [
+        {
+          "name": "Eleanor Bell Fox",
+          "role": "instructor"
+        },
+        {
+          "name": "Lindsay Crouse",
+          "role": "instructor"
+        },
+        {
+          "name": "Hilke Schellmann",
+          "role": "instructor"
+        },
+        {
+          "name": "Steve Sapienza",
+          "role": "speaker"
+        }
+      ],
+      "related_films": [],
+      "page": 34
+    },
+    {
+      "title": "Safeguarding Sources: A Practical Guide for Investigative Filmmakers",
+      "kind": "workshop",
+      "date": "2017-10-21",
+      "time": "1:30 PM",
+      "end_time": "3:00 PM",
+      "venue": "The Loft at 600 F",
+      "description": "Mark Felt. Daniel Ellsberg. Karen Silkwood. Frank Serpico. Throughout history, whistleblowers have risked their lives to expose illegal or unethical activity, and have played a critical role in government accountability. Filmmakers and journalists working in the investigative mode often rely on the testimony of a crucial witness, vulnerable subject, or whistleblower, but what is their responsibility to keeping them safe, both legally and psychologically? As documentary filmmakers and journalists find themselves venturing into increasingly dangerous terrain, what are best practices for shooting and sharing sensitive or volatile information? This intensive workshop, led by the filmmaker, Sonia Kennebeck, and the producer Ines Hofmann Kanna, of National Bird — a film about the US reliance on aerial combat drones — is designed to introduce practical resources and specific strategies to investigative filmmakers about how to protect sources and subjects and keep them safe during and after filming.",
+      "people": [
+        {
+          "name": "Ines Hofmann Kanna",
+          "role": "instructor"
+        },
+        {
+          "name": "Sonia Kennebeck",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [
+        "National Bird"
+      ],
+      "page": 35
+    },
+    {
+      "title": "Playing Your Way to Impact",
+      "kind": "workshop",
+      "date": "2017-10-21",
+      "time": "1:30 PM",
+      "end_time": "3:00 PM",
+      "venue": "The Loft at 600 F",
+      "description": "Wondering how to get started on your outreach campaign? Stymied by requests to describe your film’s outcomes? Join Dot Connector Studio’s Jessica Clark and Angelica Das for a hands-on workshop based on the Impact Pack—a card deck designed to help makers and funders develop more effective media strategies. Incubated at the Norman Lear Center’s Media Impact Project and based on more than a decade of Clark’s research into how media can drive social change, the deck has been used by filmmakers at AFI’s Doc Impact Lab, media development experts at the Central European University, funders at the Philanthropy Workshop and many others. The workshop will step attendees through how to use the cards, and then invite them to discuss their own engagement strategies.",
+      "people": [
+        {
+          "name": "Jessica Clark",
+          "role": "instructor"
+        },
+        {
+          "name": "Angelica Das",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 36
+    },
+    {
+      "title": "Introduction to Immersive Journalism – Part II",
+      "kind": "workshop",
+      "date": "2017-10-21",
+      "time": "1:30 PM",
+      "end_time": "3:00 PM",
+      "venue": "The Loft at 600 F",
+      "description": "This condensed workshop will help participants understand the rapidly evolving field of immersive media, how to immediately start to explore and experiment, and issues in the emerging form, with a primary focus on journalism. Lab participants will apply foundations gained in the first part of the workshop by learning how to plan and prototype immersive experiences, and collaboratively develop design dialogue skills to use in their own organizations for immersive journalism.",
+      "people": [
+        {
+          "name": "Saleem Khan",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 36
+    },
+    {
+      "title": "DX Access",
+      "kind": "other",
+      "date": null,
+      "time": null,
+      "end_time": null,
+      "venue": "National Union Building",
+      "description": "DX ACCESS connects registered attendees to representatives of the most respected and innovative organizations and individuals in film and journalism, and provides unparalleled face time with funders, producers, festival programmers, distributors, media outlets, reporters, writers and directors who can concretely advance your investigative projects. In one-on-one sessions, they will unpack how they work, learn more about your project and goals, and explore the possibilities for supporting your investigation.\n\nDX ACCESS takes place during the Double Exposure Symposium on Thursday, October 19 and Friday, October 20, 2017 at the National Union Building. DX Access will arrange up to five seven-minute meetings per attendee. Registrants may sign up for meetings in advance with the specific organizations or people of their choice. The organization or person selected must agree that the meeting is mutually beneficial for it to be confirmed.",
+      "people": [],
+      "related_films": [],
+      "page": 37
+    }
+  ],
+  "people": [
+    {
+      "name": "Anas Aremeyaw Anas",
+      "bio": "Anas Aremeyaw Anas is an undercover journalist, attorney and private detective working in Africa. In disguise, he enters asylums, brothels, prisons, orphanages and villages, where he gathers evidence for stories, then presents the evidence to authorities for prosecution. Anas went under cover for two years to expose 34 judges and more than 100 judicial aides taking bribes to influence outcomes in Ghana’s courts.",
+      "affiliation": null,
+      "page": 38
+    },
+    {
+      "name": "Debra Anderson",
+      "bio": "Debra Anderson is co-founder and chief strategy officer of Datavized Technologies Inc. a Brooklyn-based startup building software that brings another dimension to enterprise and big data visualization. She has produced projects at the crossroads of virtual reality, neuroscience, artificial intelligence, journalism, technology and gaming including THE ENEMY, SOUNDSELF, LESS THAN HUMAN and A RITUAL OF EXILE, selected for the 2017 Sundance Institute New Frontier Storytelling Lab.",
+      "affiliation": "Datavized Technologies Inc.",
+      "page": 38
+    },
+    {
+      "name": "Nathalie Applewhite",
+      "bio": "Nathalie Applewhite is managing director of the Pulitzer Center on Crisis Reporting, a nonprofit organization that promotes engagement with global affairs by supporting quality journalism. She joined the Pulitzer Center in 2006. Earlier, she worked as a consultant for the Executive Office of the Secretary General at the United Nations. Her film PICTURE ME AN ENEMY (2002) won the Best Documentary Award in the Philadelphia Film Festival’s Festival of Independents.",
+      "affiliation": "Pulitzer Center on Crisis Reporting",
+      "page": 38
+    },
+    {
+      "name": "Raney Aronson-Rath",
+      "bio": "Raney Aronson-Rath is the Executive Producer of FRONTLINE, PBS’s flagship investigative series. She has been recognized for her work in expanding FRONTLINE’s reporting. From the emergence of ISIS in Syria, to the hidden history of the National Football League and concussions, to the secret reality of rape on the job for immigrant women, Aronson-Rath oversees FRONTLINE’s evolution and editorial vision.",
+      "affiliation": "FRONTLINE (PBS)",
+      "page": 38
+    },
+    {
+      "name": "Patricia Aufderheide",
+      "bio": "Patricia Aufderheide is University Professor in the School of Communication at American University. The founder of the Center for Media & Social Media there, she continues as senior research fellow. She is the author of, among other books, Documentary Film: A Very Short Introduction (Oxford) and co-author with Peter Jaszi of Reclaiming Fair Use (University of Chicago).",
+      "affiliation": "American University School of Communication",
+      "page": 39
+    },
+    {
+      "name": "Violeta Ayala",
+      "bio": "Violeta Ayala is a filmmaker, artist and writer born in Bolivia. Her credits include COCAINE PRISON, which premiered at the Toronto International Film Festival 2017. THE FIGHT (2017), distributed by The Guardian Shorts, won the Doc Dispatch Award at the Sheffield Documentary Film Festival and Best Short at the International Human Rights Festival in Sucre, Bolivia.",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "Assia Boundaoui",
+      "bio": "Assia Boundaoui has reported for the BBC, NPR, Al Jazeera, VICE, and CNN. She earned first place in a Mark of Excellence Award from the Society of Professional Journalists. Assia has worked in an editorial capacity on the production of a number of documentary films, including HBO Documentary Films’ MANHUNT (2013) which was awarded an Emmy. Assia has a Masters degree in journalism from New York University and is fluent in Arabic. THE FEELING OF BEING WATCHED is her directorial debut.",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "Nancy Buirski",
+      "bio": "Nancy Buirski is the director, producer, writer of BY SIDNEY LUMET (2015) that had its world premiere at the Cannes Film Festival. She is director, producer, writer of AFTERNOON OF A FAUN (2013), world premiere at the 51st New York Film Festival, international premiere at the 64th Berlinale. She is director, producer, writer of the Oscar-shortlisted, Peabody, and Emmy Award-winning THE LOVING STORY (2012).",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "Caty Borum Chattoo",
+      "bio": "Caty Borum Chattoo is director of the Center for Media & Social Impact (CMSI), an innovation lab and research center at American University that creates, showcases and studies media designed for social change, and Executive in Residence at the American University School of Communication in Washington, D.C. Her social justice documentaries have aired internationally and nationally on Netflix, the Sundance Channel, Pivot, NDTV (India), PBS World, Link TV, KCET, DirectTV and theatrically.",
+      "affiliation": "Center for Media & Social Impact, American University",
+      "page": 40
+    },
+    {
+      "name": "Lyric R. Cabral",
+      "bio": "Lyric R. Cabral is an investigative storyteller who examines the intersection of race and surveillance post 9-11. Cabral’s debut film (T)ERROR, the first film to portray an active FBI counterterrorism sting operation, is a 2017 Emmy nominee for Outstanding Investigative Documentary. (T)ERROR was winner of a 2015 Sundance Film Festival Special Jury Prize for Breakout First Feature and the 2015 Full Frame Documentary Film Festival Grand Jury Prize.",
+      "affiliation": null,
+      "page": 40
+    },
+    {
+      "name": "Clare Chambers",
+      "bio": "Clare Chambers has been with Independent Lens for five years. She manages the contracting, helps oversee production and supervises the delivery of content created for the Independent Lens journalism initiative. She is the primary liaison with the independent journalists and producers who produce the content, as well as with the journalism partners with whom Independent Lens publishes videos.",
+      "affiliation": "Independent Lens",
+      "page": 40
+    },
+    {
+      "name": "Kasia Cieplak-Mayr von Baldegg",
+      "bio": "Kasia Cieplak-Mayr von Baldegg is the executive producer for video at The Atlantic. She joined The Atlantic in 2011 to launch its video channel and created its in-house video production department in 2013. She leads the development and production of original documentaries, interviews and other video content for The Atlantic. Previously, she was a producer for Al Gore’s Current TV and as a content strategist and documentary producer in San Francisco.",
+      "affiliation": "The Atlantic",
+      "page": 40
+    },
+    {
+      "name": "Katerina Cizek",
+      "bio": "Katerina Cizek is a two-time Emmy-winning documentarian working across emerging media platforms. At the National Film Board of Canada, she helped redefine the organization as one of the world’s leading digital content hubs, with the Filmmaker-in-Residence and HIGHRISE projects. These two serial and digital projects garnered a Peabody award, a World Press Photo Prize, three Canadian Screen Awards, an IDFA DocLab Award and other honors.",
+      "affiliation": null,
+      "page": 41
+    },
+    {
+      "name": "Jessica Clark",
+      "bio": "Jessica Clark is founder and director of media strategy and production firm Dot Connector Studio. She serves as research director of Media Impact Funders, a network of foundations that support public interest media. Clark is editor of Immerse.news, an online publication produced by TFI, MIT’s Open Doc Lab and the Fledgling Fund to spark discussion about emerging nonfiction storytelling.",
+      "affiliation": "Dot Connector Studio",
+      "page": 41
+    },
+    {
+      "name": "Dan Cogan",
+      "bio": "Dan Cogan is executive director and cofounder of Impact Partners, a fund and advisory service for investors and philanthropists who promote social change through film. Since 2007, Impact Partners has helped fund over 80 acclaimed films, including Otto Bell’s EAGLE HUNTRESS, which premiered at the 2016 Sundance Film Festival and was distributed by Sony Pictures Classics in October 2016, and THE COVE, which won the Academy Award® for Documentary Feature.",
+      "affiliation": "Impact Partners",
+      "page": 41
+    },
+    {
+      "name": "Ted Conover",
+      "bio": "Ted Conover is the author of books including Newjack: Guarding Sing Sing, Rolling Nowhere, Coyotes, and Immersion. He is Director of New York University’s Arthur L. Carter Journalism Institute. He writes for Harper’s and the New Yorker and tells stories for The Moth.",
+      "affiliation": "New York University Arthur L. Carter Journalism Institute",
+      "page": 41
+    },
+    {
+      "name": "Heather Courtney",
+      "bio": "Heather Courtney won an Emmy, an Independent Spirit Award and a SXSW Jury Award for her film WHERE SOLDIERS COME FROM. The film was broadcast on the PBS program POV. She is currently co-directing and producing, with Anayansi Prado, a Ford- and MacArthur-funded feature documentary about undocumented immigrant students in Georgia, called THE UNAFRAID.",
+      "affiliation": null,
+      "page": 42
+    },
+    {
+      "name": "Lindsay Crouse",
+      "bio": "Lindsay Crouse is the Coordinating Producer for the New York Times Op-Docs series. Since joining Op-Docs in 2011, she has worked on more than 250 short films, VR, and interactive documentaries that won two Emmy Awards, two Peabodys and two Oscar nominations for best short documentary.",
+      "affiliation": "The New York Times Op-Docs",
+      "page": 42
+    },
+    {
+      "name": "Gilbert Cruz",
+      "bio": "Gilbert Cruz is the Television Editor of The New York Times and the editor of Watching, The Times’s TV and film streaming recommendation site. Before joining The Times in 2015, Cruz was an editor at Vulture, New York Magazine‘s culture site, as well as at Time Magazine. He is a Bronx native who now lives in Brooklyn.",
+      "affiliation": "The New York Times",
+      "page": 42
+    },
+    {
+      "name": "Angelica Das",
+      "bio": "Angelica Das is a strategist, researcher, writer, educator and producer in non-profit communication and management. She was previously associate director at the Center for Media & Social Impact. Her recent research includes engaged journalism, social impact media, podcasting and investigative documentary. Besides serving as Producer for DX Access, Angelica is a freelance consultant with Dot Connector Studio, serving clients such as the Democracy Fund, Sundance Institute and Knight Foundation.",
+      "affiliation": "Dot Connector Studio",
+      "page": 42
+    },
+    {
+      "name": "N’Jeri Eaton",
+      "bio": "N’Jeri Eaton is the senior manager of programming acquisitions at National Public Radio. She is also a freelance documentary producer and editor. Her feature film FIRST FRIDAY will broadcast nationally on AfroPop in early 2016. Her short film PERRY COUNTY screened at festivals around the country and was distributed by New Day Films. She was the Associate Producer for THE WAITING ROOM, which premiered on Independent Lens on PBS.",
+      "affiliation": "National Public Radio",
+      "page": 43
+    },
+    {
+      "name": "Deborah S. Esquenazi",
+      "bio": "Deborah S. Esquenazi is a film director, writer and investigative journalist. She is the director of the acclaimed documentary SOUTHWEST OF SALEM: THE STORY OF THE SAN ANTONIO FOUR, which won the Critic’s Choice Award for Best First Feature, garnered an Emmy nomination for Outstanding Social Issues Documentary, a Peabody Award and other honors. The film helped exonerate the ‘San Antonio Four,’ four women wrongly accused of child rape.",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Wendy Ettinger",
+      "bio": "Wendy Ettinger has been producing documentaries and narrative films for over 20 years. In 2005, with Julie Parker Benello and Judith Helfand, she co-founded Chicken & Egg Pictures to mentor women nonfiction directors. In the past decade, Chicken & Egg Pictures has awarded over $5 million in grants hand in hand with creative mentorship to more than 250 filmmakers. These films have gone on to win a multitude of honors, including Academy and Emmy Awards.",
+      "affiliation": "Chicken & Egg Pictures",
+      "page": 43
+    },
+    {
+      "name": "Bryan Fogel",
+      "bio": "Bryan Fogel is the director of ICARUS. Prior to directing his first documentary feature, ICARUS, Bryan co-wrote and starred in the hit International and Off-Broadway play JEWTOPIA and co-wrote and directed the feature film adaptation. Bryan began shooting ICARUS three years ago, believing that what the world watches on its sports fields should not be taken for granted as truth.",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Eleanor Bell Fox",
+      "bio": "Eleanor Bell Fox is a visual storyteller with more than 10 years producing video journalism and investigative multimedia reporting in the public interest. Originally from New Zealand, Bell Fox spent more than a decade in Australia, where she earned her bachelor degree in journalism at the University of Technology Sydney and produced award-winning investigative, cross-platform reporting for the Australian Broadcasting Corporation. In 2014, Bell Fox joined the Center for Public Integrity and ICIJ as multimedia editor.",
+      "affiliation": null,
+      "page": 44
+    },
+    {
+      "name": "Lilian Franck",
+      "bio": "Lilian Franck has been directing films for more than 20 years. Her theatrical debut, JESUS LOVES YOU, won international recognition. The film PIANOMANIA (Co-director: Robert Cibis) had a cinema release in more than 25 countries and won among other prizes, the “Semaine de la Critique” prize in Locarno, the Golden Gate Award at the San Francisco International Film Festival and the German Film Award in the category Best Sound Design.",
+      "affiliation": null,
+      "page": 44
+    },
+    {
+      "name": "Ted Frank",
+      "bio": "Ted Frank is a retired partner at Arnold & Porter Kaye Scholer. He has been practicing communications law for over 45 years. Much of his practice focused on representing public broadcasters, including PBS and several producing stations, in regulatory matters before the FCC as well as advising them on, First Amendment, defamation, invasion of privacy and related issues. He has represented 100Reporters LLC since its creation.",
+      "affiliation": "Arnold & Porter Kaye Scholer (retired partner)",
+      "page": 44
+    },
+    {
+      "name": "Alex Gibney",
+      "bio": "Alex Gibney has been called ‘one of America’s most successful and prolific documentary filmmakers’ by The New York Times. His films have won the Academy Award®, multiple Emmy® Awards, the Grammy Award, several Peabody Awards, the DuPont-Columbia Award, The Independent Spirit Award, and The Writers Guild Awards. His credits include the Oscar-winning TAXI TO THE DARK SIDE and the Oscar-nominated ENRON; THE SMARTEST GUYS IN THE ROOM.",
+      "affiliation": null,
+      "page": 44
+    },
+    {
+      "name": "Erica Ginsberg",
+      "bio": "Erica Ginsberg is the executive director of Docs In Progress, a nonprofit incubator for emerging documentary filmmakers based in the Washington, D.C., area. Docs In Progress organizes works-in-progress feedback programs, filmmaker training and professional development workshops, networking events, and has Fellowship, Fiscal Sponsorship, and Residency programs. She produced and/or directed documentaries CRUCIBLE OF WAR and TALKING THREADS.",
+      "affiliation": "Docs In Progress",
+      "page": 45
+    },
+    {
+      "name": "Jon S. Goff",
+      "bio": "Jon S. Goff is a filmmaker and the Museum Specialist for Film at the Smithsonian National Museum of African American History and Culture. Goff has contributed to such award-winning documentaries as OUT IN THE NIGHT (POV, Logo 2015) and EVOLUTION OF A CRIMINAL (Independent Lens 2015). Goff is in the final stages of production on a documentary feature, AFTER SHERMAN, which will be his directorial debut.",
+      "affiliation": "Smithsonian National Museum of African American History and Culture",
+      "page": 45
+    },
+    {
+      "name": "Everardo González",
+      "bio": "Everardo González is one of the most solid voices of Mexican documentary and his work has been recognized in more than 40 countries and festivals. Prior to his most recent award-winning documentary, DEVIL’S FREEDOM (La libertad del Diablo), screening in Double Exposure 2017, his documentary THE OPEN SKY (2011) was nominated for the Silver Ariel for Best Documentary by The Mexican Academy of Cinematography.",
+      "affiliation": null,
+      "page": 45
+    },
+    {
+      "name": "Rachel Grady",
+      "bio": "Rachel Grady is the co-owner of New York’s Loki Films. She is the co-director of JESUS CAMP (Oscar nominee), THE BOYS OF BARAKA (Emmy nominee), 12th & DELAWARE (Peabody winner), DETROPIA (Sundance and Emmy winner) and FREAKONOMICS: THE MOVIE. Last year Grady co-directed NORMAN LEAR: JUST ANOTHER VERSION OF YOU, the opening night selection at the 2016 Sundance Film Festival. The film was nominated for an Emmy alongside PBS’s American Masters.",
+      "affiliation": "Loki Films",
+      "page": 45
+    },
+    {
+      "name": "Laura R. Handman",
+      "bio": "Laura R. Handman divides her time between the New York and Washington, D.C., offices of Davis Wright Tremaine LLP. She advises U.S. and foreign publishers and broadcasters. She won dismissal of libel suits brought by an inventor of software that supposedly read coded messages to Al Qaeda on Al-Jazeera. She was the first to get U.S. courts to refuse to enforce British libel judgments as “repugnant” to the First Amendment.",
+      "affiliation": "Davis Wright Tremaine LLP",
+      "page": 46
+    },
+    {
+      "name": "Amy Hobby",
+      "bio": "Amy Hobby has 20 years experience as a film producer. Her work spans feature-length dramas, documentaries, international features, television pilots and webisodes. Hobby mentors emerging filmmakers and supports women directors through initiatives launched through Tangerine Entertainment, which she co-founded. Her producing projects include SECRETARY, HAMLET (with Ethan Hawke), LOVE, MARILYN, and WHAT HAPPENED, MISS SIMONE?, for which she was nominated for an Academy Award and won an Emmy and a Peabody.",
+      "affiliation": "Tangerine Entertainment",
+      "page": 46
+    },
+    {
+      "name": "Ines Hofmann Kanna",
+      "bio": "Ines Hofmann Kanna has been producing and directing film and television projects for over 20 years. She began her career at Boston’s PBS station, WGBH, where she worked for 10 years, most notably on the hit series ANTIQUES ROADSHOW. She was also a supervising producer for ITVS, guiding more than thirty filmmakers from production to broadcast, and acted as series producer on two ITVS documentary series, GLOBAL VOICES and WOMEN OF THE WORLD.",
+      "affiliation": null,
+      "page": 46
+    },
+    {
+      "name": "Logan Jaffe",
+      "bio": "Logan Jaffe is the engagement reporter at ProPublica Illinois. She previously worked as a video producer on The New York Times’ Daily 360 desk, and as an embedded mediamaker for the Times’ Race/Related newsletter, in which she produced audience and socially-driven visual stories about the way race is experienced today. She’s also the producer of the interactive web documentary, BATTLE FLAG, which explores the changing meanings of the Confederate flag in America through.",
+      "affiliation": "ProPublica Illinois",
+      "page": 46
+    },
+    {
+      "name": "Will Jenkins",
+      "bio": "Will Jenkins has nearly a decade of communications and policy experience at the White House, the U.S. Department of Health and Human Services, and both houses of Congress. He has served as a spokesperson to national and foreign news outlets on a wide range of issues. As a legislative aide in Congress, he guided legislation to protect American military members from the health effects of toxic burn pits in Iraq and Afghanistan.",
+      "affiliation": null,
+      "page": 47
+    },
+    {
+      "name": "Tom Jennings",
+      "bio": "Tom Jennings has been producing for PBS FRONTLINE since 2009, when he first collaborated with the investigative reporting group ProPublica. His resulting film, LAW AND DISORDER, about police shootings of civilians during the week after Katrina, won the George Polk Award and was nominated for an Emmy Award. He was a producer for Rain Media on the 2012 miniseries MONEY, POWER & WALL STREET, which also won a Polk Award.",
+      "affiliation": null,
+      "page": 47
+    },
+    {
+      "name": "Myles Kane",
+      "bio": "Myles Kane directed JOURNEY TO PLANET X, AN IMMORTAL MAN and WE WILL LIVE AGAIN, well as editing WE ARE WIZARDS, MADE IN INDIA AND ASK THE SEXPERT. He has produced numerous short films and TV programs for The New Yorker and BBC.",
+      "affiliation": null,
+      "page": 47
+    },
+    {
+      "name": "Sonia Kennebeck",
+      "bio": "Sonia Kennebeck is an independent documentary filmmaker and investigative journalist with more than 15 years of directing and producing experience. She has directed eight television documentaries and more than 50 investigative reports. NATIONAL BIRD, her first feature-length film, premiered at the Berlin Film Festival 2016 and was also selected for Tribeca, Sheffield, and IDFA. In March 2017, NATIONAL BIRD received the Ridenhour Documentary Film Prize.",
+      "affiliation": null,
+      "page": 47
+    },
+    {
+      "name": "Saleem Khan",
+      "bio": "Saleem Khan is a journalist and digital news pioneer. He is the founder of JOVRNALISM — a professional resource for virtual reality (VR) in journalism — where he helps news organizations around the world as a consulting producer, trainer and adviser. He is emergent technology editor at global context-and-analysis journalism organization The Conversation with an audience of nearly 40 million people, and he leads investigative news and technology project INVSTG8.net.",
+      "affiliation": "JOVRNALISM",
+      "page": 48
+    },
+    {
+      "name": "Simon Kilmurry",
+      "bio": "Simon Kilmurry is the executive director of the International Documentary Association. He serves as an international advisor to the Greenhouse Fund and is on the board of screeners of the Alfred I. duPont-Columbia University Awards. Prior to joining IDA he served from 1999–2015 in various roles at American Documentary | POV, the long-running PBS showcase of independent documentaries. His work has won numerous honors, including six George Foster Peabody Awards.",
+      "affiliation": "International Documentary Association",
+      "page": 48
+    },
+    {
+      "name": "Suki Kim",
+      "bio": "Suki Kim is a South Korean-born, American investigative journalist and the only writer ever to live under cover in North Korea. Kim has traveled to North Korea since 2002, witnessing Kim Jong-Il’s 60th Birthday Celebration and his death at age 69. Her six months in Pyongyang in 2011, living with the future leaders of North Korea, gave her unprecedented insights into the country. Her first novel, The Interpreter, was a finalist for a PEN Hemingway Prize.",
+      "affiliation": null,
+      "page": 48
+    },
+    {
+      "name": "Ed Klaris",
+      "bio": "Ed Klaris has 25 years in media and entertainment. He is an expert on intellectual property, privacy, and media law and has extensive experience building revenue from content and other IP. His clients turn to him to be outside general counsel, for specific matters, and to handle issues through settlement or litigation. Ed started Klaris Law in 2014. Before that, he was Senior Vice President, Intellectual Property Assets & Rights, at Condé Nast.",
+      "affiliation": "Klaris Law",
+      "page": 48
+    },
+    {
+      "name": "Richard E. Logan",
+      "bio": "Richard E. Logan is president of The Reva and David Logan Foundation, and founding executive of a UK-based Mac software company, Richard has been a hands-on funder/participant in projects across a wide range of disciplines worldwide, including independent media of all kinds – radio, film, print–and more. He takes a hands-on approach to the causes and organizations he supports, increasing the efficacy of grant recipients through constant evaluation to discover new synergies.",
+      "affiliation": "The Reva and David Logan Foundation",
+      "page": 49
+    },
+    {
+      "name": "Ruth Marcus",
+      "bio": "Ruth Marcus is a columnist for The Washington Post, specializing in American politics and domestic policy. Marcus has been with The Post since 1984. She joined the national staff in 1986, covering campaign finance, the Justice Department, the Supreme Court and the White House. From 1999 through 2002, she served as deputy national editor. She joined the editorial board in 2003 and began writing a regular column in 2006.",
+      "affiliation": "The Washington Post",
+      "page": 49
+    },
+    {
+      "name": "Judith Matloff",
+      "bio": "Judith Matloff teaches conflict reporting at the Columbia Graduate School of Journalism, where she has pioneered safety training for journalists, consulting for a wide range of international media organizations. She has been writing about troubled regions for nearly 30 years. After receiving a BA from Harvard, she worked as a staff correspondent for Reuters and the Christian Science Monitor on various continents before breaking out as an independent writer.",
+      "affiliation": "Columbia Graduate School of Journalism",
+      "page": 49
+    },
+    {
+      "name": "Eric Matthies",
+      "bio": "Eric Matthies is an interdisciplinary producer who has worked across a number of platforms, from major motion pictures to large scale eventized installations including a site-based VR experience, live events, multiformat museum installations and traditional cinematic projects. He has produced numerous documentaries. Matthies has participated in formal discussions on censorship and press freedom at the International Journalism Festival, The National Press Club and through online and broadcast platforms.",
+      "affiliation": null,
+      "page": 49
+    },
+    {
+      "name": "Jane Mayer",
+      "bio": "Jane Mayer is a writer for The New Yorker. She co-authored Landslide: The Unmaking of the President, 1984–1988, with Doyle McManus, and Strange Justice: The Selling of Clarence Thomas, with Jill Abramson, which was a finalist for the National Book Award. She won a Guggenheim Fellowship for The Dark Side: The Inside Story of How the War on Terror Turned into a War on American Ideals. Her honors include a George Polk Award.",
+      "affiliation": "The New Yorker",
+      "page": 50
+    },
+    {
+      "name": "Mark Mazzetti",
+      "bio": "Mark Mazzetti is Washington investigations editor for The New York Times. In 2009, he shared a Pulitzer Prize for reporting on the violence in Pakistan and Afghanistan. He is the author of The Way of the Knife: the C.I.A., a Secret Army, and a War at the Ends of the Earth, about the secret wars waged by the C.I.A. and Pentagon since the September 11 attacks. He has won two George Polk awards.",
+      "affiliation": "The New York Times",
+      "page": 50
+    },
+    {
+      "name": "Amy S. Mitchell",
+      "bio": "Amy S. Mitchell is director of journalism research at Pew Research Center. She is responsible for the Center’s research related to news and information, including how the public accesses, engages with and creates news, what news organizations are providing and how technology is changing all of these elements. She specializes in how technology is changing the flow of news information today and the influence of political identity on news choices.",
+      "affiliation": "Pew Research Center",
+      "page": 50
+    },
+    {
+      "name": "Jill Mosebach",
+      "bio": "Jill Mosebach is a nonprofit fundraising executive with more than 10 years experience in resource mobilization, relationship management, grant stewardship, and mission-driven communications. As Senior Director of Institutional Partnerships at Tribeca Film Institute (TFI), she cultivates and works with key institutional funders, generates $1.8 million in annual revenue for TFI’s Artist, Interactive, and Education Programs, and helps to oversee the Institute’s strategic planning efforts.",
+      "affiliation": "Tribeca Film Institute",
+      "page": 50
+    },
+    {
+      "name": "Dan O’Meara",
+      "bio": "Dan O’Meara is currently the VP Special Projects & Documentary at NEON. Previously he consulted at RADiUS on their documentary releases including FED UP, THE HUNTING GROUND and ACADEMY. His producing credits include BY THE PEOPLE, FREAKONOMICS, and PRINT THE LEGEND.",
+      "affiliation": "NEON",
+      "page": 51
+    },
+    {
+      "name": "Opeyemi Olukemi",
+      "bio": "Opeyemi Olukemi is part of POV’s Digital Innovation team, serving as Vice President. Throughout her career as an esteemed interactive producer, funder and public programmer, Opeyemi has created spaces and pipelines for interdisciplinary artists, communities, and content teams to experiment with and create meaningful innovative content. Before joining POV, Opeyemi was the Senior Director of Interactive Programs for Tribeca Film Institute.",
+      "affiliation": "POV",
+      "page": 51
+    },
+    {
+      "name": "Jesselyn Radack",
+      "bio": "Jesselyn Radack is a national security and human rights attorney known for her defense of whistleblowers, journalists and hacktivists. Her work focuses on the issues of secrecy, surveillance, torture, and drones, and she has been at the forefront of challenging the government’s war on whistleblowers. She has testified before the U.S. Congress, European Parliament, Council of Europe, and Germany’s Bundestag. She has represented Edward Snowden, Thomas Drake, and John Kiriakou.",
+      "affiliation": null,
+      "page": 51
+    },
+    {
+      "name": "Jane Ray",
+      "bio": "Jane Ray set up and runs an international production fund in London for emerging documentary talent. Jane is a documentary maker in her own right with 29 years of experience at the BBC. She joined the public service broadcaster as radio reporter, became a senior producer, then edited a news program for children. Sixteen years ago she revamped an investigative history series, DOCUMENT, which has won several awards.",
+      "affiliation": null,
+      "page": 51
+    },
+    {
+      "name": "Bryce J. Renninger",
+      "bio": "Bryce J. Renninger is the managing editor of Field of Vision. He is a filmmaker, journalist, and educator. He produced the feature documentary HOTLINE (Hot Docs 2014) and the forthcoming fiction feature AFTER LOUIE. Previously, he was an editor at Indiewire and a programmer at NewFest: New York’s Premier LGBT Film Festival and the Brooklyn Film Festival. He holds a Ph.D. in Media Studies from Rutgers University.",
+      "affiliation": "Field of Vision",
+      "page": 52
+    },
+    {
+      "name": "Eric Rich",
+      "bio": "Eric Rich is an editor of The Washington Post’s new Rapid Response Investigative Team. He started on The Post’s local staff in 2004 covering federal courts and law enforcement agencies, with a focus on public corruption.",
+      "affiliation": "The Washington Post",
+      "page": 52
+    },
+    {
+      "name": "Edwin Rios",
+      "bio": "Edwin Rios is a reporter at Mother Jones covering education and social issues. His work has appeared in The Oregonian, Vanity Fair, Fast Company, and the New York Daily News.",
+      "affiliation": "Mother Jones",
+      "page": 52
+    },
+    {
+      "name": "Rebecca R. Ruiz",
+      "bio": "Rebecca R. Ruiz is a domestic correspondent for The New York Times covering the Justice Department in Washington. From 2015 to 2017, she was a sports investigative reporter focused on crime and cheating. She broke news about the United States’ corruption case focused on FIFA, the international governing body of soccer, and about Russia’s state-sponsored doping that had corrupted the standings of global competitions going back years. She won a George Polk award.",
+      "affiliation": "The New York Times",
+      "page": 52
+    },
+    {
+      "name": "Topher Sanders",
+      "bio": "Topher Sanders covers racial inequality for ProPublica. His reporting on juvenile plea deals and the amount of time juveniles spent in pre-trial detention facilities in Jacksonville, Fla., was a 2015 finalist for an Investigative Reporters and Editors award. His reporting on Jacksonville’s elected public defender prompted Gov. Rick Scott to order an investigation of the office in 2013. The investigation resulted in a grand jury report seeking the public defender’s removal.",
+      "affiliation": "ProPublica",
+      "page": 53
+    },
+    {
+      "name": "Ricardo Sandoval-Palos",
+      "bio": "Ricardo Sandoval-Palos is an investigative journalist and editor whose career has spanned nearly three decades. Most recently, for National Public Radio, he helped manage the network’s flagship Morning Edition show. Previously, he led global teams of investigative reporters for the Center for Public Integrity, and edited the science, health and environment reporting teams at the Sacramento Bee. From 1997 to 2006, Ricardo was Latin America correspondent for the Dallas Morning News and Knight-Ridder Newspapers.",
+      "affiliation": null,
+      "page": 53
+    },
+    {
+      "name": "Steve Sapienza",
+      "bio": "Steve Sapienza is an award-winning news and documentary producer who has covered a wide range of human security stories in dozens of countries, including the HIV crisis in Haiti and the Dominican Republic, child soldiers in Sierra Leone, climate refugees in Bangladesh, and landmine survivors in Cambodia. For over 20 years he has shot and produced stories for broadcast television and online distribution. He regularly contributes stories to broadcast outlets like the PBS NewsHour and Al Jazeera.",
+      "affiliation": null,
+      "page": 53
+    },
+    {
+      "name": "Hilke Schellmann",
+      "bio": "Hilke Schellmann is an assistant professor of journalism at New York University and an award-winning investigative reporter. Using innovative multimedia tools, she focuses on unearthing systemic wrongdoing and its impact on vulnerable people. As an independent filmmaker, Schellmann shot, produced and directed the investigative documentary OUTLAWED IN PAKISTAN, which aired on PBS FRONTLINE. The film was recognized with an Emmy, an Overseas Press Club and a Cinema for Peace Award.",
+      "affiliation": "New York University",
+      "page": 53
+    },
+    {
+      "name": "Jess Search",
+      "bio": "Jess Search is chief executive of the BRITDOC Foundation which gives funding and support to Oscar-nominated documentaries like CITIZENFOUR, VIRUNGA, WHOSE STREETS, HOLLIGAN SPARROW, THE SQUARE AND THE LOOK OF SILENCE. The BRITDOC Foundation is known for backing films with potential to bring about social change and training filmmakers and producers to devise and deliver engagement campaigns.",
+      "affiliation": "BRITDOC Foundation",
+      "page": 54
+    },
+    {
+      "name": "Nina Gilden Seavey",
+      "bio": "Nina Gilden Seavey is an Emmy Award-winning filmmaker and a nearly 30-year veteran of the documentary world. Her most recently completed film is PARABLES OF WAR and she is currently in production on MY FUGITIVE. Seavey is the director of The Documentary Center in the School of Media and Public Affairs at The George Washington University, which she founded in 1990. She concurrently co-directs the Center for Innovative Media.",
+      "affiliation": "The Documentary Center, The George Washington University",
+      "page": 54
+    },
+    {
+      "name": "Ena Talakic",
+      "bio": "Ena Talakic co-wrote, co-directed and co-produced the feature documentary HALL OF MIRRORS, which had its world premiere at the NYFF55 in the Spotlight on Documentary section. After graduating from the “University of Design and Art” of Bolzano (Italy), she and her sister, Ines, studied directing and screenwriting at the Prague Film School and photography in Milan, Italy. They are fluent in Italian, German, English and Serbo-Croatian. They are based in New York City.",
+      "affiliation": null,
+      "page": 54
+    },
+    {
+      "name": "Ines Talakic",
+      "bio": "Ines Talakic co-wrote, co-directed and co-produced the feature documentary HALL OF MIRRORS, which had its world premiere at the NYFF55 in the Spotlight on Documentary section. After graduating from the “University of Design and Art” of Bolzano (Italy), she and her sister, Ena, studied directing and screenwriting at the Prague Film School and photography in Milan, Italy. They are fluent in Italian, German, English and Serbo-Croatian. They are based in New York City.",
+      "affiliation": null,
+      "page": 54
+    },
+    {
+      "name": "Matt Thompson",
+      "bio": "Matt Thompson is the executive editor of The Atlantic. He came to The Atlantic, from NPR, where he launched several digital and broadcast coverage teams for the network and co-wrote the organization’s ethics handbook. He has been a reporter and editor at news outlets across the country. He is a co-founder of the event series Spark Camp, and is vice-chairman of the board of the Center for Public Integrity.",
+      "affiliation": "The Atlantic",
+      "page": 55
+    },
+    {
+      "name": "Mike Thomson",
+      "bio": "Mike Thomson is a BBC foreign affairs correspondent and presenter. He has covered numerous wars (including those in Syria, Iraq, Somalia, Sri Lanka, Colombia and Afghanistan), exposed links with prominent western companies to slave labour overseas and was one of the first journalists to reveal the plight of Burma’s Rohingya people. Much of his work has been under cover. He presented the BBC’s highly acclaimed investigative documentary series DOCUMENT for more than a decade. He has won numerous awards.",
+      "affiliation": "BBC",
+      "page": 55
+    },
+    {
+      "name": "Katie Townsend",
+      "bio": "Katie Townsend is the Litigation Director at the Reporters Committee for Freedom of the Press (www.rcfp.org), an unincorporated nonprofit association of reporters and editors based in Washington, D.C. Townsend oversees the direct litigation work of RCFP attorneys, and represents RCFP, news organizations, and individual journalists, including investigative filmmakers, in court access, freedom of information, and other First Amendment and press freedom matters.",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 55
+    },
+    {
+      "name": "Mila Turajlic",
+      "bio": "Mila Turajlic is a documentary filmmaker from Belgrade, Serbia. Her 2010 directorial debut, CINEMA KOMUNISTO, premiered at the International Documentary Filmfestival Amsterdam and the Tribeca Film Festival. She is an alumna of Eurodoc, Berlin Talent Campus, and Discovery Campus, and teaches at Archidoc and the Balkan Documentary Center. Turajlic was the first president of DokSerbia, the association of Serbian documentary filmmakers she co-founded.",
+      "affiliation": null,
+      "page": 55
+    },
+    {
+      "name": "Paul Waters",
+      "bio": "Paul Waters is a senior associate at the Democracy Fund, a bipartisan foundation working to ensure that our political system is able to deliver on its promise to the American people. He supports the Public Square Program’s mission to invest in innovations and institutions that help people understand and participate in the democratic process. Paul leads the Engaged Journalism strategy, which works to foster practices that make news outlets more responsive.",
+      "affiliation": "Democracy Fund",
+      "page": 56
+    },
+    {
+      "name": "Jean Wehner",
+      "bio": "Jean Wehner is the main subject of the Netflix documentary series, THE KEEPERS. During the 1995 Baltimore City case “Doe/Roe v. Joseph Maskell,” Wehner was known at that time as “Jane Doe.” Wehner helped create The Keepers Impact campaign titled “We Hear You,” and she speaks and leads seminars on behalf of survivors of sexual abuse in Baltimore and around the country. Wehner is also a practicing Reiki master and writer.",
+      "affiliation": null,
+      "page": 56
+    },
+    {
+      "name": "James West",
+      "bio": "James West is senior digital editor for Mother Jones, where he runs the fledgling video department, including a first-of-its-kind film residency program, from MoJo’s New York City bureau. He also writes about China, where he spent a lot of time, and Australia, where he is from. He specializes in solo “everything in a backpack” guerrilla videography: shooting, editing, post-producing. He is nominated for a 2017 Emmy for MoJo’s investigation of the private prison industry.",
+      "affiliation": "Mother Jones",
+      "page": 56
+    },
+    {
+      "name": "Ryan White",
+      "bio": "Ryan White directed THE KEEPERS, a seven-part Netflix documentary series that looks into the murder of a nun and the sexual abuse that occurred at the school where she taught in Baltimore. Prior to THE KEEPERS, his most recent project was THE CASE AGAINST 8, exploring the five-year battle to overturn Proposition 8. The film had its broadcast premiere on HBO, was nominated for two Emmys and was shortlisted for the Academy Award for Best Documentary.",
+      "affiliation": null,
+      "page": 56
+    },
+    {
+      "name": "Sarah Wolozin",
+      "bio": "Sarah Wolozin, director of the M.I.T. Open Documentary Lab, develops and oversees lab projects, operations, and collaborations. She is the founder and editorial director of Docubase, co-founder and part of the editorial team of Immerse, and co-founder of the Co-Creation Studio. She also co-authored a report entitled Mapping the Intersection of Two Cultures: Interactive Documentary and Digital Journalism.",
+      "affiliation": "MIT Open Documentary Lab",
+      "page": 57
+    },
+    {
+      "name": "Barbie Zelizer",
+      "bio": "Barbie Zelizer is the Raymond Williams Professor of Communication and Director of the Scholars Program in Culture and Communication at the University of Pennsylvania’s Annenberg School for Communication. A former journalist, Zelizer is known for her work on journalism, culture, memory and images, particularly in times of crisis. She has published 14 books and many articles and essays. Zelizer is also a media critic.",
+      "affiliation": "University of Pennsylvania Annenberg School for Communication",
+      "page": 57
+    }
+  ],
+  "awards": [],
+  "organizers": [
+    {
+      "name": "Margaret Ebrahim",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Ron Nixon",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Brett A. Pulley",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Founder and Co-director"
+    },
+    {
+      "name": "Sky Sitney",
+      "role": "Co-director"
+    },
+    {
+      "name": "Angelica Das",
+      "role": "Producer, DX Access"
+    },
+    {
+      "name": "Taylor Foster",
+      "role": "Volunteer Coordinator"
+    },
+    {
+      "name": "Robin Heller",
+      "role": "Sponsorship and Fundraising Manager"
+    },
+    {
+      "name": "Moruomi Li",
+      "role": "Festival Manager"
+    },
+    {
+      "name": "LeeAnn Peterson",
+      "role": "Festival Producer"
+    },
+    {
+      "name": "Conway Reinders",
+      "role": "Outreach Coordinator"
+    },
+    {
+      "name": "Adam Segal",
+      "role": "PR Manager (The 2050 Group)"
+    },
+    {
+      "name": "Marga Varea",
+      "role": "Outreach and Engagement Director"
+    },
+    {
+      "name": "Jordan Cohen",
+      "role": "Festival Intern"
+    },
+    {
+      "name": "Chad Davis",
+      "role": "Festival Intern"
+    },
+    {
+      "name": "Zhe Zheng",
+      "role": "Festival Intern"
+    }
+  ],
+  "notes": "Third edition (per the co-directors' welcome letter, p10). Cover reads 'Double Exposure Investigative Film Festival', 'A project of 100Reporters', 'October 19-22, 2017'. Pages 2, 24 and 59-64 are sponsor logos/photos/ads with no extractable content; p58 lists 'Friends of Double Exposure' partner organisations (skipped as sponsors). Film pages 15 and 18-22 carry hidden leftover template text in the PDF text layer ('FRIDAY, OCT 2, 6PM Panel Discussion following screening with special guests Scott Shane, Tom Blanton, Mark Mazzetti, Daniel Zwerdling and Sabrina Buchwalter' and 'THURSDAY, OCT 1, 6 PM'); it is not visible on the rendered page (checked p18) and was ignored. All films screen at the Naval Heritage Center except the Opening Night screening of ONE OF US, whose venue the catalogue does not name (screening.venue left null). The Other Side of Everything: runtime is 78 min in the schedule (p4) but 100 min on the film page (p22); the film page value is used. Sunday Oct 22 is mislabelled 'SATURDAY, OCTOBER 22' in the schedule (p4); the film pages say Sunday. Schedule p6 titles the 10:30 session 'Embedded: Cinema Verité to Immersive Journalism' and the 3:00 session 'Give/Get: Cross-Sector Collaborations'; the fuller titles from the symposium pages (p29, p31) are used. The IDA/MacArthur reception (5:30-7:30 PM) is listed under Friday Oct 20 on p32 but appears under a 'Symposium Day 3: Oct. 21' heading on p7, where the host is given as 'the IDA Enterprise Documentary Fund and the MacArthur Foundation'; Oct 20 from p32 is used. Spelling variants normalised: 'Lindsey Crouse' (p6, p31) -> Lindsay Crouse per bio; 'Ines Holfmann Kanna' (p35) -> Ines Hofmann Kanna; 'Saleem Kahn' (p36) -> Saleem Khan; 'Caty Borum-Chattoo' in session lists vs 'Caty Borum Chattoo' in bio; Theodore Frank in session lists has his bio under 'Ted Frank'; Laura Handman/Laura R. Handman, Rebecca Ruiz/Rebecca R. Ruiz, Amy Mitchell/Amy S. Mitchell, Richard Logan/Richard E. Logan, Deborah Esquenazi/Deborah S. Esquenazi, Lyric Cabral/Lyric R. Cabral. Session participants without bios: Charles Lewis, Brian Knappenberger, Wendy Levy, Rebecca Lichtenfeld, Carrie Lozano. Bios printed for people not listed in any session or screening: Nathalie Applewhite, N'Jeri Eaton, Erica Ginsberg, Jon S. Goff, Will Jenkins, Jill Mosebach, Dan O'Meara, Jane Ray, Paul Waters (likely DX Access participants, not stated). Opening Conversation p26 header has a stray '6' (layout artefact). Speaker roles: names before 'moderator' are recorded as panelist/speaker; 'Introductory remarks by' recorded as speaker. Related films 'Icarus', 'The Keepers' and 'National Bird' are discussed in sessions but are not festival screenings. No country of production is printed for any 2017 film (country null). No awards or festival theme are printed."
+}

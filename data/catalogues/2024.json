@@ -1,0 +1,2146 @@
+{
+  "year": 2024,
+  "edition_name": "Double Exposure Investigative Film Festival & Symposium",
+  "dates": "November 7-10, 2024",
+  "theme": "In Flux | Out of Bounds",
+  "venues": [
+    {
+      "name": "The Johns Hopkins University Bloomberg Center",
+      "address": "555 Pennsylvania Ave NW, Washington, DC"
+    },
+    {
+      "name": "U.S. Naval Heritage Center",
+      "address": "701 Pennsylvania Ave NW, Washington, DC"
+    },
+    {
+      "name": "Martin Luther King Jr. Memorial Library",
+      "address": "901 G St NW, Washington, DC"
+    }
+  ],
+  "films": [
+    {
+      "title": "Men of War",
+      "directors": [
+        "Jen Gatien",
+        "Billy Corben"
+      ],
+      "country": "United States, Venezuela",
+      "film_year": 2024,
+      "runtime_min": 98,
+      "premiere": null,
+      "slot": "Opening Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-07",
+        "time": "6:30 PM",
+        "venue": "The Johns Hopkins University Bloomberg Center (Theater)"
+      },
+      "synopsis": "An insider account of the failed 2020 coup in Venezuela, as told by former US Army Green Beret Jordan Goudreau, a three-time Bronze Star recipient who organized the ill-fated mission. A harrowing look into the realpolitik world of exiled leaders, private armies and shadowy intelligence operatives and what made one man believe he could change the course of a nation's history.",
+      "after_screening": "Followed by post-screening discussion with co-director Jen Gatien, moderated by Laura Blumenfeld of Johns Hopkins School of Advanced International Study.",
+      "people": [
+        {
+          "name": "Jen Gatien",
+          "role": "director"
+        },
+        {
+          "name": "Billy Corben",
+          "role": "director"
+        },
+        {
+          "name": "Jordan Goudreau",
+          "role": "subject"
+        },
+        {
+          "name": "Jen Gatien",
+          "role": "discussant"
+        },
+        {
+          "name": "Laura Blumenfeld",
+          "role": "moderator",
+          "affiliation": "Johns Hopkins School of Advanced International Study"
+        }
+      ],
+      "page": 14
+    },
+    {
+      "title": "Searching for Amani",
+      "directors": [
+        "Nicole Gormley",
+        "Debra Aroko"
+      ],
+      "country": "Kenya",
+      "film_year": 2024,
+      "runtime_min": 80,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-08",
+        "time": "4:30 PM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "In the heart of Kenya, a tragedy shatters a young boy's life. Simon Ali, 13, finds himself in a world of mystery when his father, a respected conservancy guide, is found dead under suspicious circumstances. Armed with his video camera and an unwavering desire for truth, Simon and his best friend Haron embark on a perilous journey to uncover the secrets behind his father's demise.",
+      "after_screening": "Followed by post-screening discussion with co-director Debra Aroko, moderated by Lana Garland of Double Exposure.",
+      "people": [
+        {
+          "name": "Nicole Gormley",
+          "role": "director"
+        },
+        {
+          "name": "Debra Aroko",
+          "role": "director"
+        },
+        {
+          "name": "Simon Ali",
+          "role": "subject"
+        },
+        {
+          "name": "Debra Aroko",
+          "role": "discussant"
+        },
+        {
+          "name": "Lana Garland",
+          "role": "moderator",
+          "affiliation": "Double Exposure"
+        }
+      ],
+      "page": 15
+    },
+    {
+      "title": "I Hope This Helps!",
+      "directors": [
+        "Daniel Freed"
+      ],
+      "country": "United States",
+      "film_year": 2024,
+      "runtime_min": 51,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-08",
+        "time": "6:30 PM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "From executive producers Matthew Modine and Adam Rackoff, I Hope This Helps! is a humorous, genre-bending documentary that invites viewers to ponder the evolving relationship between humanity and technology. In the film, investigative journalist Daniel Freed enlists the help of Google's AI chatbot, Bard, to collaborate on a documentary... about AI. Appearing in a blue, furry form if requested, Bard helps Freed explore the benefits and risks of this world-changing innovation.",
+      "after_screening": "Followed by post-screening discussion with director Daniel Freed and executive producer Matthew Modine, moderated by Dan Merica of the Associated Press.",
+      "people": [
+        {
+          "name": "Daniel Freed",
+          "role": "director"
+        },
+        {
+          "name": "Matthew Modine",
+          "role": "executive producer"
+        },
+        {
+          "name": "Adam Rackoff",
+          "role": "executive producer"
+        },
+        {
+          "name": "Daniel Freed",
+          "role": "discussant"
+        },
+        {
+          "name": "Matthew Modine",
+          "role": "discussant"
+        },
+        {
+          "name": "Dan Merica",
+          "role": "moderator",
+          "affiliation": "the Associated Press"
+        }
+      ],
+      "page": 16
+    },
+    {
+      "title": "Dust to Dust",
+      "directors": [
+        "Kôsai Sekine"
+      ],
+      "country": "Japan",
+      "film_year": 2024,
+      "runtime_min": 89,
+      "premiere": null,
+      "slot": "Centerpiece",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-08",
+        "time": "8:30 PM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "Renowned Japanese fashion designer Yuima Nakazato is a key figure in the ethical manufacturing movement. As the second Japanese designer ever invited to Paris Haute Couture Fashion Week, Nakazato is dedicated to merging his unique artistic vision with sustainable, green technology. Kôsai Sekine chronicles Nakazato's journey towards socially responsible fashion, from the landfills of Kenya to the Paris runway. Through his ethereal creations, the designer offers a radical reimagining of the fashion industry, emphasizing a future where creativity and care for the world go hand in hand.",
+      "after_screening": "Followed by post-screening discussion with director Kôsai Sekina and protagonist Yuima Nakazato via Zoom, moderated by Amy Schwartz of Moment Magazine.",
+      "people": [
+        {
+          "name": "Kôsai Sekine",
+          "role": "director"
+        },
+        {
+          "name": "Yuima Nakazato",
+          "role": "subject"
+        },
+        {
+          "name": "Kôsai Sekine",
+          "role": "discussant"
+        },
+        {
+          "name": "Yuima Nakazato",
+          "role": "discussant"
+        },
+        {
+          "name": "Amy Schwartz",
+          "role": "moderator",
+          "affiliation": "Moment Magazine"
+        }
+      ],
+      "page": 17
+    },
+    {
+      "title": "Acts of Reparation",
+      "directors": [
+        "Selina Lewis Davidson",
+        "Macky Alston"
+      ],
+      "country": "United States",
+      "film_year": 2024,
+      "runtime_min": 113,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-09",
+        "time": "11:00 AM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "Two friends—one Black, one white—travel South to their ancestral lands to explore what reparations means to them. From kitchen tables to porches, lost cemeteries to discovered diaries, their journeys lead to unexpected opportunities that transform their friendship, families and communities. Together they reclaim and reckon with their roots. In Acts of Reparation, we see everyday Americans become the change they want to see in the world.",
+      "after_screening": "Followed by post-screening discussion with director/producers Selina Lewis Davidson and Macky Alston, moderated by Patricia Finneran of Story Matters Media.",
+      "people": [
+        {
+          "name": "Selina Lewis Davidson",
+          "role": "director"
+        },
+        {
+          "name": "Macky Alston",
+          "role": "director"
+        },
+        {
+          "name": "Selina Lewis Davidson",
+          "role": "producer"
+        },
+        {
+          "name": "Macky Alston",
+          "role": "producer"
+        },
+        {
+          "name": "Selina Lewis Davidson",
+          "role": "discussant"
+        },
+        {
+          "name": "Macky Alston",
+          "role": "discussant"
+        },
+        {
+          "name": "Patricia Finneran",
+          "role": "moderator",
+          "affiliation": "Story Matters Media"
+        }
+      ],
+      "page": 18
+    },
+    {
+      "title": "The Strike",
+      "directors": [
+        "JoeBill Muñoz",
+        "Lucas Guilkey"
+      ],
+      "country": "United States",
+      "film_year": 2024,
+      "runtime_min": 86,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-09",
+        "time": "1:30 PM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "The Strike weaves together, thread-by-thread, a half century of personal and criminal justice history into a single, compelling narrative around the drama of the 2013 hunger strike to end indefinite isolation. Grounded in testimonies from the hunger strikers themselves, the film details how the protest was conceived from a whisper inside the halls of Pelican Bay to a colossal feat across California prisons. With unprecedented access to state prison officials and never-before-seen footage from inside Pelican Bay, The Strike reveals the panic that gripped the highest echelons of state government.",
+      "after_screening": "Followed by post-screening discussion with director/producers JoeBill Muñoz and Lucas Guilkey, moderated by Peter Klein of NBC Universal.",
+      "people": [
+        {
+          "name": "JoeBill Muñoz",
+          "role": "director"
+        },
+        {
+          "name": "Lucas Guilkey",
+          "role": "director"
+        },
+        {
+          "name": "JoeBill Muñoz",
+          "role": "producer"
+        },
+        {
+          "name": "Lucas Guilkey",
+          "role": "producer"
+        },
+        {
+          "name": "JoeBill Muñoz",
+          "role": "discussant"
+        },
+        {
+          "name": "Lucas Guilkey",
+          "role": "discussant"
+        },
+        {
+          "name": "Peter Klein",
+          "role": "moderator",
+          "affiliation": "NBC Universal"
+        }
+      ],
+      "page": 19
+    },
+    {
+      "title": "The Accidental Spy",
+      "directors": [
+        "Anthony Wonke"
+      ],
+      "country": "United States, United Kingdom",
+      "film_year": 2024,
+      "runtime_min": 98,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-09",
+        "time": "4:00 PM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "Despite focusing on themes of espionage and terrorism, The Accidental Spy is essentially a love story centered around a family of New Yorkers who never gave up hope. Like so many immigrants before him, Blerim Skoro believed in the power of the American dream. He had moved mountains to bring his family to the country, albeit breaking the law along the way, but now had to suffer the consequences of his actions by being deported back to Kosovo. But rather than be separated from his wife, children, and extended family, he chose to find a way to get back home.",
+      "after_screening": "Followed by post-screening discussion with producer Johnny Howorth, moderated by Ron Nixon of the Associated Press.",
+      "people": [
+        {
+          "name": "Anthony Wonke",
+          "role": "director"
+        },
+        {
+          "name": "Blerim Skoro",
+          "role": "subject"
+        },
+        {
+          "name": "Johnny Howorth",
+          "role": "producer"
+        },
+        {
+          "name": "Johnny Howorth",
+          "role": "discussant"
+        },
+        {
+          "name": "Ron Nixon",
+          "role": "moderator",
+          "affiliation": "the Associated Press"
+        }
+      ],
+      "page": 20
+    },
+    {
+      "title": "Ernest Cole: Lost and Found",
+      "directors": [
+        "Raoul Peck"
+      ],
+      "country": "France",
+      "film_year": 2024,
+      "runtime_min": 105,
+      "premiere": null,
+      "slot": "Spotlight",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-09",
+        "time": "6:30 PM",
+        "venue": "The Johns Hopkins University Bloomberg Center (Theater)"
+      },
+      "synopsis": "One of the first Black freelance photographers in South Africa, whose early pictures, shocking at the time of their first publication, Ernest Cole revealed to the world Black life under apartheid. Cole fled South Africa in 1966 and lived in exile in the U.S., where he photographed extensively in New York City and the American South, fascinated by the ways this country could be at times so vastly different, and at others eerily similar, to the segregated culture of his homeland. After his death, more than 60,000 of his 35mm film negatives were inexplicably discovered in a bank vault in Stockholm. Telling his own story through his writings, the recollections of those closest to him, and the lens of his uncompromising work, the film is a reintroduction of a pivotal Black artist to a new generation.",
+      "after_screening": "Followed by post-screening discussion with Oscar-nominated director/writer/producer Raoul Peck, moderated by Sig Libowitz of JHU AAP Graduate Film and Media Program.",
+      "people": [
+        {
+          "name": "Raoul Peck",
+          "role": "director"
+        },
+        {
+          "name": "Ernest Cole",
+          "role": "subject"
+        },
+        {
+          "name": "Raoul Peck",
+          "role": "discussant"
+        },
+        {
+          "name": "Sig Libowitz",
+          "role": "moderator",
+          "affiliation": "JHU AAP Graduate Film and Media Program"
+        }
+      ],
+      "page": 21
+    },
+    {
+      "title": "Mistress Dispeller",
+      "directors": [
+        "Elizabeth Lo"
+      ],
+      "country": "China, United States",
+      "film_year": 2024,
+      "runtime_min": 94,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-09",
+        "time": "8:30 PM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "In China, a new industry has emerged devoted to helping couples stay married in the face of infidelity. Wang Zhenxi is part of this growing profession, a \"mistress dispeller\" who is hired to maintain the bonds of marriage, and break up affairs by any means necessary. Offering strikingly intimate access to private dramas usually hidden behind closed doors, Mistress Dispeller follows a real, unfolding case of infidelity as Teacher Wang attempts to bring a couple back from the edge of crisis. Their story shifts our sympathies between husband, wife and mistress to explore the ways emotion, pragmatism and cultural norms collide to shape romantic relationships in contemporary China.",
+      "after_screening": "Followed by post-screening discussion with producer Emma D. Miller, moderated by Diana Jean Schemo of Double Exposure.",
+      "people": [
+        {
+          "name": "Elizabeth Lo",
+          "role": "director"
+        },
+        {
+          "name": "Wang Zhenxi",
+          "role": "subject"
+        },
+        {
+          "name": "Emma D. Miller",
+          "role": "producer"
+        },
+        {
+          "name": "Emma D. Miller",
+          "role": "discussant"
+        },
+        {
+          "name": "Diana Jean Schemo",
+          "role": "moderator",
+          "affiliation": "Double Exposure"
+        }
+      ],
+      "page": 22
+    },
+    {
+      "title": "Relentless Memory",
+      "directors": [
+        "Paula Rodriguez Sickert"
+      ],
+      "country": "Chile, Argentina",
+      "film_year": 2024,
+      "runtime_min": 93,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-10",
+        "time": "11:00 AM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "An indigenous Mapuche activist and researcher unveils a multitude of atrocities committed against her ancestors, whose story has been silenced for over a century. Committed to unearthing her ancestors' silenced history, Margarita embarks on a profound journey, guided by the diary of Katrulaf, an indigenous Mapuche prisoner of war. She retraces the Mapuches' deportation route, and in unearthing these pasts, gives voice to a displaced people and the genocide inflicted upon them during the military invasions that founded Argentina and Chile.",
+      "after_screening": "Followed by post-screening discussion with director Paula Rodriguez Sickert, moderated by Dana Hedgpeth of The Washington Post.",
+      "people": [
+        {
+          "name": "Paula Rodriguez Sickert",
+          "role": "director"
+        },
+        {
+          "name": "Paula Rodriguez Sickert",
+          "role": "discussant"
+        },
+        {
+          "name": "Dana Hedgpeth",
+          "role": "moderator",
+          "affiliation": "The Washington Post"
+        }
+      ],
+      "page": 23
+    },
+    {
+      "title": "American Coup: Wilmington 1898",
+      "directors": [
+        "Brad Lichtenstein",
+        "Yoruba Richen"
+      ],
+      "country": "United States",
+      "film_year": 2024,
+      "runtime_min": 111,
+      "premiere": null,
+      "slot": null,
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-10",
+        "time": "1:30 PM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "American Coup: Wilmington 1898 tells the little-known story of a deadly race massacre and carefully orchestrated insurrection in North Carolina's largest city in 1898 — the only coup d'état in the history of the US. Stoking fears of \"Negro Rule,\" self-described white supremacists used intimidation and violence to destroy Black political and economic power and overthrow Wilmington's democratically-elected, multi-racial government. Black residents were murdered and thousands were banished. The story of what happened in Wilmington was suppressed for decades until descendants and scholars began to investigate. Today, many of those descendants — Black and white — seek the truth about this intentionally buried history.",
+      "after_screening": "Followed by post-screening discussion with directors Brad Lichtenstein and Yoruba Richen, plus executive producer Rachel Raney, moderated by Ronnie Green of the Associated Press.",
+      "people": [
+        {
+          "name": "Brad Lichtenstein",
+          "role": "director"
+        },
+        {
+          "name": "Yoruba Richen",
+          "role": "director"
+        },
+        {
+          "name": "Rachel Raney",
+          "role": "executive producer"
+        },
+        {
+          "name": "Brad Lichtenstein",
+          "role": "discussant"
+        },
+        {
+          "name": "Yoruba Richen",
+          "role": "discussant"
+        },
+        {
+          "name": "Rachel Raney",
+          "role": "discussant"
+        },
+        {
+          "name": "Ronnie Green",
+          "role": "moderator",
+          "affiliation": "the Associated Press"
+        }
+      ],
+      "page": 24
+    },
+    {
+      "title": "Homegrown",
+      "directors": [
+        "Michael Premo"
+      ],
+      "country": "United States",
+      "film_year": 2024,
+      "runtime_min": 109,
+      "premiere": null,
+      "slot": "Closing Night",
+      "is_short": false,
+      "shorts_program": null,
+      "screening": {
+        "date": "2024-11-10",
+        "time": "4:30 PM",
+        "venue": "U.S. Naval Heritage Center"
+      },
+      "synopsis": "Homegrown is an unflinching chronicle of Americans at war with each other. Three right-wing activists—a newly politicized father-to-be in New Jersey, an Air Force veteran organizing conservatives in New York City, and a charismatic activist from Texas—crisscross the country in 2020, campaigning for Donald Trump and building a movement they hope will outlast him. When they become convinced that the election is stolen, they take their fight to the streets. The result is a chilling portrait of a growing movement pushing American democracy to the brink.",
+      "after_screening": "Followed by post-screening discussion with director/producer Michael Premo and producer Rachel Falcone, moderated by Ron Nixon of the Associated Press.",
+      "people": [
+        {
+          "name": "Michael Premo",
+          "role": "director"
+        },
+        {
+          "name": "Michael Premo",
+          "role": "producer"
+        },
+        {
+          "name": "Rachel Falcone",
+          "role": "producer"
+        },
+        {
+          "name": "Michael Premo",
+          "role": "discussant"
+        },
+        {
+          "name": "Rachel Falcone",
+          "role": "discussant"
+        },
+        {
+          "name": "Ron Nixon",
+          "role": "moderator",
+          "affiliation": "the Associated Press"
+        }
+      ],
+      "page": 25
+    },
+    {
+      "title": "Safe Place",
+      "directors": [
+        "Samuel-Ali Mirpoorian"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 20,
+      "premiere": null,
+      "slot": "Shorts: Illuminating Perspectives",
+      "is_short": true,
+      "shorts_program": "Shorts: Illuminating Perspectives",
+      "screening": {
+        "date": "2024-11-08",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "Although experiencing a lifelong battle with pain and trauma, Jerod Draper lived an average, normal life in Southern Indiana. During high school, Jerod started to get off track after the death of his best friend at the age of 14, and his first love at 15. To cope with the sudden loss at such a young age, Jerod started experimenting with drugs.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Samuel-Ali Mirpoorian",
+          "role": "director"
+        },
+        {
+          "name": "Jerod Draper",
+          "role": "subject"
+        },
+        {
+          "name": "Lynne Adrine",
+          "role": "moderator",
+          "affiliation": "LKA Strategies"
+        }
+      ],
+      "page": 26
+    },
+    {
+      "title": "Everything Is Fine",
+      "directors": [
+        "Vanessa Kjeldsen"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 28,
+      "premiere": null,
+      "slot": "Shorts: Illuminating Perspectives",
+      "is_short": true,
+      "shorts_program": "Shorts: Illuminating Perspectives",
+      "screening": {
+        "date": "2024-11-08",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "Evanston, a suburb just north of Chicago, touts its progressivism and inclusion. It was the first city in the U.S. to offer reparations for Black residents and every street corner boasts Black Lives Matter signs, but Evanston's Black residents have a different story to tell.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Vanessa Kjeldsen",
+          "role": "director"
+        },
+        {
+          "name": "Lynne Adrine",
+          "role": "moderator",
+          "affiliation": "LKA Strategies"
+        }
+      ],
+      "page": 26
+    },
+    {
+      "title": "A Shot at History",
+      "directors": [
+        "Erika Cohn"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 24,
+      "premiere": null,
+      "slot": "Shorts: Illuminating Perspectives",
+      "is_short": true,
+      "shorts_program": "Shorts: Illuminating Perspectives",
+      "screening": {
+        "date": "2024-11-08",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "Fulfilling a childhood promise to her father who suffered from a fatal disease, Nita Patel made it her mission to cure infectious diseases. Her determination led her to develop a life saving vaccine during the height of a global pandemic. Through Nita's journey to become a powerhouse scientist, we witness the untold story of women scientists, along with the strength and resilience of the human spirit.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Erika Cohn",
+          "role": "director"
+        },
+        {
+          "name": "Nita Patel",
+          "role": "subject"
+        },
+        {
+          "name": "Lynne Adrine",
+          "role": "moderator",
+          "affiliation": "LKA Strategies"
+        }
+      ],
+      "page": 27
+    },
+    {
+      "title": "Police Dive",
+      "directors": [
+        "Teresa Carante"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 10,
+      "premiere": null,
+      "slot": "Shorts: Illuminating Perspectives",
+      "is_short": true,
+      "shorts_program": "Shorts: Illuminating Perspectives",
+      "screening": {
+        "date": "2024-11-08",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "Sgt. Mike Berry — officer, man of God, and world famous underwater detective — stands on Lake Chesdin's muddy shore, ready to dive for a murder weapon through a kaleidoscope of memories.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Teresa Carante",
+          "role": "director"
+        },
+        {
+          "name": "Mike Berry",
+          "role": "subject"
+        },
+        {
+          "name": "Lynne Adrine",
+          "role": "moderator",
+          "affiliation": "LKA Strategies"
+        }
+      ],
+      "page": 27
+    },
+    {
+      "title": "American Grail: A Quest for the Ivory-Billed Woodpecker",
+      "directors": [
+        "Andy Sarjahani"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 16,
+      "premiere": null,
+      "slot": "Shorts: Reframing the South",
+      "is_short": true,
+      "shorts_program": "Shorts: Reframing the South",
+      "screening": {
+        "date": "2024-11-09",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "The siren call of the ivory-billed woodpecker lures a New York-based tantric sex teacher into the swamps of the American South on a 17-year journey to prove the mythic bird still exists. Along the way, he finds a tendril of hope in the face of climate change.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Andy Sarjahani",
+          "role": "director"
+        },
+        {
+          "name": "Brent Lambert-Zaffino",
+          "role": "moderator",
+          "affiliation": "Double Exposure"
+        },
+        {
+          "name": "Nick Price",
+          "role": "moderator",
+          "affiliation": "Reel South"
+        }
+      ],
+      "page": 28
+    },
+    {
+      "title": "How to Sue the Klan",
+      "directors": [
+        "John Beder"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 35,
+      "premiere": null,
+      "slot": "Shorts: Reframing the South",
+      "is_short": true,
+      "shorts_program": "Shorts: Reframing the South",
+      "screening": {
+        "date": "2024-11-09",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "In 1982, five Black women from Chattanooga used legal ingenuity to take on the Ku Klux Klan in civil court, fighting to hold them accountable for their crimes and bring justice to their community. Their victory set a legal precedent that continues to inspire the ongoing fight against organized hate.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "John Beder",
+          "role": "director"
+        },
+        {
+          "name": "Brent Lambert-Zaffino",
+          "role": "moderator",
+          "affiliation": "Double Exposure"
+        },
+        {
+          "name": "Nick Price",
+          "role": "moderator",
+          "affiliation": "Reel South"
+        }
+      ],
+      "page": 28
+    },
+    {
+      "title": "Prelude of a Story",
+      "directors": [
+        "Ashley Salman"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 17,
+      "premiere": null,
+      "slot": "Shorts: Reframing the South",
+      "is_short": true,
+      "shorts_program": "Shorts: Reframing the South",
+      "screening": {
+        "date": "2024-11-09",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "After a mother's passing, a daughter searches through archival footage to understand who she was, and how it connects to the father's abusive relationship that is shaping her understanding of womanhood.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Ashley Salman",
+          "role": "director"
+        },
+        {
+          "name": "Brent Lambert-Zaffino",
+          "role": "moderator",
+          "affiliation": "Double Exposure"
+        },
+        {
+          "name": "Nick Price",
+          "role": "moderator",
+          "affiliation": "Reel South"
+        }
+      ],
+      "page": 29
+    },
+    {
+      "title": "Expression of Illness",
+      "directors": [
+        "Bryn Silverman"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 21,
+      "premiere": null,
+      "slot": "Shorts: Reframing the South",
+      "is_short": true,
+      "shorts_program": "Shorts: Reframing the South",
+      "screening": {
+        "date": "2024-11-09",
+        "time": "12:00 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "After a routine follow-up appointment, Bryn learns her treatment isn't over. What begins as a solo investigation into the thoroughness of her healthcare, evolves into a larger re-imagining of the metrics we use to measure our well-being and the importance of community in healing.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Bryn Silverman",
+          "role": "director"
+        },
+        {
+          "name": "Brent Lambert-Zaffino",
+          "role": "moderator",
+          "affiliation": "Double Exposure"
+        },
+        {
+          "name": "Nick Price",
+          "role": "moderator",
+          "affiliation": "Reel South"
+        }
+      ],
+      "page": 29
+    },
+    {
+      "title": "Projecting Protest",
+      "directors": [
+        "Thomas Clement"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 22,
+      "premiere": null,
+      "slot": "Shorts: Breaking the Mold",
+      "is_short": true,
+      "shorts_program": "Shorts: Breaking the Mold",
+      "screening": {
+        "date": "2024-11-10",
+        "time": "1:30 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "Over the past decade, advancements in projection technology have made devices smaller, cheaper, and more powerful—opening up new avenues for protest. Activists from across the political spectrum are now using this technology to project messages onto buildings, creating what some call \"temporary graffiti.\" This form of protest, largely unregulated by U.S. law, blurs the line between free expression and property rights.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Thomas Clement",
+          "role": "director"
+        },
+        {
+          "name": "Nicki Mayo",
+          "role": "moderator",
+          "affiliation": "Nicki Mayo News, LLC"
+        }
+      ],
+      "page": 30
+    },
+    {
+      "title": "I Am Ready, Warden",
+      "directors": [
+        "Smriti Mundhra"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 37,
+      "premiere": null,
+      "slot": "Shorts: Breaking the Mold",
+      "is_short": true,
+      "shorts_program": "Shorts: Breaking the Mold",
+      "screening": {
+        "date": "2024-11-10",
+        "time": "1:30 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "In the days leading up to his execution, Texas death row prisoner John Henry Ramirez seeks redemption from his victim's son.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Smriti Mundhra",
+          "role": "director"
+        },
+        {
+          "name": "John Henry Ramirez",
+          "role": "subject"
+        },
+        {
+          "name": "Nicki Mayo",
+          "role": "moderator",
+          "affiliation": "Nicki Mayo News, LLC"
+        }
+      ],
+      "page": 30
+    },
+    {
+      "title": "Fox Chase Boy",
+      "directors": [
+        "Gerad Argeros",
+        "Kaya Moon Dillon"
+      ],
+      "country": "USA",
+      "film_year": 2024,
+      "runtime_min": 27,
+      "premiere": null,
+      "slot": "Shorts: Breaking the Mold",
+      "is_short": true,
+      "shorts_program": "Shorts: Breaking the Mold",
+      "screening": {
+        "date": "2024-11-10",
+        "time": "1:30 PM",
+        "venue": "Martin Luther King Jr. Memorial Library"
+      },
+      "synopsis": "During his childhood in the early 80s, Gerad Argeros fell victim to the Reverend James Brzyski, the most prolific known abuser in the Archdiocese of the Philadelphia Catholic Church. In 2017, the first in a series of tragic deaths of Brzyski's other victims from the neighborhood made it clear the time had come to tell the survivor story of Fox Chase Boy.",
+      "after_screening": null,
+      "people": [
+        {
+          "name": "Gerad Argeros",
+          "role": "director"
+        },
+        {
+          "name": "Kaya Moon Dillon",
+          "role": "director"
+        },
+        {
+          "name": "Gerad Argeros",
+          "role": "subject"
+        },
+        {
+          "name": "Nicki Mayo",
+          "role": "moderator",
+          "affiliation": "Nicki Mayo News, LLC"
+        }
+      ],
+      "page": 31
+    }
+  ],
+  "sessions": [
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2024-11-07",
+      "time": "8:30 AM",
+      "end_time": "9:30 AM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 11
+    },
+    {
+      "title": "The Morning After: Analyzing the 2024 Presidential Election Results",
+      "kind": "conversation",
+      "date": "2024-11-07",
+      "time": "9:30 AM",
+      "end_time": "10:15 AM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "As the United States emerges from a staggeringly fraught presidential election, marked by polarization and concerns for the future of democracy, we open this year's festival by hearing from those who have been most closely watching the battle for votes. What does this election, in conduct and results, tell us about where Americans are as a people, how values are shifting, and where the nation is headed? Can we even speak of \"a people\" in this moment of division? For the journalists and filmmakers listening in, how do we tell the stories of these fractious times?",
+      "people": [
+        {
+          "name": "Amanda Becker",
+          "role": "panelist"
+        },
+        {
+          "name": "Michael D. Cohen",
+          "role": "panelist"
+        },
+        {
+          "name": "Kate Woodsome",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 34
+    },
+    {
+      "title": "Are Documentaries Journalism? When Prosecutors Decide",
+      "kind": "panel",
+      "date": "2024-11-07",
+      "time": "10:20 AM",
+      "end_time": "11:20 AM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "In a bid to obstruct reporting on the prosecution of a Michigan man accused of terrorism, the US Justice Department recently argued that documentaries don't count as journalism. We'll hear from Trevor Aaronson, The Intercept reporter who is battling this claim. Panelists will explore prosecutors' attempts to narrow the scope of protected journalism, examining the stakes for documentary filmmakers and others whose work falls outside the boundaries of traditional news organizations.",
+      "people": [
+        {
+          "name": "Trevor Aaronson",
+          "role": "panelist"
+        },
+        {
+          "name": "Kathleen McClellan",
+          "role": "panelist"
+        },
+        {
+          "name": "Gordon Quinn",
+          "role": "panelist"
+        },
+        {
+          "name": "Seth Stern",
+          "role": "panelist"
+        },
+        {
+          "name": "Patricia Aufderheide",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 35
+    },
+    {
+      "title": "Generative AI: Toward Best Practices in Documentary Production",
+      "kind": "panel",
+      "date": "2024-11-07",
+      "time": "11:30 AM",
+      "end_time": "12:45 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "As the film industry begins to explore AI's potential for speeding production and opening new creative realms, complex ethical challenges are emerging apace. Industry experts will discuss topics such as intellectual property rights, bias in AI algorithms, spotting fakes, media credibility, and the potential impact of AI on creative jobs in filmmaking. The conversation aims to foster a deeper understanding of whether filmmakers can responsibly integrate AI into their projects while upholding ethical, artistic, and journalistic integrity.",
+      "people": [
+        {
+          "name": "Rachel Antell",
+          "role": "panelist"
+        },
+        {
+          "name": "Justine Bateman",
+          "role": "panelist"
+        },
+        {
+          "name": "Brandon Butler",
+          "role": "panelist"
+        },
+        {
+          "name": "Daniel Freed",
+          "role": "panelist"
+        },
+        {
+          "name": "Graham Sack",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "I Hope This Helps!"
+      ],
+      "page": 36
+    },
+    {
+      "title": "Lunch",
+      "kind": "other",
+      "date": "2024-11-07",
+      "time": "12:45 PM",
+      "end_time": "1:30 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 11
+    },
+    {
+      "title": "Cross Country: Unpacking Regionalism in Documentary Filmmaking",
+      "kind": "panel",
+      "date": "2024-11-07",
+      "time": "1:30 PM",
+      "end_time": "2:40 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "In response to a growing call for narratives outside the media hubs of New York and Los Angeles, regional organizations have emerged to support filmmakers in capturing the diverse experiences and perspectives of America's heartland. Have they succeeded in revealing the complexities behind the nation's polarization, and what insights have a more regional approach allowed filmmakers to uncover? Panelists will discuss the impact of these films on audiences and the broader cultural discourse across the country.",
+      "people": [
+        {
+          "name": "Aaron Asbury",
+          "role": "panelist"
+        },
+        {
+          "name": "Laura Deutch",
+          "role": "panelist"
+        },
+        {
+          "name": "Ryan Pearson",
+          "role": "panelist"
+        },
+        {
+          "name": "Ouida Washington",
+          "role": "panelist"
+        },
+        {
+          "name": "Nick Price",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 37
+    },
+    {
+      "title": "Can Audiences Trust Us?",
+      "kind": "panel",
+      "date": "2024-11-07",
+      "time": "2:45 PM",
+      "end_time": "3:55 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "Documentary filmmakers and journalists alike face a daunting challenge amid historically low public trust in media and deep divisions on significant social and political matters. What can filmmakers do to earn, and keep, audience trust in their work? Panelists who are leading by example in this field share their lessons learned and the standards that now guide them.",
+      "people": [
+        {
+          "name": "Nina Alvarez",
+          "role": "panelist"
+        },
+        {
+          "name": "Margaret “Mishi” Ebrahim",
+          "role": "panelist"
+        },
+        {
+          "name": "Erin Texeira",
+          "role": "panelist"
+        },
+        {
+          "name": "Sally Lehrman",
+          "role": "panelist"
+        },
+        {
+          "name": "Noland Walker",
+          "role": "panelist"
+        },
+        {
+          "name": "Eric Deggans",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 38
+    },
+    {
+      "title": "Into the Deep Blue: A Conversation with the Outlaw Ocean Project",
+      "kind": "conversation",
+      "date": "2024-11-07",
+      "time": "4:00 PM",
+      "end_time": "5:00 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "There is perhaps no space on the planet more In Flux | Out of Bounds, than the deep sea. Oceans cover 70 percent of the earth's surface, all but 20 percent an uncharted mystery, beyond any law. Convinced there was more to tell after a special assignment for The New York Times, Ian Urbina launched the Outlaw Ocean Project to investigate the seas. Working with cinematographer, Ben Blankenship, Outlaw Ocean has exposed human trafficking in Libya, forced labor in India, and indentured servitude on Chinese ships that supply nearly 80 percent of the squid sold in the U.S.",
+      "people": [
+        {
+          "name": "Ian Urbina",
+          "role": "speaker"
+        },
+        {
+          "name": "Ben Blankenship",
+          "role": "speaker"
+        },
+        {
+          "name": "Sig Libowitz",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 39
+    },
+    {
+      "title": "Breakfast",
+      "kind": "other",
+      "date": "2024-11-08",
+      "time": "8:30 AM",
+      "end_time": "9:30 AM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": null,
+      "people": [],
+      "related_films": [],
+      "page": 12
+    },
+    {
+      "title": "Envisioning the Future: Sustainable Solutions for Filmmakers",
+      "kind": "panel",
+      "date": "2024-11-08",
+      "time": "9:30 AM",
+      "end_time": "10:40 AM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "Filmmakers are currently facing critical issues that could impact the future of filmmaking as a career. These challenges include an evolving distribution landscape, the impact of AI, project funding, and fair compensation. In this conversation, we'll envision a future where filmmakers can effectively monetize their work, emphasizing the need for innovative approaches and solutions that highlight the importance of films in society.",
+      "people": [
+        {
+          "name": "Lailanie Gadia",
+          "role": "panelist"
+        },
+        {
+          "name": "Brian Newman",
+          "role": "panelist"
+        },
+        {
+          "name": "Jacqueline Olive",
+          "role": "panelist"
+        },
+        {
+          "name": "Zeena Starbuck",
+          "role": "panelist"
+        },
+        {
+          "name": "Malkia K. Lydia",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 40
+    },
+    {
+      "title": "Personal Stories, Universal Impact: The Power of Investigative Filmmaking",
+      "kind": "panel",
+      "date": "2024-11-08",
+      "time": "10:45 AM",
+      "end_time": "11:55 AM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "Let's take a fresh look at how filmmakers use personal stories to create investigative films that dive deep into hidden truths, illuminating larger societal issues. By focusing on individual experiences, these filmmakers create emotionally resonant narratives that connect with audiences on a human level while shedding light on critical topics. Join a discussion with filmmakers as they share their approaches to investigating and crafting compelling personal stories that inspire change and provoke reflection.",
+      "people": [
+        {
+          "name": "Gerad Argeros",
+          "role": "panelist"
+        },
+        {
+          "name": "Debra Aroko",
+          "role": "panelist"
+        },
+        {
+          "name": "Erika Cohn",
+          "role": "panelist"
+        },
+        {
+          "name": "Emma D. Miller",
+          "role": "panelist"
+        },
+        {
+          "name": "Rajal Pitroda",
+          "role": "panelist"
+        },
+        {
+          "name": "Russell Leigh Sharman",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Fox Chase Boy",
+        "Searching for Amani",
+        "A Shot at History",
+        "Mistress Dispeller"
+      ],
+      "page": 41
+    },
+    {
+      "title": "Lunch + Conversation: Filmmakers Who've Cracked the PBS Code",
+      "kind": "conversation",
+      "date": "2024-11-08",
+      "time": "12:10 PM",
+      "end_time": "12:55 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "In this no-holds-barred conversation, hear from two journalist/filmmakers who have successfully navigated the PBS universe of programs to bring their work to PBS audiences. Three-time Emmy nominee Bernardo Ruiz, director of Kingdom of Shadows and El Equipo, and Kim Haas, host and producer of Afro-Latino Travels, talk about the choice to work with PBS, about the network's standards and practices, and about remaining true to their artistic visions.",
+      "people": [
+        {
+          "name": "Kim Haas",
+          "role": "speaker"
+        },
+        {
+          "name": "Bernardo Ruiz",
+          "role": "speaker"
+        },
+        {
+          "name": "Ricardo Sandoval-Palos",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 42
+    },
+    {
+      "title": "Mining and Contributing to Archives: Crafting the Future of Documentary Storytelling",
+      "kind": "panel",
+      "date": "2024-11-08",
+      "time": "1:00 PM",
+      "end_time": "2:15 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "Archives offer filmmakers tangible connections to the events, cultures, and individuals they aim to illuminate, encompassing historical footage, photographs, personal letters, and official documents. By skillfully integrating these archival materials, filmmakers breathe life into stories, providing audiences with a vivid and poignant glimpse into our collective history. Hear from the directors of three films, Acts of Reparation, Bombshell and American Coup: Wilmington 1898, as they explore how to effectively work with archives to enhance storytelling.",
+      "people": [
+        {
+          "name": "Macky Alston",
+          "role": "panelist"
+        },
+        {
+          "name": "Selina Lewis Davidson",
+          "role": "panelist"
+        },
+        {
+          "name": "Gaia De Simoni",
+          "role": "panelist"
+        },
+        {
+          "name": "Ben Loeterman",
+          "role": "panelist"
+        },
+        {
+          "name": "Teresa Murphy",
+          "role": "panelist"
+        },
+        {
+          "name": "Rachel Antell",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [
+        "Acts of Reparation",
+        "Bombshell",
+        "American Coup: Wilmington 1898"
+      ],
+      "page": 43
+    },
+    {
+      "title": "Distribution in Flux: Reimagining and Thriving in the New Era",
+      "kind": "panel",
+      "date": "2024-11-08",
+      "time": "2:30 PM",
+      "end_time": "3:45 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "Today's rapidly evolving distribution landscape is reshaping the film industry. This panel of experts will analyze the impact of digital vs. theatrical platforms, changes in audience behavior, and the contraction of what networks and streamers are acquiring, particularly in terms of genres. We'll explore emerging distribution models, and the role of film festivals in enhancing visibility. Attendees will gain valuable insights into navigating film distribution, empowering them to make informed decisions for their own projects amidst these shifting tides.",
+      "people": [
+        {
+          "name": "Daniel Cantagallo",
+          "role": "panelist"
+        },
+        {
+          "name": "Amy Hobby",
+          "role": "panelist"
+        },
+        {
+          "name": "Christie Marchese",
+          "role": "panelist"
+        },
+        {
+          "name": "Jeffrey Winter",
+          "role": "panelist"
+        },
+        {
+          "name": "Laetitia Doyle",
+          "role": "moderator"
+        }
+      ],
+      "related_films": [],
+      "page": 44
+    },
+    {
+      "title": "Working with Participants in Investigative Film: A Conversation with Raoul Peck",
+      "kind": "conversation",
+      "date": "2024-11-08",
+      "time": "3:50 PM",
+      "end_time": "5:00 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "Natalie Bullock Brown, director of the Documentary Accountability Working Group (DAWG) speaks with Raoul Peck about his work with participants in his documentary Silver Dollar Road. In this discussion, she will apply the DAWG framework to explore the nuances of investigative filmmaking and the responsibilities filmmakers have toward their subjects.",
+      "people": [
+        {
+          "name": "Raoul Peck",
+          "role": "speaker"
+        },
+        {
+          "name": "Natalie Bullock Brown",
+          "role": "host"
+        }
+      ],
+      "related_films": [
+        "Silver Dollar Road"
+      ],
+      "page": 45
+    },
+    {
+      "title": "Happy Hour",
+      "kind": "reception",
+      "date": "2024-11-08",
+      "time": "5:00 PM",
+      "end_time": "6:30 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "Raise a glass with us, to 10 years of DX, celebrating the finest in investigative cinema!",
+      "people": [],
+      "related_films": [],
+      "page": 12
+    },
+    {
+      "title": "Workshop: Backpack Journalism for Filmmakers",
+      "kind": "workshop",
+      "date": "2024-11-09",
+      "time": "10:00 AM",
+      "end_time": "11:30 AM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "A pioneer of the methodology today known as \"Backpack Video Journalism,\" Bill Gentile explains how to use visual storytelling to make powerful reportage and documentaries. From the Ecuadoran Amazon to the battlefields of Afghanistan, Gentile has employed the \"one-man-band\" methodology to produce compelling stories and gain national recognition. This workshop covers key ingredients of his craft: Clips to Story. Composition. Character. Dramatic Arcs. Formal and Informal Interviews. Sound. Script. Narration. You'll leave with solid tips for creating impactful stories with minimal gear.",
+      "people": [
+        {
+          "name": "Bill Gentile",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 46
+    },
+    {
+      "title": "Workshop: Self-Care for Filmmakers: The Trauma Aware Toolkit",
+      "kind": "workshop",
+      "date": "2024-11-09",
+      "time": "10:00 AM",
+      "end_time": "11:30 AM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "Journalists and filmmakers worldwide cover the most vulnerable people, while themselves contending with the impact of stress and trauma. The Dart Center for Journalism and Trauma has just released a new toolkit to help documentary filmmakers, journalists, and editors report on violence while taking care of themselves and colleagues.\n\nJudith Matloff, Dart's senior advisor for safety, will field questions about planning for difficult stories, interview techniques, and reporting on vulnerable communities, children, and survivors of gender/identity attacks.",
+      "people": [
+        {
+          "name": "Judith Matloff",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 46
+    },
+    {
+      "title": "Workshop: EditLife - Creating Short Content",
+      "kind": "workshop",
+      "date": "2024-11-09",
+      "time": "12:45 PM",
+      "end_time": "2:15 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "In today's fast-paced digital landscape, creating compelling short-form content is key to capturing and retaining audience attention. Learn how to distill complex stories into engaging, bite-sized formats, master visual storytelling techniques, and leverage platforms like Instagram and TikTok to reach wider audiences. Whether you're an aspiring filmmaker or a content creator, this session will equip you with the tools to make your stories resonate in a crowded media space.",
+      "people": [
+        {
+          "name": "Regi Allen",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 48
+    },
+    {
+      "title": "Workshop: Working Responsibly with Whistleblowers",
+      "kind": "workshop",
+      "date": "2024-11-09",
+      "time": "12:45 PM",
+      "end_time": "2:15 PM",
+      "venue": "The Johns Hopkins University Bloomberg Center",
+      "description": "Tyler Shultz and Theranos, Frances Haugen and Facebook, Brittany Kaiser and Cambridge Analytica, Sherron Watkins and Enron, Ed Pierson and Boeing. These whistleblowers are appealing narrators, sources, and subjects for documentary films. They supply the human element that allow viewers to understand complex fraud, misconduct, and other wrongdoing. While it can be empowering for whistleblowers to tell their stories on film, doing so creates considerable risks. In this workshop, you will hear from a documentary filmmaker/journalist, attorneys",
+      "people": [
+        {
+          "name": "Margaux Ewen",
+          "role": "instructor"
+        },
+        {
+          "name": "Mary Inman",
+          "role": "instructor"
+        },
+        {
+          "name": "Peter Klein",
+          "role": "instructor"
+        },
+        {
+          "name": "Jennifer Nelson",
+          "role": "instructor"
+        }
+      ],
+      "related_films": [],
+      "page": 47
+    },
+    {
+      "title": "Shorts: Illuminating Perspectives",
+      "kind": "screening-event",
+      "date": "2024-11-08",
+      "time": "12:00 PM",
+      "end_time": null,
+      "venue": "Martin Luther King Jr. Memorial Library",
+      "description": "This powerful collection of short documentaries offers an eye-opening exploration of the human condition. From intimate personal stories to broader societal issues, each film delves into unique perspectives on resilience, identity, and the shared experiences that connect us all. Prepare to be moved, challenged, and inspired as these filmmakers bring untold stories to light and push the boundaries of empathy and understanding.",
+      "people": [
+        {
+          "name": "Lynne Adrine",
+          "role": "moderator",
+          "affiliation": "LKA Strategies"
+        }
+      ],
+      "related_films": [
+        "Safe Place",
+        "Everything Is Fine",
+        "A Shot at History",
+        "Police Dive"
+      ],
+      "page": 26
+    },
+    {
+      "title": "Shorts: Reframing the South (DX Reel South Award Finalists)",
+      "kind": "screening-event",
+      "date": "2024-11-09",
+      "time": "12:00 PM",
+      "end_time": null,
+      "venue": "Martin Luther King Jr. Memorial Library",
+      "description": "The finalists for the DX Reel South Award present a dynamic and nuanced view of the American South, challenging stereotypes and broadening perspectives through powerful storytelling. These short documentaries explore the beauty and complexities of Southern life—its culture, history, and ongoing struggles—revealing a rich tapestry of untold narratives that invite audiences to see the South in a new light.",
+      "people": [
+        {
+          "name": "Brent Lambert-Zaffino",
+          "role": "moderator",
+          "affiliation": "Double Exposure"
+        },
+        {
+          "name": "Nick Price",
+          "role": "moderator",
+          "affiliation": "Reel South"
+        }
+      ],
+      "related_films": [
+        "American Grail: A Quest for the Ivory-Billed Woodpecker",
+        "How to Sue the Klan",
+        "Prelude of a Story",
+        "Expression of Illness"
+      ],
+      "page": 28
+    },
+    {
+      "title": "Shorts: Breaking the Mold: Defying Conventional Narrative Shorts",
+      "kind": "screening-event",
+      "date": "2024-11-10",
+      "time": "1:30 PM",
+      "end_time": null,
+      "venue": "Martin Luther King Jr. Memorial Library",
+      "description": "This bold collection of documentary shorts takes a stand against prevailing narratives, challenging viewers to rethink accepted beliefs and confront uncomfortable truths. Each film pushes back against dominant ways of thinking—whether about politics, society, culture, or identity—inviting us to question assumptions and explore alternative perspectives. These stories prove that pushing boundaries is essential to understanding the world in all its complexity.",
+      "people": [
+        {
+          "name": "Nicki Mayo",
+          "role": "moderator",
+          "affiliation": "Nicki Mayo News, LLC"
+        }
+      ],
+      "related_films": [
+        "Projecting Protest",
+        "I Am Ready, Warden",
+        "Fox Chase Boy"
+      ],
+      "page": 30
+    },
+    {
+      "title": "DX Access | DX Pitch",
+      "kind": "pitch",
+      "date": null,
+      "time": null,
+      "end_time": null,
+      "venue": null,
+      "description": "November 7-8, 2024. DX Access included with all Film Festival + Symposium passes.\n\nDX Access connects registered attendees to representatives of the most respected and innovative organizations and individuals in film and journalism, and provides unparalleled face time with funders, producers, festival programmers, distributors, media outlets, reporters, writers and directors. In pre-arranged one-on-one meetings, industry leaders will unpack how they work, learn more about your project and goals, and explore the possibilities for supporting your investigation in print or on screen.",
+      "people": [
+        {
+          "name": "Rachel Antell",
+          "role": "industry representative",
+          "title": "Co-Director, Archival Producers Alliance"
+        },
+        {
+          "name": "Aaron Asbury",
+          "role": "industry representative",
+          "title": "Visual Communications Manager, Appalshop"
+        },
+        {
+          "name": "Natalie Bullock Brown",
+          "role": "industry representative",
+          "title": "Assistant Professor & Filmmaker, North Carolina State Univ."
+        },
+        {
+          "name": "Laura Deutch",
+          "role": "industry representative",
+          "title": "Producer, Phillycam"
+        },
+        {
+          "name": "Laetitia Doyle",
+          "role": "industry representative",
+          "title": "Acquisitions and Sales Representative, Terranoa"
+        },
+        {
+          "name": "Margaret “Mishi” Ebrahim",
+          "role": "industry representative",
+          "title": "Senior Director Programming & Development, PBS"
+        },
+        {
+          "name": "Margaux Ewen",
+          "role": "industry representative",
+          "title": "Director - Whistleblower Protection Program, The Signals Network"
+        },
+        {
+          "name": "Eric Ferrero",
+          "role": "industry representative",
+          "title": "Executive Director, Fund for Investigative Journalism"
+        },
+        {
+          "name": "Melissa Houghton",
+          "role": "industry representative",
+          "title": "Executive Director, Women in Film & Video"
+        },
+        {
+          "name": "Mary Inman",
+          "role": "industry representative",
+          "title": "Partner, Whistleblower Partners, LLP"
+        },
+        {
+          "name": "Peter Klein",
+          "role": "industry representative",
+          "title": "Journalist & Documentary Filmmaker"
+        },
+        {
+          "name": "Sally Lehrman",
+          "role": "industry representative",
+          "title": "Chief Executive, The Trust Project"
+        },
+        {
+          "name": "Judith Matloff",
+          "role": "industry representative",
+          "title": "Author"
+        },
+        {
+          "name": "Kathleen McClellan",
+          "role": "industry representative",
+          "title": "Co-Founder and Deputy Director, Whistleblower and Source Protection Program (WHISPeR), ExposeFacts"
+        },
+        {
+          "name": "Jennifer Nelson",
+          "role": "industry representative",
+          "title": "Senior Staff Attorney, Reporters Committee for Freedom of the Press"
+        },
+        {
+          "name": "Brian Newman",
+          "role": "industry representative",
+          "title": "Founder, Sub-Genre"
+        },
+        {
+          "name": "Amanda Pike",
+          "role": "industry representative",
+          "title": "Director of TV & Documentaries, The Center for Investigative Reporting"
+        },
+        {
+          "name": "Nick Price",
+          "role": "industry representative",
+          "title": "Producer, Reel South"
+        },
+        {
+          "name": "Steve Sapienza",
+          "role": "industry representative",
+          "title": "Senior Strategist, Collab. News Partnerships, The Pulitzer Center on Crisis Reporting"
+        },
+        {
+          "name": "Almudena Toral",
+          "role": "industry representative",
+          "title": "Executive Producer, Video, ProPublica"
+        },
+        {
+          "name": "Noland Walker",
+          "role": "industry representative",
+          "title": "Co-Programmer, ITVS/Independent Lens"
+        },
+        {
+          "name": "Ouida Washington",
+          "role": "industry representative",
+          "title": "Producer"
+        },
+        {
+          "name": "Jeffrey Winter",
+          "role": "industry representative",
+          "title": "Co-Executive Director, The Film Collaborative"
+        }
+      ],
+      "related_films": [],
+      "page": 49
+    }
+  ],
+  "people": [
+    {
+      "name": "Michael D. Cohen",
+      "bio": "Michael D. Cohen teaches on digital political strategy, research methods, and communications writing at the JHU AAP Graduate Film and Media Program. He is Founder and CEO of Cohen Research Group, a data-driven analytics and technology firm publishing the award-winning Congress in Your Pocket suite of mobile apps. Dr. Cohen authored Modern Political Campaigns: How Professionalism, Technology, and Speed Have Revolutionized Elections.",
+      "affiliation": "Cohen Research Group",
+      "page": 34
+    },
+    {
+      "name": "Amanda Becker",
+      "bio": "Amanda Becker is The 19th*'s Washington correspondent, examining how gender shapes policy. She's covered the White House, Supreme Court, Congress, presidential elections, and numerous campaigns. Previously at Reuters for nearly eight years, she was embedded with Hillary Clinton's presidential campaign. Becker specializes in stories exploring democracy's connective tissues.",
+      "affiliation": "The 19th*",
+      "page": 34
+    },
+    {
+      "name": "Kate Woodsome",
+      "bio": "Kate Woodsome, a Pulitzer Prize-winning journalist, studies the relationship between mental health and democracy. As a writer and filmmaker, she exposes social and political forces that isolate people. She writes Invisible Threads, a weekly newsletter uncovering ties between mind and body health. Her work focuses on transforming intergenerational trauma into wellbeing.",
+      "affiliation": "Invisible Threads",
+      "page": 34
+    },
+    {
+      "name": "Patricia Aufderheide",
+      "bio": "Patricia Aufderheide is University Professor of Communication Studies at American University. She founded the School's Center for Media & Social Impact, where she's Senior Research Fellow. Her latest book is Kartemquin Films: Documentaries on the Frontlines of Democracy. Aufderheide has been a Fulbright Research Fellow and served on the Sundance Film Festival jury.",
+      "affiliation": "American University",
+      "page": 35
+    },
+    {
+      "name": "Seth Stern",
+      "bio": "Seth Stern directs the Freedom of the Press Foundation, overseeing support for journalists and whistleblowers under fire. He practiced media and First Amendment law for 13 years at a Chicago firm. Seth chairs the Chicago Bar Association's Media and Entertainment Law Committee and the American Bar Association's Media, Privacy and Advertising Law Committee.",
+      "affiliation": "Freedom of the Press Foundation",
+      "page": 35
+    },
+    {
+      "name": "Trevor Aaronson",
+      "bio": "Trevor Aaronson is an investigative journalist covering the FBI for over a decade. He contributes to The Intercept and authored The Terror Factory: Inside the FBI's Manufactured War on Terrorism. His recent documentary podcasts include Pulse: The Untold Story, Alphabet Boys, and Hold Fast: The Unadulterated Story of the World's Most Scandalous Website.",
+      "affiliation": "The Intercept",
+      "page": 35
+    },
+    {
+      "name": "Gordon Quinn",
+      "bio": "Gordon Quinn, Artistic Director and Founder of Kartemquin Films, has directed numerous documentaries including Home for Life, Hoop Dreams, and For The Left Hand. He's been Executive Producer on acclaimed films like The Interrupters, Life Itself, and Oscar-nominated Minding The Gap. Quinn's work spans decades of socially conscious filmmaking.",
+      "affiliation": "Kartemquin Films",
+      "page": 35
+    },
+    {
+      "name": "Kathleen McClellan",
+      "bio": "Kathleen McClellan co-founded and serves as Deputy Director for the Whistleblower and Source Protection Program (WHISPeR) at ExposeFacts. She provides pro bono legal representation to national security and intelligence community whistleblowers and media sources, focusing on human rights issues including mass surveillance, excessive secrecy, torture, and drone warfare.",
+      "affiliation": "ExposeFacts",
+      "page": 35
+    },
+    {
+      "name": "Graham Sack",
+      "bio": "Dr. Graham Sack is an award-winning screenwriter, director, academic, and performer exploring narrative fiction, emerging technology, and scientific discovery. He founded Chronotope Films and is the inaugural Dracopoulos-Bloomberg iDeas Lab Fellow at Johns Hopkins University's Berman Institute of Bioethics, teaching in the Graduate Film and Media Program.",
+      "affiliation": "Johns Hopkins University",
+      "page": 36
+    },
+    {
+      "name": "Justine Bateman",
+      "bio": "Justine Bateman, a filmmaker and author, has a decades-long career in film and TV, including Golden Globe and Emmy nominations. Her directorial debut Violet stars Olivia Munn and Justin Theroux. Bateman's short film Five Minutes premiered at TIFF. She authored the bestseller Fame and founded CREDO 23, its film festival, and foundation.",
+      "affiliation": "CREDO 23",
+      "page": 36
+    },
+    {
+      "name": "Rachel Antell",
+      "bio": "Rachel Antell has worked in documentary film production for over two decades. In 2014, she co-founded Sub-Basement Archival, serving as the archival producer. In 2023, Rachel co-founded the Archival Producers Alliance (APA) to organize and advocate for archival producers, educate about the craft, and improve accessibility of archival materials for independent filmmakers.",
+      "affiliation": "Archival Producers Alliance",
+      "page": 36
+    },
+    {
+      "name": "Brandon Butler",
+      "bio": "Brandon Butler, a copyright lawyer and expert on archival materials and fair use, was Director of Intellectual Property and Licensing at the University of Virginia Library from 2016-2024. Previously, he was Practitioner-in-Residence at American University's Samuelson-Glushko Intellectual Property Clinic, supervising student attorneys representing artists, filmmakers, and publishers.",
+      "affiliation": null,
+      "page": 36
+    },
+    {
+      "name": "Daniel Freed",
+      "bio": "Daniel Freed is an investigative journalist, TV producer, and writer with 20 years of experience. From 2010-2023, he was a senior producer at Kurtis Productions, writing and producing episodes of CNBC's American Greed. Previously, Daniel was a supervising producer at Current TV, helping launch the show infoMania.",
+      "affiliation": null,
+      "page": 36
+    },
+    {
+      "name": "Nick Price",
+      "bio": "Nick Price produces the award-winning PBS series Reel South, managing operations, programming, and production. Born and trained in Birmingham, Alabama, he began as a film fellow for Southern Exposure at the Southern Environmental Law Center. Nick has worked with National Geographic and Discovery.",
+      "affiliation": "Reel South (PBS)",
+      "page": 37
+    },
+    {
+      "name": "Aaron Asbury",
+      "bio": "Aaron Asbury joined Appalshop in 2021 as Program Coordinator of the Appalachian Media Institute (AMI). He has worked in media for several years, previously managing Pike TV and organizing the University of Pikeville Film and Media Arts Festival.",
+      "affiliation": "Appalshop",
+      "page": 37
+    },
+    {
+      "name": "Ouida Washington",
+      "bio": "Ouida Washington is a producer of award-winning music videos, narratives, and documentaries. She teaches documentary filmmaking at Spelman College. Ouida's directorial short film debut, The Language of Joy, explores a young girl's imaginative world intertwined with her mother's memories of a joyful day in Montgomery.",
+      "affiliation": "Spelman College",
+      "page": 37
+    },
+    {
+      "name": "Laura Deutch",
+      "bio": "Laura Deutch is a Philadelphia-based artist, educator, and cultural organizer exploring relationships between people, places, and stories. At PhillyCAM for over a decade, she produces live TV studio productions, documentaries, and community news. Laura is an active member and board member of the Termite TV Collective.",
+      "affiliation": "PhillyCAM",
+      "page": 37
+    },
+    {
+      "name": "Ryan Pearson",
+      "bio": "Ryan Pearson, a native Detroiter, is Executive Artistic Director of Detroit Narrative Agency (DNA). She advocates for body liberation and fat acceptance, working to dismantle ingrained body image issues among Black women, girls, and femmes.",
+      "affiliation": "Detroit Narrative Agency",
+      "page": 37
+    },
+    {
+      "name": "Eric Deggans",
+      "bio": "Eric Deggans is NPR's first full-time TV critic and a media analyst for MSNBC and NBC News. He guest-hosted CNN's Reliable Sources and became the first Black chairman of the Peabody Awards board. Deggans appears on shows like Morning Edition and All Things Considered.",
+      "affiliation": "NPR",
+      "page": 38
+    },
+    {
+      "name": "Noland Walker",
+      "bio": "Noland Walker co-programs ITVS's Independent Lens series on PBS. Previously an award-winning writer, producer, and director, his work includes Jonestown: The Life and Death of Peoples Temple and Boogie Man: The Lee Atwater Story. At ITVS, Walker developed Emmy® winners like In Football We Trust and (T)ERROR.",
+      "affiliation": "ITVS",
+      "page": 38
+    },
+    {
+      "name": "Sally Lehrman",
+      "bio": "Sally Lehrman is an award-winning reporter on medicine, science, and related policy, specializing in genetics, race, and gender. Her honors include a Peabody/Robert Wood Johnson Award, a duPont/Columbia Silver Baton, and a John S. Knight Fellowship.",
+      "affiliation": null,
+      "page": 38
+    },
+    {
+      "name": "Nina Alvarez",
+      "bio": "Nina Alvarez is a journalist, documentarian, video photographer, and educator. She directed Almost American (PBS 2024), following a family's fight against deportation. Her credits include Fields of Promise (PBS World Channel), The New Americans (PBS Latino Americans series), Very Young Girls (Showtime), and Battle for America's Schools (MSNBC).",
+      "affiliation": null,
+      "page": 38
+    },
+    {
+      "name": "Margaret “Mishi” Ebrahim",
+      "bio": "Mishi Ebrahim is PBS's senior director of programming and development, overseeing FRONTLINE and NewsHour. She commissions and acquires nonfiction films and series across platforms. Mishi previously worked at CBS News 60 Minutes, National Geographic, ABC News, and American University's Investigative Reporting Workshop. She's on 100Reporters' board of directors.",
+      "affiliation": "PBS",
+      "page": 38
+    },
+    {
+      "name": "Erin Texeira",
+      "bio": "Erin Texeira, senior editor for PBS's FRONTLINE, leads the Local Journalism Initiative supporting local newsrooms with resources for in-depth investigations. She's a former staff writer at the Associated Press, The Baltimore Sun, Newsday, and the Los Angeles Times, focusing on race, ethnicity, demographics, and social justice movements.",
+      "affiliation": "FRONTLINE (PBS)",
+      "page": 38
+    },
+    {
+      "name": "Sig Libowitz",
+      "bio": "Sig Libowitz directs the JHU AAP Graduate Film and Media Program and is a Senior Lecturer. He wrote and produced The Response, shortlisted for an Academy Award and winner of the American Bar Association's Silver Gavel Award. The film screened for the Pentagon, Congress, West Point, the Department of Justice, Oxford University, and the French Embassy.",
+      "affiliation": "JHU AAP Graduate Film and Media Program",
+      "page": 39
+    },
+    {
+      "name": "Ian Urbina",
+      "bio": "Ian Urbina directs The Outlaw Ocean Project, a non-profit journalism organization investigating labor issues in marine environments. Previously a New York Times staff reporter for 17 years, he's received awards including a Pulitzer Prize, two George Polk Awards, and an Emmy. Several of his investigations have been adapted into major motion pictures.",
+      "affiliation": "The Outlaw Ocean Project",
+      "page": 39
+    },
+    {
+      "name": "Ben Blankenship",
+      "bio": "Ben Blankenship, a filmmaker and naturalist guide, transitioned from film and TV production to photojournalism and writing. His work, spanning Central and South America, East Africa, and North America, has been published in National Geographic Explorer, The New York Times, The Oregonian, and Photographers Without Borders.",
+      "affiliation": null,
+      "page": 39
+    },
+    {
+      "name": "Malkia K. Lydia",
+      "bio": "Malkia K. Lydia produces short films for historical institutions and is directing two long-form documentaries combining participatory, verité, and archival methods. She's an experienced archival producer supporting various documentary genres, including investigative, true crime, biographical, sports, and music.",
+      "affiliation": null,
+      "page": 40
+    },
+    {
+      "name": "Brian Newman",
+      "bio": "Brian Newman founded Sub-Genre, consulting on film and media content strategy, distribution, and marketing for top brands. His company guides clients in leveraging entertainment to showcase values and increase impact. Newman previously served as CEO of the Tribeca Film Institute, produces independent films, and writes a popular weekly film newsletter.",
+      "affiliation": "Sub-Genre",
+      "page": 40
+    },
+    {
+      "name": "Jacqueline Olive",
+      "bio": "Jacqueline Olive is an independent filmmaker with nearly 20 years of journalism and film experience. She founded Tell It Media in 2011 to tell nuanced stories of diverse cultures. Her debut documentary, Always in Season, won the 2019 Sundance Special Jury Prize for Moral Urgency and the 2020 SIMA Documentary Jury Prize For Ethos.",
+      "affiliation": "Tell It Media",
+      "page": 40
+    },
+    {
+      "name": "Lailanie Gadia",
+      "bio": "Lailanie Gadia, a Filipina American community builder, producer, and financial professional, serves as Asian American Documentary Network (A-Doc)'s Operations Director. She helped series produce Emmy-nominated and Silver Anthem award-winning 2022 Asian American Stories of Resilience and Beyond shorts in partnership with WORLD Channel and Center for Asian American Media.",
+      "affiliation": "Asian American Documentary Network (A-Doc)",
+      "page": 40
+    },
+    {
+      "name": "Zeena Starbuck",
+      "bio": "Zeena Starbuck coordinates Doc Society's Democracy Story Unit (DSU) and leads research for DISCO Network's Independence Project. With DSU, she develops Democracy Story Labs and narrative strategy projects, including Democracy Story Lab London and Big Tech Narrative Initiative.",
+      "affiliation": "Doc Society",
+      "page": 40
+    },
+    {
+      "name": "Russell Leigh Sharman",
+      "bio": "Russell Leigh Sharman is a writer, filmmaker, anthropologist, and lecturer at the AAP Graduate Film and Media Program. His narrative and documentary projects screened at festivals internationally. He's written for major studios and production companies. Russell holds a Ph.D. Anthropology from Oxford University.",
+      "affiliation": "JHU AAP Graduate Film and Media Program",
+      "page": 41
+    },
+    {
+      "name": "Debra Aroko",
+      "bio": "Debra Aroko, a Kenyan filmmaker and JHU producer, focuses on stories of communities facing climate crises. She produces for the Solutions Storytelling Project, overseeing 19 short documentary films across Africa, highlighting challenges and resilience in affected communities.",
+      "affiliation": null,
+      "page": 41
+    },
+    {
+      "name": "Emma D. Miller",
+      "bio": "Emma D. Miller is a Gotham Award-nominated filmmaker exploring human experiences. She produced Iliana Sosa's SXSW award-winning What We Leave Behind and recently directed the short documentary The School of Canine Massage (SXSW 2024).",
+      "affiliation": null,
+      "page": 41
+    },
+    {
+      "name": "Gerad Argeros",
+      "bio": "Gerad Argeros is a Brooklyn-based writer, actor, producer, and father from Northeast Philadelphia. His theatrical performance Fox Chase Boy blended stand-up comedy, improvisation, and avant-garde theater. The show evolved into a short documentary film, exploring family problem-solving in street settings.",
+      "affiliation": null,
+      "page": 41
+    },
+    {
+      "name": "Erika Cohn",
+      "bio": "Erika Cohn is a Peabody, Emmy, and DGA Award-winning filmmaker recognized by Variety and DOC NYC. She directed and produced Belly of the Beast, about human rights abuses in women's prisons, which was broadcast on PBS' Independent Lens. Her recent work includes The Times Op-Docs short film, What You'll Remember.",
+      "affiliation": null,
+      "page": 41
+    },
+    {
+      "name": "Rajal Pitroda",
+      "bio": "Rajal Pitroda produces fiction and nonfiction films. A Women at Sundance Fellow and Sundance Creative Producing Fellow, she recently produced Down a Dark Stairwell, which premiered at True/False Film Festival and aired on Independent Lens. Her work has been supported by various film organizations and institutions.",
+      "affiliation": null,
+      "page": 41
+    },
+    {
+      "name": "Ricardo Sandoval-Palos",
+      "bio": "Ricardo Sandoval-Palos is PBS's Public Editor, mediating between audiences and PBS teams. An award-winning investigative reporter and editor, he's shaped nonprofit newsrooms and co-founded palabra. Ricardo previously edited for NPR, ICIJ, and The Sacramento Bee, and reported on Latin America for U.S. newspapers.",
+      "affiliation": "PBS",
+      "page": 42
+    },
+    {
+      "name": "Bernardo Ruiz",
+      "bio": "Bernardo Ruiz is a three-time Emmy®-nominated documentary filmmaker and Academy member. His latest feature, El Equipo, won awards at multiple festivals. Previous credits include The Infinite Race, Harvest Season, Kingdom of Shadows, and Reportero, which have aired on major networks and received various accolades.",
+      "affiliation": null,
+      "page": 42
+    },
+    {
+      "name": "Kim Haas",
+      "bio": "Kim Haas produces and hosts Afro-Latino Travels with Kim Haas, celebrating African influence in Latin America. She founded losafrolatinos.com and previously directed marketing for WWSI TV Telemundo in Philadelphia. Kim speaks Spanish, Italian, and Portuguese, and owns Haas Media LLC, a multilingual communications firm.",
+      "affiliation": "Haas Media LLC",
+      "page": 42
+    },
+    {
+      "name": "Ben Loeterman",
+      "bio": "Ben Loeterman's current film, Bombshell, examines U.S. government propaganda and press reporting on atomic bombings in Japan from 1945-47. He produced for PBS/FRONTLINE for 20 years, earning national Emmy Awards for investigative reporting and directing. His portfolio includes criminal justice, international policy, and popular media documentaries.",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Gaia De Simoni",
+      "bio": "Gaia De Simoni, a journalist experienced in print, digital, and documentary film, is co-producing Bombshell, exploring journalists' search for truth about atomic weapons in World War II. As producer, she analyzes interviews, oral histories, and leads research for background material and visual assets.",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Teresa Murphy",
+      "bio": "Teresa Murphy, a writer and filmmaker, recently served as Associate Producer for Emmy Award-winning 371 Productions. She led archival research for American Coup: Wilmington 1898 and has authored policy reports on school-to-work pathways and safeguarding incarcerated women during COVID-19.",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Macky Alston",
+      "bio": "Macky Alston co-directs and produces Acts of Reparation, premiering at Double Exposure. The film follows two friends exploring reparations on their ancestral lands. Macky's previous work includes Love Free or Die, which won the Special Jury Prize at Sundance and aired on PBS' Independent Lens.",
+      "affiliation": null,
+      "page": 43
+    },
+    {
+      "name": "Selina Lewis Davidson",
+      "bio": "Selina Lewis Davidson debuts as co-director of Acts of Reparation at Double Exposure. She co-founded GreenHouse Pictures, a production company dedicated to diverse storytelling. The company has produced over 15 nationally broadcast documentaries.",
+      "affiliation": "GreenHouse Pictures",
+      "page": 43
+    },
+    {
+      "name": "Laetitia Doyle",
+      "bio": "Laetitia Doyle, founder of Giansily-Doyle Media Consulting, represents Paris-based distributor Terranoa. She's responsible for sales, co-productions, and sourcing programming. Laetitia also presides over French In Motion, fostering transatlantic collaboration through the US & French Connection Program with the Gotham Film & Media Institute.",
+      "affiliation": "Terranoa",
+      "page": 44
+    },
+    {
+      "name": "Jeffrey Winter",
+      "bio": "Jeffrey Winter, co-executive director at The Film Collaborative since 2010, specializes in human rights, social justice, environmental, and LGBT cinema distribution. He's worked on Oscar-nominated documentaries like All that Breathes and Eternal Memory, as well as other acclaimed films.",
+      "affiliation": "The Film Collaborative",
+      "page": 44
+    },
+    {
+      "name": "Christie Marchese",
+      "bio": "Christie Marchese founded Kinema, a global film distribution and exhibition platform leveraging community and social interaction. Previously, she founded impact agency Picture Motion, led digital strategy at Participant Media, and managed social media for Norman Lear's nonprofit Declare Yourself.",
+      "affiliation": "Kinema",
+      "page": 44
+    },
+    {
+      "name": "Daniel Cantagallo",
+      "bio": "Daniel Cantagallo, Vice President of Cargo Film & Releasing, has worked in film creation and distribution for over a decade. A Harvard and London Film School graduate, he produced the award-winning documentary Shadows of Liberty and executive produced Satan & Adam and Playing Hard for Netflix.",
+      "affiliation": "Cargo Film & Releasing",
+      "page": 44
+    },
+    {
+      "name": "Amy Hobby",
+      "bio": "Amy Hobby co-founded Distribution Advocates, advancing access and transparency in distribution. She oversees the Film-Ade Fund and previously led the Tribeca Film Institute. An Academy Award-nominated and Emmy Award-winning producer, her films have premiered at major festivals worldwide.",
+      "affiliation": "Distribution Advocates",
+      "page": 44
+    },
+    {
+      "name": "Raoul Peck",
+      "bio": "Raoul Peck's complex oeuvre includes the films The Man by the Shore (Competition, Cannes Film Festival 1993); Lumumba (Directors' Fortnight, Cannes Film Festival 2000); Sometimes in April (Competition, Berlinale 2005); Moloch Tropical (TIFF 2009, Berlinale 2010) and Murder in Pacot (TIFF 2014, Berlinale 2015). Raoul Peck was a member of the Berlinale jury in 2002 and of the Cannes Festival jury in 2012. In 2001, the Human Rights Watch Association awarded him the Irene Diamond Lifetime Achievement Award for his commitment to human rights. He received the DOC NYC Lifetime Achievement Award and the HotDocs Festival in Toronto's Outstanding Achievement Award In 2024.\n\nIn 2017, his documentary on writer James Baldwin, I Am Not Your Negro, was nominated for an Oscar for Best Documentary and won the Audience Award at the Toronto Festival and the Berlinale. In 2018, it won the BAFTA and the Cesar for Best Documentary.",
+      "affiliation": null,
+      "page": 45
+    },
+    {
+      "name": "Natalie Bullock Brown",
+      "bio": "Natalie Bullock Brown is co-founder and director of the Documentary Accountability Working Group, which released a values-informed framework for documentary filmmakers. She is also a documentary film producer; a 2023 Harvard Kennedy School Shorenstein Center Documentary Film Fellow; a 2023 DOC NYC New Leader; and a 2021 Rockwood Institute JustFilms Fellow. Natalie is director/producer of a documentary work-in-progress that explores the impact of messaging about beauty and aging on Black women, and was a producer on award-winning filmmaker Byron Hurt's PBS documentary, Hazing, as well as his PBS NOVA film, Lee and Liza's Family Tree. She has also produced with filmmaker Resita Cox for her upcoming film, Basketball Heaven. Natalie is an adjunct professor at North Carolina State University where she served as an Assistant Teaching Professor in Interdisciplinary Studies for five years.",
+      "affiliation": "Documentary Accountability Working Group",
+      "page": 45
+    },
+    {
+      "name": "Bill Gentile",
+      "bio": "Bill Gentile, author of Wait for Me: True Stories of War, Love and Rock & Roll, is a veteran journalist and documentary filmmaker. His career spans four decades and five continents. A full-time professor at American University's School of Communication, he founded the Backpack Journalism Project and pioneered backpack video journalism.",
+      "affiliation": "American University School of Communication",
+      "page": 46
+    },
+    {
+      "name": "Judith Matloff",
+      "bio": "Judith Matloff, senior safety advisor at Columbia University's Dart Center for Journalism and Trauma, has pioneered security protocols and training for media worldwide. Her clients include major news organizations, professional societies, government agencies, and international foundations, enhancing safety practices across the journalism industry.",
+      "affiliation": "Dart Center for Journalism and Trauma, Columbia University",
+      "page": 46
+    },
+    {
+      "name": "Peter Klein",
+      "bio": "Peter Klein is a journalist and documentary filmmaker specializing in global investigations. He has directed and produced feature and broadcast documentaries that have appeared on PBS Frontline, Al Jazeera, Netflix, History Channel and Discovery, among others. He is the executive editor of investigations at NBC News in New York, and previously was an investigative producer at CBS News 60 Minutes and at ABC News. He's the founder of the Global Reporting Centre, a nonprofit journalism organization that innovates international reporting, and was on the founding producers of New York Times' video unit. Peter has won numerous major filmmaking and journalism awards, including three Emmy Awards for investigative documentaries.",
+      "affiliation": "NBC News",
+      "page": 47
+    },
+    {
+      "name": "Margaux Ewen",
+      "bio": "Margaux Ewen is the Director of The Signals Network's Whistleblower Protection Program. Margaux was most recently the Director of Freedom House's Fred Hiatt Program to Free Political Prisoners, a major new project to support journalists, human rights defenders, and prodemocracy activists who are detained in retaliation for their heroic work.\n\nPrior to Freedom House, Margaux served as the executive director of the James W. Foley Legacy Foundation, where she led advocacy efforts to release Americans held hostage or unjustly detained abroad, promote safety for freelance journalists, and support detainees' families through engagement with government bodies and nongovernmental experts.",
+      "affiliation": "The Signals Network",
+      "page": 47
+    },
+    {
+      "name": "Mary Inman",
+      "bio": "Mary Inman is a partner in the San Francisco office of Whistleblower Partners LLP and a veteran whistleblower lawyer, having worked exclusively representing whistleblowers for the past 26 years under the increasing array of U.S. and international whistleblower reward programs. Mary has helped her clients, including Theranos whistleblower Tyler Shultz and Facebook whistleblower Frances Haugen, forge partnerships with the various government agencies who leverage whistleblower information to expose corporate frauds across the tech, defense, healthcare, and finance industries. Mary is an internationally recognized expert on the extraterritorial reach of the U.S. whistleblower reward programs and a regular commentator on all things whistleblower for the New York Times, Wall Street Journal, Bloomberg, BBC, FT, Fortune and Time. Mary was interviewed for a CNBC segment entitled \"How corporate whistleblowers make millions\" and the recent documentary film about women whistleblowers, When We Speak.",
+      "affiliation": "Whistleblower Partners LLP",
+      "page": 47
+    },
+    {
+      "name": "Jennifer Nelson",
+      "bio": "Jennifer Nelson is a senior staff attorney with the Reporters Committee for Freedom of the Press, where she leads its pre-publication and pre-broadcast review practice, oversees the publication of and updates to the Reporters Committee's legal guides, and supervises its hotline for journalists. Nelson also regularly represents news organizations and journalists in public records, court access, and legal defense matters before federal and state courts. Nelson is a former lecturer and co-director of the First Amendment Clinic at the University of Virginia School of Law.",
+      "affiliation": "Reporters Committee for Freedom of the Press",
+      "page": 47
+    },
+    {
+      "name": "Regi Allen",
+      "bio": "Regi Allen is a two-time Emmy® award-winning editor, producer, and media design artist. As creative director and producer for Niceandcreative, he has edited and produced for major networks, streaming platforms, and corporations. His accolades include Emmys for Sesame Street and ABC World News Tonight, plus numerous BDA and Telly Awards.",
+      "affiliation": "Niceandcreative",
+      "page": 48
+    }
+  ],
+  "awards": [
+    {
+      "name": "DX Reel South Award",
+      "recipient": null,
+      "film": null,
+      "description": "Finalists screened in the program Shorts: Reframing the South (Saturday, Nov 9, 12:00 PM): American Grail: A Quest for the Ivory-Billed Woodpecker, How to Sue the Klan, Prelude of a Story, Expression of Illness. The catalogue lists finalists only; no winner is named.",
+      "page": 28
+    }
+  ],
+  "organizers": [
+    {
+      "name": "JoAnne Scribner",
+      "role": "100Reporters Board of Directors, Co-Chair"
+    },
+    {
+      "name": "Margaret “Mishi” Ebrahim",
+      "role": "100Reporters Board of Directors, Co-Chair"
+    },
+    {
+      "name": "Peter Haggert",
+      "role": "100Reporters Board of Directors, Treasurer"
+    },
+    {
+      "name": "Theodore Frank",
+      "role": "100Reporters Board of Directors, Secretary"
+    },
+    {
+      "name": "Bonnie R. Cohen",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Ron Nixon",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Brett A. Pulley",
+      "role": "100Reporters Board of Directors"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "100Reporters Board of Directors, Ex Officio"
+    },
+    {
+      "name": "Diana Jean Schemo",
+      "role": "Founder and Director"
+    },
+    {
+      "name": "Brent Lambert-Zaffino",
+      "role": "Festival Manager"
+    },
+    {
+      "name": "Rosana Hemakom Vollmerhausen",
+      "role": "Event Producer"
+    },
+    {
+      "name": "Melinda Thompson",
+      "role": "DX Access Manager"
+    },
+    {
+      "name": "Julia Wasson",
+      "role": "Program & Production Assistant"
+    },
+    {
+      "name": "Lana Garland",
+      "role": "Senior Programmer"
+    },
+    {
+      "name": "Patricia Finneran",
+      "role": "Marketing & Partnerships Consultant"
+    },
+    {
+      "name": "Eric Fryer",
+      "role": "Volunteer Manager"
+    },
+    {
+      "name": "Jessica Skorich",
+      "role": "Website Manager"
+    },
+    {
+      "name": "Workhorse Collective",
+      "role": "Festival Branding and Imagery"
+    },
+    {
+      "name": "Together Films",
+      "role": "Marketing"
+    },
+    {
+      "name": "Travis Hare, KRPR",
+      "role": "Public Relations"
+    },
+    {
+      "name": "Olivia Jimenez",
+      "role": "Catalog Design"
+    }
+  ],
+  "notes": "Source text is Tesseract OCR of a PDF whose embedded text was broken; doubtful passages were checked against page images (and the partial embedded text) for pages 5, 6, 11, 17, 19, 20, 24, 26, 36, 38, 41, 43, 44, 47, 50, 51.\n\nDay headers for the symposium schedule (p.11 Thursday Nov 7, p.12 Friday Nov 8) were read from the page images.\n\np.24 (American Coup): the opening words of the synopsis are overprinted in the original layout; reconstructed as \"American Coup: Wilmington 1898 tells the little-known story ...\" and \"Black residents were murdered\" from the image and embedded text.\n\np.36 (Generative AI panel): the bios of Graham Sack, Rachel Antell, Brandon Butler, Justine Bateman and Daniel Freed are interleaved/overprinted in the printed layout itself. They were untangled from the image; Brandon Butler's \"expert on archival materials and fair use\" (\"fair\" is hidden under overlapping text) and Rachel Antell's sentence order (\"In 2014, she co-founded Sub-Basement Archival, serving as the archival producer\") are best-effort reconstructions.\n\np.41: Russell Leigh Sharman and Debra Aroko bios overlap in print; the stray \"He's\" was moved back to Sharman's bio and a stray \"have\" dropped from Aroko's (\"produces for the [have] Solutions Storytelling Project\"). Schedule names him \"Russell Sharman\".\n\np.43: Gaia De Simoni and Selina Lewis Davidson bios are interleaved line by line in print; untangled. Rachel Antell has a second, shorter bio on p.43 (\"Rachel Antell co-founded Sub-Basement Archival and the Archival Producers Alliance, advocating for archival producers and improving accessibility of archival materials for independent filmmakers.\"); the p.36 bio is kept in people[].\n\np.47 (Working Responsibly with Whistleblowers): the description is cut off in the printed catalogue after \"you will hear from a documentary filmmaker/journalist, attorneys\".\n\nName/number discrepancies inside the catalogue: Dust to Dust director is \"Kôsai Sekine\" on the film page credit but \"Sekina\" in the discussion note and schedule; Mistress Dispeller runtime is 95 min in the schedule, 94 on the film page (94 used); Searching for Amani appears as \"Amant\" in OCR of the schedule; Safe Place director is \"Samuel-Ali Mirpoorian\" in the schedule and \"Samuel Ali Mirpoorian\" on the film page; The Accidental Spy is listed as United States only in the schedule, United States/United Kingdom on the film page; Amanda Becker's outlet is OCR'd as \"The 79th*\"; the image shows \"The 19th*\".\n\nShorts programs are also recorded as sessions (kind screening-event) with their moderators. Breakfasts/lunches are included as kind \"other\". DX Access | DX Pitch representatives (pp.50-51) are recorded as a session with role \"industry representative\" and their printed titles. Board of 100Reporters is included in organizers. Sponsor ads, affinity partner list (p.55), special thanks (Johns Hopkins Bloomberg Center, Sig Libowitz, Taylor Hahn, Peter Huggins, Joe O'Hagan, Mladen Petkov) and the director's letter were skipped (theme taken from the letter). Film-page premiere labels are not printed in 2024, so premiere is null for all films."
+}
