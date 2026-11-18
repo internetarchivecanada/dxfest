@@ -31,3 +31,18 @@ Output: write batchN-output.json (valid JSON list), one entry per film you found
 Prefer the largest image up to ~1000px wide. Don't hotlink thumbnails of thumbnails if a bigger one is available.
 Be gentle with sites: a second or so between requests to the same host.
 Reply with: how many found of how many, and the films you could not find.
+
+## Second pass (batches 7–8)
+These films were already searched on Wikipedia, TMDB and Letterboxd without luck. Spend the effort elsewhere:
+- the directors' and producers' own websites and portfolio pages (Squarespace/Wix sites often have the one-sheet)
+- FilmFreeway festival pages, Vimeo and YouTube page og:images (only if portrait key art with the title), Instagram
+  posts quoted on festival pages, Linktree
+- other festivals' programmes and catalogues, including regional US festivals (Hot Springs, Big Sky, Mountainfilm,
+  Camden, Sebastopol, Indy Shorts, Hot Docs, Sheffield, Doc NYC, Full Frame, AFI Docs, Tribeca, SXSW, Telluride)
+- the commissioning outlet (NYT Op-Docs, Field of Vision, The Guardian, Mother Jones, Marshall Project, Insider,
+  Frontline, The Intercept, Retro Report, ProPublica, Type Investigations) and its press releases
+- grant-makers' and fiscal sponsors' film pages (ITVS, Catapult, Chicken & Egg, Sundance Institute, IDA, Firelight,
+  JustFilms, Perspective Fund, Points North, Doc Society, Tribeca Film Institute, Gotham)
+- the Wayback Machine for official sites that are gone
+2026 films are new: check festival pages from 2026 for fresh one-sheets.
+Same rules as above: look at every image before accepting; untitled stills are not posters.

@@ -84,7 +84,7 @@ def split_names(s):
         return []
     s = re.sub(r"\s*\([^)]*\)", "", s)  # "(co-director)", "(uncredited)" ...
     s = re.sub(r"\b(Dirs?\.|Directed by|Director:?)\s*", "", s, flags=re.I)
-    parts = re.split(r",\s*|\s+and\s+|\s*&\s*", s)
+    parts = re.split(r",\s*|\s+and\s+|\s*[&·•|/]\s*", s)
     return [clean_name(p) for p in parts if p.strip() and p.strip().lower() not in ("anonymous", "et al.")]
 
 

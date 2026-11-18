@@ -79,7 +79,8 @@ def parse_film(path):
         ws = title.lower().split()
         title = " ".join(w if (i and w in small) else w[:1].upper() + w[1:] for i, w in enumerate(ws))
     i = 0
-    while i < len(L) and i < 3 and (L[i].lower() == title.lower() or (i < 2 and len(L[i]) < 80 and not L[i].endswith(".") and L[i].replace("1917", "1971") == title)):
+    q = lambda t: html.unescape(t).replace("\u2019", "'").replace("\u2018", "'").lower()
+    while i < len(L) and i < 3 and (q(L[i]) == q(title) or (i < 2 and len(L[i]) < 80 and not L[i].endswith(".") and L[i].replace("1917", "1971") == title)):
         i += 1
     rest = L[i:]
     meta = {}
