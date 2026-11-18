@@ -1156,7 +1156,6 @@
     "2021-inside-em-day-of-rage-em"
    ],
    "people": [
-    "traci-a-curry-co",
     "shirley-abraham",
     "closing-night-accepted",
     "alan-adelson",
@@ -1212,6 +1211,7 @@
     "david-cowan",
     "letrell-crittenden",
     "june-cross",
+    "traci-a-curry",
     "jesse-damiani",
     "angelica-das",
     "leslye-davis",
@@ -12014,7 +12014,7 @@
    ],
    "directors": [
     "stanley-nelson",
-    "traci-a-curry-co"
+    "traci-a-curry"
    ],
    "country": "United States",
    "film_year": 2021,
@@ -12034,7 +12034,7 @@
      "year": 2021
     },
     {
-     "person": "traci-a-curry-co",
+     "person": "traci-a-curry",
      "role": "director",
      "year": 2021
     }
@@ -24582,7 +24582,7 @@
      "role": "speaker"
     },
     {
-     "person": "traci-a-curry-co",
+     "person": "traci-a-curry",
      "role": "speaker"
     },
     {
@@ -46792,16 +46792,14 @@
     "https://dxfest.com/speakers/stanley-nelson/"
    ],
    "collaborators": [
-    "traci-a-curry-co",
+    "traci-a-curry",
     "vernal-coleman"
    ]
   },
-  "traci-a-curry-co": {
-   "id": "traci-a-curry-co",
-   "name": "Traci A. Curry (co-)",
-   "variants": [
-    "Traci A. Curry"
-   ],
+  "traci-a-curry": {
+   "id": "traci-a-curry",
+   "name": "Traci A. Curry",
+   "variants": [],
    "bios": [
     {
      "year": 2021,
@@ -72966,7 +72964,7 @@
     "https://dxfest.com/speakers/vernal-coleman/"
    ],
    "collaborators": [
-    "traci-a-curry-co",
+    "traci-a-curry",
     "stanley-nelson"
    ]
   },

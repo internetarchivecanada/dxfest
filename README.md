@@ -18,6 +18,11 @@ Live: https://wayback-labs.sf.archive.org/dxfest/ (Wayback Machine Labs studio, 
   and session pages (`/films/<slug>/`, `/conference/<slug>/`) and speaker photos. 2020, 2021 and 2026 have no
   catalogue, so the website is their only source.
 
+- **Posters**: the lead image of each film's English Wikipedia article (accepted only when the article names one
+  of the film's directors), the festival's own film pages, and — for the rest — a search of the films' websites,
+  distributors, broadcasters, festivals, TMDB and Letterboxd by Claude subagents, who checked each image by eye
+  (`data/poster_candidates/BRIEF.md`, `batch*-output.json`). `data/bad_posters.txt` drops wrong matches.
+
 ## Build
 
 ```
@@ -25,6 +30,7 @@ Live: https://wayback-labs.sf.archive.org/dxfest/ (Wayback Machine Labs studio, 
 python3 -m dx.web       # raw/web -> data/web.json
 python3 -m dx.model     # data/catalogues/*.json + data/web.json -> data/festival.json
 python3 -m dx.images    # film stills and speaker photos -> public/img/{f,p}/, data/images.json
+python3 -m dx.posters   # film posters -> public/img/poster/, data/posters.json
 python3 -m dx.site      # data/festival.json -> public/ (static site, committed)
 ```
 

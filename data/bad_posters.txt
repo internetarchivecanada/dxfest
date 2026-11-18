@@ -1,0 +1,6 @@
+# film id            -> show no poster for this film
+# auto <film id>     -> the automatic (Wikipedia/Wikidata/festival) match was wrong; web finds still apply
+auto mariupolis-2
+my-nda
+free-joan-little
+the-secret-reading-club-of-kabul

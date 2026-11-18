@@ -19,7 +19,7 @@ PUBLIC = ROOT / "public"
 STATIC = Path(__file__).resolve().parent / "static"
 TITLE = "Double Exposure Explorer"
 BASE_URL = "https://wayback-labs.sf.archive.org/dxfest/"
-V = "3"
+V = "4"
 
 KIND_LABEL = {"panel": "Panel", "keynote": "Keynote", "workshop": "Workshop", "masterclass": "Masterclass",
               "conversation": "Conversation", "pitch": "Pitch", "award": "Awards", "screening-event": "Screening event",
@@ -92,6 +92,8 @@ class Site:
         self.T = d["topics"]
         self.O = d["orgs"]
         self.img = json.load(open(DATA / "images.json")) if (DATA / "images.json").exists() else {}
+        self.posters = {k: v for k, v in (json.load(open(DATA / "posters.json")) if (DATA / "posters.json").exists() else {}).items()
+                        if v.get("img") and k in d["films"]}
         self.urls = []
         # derived indexes
         self.topic_films = defaultdict(list)
@@ -209,7 +211,23 @@ Feedback? <a href="mailto:info@archive.org?subject=Double%20Exposure%20Explorer"
         if im:
             return f'<img class="still" src="{rel}{im}" alt="" loading="lazy" width="480" height="256">'
         f = self.F[fid]
+        po = self.posters.get(fid)
+        if po:
+            return f'<span class="still poster-fill"><img src="{rel}{po["img"]}" alt="" loading="lazy"></span>'
         return f'<span class="still blank" aria-hidden="true">{escape(f["title"][:1])}</span>'
+
+    def poster(self, fid, rel, cls="poster"):
+        po = self.posters.get(fid)
+        if not po:
+            return ""
+        return f'<img class="{cls}" src="{rel}{po["img"]}" alt="Poster for {escape(self.F[fid]["title"])}" loading="lazy" width="320" height="{int(320 * (po.get("ratio") or 1.48))}">'
+
+    def poster_credit(self, fid):
+        po = self.posters.get(fid)
+        if not po:
+            return ""
+        lab = {"wikipedia": "Wikipedia", "wikidata": "Wikimedia Commons", "festival": "the festival website"}.get(po["source"]) or escape(po.get("credit") or "the web")
+        return f'Poster from <a href="{escape(po.get("page") or po["src"])}">{lab}</a>'
 
     def person_role_line(self, pid):
         p = self.P[pid]
@@ -285,6 +303,7 @@ Feedback? <a href="mailto:info@archive.org?subject=Double%20Exposure%20Explorer"
         for fid in self.F:
             self.film_page(fid)
         self.countries_page()
+        self.posters_page()
         self.sessions_index()
         for sid in self.S:
             self.session_page(sid)
@@ -298,6 +317,7 @@ Feedback? <a href="mailto:info@archive.org?subject=Double%20Exposure%20Explorer"
         self.venues_index()
         for v in self.V:
             self.venue_page(v)
+        self.redirects()
         self.search_page()
         self.about()
         self.notfound()
@@ -350,6 +370,7 @@ Feedback? <a href="mailto:info@archive.org?subject=Double%20Exposure%20Explorer"
 <h3>Regulars</h3><p class="note">People who came back the most. <a href="regulars.html">All regulars →</a></p><ul class="plist">{''.join(self.pcard(p["id"], "") for p in regulars)}</ul></div>
 <div><h2>Topics</h2><p class="note">Films and sessions grouped by subject. Size shows how often each topic comes up.</p><div class="cloud">{cloud}</div></div>
 </section>
+<section class="pwall-teaser"><h2>Poster wall</h2><p class="note">{len(self.posters)} film posters, from Wikipedia, the festival’s pages and the films’ own sites, distributors and festivals. <a href="posters.html">See them all →</a></p><div class="pstrip">{''.join(f'<a href="films/{f}.html">{self.poster(f, "")}</a>' for f in sorted(self.posters, key=lambda i: -max(self.F[i]["years"] or [0]))[:10])}</div></section>
 <section><h2>A film from each year</h2><ul class="fgrid">{''.join(self.fcard(f, "") for f in picks)}</ul><p><a href="films.html">All {nf} films →</a></p></section>
 """
         self.page("index.html", TITLE, body, active="home")
@@ -564,7 +585,7 @@ Feedback? <a href="mailto:info@archive.org?subject=Double%20Exposure%20Explorer"
                       for t in sorted(self.T, key=lambda t: -len(self.topic_films[t])) if self.topic_films[t])
         blocks = "".join(f'<h2 id="y{y}">{y} <a class="more" href="years/{y}.html">the {y} edition →</a></h2><ul class="fgrid">{"".join(self.fcard(i, "") for i in by_year[y])}</ul>' for y in sorted(by_year, reverse=True))
         body = f"""<h1>Films</h1>
-<p class="lede">{len(self.F)} documentaries and shorts screened at Double Exposure, 2015–2026. Filter by year or topic, or browse <a href="countries.html">by country</a>.</p>
+<p class="lede">{len(self.F)} documentaries and shorts screened at Double Exposure, 2015–2026. Filter by year or topic, browse <a href="countries.html">by country</a>, or see the <a href="posters.html">poster wall</a>.</p>
 <div class="filter" data-target=".fgrid .fc"><label for="ff">Filter titles</label><input id="ff" type="search" placeholder="Type a title">
 <div class="fl"><span>Year:</span>{yrs}</div><div class="fl"><span>Topic:</span>{tps}</div>
 <div class="fl"><span>Length:</span><button type="button" class="chip s" data-s="0" aria-pressed="false">Features</button><button type="button" class="chip s" data-s="1" aria-pressed="false">Shorts</button></div><p class="shown" aria-live="polite"></p></div>
@@ -606,7 +627,12 @@ Feedback? <a href="mailto:info@archive.org?subject=Double%20Exposure%20Explorer"
             if s.get("page"):
                 srcs.append(self.cat_link(s["year"], s["page"]))
         dirs = ", ".join(self.P[d]["name"] for d in f["directors"] if d in self.P)
-        body = f"""<div class="fhead">{self.still(fid, rel)}<div>
+        po = self.poster(fid, rel, "poster big")
+        top_img = po or self.still(fid, rel)
+        still_fig = (f'<figure class="stillfig">{self.still(fid, rel)}</figure>' if po and self.img.get("f:" + fid) else "")
+        if po:
+            srcs.append(self.poster_credit(fid))
+        body = f"""<div class="fhead{" withposter" if po else ""}">{top_img}<div>
 <h1><cite>{escape(f["title"])}</cite></h1>
 {f'<p class="by">Directed by {", ".join(self.plink(d, rel) for d in f["directors"] if d in self.P)}</p>' if f["directors"] else ""}
 <p class="sub">{escape(" · ".join(meta))}</p>
@@ -614,7 +640,7 @@ Feedback? <a href="mailto:info@archive.org?subject=Double%20Exposure%20Explorer"
 <div class="chips">{self.tchips(f["topics"], rel)}</div>
 </div></div>
 <div class="cols"><div>
-<section><h2>About the film</h2>{paras(f.get("synopsis")) or '<p class="note">No synopsis recorded.</p>'}</section>
+<section><h2>About the film</h2>{still_fig}{paras(f.get("synopsis")) or '<p class="note">No synopsis recorded.</p>'}</section>
 <section><h2>At the festival</h2><ul class="scr">{scr}</ul></section>
 {f'<section><h2>Sessions about this film</h2><ul class="slist">{sess}</ul></section>' if sess else ""}
 </div><aside>
@@ -633,6 +659,20 @@ Feedback? <a href="mailto:info@archive.org?subject=Double%20Exposure%20Explorer"
             body += f'<h2 id="c-{slugify(c)}">{escape(c)} <span class="count">{len(self.countries[c])}</span></h2><ul class="fgrid small">' + "".join(
                 self.fcard(f, "") for f in sorted(self.countries[c], key=lambda i: -max(self.F[i]["years"] or [0]))) + "</ul>"
         self.page("countries.html", "Films by country", body, crumbs=[("index.html", "Home"), ("films.html", "Films"), (None, "Countries")], active="films")
+
+    def posters_page(self):
+        by_year = defaultdict(list)
+        for fid in self.posters:
+            by_year[max(self.F[fid]["years"] or [0])].append(fid)
+        n = len(self.posters)
+        body = f"""<h1>Poster wall</h1>
+<p class="lede">Posters for {n} of the {len(self.F)} films that screened at Double Exposure, newest first. They come from the films’ Wikipedia articles, the festival’s own film pages, and the films’ websites, distributors, broadcasters and other festivals; each film page says where its poster came from. Films without a poster are not shown here.</p>
+<nav class="jump">{"".join(f'<a href="#y{y}">{y}</a>' for y in sorted(by_year, reverse=True))}</nav>"""
+        for y in sorted(by_year, reverse=True):
+            ids = sorted(by_year[y], key=lambda i: self.F[i]["title"].lower())
+            body += f'<h2 id="y{y}">{y} <span class="count">{len(ids)}</span> <a class="more" href="years/{y}.html">the {y} edition →</a></h2><ul class="pwall">' + "".join(
+                f'<li><a href="films/{i}.html">{self.poster(i, "")}<span class="ft">{escape(self.F[i]["title"])}</span></a></li>' for i in ids) + "</ul>"
+        self.page("posters.html", "Poster wall", body, crumbs=[("index.html", "Home"), ("films.html", "Films"), (None, "Posters")], active="films")
 
     def sessions_index(self):
         ids = sorted(self.S, key=lambda i: (-self.S[i]["year"], self.S[i].get("date") or "9", time_key(self.S[i].get("time"))))
@@ -775,6 +815,24 @@ Feedback? <a href="mailto:info@archive.org?subject=Double%20Exposure%20Explorer"
 {f'<section><h2>Sessions held here</h2><ul class="slist">{"".join(self.srow(s, rel) for s in sorted(v["sessions"], key=lambda i: (self.S[i]["year"], self.S[i].get("date") or "")) if s in self.S)}</ul></section>' if v["sessions"] else ""}"""
         self.page(f"venues/{vid}.html", v["name"], body, crumbs=[("index.html", "Home"), ("venues.html", "Venues"), (None, v["name"])], active="years")
 
+    def redirects(self):
+        """data/redirects.tsv: old page path<TAB>new page path, for pages whose address changed after publication."""
+        p = DATA / "redirects.tsv"
+        if not p.exists():
+            return
+        for line in p.read_text().splitlines():
+            if not line.strip() or line.startswith("#"):
+                continue
+            old, new = line.split("\t")
+            if (PUBLIC / old).exists():
+                continue
+            rel = "../" * old.count("/")
+            out = PUBLIC / old
+            out.parent.mkdir(parents=True, exist_ok=True)
+            out.write_text(f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Moved</title>'
+                           f'<meta http-equiv="refresh" content="0; url={rel}{new}"><link rel="canonical" href="{BASE_URL}{new}">'
+                           f'</head><body><p>This page has moved to <a href="{rel}{new}">{rel}{new}</a>.</p></body></html>')
+
     def search_page(self):
         body = """<h1>Search</h1>
 <form class="bigsearch" role="search" onsubmit="return false"><label for="sq" class="vh">Search</label><input id="sq" type="search" placeholder="Name, film title, session, topic, organisation…" autocomplete="off"></form>
@@ -847,7 +905,7 @@ def ordinal(n):
 
 
 def sortname(n):
-    parts = n.split()
+    parts = [w for w in re.sub(r"\(.*?\)", " ", n).split() if any(c.isalpha() for c in w)]
     if len(parts) > 1 and parts[-1].lower().strip(".") in ("jr", "sr", "ii", "iii", "iv"):
         parts = parts[:-1]
     return (parts[-1] + " " + " ".join(parts[:-1])).lower() if parts else n.lower()

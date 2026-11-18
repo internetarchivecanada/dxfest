@@ -1,0 +1,228 @@
+[
+ {
+  "id": "the-nightcrawlers",
+  "title": "The Nightcrawlers",
+  "image_url": "https://image.tmdb.org/t/p/w780/eXeHKyPdqFLzRatHWBuGa5X8xOL.jpg",
+  "page_url": "https://www.themoviedb.org/movie/624842",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "National Geographic poster; director Alexander A. Mora on TMDB"
+ },
+ {
+  "id": "the-preppy-murder-death-in-central-park",
+  "title": "The Preppy Murder: Death in Central Park",
+  "image_url": "https://image.tmdb.org/t/p/w780/7ndh6UxTAxDHnSBM9CqHnxBqZi2.jpg",
+  "page_url": "https://www.themoviedb.org/tv/94902",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Docuseries (TV) poster"
+ },
+ {
+  "id": "influence",
+  "title": "Influence",
+  "image_url": "https://image.tmdb.org/t/p/w780/4QRo4Fj3MrrQ6WSXDs2r9e6hfjf.jpg",
+  "page_url": "https://www.themoviedb.org/movie/653755",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Poplak/Neille 2020"
+ },
+ {
+  "id": "missing-in-brooks-county",
+  "title": "Missing in Brooks County",
+  "image_url": "https://image.tmdb.org/t/p/w780/vu02f8i9eYzd8SpkZ5FJfsrFnxO.jpg",
+  "page_url": "https://www.themoviedb.org/movie/710047",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "through-the-night",
+  "title": "Through the Night",
+  "image_url": "https://image.tmdb.org/t/p/w780/zufIFIl8Mvce7vN57VsSs98xKCb.jpg",
+  "page_url": "https://www.themoviedb.org/movie/695907",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Loira Limbal"
+ },
+ {
+  "id": "welcome-to-chechnya-inside-the-russian-republic-s-deadly-war-on-gays",
+  "title": "Welcome to Chechnya",
+  "image_url": "https://image.tmdb.org/t/p/w780/wR1b8w3fFPQR5wpbkekviLmo4wW.jpg",
+  "page_url": "https://www.themoviedb.org/movie/653579",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "David France"
+ },
+ {
+  "id": "courtroom-3h",
+  "title": "Courtroom 3H",
+  "image_url": "https://image.tmdb.org/t/p/w780/A6Pxpf1RcIm3P24rl3CJF5RuXey.jpg",
+  "page_url": "https://www.themoviedb.org/movie/730539",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "dial-home",
+  "title": "Dial Home",
+  "image_url": "https://image.tmdb.org/t/p/w780/6ZTZoenDlryZmQYg9aFOWY2aO8l.jpg",
+  "page_url": "https://www.themoviedb.org/movie/810124",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Title and director credit on poster"
+ },
+ {
+  "id": "flee",
+  "title": "Flee",
+  "image_url": "https://image.tmdb.org/t/p/original/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg",
+  "page_url": "https://www.themoviedb.org/movie/680813",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Jonas Poher Rasmussen (Flugt); original is 1000px wide"
+ },
+ {
+  "id": "nonstop",
+  "title": "Nonstop",
+  "image_url": "https://image.tmdb.org/t/p/w780/nS4qT2qmdMajZawOJ3zrKQChwEu.jpg",
+  "page_url": "https://www.themoviedb.org/movie/1004523",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "Portrait art with title; may be simple key art rather than a one-sheet"
+ },
+ {
+  "id": "rip-seni",
+  "title": "RIP Seni",
+  "image_url": "https://image.tmdb.org/t/p/w780/opuTczClOpImjVNN5d3FONth2ss.jpg",
+  "page_url": "https://www.themoviedb.org/movie/838533",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Daisy Ifama"
+ },
+ {
+  "id": "red-taxi",
+  "title": "Red Taxi",
+  "image_url": "https://image.tmdb.org/t/p/w780/gY8ySAftpyZ67ZUt16du0Pquykd.jpg",
+  "page_url": "https://www.themoviedb.org/movie/756597",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "medium",
+  "note": "TMDB synopsis matches (anonymous Hong Kong taxi footage); no director listed anywhere"
+ },
+ {
+  "id": "the-box",
+  "title": "The Box",
+  "image_url": "https://image.tmdb.org/t/p/w780/tO2eGKVoUfnA0u31dVkyAkJNvWY.jpg",
+  "page_url": "https://www.themoviedb.org/movie/755024",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Shal Ngo/James Burns, Marshall Project credit on poster"
+ },
+ {
+  "id": "the-rescue",
+  "title": "The Rescue",
+  "image_url": "https://image.tmdb.org/t/p/w780/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg",
+  "page_url": "https://www.themoviedb.org/movie/680058",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Vasarhelyi/Chin 2021"
+ },
+ {
+  "id": "the-slow-hustle",
+  "title": "The Slow Hustle",
+  "image_url": "https://image.tmdb.org/t/p/w780/7kw352u64pqyMELC2k7kAxCok1H.jpg",
+  "page_url": "https://www.themoviedb.org/movie/833654",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Sonja Sohn"
+ },
+ {
+  "id": "they-won-t-call-it-murder",
+  "title": "They Won't Call It Murder",
+  "image_url": "https://image.tmdb.org/t/p/w780/94PIq3OjeXwHPmkhOz4ynfX4CXU.jpg",
+  "page_url": "https://www.themoviedb.org/movie/839402",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high"
+ },
+ {
+  "id": "united-states-vs-reality-winner",
+  "title": "United States vs. Reality Winner",
+  "image_url": "https://image.tmdb.org/t/p/w780/bbaX76Jmd0KMDeKvFlMIAGPmh6b.jpg",
+  "page_url": "https://www.themoviedb.org/movie/795626",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Sonia Kennebeck; poster title reads 'Reality Winner'"
+ },
+ {
+  "id": "what-you-ll-remember",
+  "title": "What You'll Remember",
+  "image_url": "https://image.tmdb.org/t/p/w780/94Lcf6iUerPOtiSjlez5XWU0yN.jpg",
+  "page_url": "https://www.themoviedb.org/movie/853668",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Erika Cohn, NYT Op-Docs"
+ },
+ {
+  "id": "aguilas-eagles",
+  "title": "Águilas/Eagles",
+  "image_url": "https://image.tmdb.org/t/p/w780/z83xSmkkQpyVGDdpR06AMYnU0wY.jpg",
+  "page_url": "https://www.themoviedb.org/movie/804097",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Guevara-Flanagan & Zubiaurre"
+ },
+ {
+  "id": "hazing",
+  "title": "Hazing",
+  "image_url": "https://image.tmdb.org/t/p/w780/xh2pH7BIiYZowRGh35hJl0ZJD1M.jpg",
+  "page_url": "https://www.themoviedb.org/movie/838390",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Byron Hurt 2022"
+ },
+ {
+  "id": "body-parts",
+  "title": "Body Parts",
+  "image_url": "https://image.tmdb.org/t/p/w780/wHzD9Zj3y27GucKJJnJpbWGqnlM.jpg",
+  "page_url": "https://www.themoviedb.org/movie/890245",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Kristy Guevara-Flanagan 2022"
+ },
+ {
+  "id": "into-the-weeds-dewayne-lee-johnson-vs-monsanto-company",
+  "title": "Into the Weeds: Dewayne “Lee” Johnson vs. Monsanto Company",
+  "image_url": "https://image.tmdb.org/t/p/w780/eGOWAIDMOr1iRP9Dp0xuxCKdl6L.jpg",
+  "page_url": "https://www.themoviedb.org/movie/956395",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high",
+  "note": "Jennifer Baichwal"
+ },
+ {
+  "id": "myanmar-diaries",
+  "title": "Myanmar Diaries",
+  "image_url": "https://image.tmdb.org/t/p/w780/XSDdgVrLCg61zCmV1z7L4QQT2z.jpg",
+  "page_url": "https://www.themoviedb.org/movie/916429",
+  "source": "TMDB",
+  "kind": "poster",
+  "confidence": "high"
+ }
+]
